@@ -1,0 +1,749 @@
+{
+ "schema_version": "1.0",
+ "id": "LOCAL_BIDDER_SELECTION_GUIDELINE",
+ "name": "지방자치단체 입찰시 낙찰자 결정기준",
+ "short_name": "지방 낙찰자 결정기준",
+ "display_id_prefix": "지방자치단체-낙찰자-결정기준",
+ "slug": "지방자치단체-입찰시-낙찰자-결정기준",
+ "aliases": [
+  "지방자치단체 입찰시 낙찰자 결정기준",
+  "지방자치단체 입찰 시 낙찰자 결정기준",
+  "지방 낙찰자 결정기준",
+  "지방 적격심사 세부기준"
+ ],
+ "document_type": "계약예규",
+ "format": "outline",
+ "issuer_form": "행정안전부 예규",
+ "number": "제373호",
+ "group": "지방계약",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": ""
+  }
+ ],
+ "effective_date": "2026-07-01",
+ "revision_date": "2026-06-29",
+ "revision_type": "일부개정",
+ "version": "2026-07-01-373",
+ "versions": [
+  {
+   "version": "2026-07-01-373",
+   "effective_date": "2026-07-01",
+   "revision_date": "2026-06-29",
+   "number": "제373호",
+   "source_file": "[개정전문] 지방자치단체 입찰시 낙찰자 결정기준.pdf",
+   "source_path": "원문/규정/[개정전문] 지방자치단체 입찰시 낙찰자 결정기준.pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "LOCAL_CONTRACT_ENFORCEMENT",
+ "source_file": "[개정전문] 지방자치단체 입찰시 낙찰자 결정기준.pdf",
+ "source_path": "원문/규정/[개정전문] 지방자치단체 입찰시 낙찰자 결정기준.pdf",
+ "pdf_path": "pdf/[개정전문] 지방자치단체 입찰시 낙찰자 결정기준.pdf",
+ "source_pages": 486,
+ "header_raw": [
+  "[시행 2026. 7. 1.][행정안전부 예규 제373호, 2026. 6. 29. 일부개정]",
+  "지방자치단체 입찰시 낙찰자 결정기준",
+  "행 정 안 전 부"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 입찰참가자격 사전심사기준",
+   "raw": "제1장 입찰참가자격 사전심사기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총 칙",
+   "raw": "제1절 총 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 목적과 용어의 정의",
+   "raw": "제2절 목적과 용어의 정의",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 사전심사 배점기준",
+   "raw": "제3절 사전심사 배점기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 사전심사와 적격심사 절차",
+   "raw": "제4절 사전심사와 적격심사 절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 심사 분야별·항목별 심사요령",
+   "raw": "제5절 심사 분야별·항목별 심사요령",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 입 찰",
+   "raw": "제6절 입 찰",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 입찰참가자격 사전심사 공사의 적격심사기준",
+   "raw": "제7절 입찰참가자격 사전심사 공사의 적격심사기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 적격심사 기준",
+   "raw": "제2장 적격심사 기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통 칙",
+   "raw": "제1절 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 평가기준",
+   "raw": "제2절 평가기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 적격심사서류 제출",
+   "raw": "제3절 적격심사서류 제출",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 적격심사서류 평가",
+   "raw": "제4절 적격심사서류 평가",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 경영상태 평가",
+   "raw": "제5절 경영상태 평가",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 공동수급체 평가방법",
+   "raw": "제6절 공동수급체 평가방법",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 낙찰자 결정",
+   "raw": "제7절 낙찰자 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제8절 재심사",
+   "raw": "제8절 재심사",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제9절 수행능력 결격사유",
+   "raw": "제9절 수행능력 결격사유",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제10절 심사서류 부정·허위 제출자와 미제출자 처리방법",
+   "raw": "제10절 심사서류 부정·허위 제출자와 미제출자 처리방법",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제11절 그밖의 사항",
+   "raw": "제11절 그밖의 사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장의1 시설공사 적격심사 세부기준",
+   "raw": "제2장의1 시설공사 적격심사 세부기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 목 적",
+   "raw": "제1절 목 적",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 세부 평가기준",
+   "raw": "제2절 세부 평가기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 공동수급체 평가방법",
+   "raw": "제3절 공동수급체 평가방법",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 적격심사서류 제출",
+   "raw": "제4절 적격심사서류 제출",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 적격심사서류 평가",
+   "raw": "제5절 적격심사서류 평가",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 낙찰자 결정",
+   "raw": "제6절 낙찰자 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 그밖의 사항",
+   "raw": "제7절 그밖의 사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장의2 기술․학술연구 용역 적격심사 세부기준",
+   "raw": "제2장의2 기술․학술연구 용역 적격심사 세부기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통 칙",
+   "raw": "제1절 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 세부 평가기준",
+   "raw": "제2절 세부 평가기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 적격심사서류 제출",
+   "raw": "제3절 적격심사서류 제출",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 기술·학술용역 분야별 평가방법",
+   "raw": "제4절 기술·학술용역 분야별 평가방법",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 낙찰자 결정",
+   "raw": "제5절 낙찰자 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 그밖의 사항",
+   "raw": "제6절 그밖의 사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장의3 물품 적격심사 세부기준",
+   "raw": "제2장의3 물품 적격심사 세부기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통 칙",
+   "raw": "제1절 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 세부 평가기준",
+   "raw": "제2절 세부 평가기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 적격심사서류 제출",
+   "raw": "제3절 적격심사서류 제출",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 낙찰자 결정",
+   "raw": "제4절 낙찰자 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 그밖의 사항",
+   "raw": "제5절 그밖의 사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 종합평가 낙찰자 결정기준",
+   "raw": "제3장 종합평가 낙찰자 결정기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총 칙",
+   "raw": "제1절 총 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 목적과 용어의 정의",
+   "raw": "제2절 목적과 용어의 정의",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 종합평가 낙찰자 결정기준 평가항목별 배점기준 총괄",
+   "raw": "제3절 종합평가 낙찰자 결정기준 평가항목별 배점기준 총괄",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 평가분야별 배점기준",
+   "raw": "제4절 평가분야별 배점기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 이행능력심사 및 종합평가 절차",
+   "raw": "제5절 이행능력심사 및 종합평가 절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 심사 분야별·항목별 심사요령",
+   "raw": "제6절 심사 분야별·항목별 심사요령",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 낙찰자 결정",
+   "raw": "제7절 낙찰자 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제8절 그 밖의 사항",
+   "raw": "제8절 그 밖의 사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 일괄입찰 등의 입찰참가자격 사전심사기준",
+   "raw": "제4장 일괄입찰 등의 입찰참가자격 사전심사기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총 칙",
+   "raw": "제1절 총 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 목적과 용어의 정의",
+   "raw": "제2절 목적과 용어의 정의",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 입찰참가자격 사전심사기준 항목별 배점기준",
+   "raw": "제3절 입찰참가자격 사전심사기준 항목별 배점기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 평가분야별 배점기준",
+   "raw": "제4절 평가분야별 배점기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 사전심사 절차",
+   "raw": "제5절 사전심사 절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 심사 분야별·항목별 심사요령",
+   "raw": "제6절 심사 분야별·항목별 심사요령",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 그 밖의 사항",
+   "raw": "제7절 그 밖의 사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 일괄입찰 등에 의한 낙찰자 결정기준",
+   "raw": "제5장 일괄입찰 등에 의한 낙찰자 결정기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총 칙",
+   "raw": "제1절 총 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 일괄입찰의 실시설계적격자 및 낙찰자 결정",
+   "raw": "제2절 일괄입찰의 실시설계적격자 및 낙찰자 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 대안입찰의 낙찰자 결정",
+   "raw": "제3절 대안입찰의 낙찰자 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 기술제안입찰의 낙찰자 결정",
+   "raw": "제4절 기술제안입찰의 낙찰자 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 보칙",
+   "raw": "제5절 보칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 국가유산수리 종합평가 낙찰자 결정기준",
+   "raw": "제6장 국가유산수리 종합평가 낙찰자 결정기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총 칙",
+   "raw": "제1절 총 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 입찰등급 결정 등",
+   "raw": "제2절 입찰등급 결정 등",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 입찰공고 및 입찰서 제출 등",
+   "raw": "제3절 입찰공고 및 입찰서 제출 등",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 균형가격 산정 및 심사기준·방법 등",
+   "raw": "제4절 균형가격 산정 및 심사기준·방법 등",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 낙찰자 결정 등",
+   "raw": "제5절 낙찰자 결정 등",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 위원회 운영",
+   "raw": "제6절 위원회 운영",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 그 밖의 사항",
+   "raw": "제7절 그 밖의 사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 협상에 의한 계약 낙찰자 결정기준",
+   "raw": "제7장 협상에 의한 계약 낙찰자 결정기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통 칙",
+   "raw": "제1절 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 협상에 의한 계약의 절차",
+   "raw": "제2절 협상에 의한 계약의 절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 입찰과 계약상대자 결정절차",
+   "raw": "제3절 입찰과 계약상대자 결정절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 제안서평가위원회 구성․ 운영",
+   "raw": "제4절 제안서평가위원회 구성․ 운영",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 그 밖의 사항",
+   "raw": "제5절 그 밖의 사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 경쟁적 대화에 의한 계약 낙찰자 결정기준",
+   "raw": "제8장 경쟁적 대화에 의한 계약 낙찰자 결정기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총 칙",
+   "raw": "제1절 총 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 경쟁적 대화에 의한 계약절차",
+   "raw": "제2절 경쟁적 대화에 의한 계약절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 제안서평가위원회 구성·운영 등",
+   "raw": "제3절 제안서평가위원회 구성·운영 등",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 계약상대자 결정절차",
+   "raw": "제4절 계약상대자 결정절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 그 밖의 사항",
+   "raw": "제5절 그 밖의 사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제9장 설계공모 낙찰자 결정기준",
+   "raw": "제9장 설계공모 낙찰자 결정기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통 칙",
+   "raw": "제1절 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 입찰 및 계약상대자 결정",
+   "raw": "제2절 입찰 및 계약상대자 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 설계공모심사위원회 구성 및 운영",
+   "raw": "제3절 설계공모심사위원회 구성 및 운영",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 세부기준의 제정 등",
+   "raw": "제4절 세부기준의 제정 등",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제10장 품질 등에 의한 낙찰자 결정기준",
+   "raw": "제10장 품질 등에 의한 낙찰자 결정기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통 칙",
+   "raw": "제1절 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 대상제품",
+   "raw": "제2절 대상제품",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 입찰과 계약상대자 결정절차",
+   "raw": "제3절 입찰과 계약상대자 결정절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 그 밖의 사항",
+   "raw": "제4절 그 밖의 사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제11장 건설업역 개편에 따른 낙찰자 결정기준",
+   "raw": "제11장 건설업역 개편에 따른 낙찰자 결정기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통칙",
+   "raw": "제1절 통칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 평가방법",
+   "raw": "제2절 평가방법",
+   "page": 0,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 319,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 42,
+  "annexes": 107
+ },
+ "files": {
+  "articles": "regulations/지방자치단체-입찰시-낙찰자-결정기준/articles.json",
+  "annexes": "regulations/지방자치단체-입찰시-낙찰자-결정기준/annexes.json",
+  "markdown": "regulations/지방자치단체-입찰시-낙찰자-결정기준/regulation.md"
+ }
+}

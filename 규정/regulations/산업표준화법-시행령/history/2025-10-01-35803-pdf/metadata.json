@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "INDUSTRIAL_STANDARDIZATION_ENFORCEMENT",
+ "name": "산업표준화법 시행령",
+ "short_name": "산업표준화법 시행령",
+ "display_id_prefix": "산업표준화법-시행령",
+ "slug": "산업표준화법-시행령",
+ "aliases": [
+  "산업표준화법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제35803호",
+ "group": "산업·표준",
+ "agencies": [
+  {
+   "agency": "산업통상부",
+   "department": "국가기술표준원 산업표준혁신과"
+  }
+ ],
+ "effective_date": "2025-10-01",
+ "revision_date": "2025-10-01",
+ "revision_type": "타법개정",
+ "version": "2025-10-01-35803",
+ "versions": [
+  {
+   "version": "2025-10-01-35803",
+   "effective_date": "2025-10-01",
+   "revision_date": "2025-10-01",
+   "number": "제35803호",
+   "source_file": "산업표준화법 시행령(대통령령)(제35803호)(20251001).pdf",
+   "source_path": "원문/규정/산업표준화법 시행령/산업표준화법 시행령(대통령령)(제35803호)(20251001).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "INDUSTRIAL_STANDARDIZATION_ACT",
+ "source_file": "산업표준화법 시행령(대통령령)(제35803호)(20251001).pdf",
+ "source_path": "원문/규정/산업표준화법 시행령/산업표준화법 시행령(대통령령)(제35803호)(20251001).pdf",
+ "pdf_path": "pdf/산업표준화법 시행령/산업표준화법 시행령(대통령령)(제35803호)(20251001).pdf",
+ "source_pages": 10,
+ "header_raw": [
+  "산업표준화법 시행령",
+  "[시행 2025. 10. 1.] [대통령령 제35803호, 2025. 10. 1., 타법개정]",
+  "산업통상부 (국가기술표준원 산업표준혁신과) 043-870-5382"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 42,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 4
+ },
+ "files": {
+  "articles": "regulations/산업표준화법-시행령/articles.json",
+  "annexes": "regulations/산업표준화법-시행령/annexes.json",
+  "markdown": "regulations/산업표준화법-시행령/regulation.md"
+ }
+}

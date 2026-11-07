@@ -1,0 +1,88 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_PRODUCT_PROCUREMENT_RULE",
+ "name": "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙",
+ "short_name": "판로지원법 시행규칙",
+ "display_id_prefix": "판로지원법-시행규칙",
+ "slug": "판로지원법-시행규칙",
+ "aliases": [
+  "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙",
+  "판로지원법 시행규칙",
+  "판로지원법시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "중소벤처기업부령",
+ "number": "제76호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "판로정책과 - 우선조달(제1조의2"
+  },
+  {
+   "agency": "중소벤처기업부",
+   "department": "판로정책과 - 공공기관 구매계획 및 실적(제2조"
+  },
+  {
+   "agency": "중소벤처기업부",
+   "department": "판로정책과 - 경쟁제품, 공사용자재 등(제1조의2~제4조의4"
+  },
+  {
+   "agency": "중소벤처기업부",
+   "department": "판로정책과 - 직접생산(제5조~제8조"
+  },
+  {
+   "agency": "중소벤처기업부",
+   "department": "판로정책과 - 성능인증·시범구매 등(제9조~제14조"
+  }
+ ],
+ "effective_date": "2023-08-08",
+ "revision_date": "2023-08-08",
+ "revision_type": "일부개정",
+ "version": "2023-08-08-76",
+ "versions": [
+  {
+   "version": "2023-08-08-76",
+   "effective_date": "2023-08-08",
+   "revision_date": "2023-08-08",
+   "number": "제76호",
+   "source_file": "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙(중소벤처기업부령)(제00076호)(20230808).pdf",
+   "source_path": "원문/규정/판로지원법 시행규칙/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙(중소벤처기업부령)(제00076호)(20230808).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "SME_PRODUCT_PROCUREMENT_ENFORCEMENT",
+ "source_file": "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙(중소벤처기업부령)(제00076호)(20230808).pdf",
+ "source_path": "원문/규정/판로지원법 시행규칙/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙(중소벤처기업부령)(제00076호)(20230808).pdf",
+ "pdf_path": "pdf/판로지원법 시행규칙/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙(중소벤처기업부령)(제00076호)(20230808).pdf",
+ "source_pages": 6,
+ "header_raw": [
+  "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙 ( 약칭: 판로지원법 시행규칙 )",
+  "[시행 2023. 8. 8.] [중소벤처기업부령 제76호, 2023. 8. 8., 일부개정]",
+  "중소벤처기업부 (판로정책과 - 우선조달(제1조의2)) 044-204-7548",
+  "중소벤처기업부 (판로정책과 - 공공기관 구매계획 및 실적(제2조)) 044-204-7547, 7544",
+  "중소벤처기업부 (판로정책과 - 경쟁제품, 공사용자재 등(제1조의2~제4조의4)) 044-204-7497, 7494",
+  "중소벤처기업부 (판로정책과 - 직접생산(제5조~제8조)) 044-204-7497, 7493",
+  "중소벤처기업부 (판로정책과 - 성능인증·시범구매 등(제9조~제14조)) 044-204-7547, 7544"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 26,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 16
+ },
+ "files": {
+  "articles": "regulations/판로지원법-시행규칙/articles.json",
+  "annexes": "regulations/판로지원법-시행규칙/annexes.json",
+  "markdown": "regulations/판로지원법-시행규칙/regulation.md"
+ }
+}

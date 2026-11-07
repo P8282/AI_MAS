@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "DISABLED_ENTERPRISE_ENFORCEMENT",
+ "name": "장애인기업활동 촉진법 시행령",
+ "short_name": "장애인기업활동법 시행령",
+ "display_id_prefix": "장애인기업활동법-시행령",
+ "slug": "장애인기업활동법-시행령",
+ "aliases": [
+  "장애인기업활동법 시행령",
+  "장애인기업활동법시행령",
+  "장애인기업활동 촉진법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제35871호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "소상공인정책과"
+  }
+ ],
+ "effective_date": "2025-11-28",
+ "revision_date": "2025-11-25",
+ "revision_type": "일부개정",
+ "version": "2025-11-28-35871",
+ "versions": [
+  {
+   "version": "2025-11-28-35871",
+   "effective_date": "2025-11-28",
+   "revision_date": "2025-11-25",
+   "number": "제35871호",
+   "source_file": "DISABLED_ENTERPRISE_ENFORCEMENT.json",
+   "source_path": "원문/법제처API/DISABLED_ENTERPRISE_ENFORCEMENT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2025-11-28-35871-pdf",
+   "effective_date": "2025-11-28",
+   "revision_date": "2025-11-25",
+   "number": "제35871호",
+   "source_file": "장애인기업활동 촉진법 시행령(대통령령)(제35871호)(20251128).pdf",
+   "source_path": "원문/규정/장애인기업활동 촉진법 시행령(대통령령)(제35871호)(20251128).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/장애인기업활동법-시행령/history/2025-11-28-35871-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "DISABLED_ENTERPRISE_ACT",
+ "source_file": "DISABLED_ENTERPRISE_ENFORCEMENT.json",
+ "source_path": "원문/법제처API/DISABLED_ENTERPRISE_ENFORCEMENT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 23,
+  "scheduled_versions": 0,
+  "deleted_articles": 5,
+  "supplementary_articles": 37,
+  "annexes": 2
+ },
+ "files": {
+  "articles": "regulations/장애인기업활동법-시행령/articles.json",
+  "annexes": "regulations/장애인기업활동법-시행령/annexes.json",
+  "markdown": "regulations/장애인기업활동법-시행령/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=279877",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "279877",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

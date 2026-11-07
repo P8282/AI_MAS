@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "TAX_CRIME_PUNISHMENT_ACT",
+ "name": "조세범 처벌법",
+ "short_name": "조세범 처벌법",
+ "display_id_prefix": "조세범처벌법",
+ "slug": "조세범-처벌법",
+ "aliases": [
+  "조세범 처벌법",
+  "조세범처벌법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제17761호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "조세법령운용팀"
+  }
+ ],
+ "effective_date": "2021-01-01",
+ "revision_date": "2020-12-29",
+ "revision_type": "타법개정",
+ "version": "2021-01-01-17761",
+ "versions": [
+  {
+   "version": "2021-01-01-17761",
+   "effective_date": "2021-01-01",
+   "revision_date": "2020-12-29",
+   "number": "제17761호",
+   "source_file": "조세범 처벌법.json",
+   "source_path": "원문/법제처API/조세범 처벌법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "조세범 처벌법.json",
+ "source_path": "원문/법제처API/조세범 처벌법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/법령/조세범 처벌법",
+ "api_received": "2026-10-16",
+ "counts": {
+  "articles": 23,
+  "scheduled_versions": 0,
+  "deleted_articles": 2,
+  "supplementary_articles": 29,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/조세범-처벌법/articles.json",
+  "annexes": "regulations/조세범-처벌법/annexes.json",
+  "markdown": "regulations/조세범-처벌법/regulation.md"
+ }
+}

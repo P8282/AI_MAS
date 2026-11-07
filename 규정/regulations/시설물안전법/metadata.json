@@ -1,0 +1,67 @@
+{
+ "schema_version": "1.0",
+ "id": "FACILITY_SAFETY_ACT",
+ "name": "시설물의 안전 및 유지관리에 관한 특별법",
+ "short_name": "시설물안전법",
+ "display_id_prefix": "시설물안전법",
+ "slug": "시설물안전법",
+ "aliases": [
+  "시설물안전법",
+  "시설물의 안전 및 유지관리에 관한 특별법",
+  "시설물안전관리특별법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21411호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "시설안전과"
+  }
+ ],
+ "effective_date": "2026-08-28",
+ "revision_date": "2026-02-27",
+ "revision_type": "일부개정",
+ "version": "2026-08-28-21411",
+ "versions": [
+  {
+   "version": "2026-08-28-21411",
+   "effective_date": "2026-08-28",
+   "revision_date": "2026-02-27",
+   "number": "제21411호",
+   "source_file": "시설물의 안전 및 유지관리에 관한 특별법.json",
+   "source_path": "원문/법제처API/시설물의 안전 및 유지관리에 관한 특별법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "시설물의 안전 및 유지관리에 관한 특별법.json",
+ "source_path": "원문/법제처API/시설물의 안전 및 유지관리에 관한 특별법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=283765",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 74,
+  "scheduled_versions": 0,
+  "deleted_articles": 10,
+  "supplementary_articles": 35,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/시설물안전법/articles.json",
+  "annexes": "regulations/시설물안전법/annexes.json",
+  "markdown": "regulations/시설물안전법/regulation.md"
+ }
+}

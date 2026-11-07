@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_L_288937",
+ "name": "방위사업청과 그 소속기관 직제 시행규칙",
+ "short_name": "방위사업청과 그 소속기관 직제 시행규칙",
+ "display_id_prefix": "방위사업청과-그-소속기관-직제-시행규칙",
+ "slug": "방위사업청과-그-소속기관-직제-시행규칙",
+ "aliases": [
+  "방위사업청과 그 소속기관 직제 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "국방부령",
+ "number": "제01220호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "조직인사담당관"
+  }
+ ],
+ "effective_date": "2026-08-14",
+ "revision_date": "2026-08-14",
+ "revision_type": "일부개정",
+ "version": "2026-08-14-01220",
+ "versions": [
+  {
+   "version": "2026-08-14-01220",
+   "effective_date": "2026-08-14",
+   "revision_date": "2026-08-14",
+   "number": "제01220호",
+   "source_file": "방위사업청과 그 소속기관 직제 시행규칙.json",
+   "source_path": "원문/법제처API/방위사업청과 그 소속기관 직제 시행규칙.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "방위사업청과 그 소속기관 직제 시행규칙.json",
+ "source_path": "원문/법제처API/방위사업청과 그 소속기관 직제 시행규칙.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=288937",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 43,
+  "scheduled_versions": 0,
+  "deleted_articles": 5,
+  "supplementary_articles": 84,
+  "annexes": 18
+ },
+ "files": {
+  "articles": "regulations/방위사업청과-그-소속기관-직제-시행규칙/articles.json",
+  "annexes": "regulations/방위사업청과-그-소속기관-직제-시행규칙/annexes.json",
+  "markdown": "regulations/방위사업청과-그-소속기관-직제-시행규칙/regulation.md"
+ }
+}

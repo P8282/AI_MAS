@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>규정 검색 · AI_MAS</title>
+<!-- 규정 검색 화면(lib/regsearch.js)을 단독으로 여는 페이지.
+     lib/regsearch.js · 규정/ · 법령해석/ 은 P8282/PPS_cert 에서 그대로 복사한 것이며 이 페이지는 열기 버튼만 둔다. -->
+<style>
+:root{color-scheme:light dark}
+body{margin:0;font-family:system-ui,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;background:#fff;color:#231c1c}
+@media(prefers-color-scheme:dark){body{background:#1b1717;color:#eee}}
+main{max-width:640px;margin:0 auto;padding:32px 16px}
+h1{font-size:1.4rem;margin:0 0 8px}
+p{line-height:1.6;margin:0 0 16px}
+button{font:inherit;font-weight:700;padding:12px 20px;border-radius:12px;border:2px solid #a8323a;background:#a8323a;color:#fff;cursor:pointer}
+small{display:block;margin-top:16px;opacity:.7;line-height:1.5}
+</style>
+</head>
+<body>
+<main>
+  <h1>규정 검색</h1>
+  <p>법령·예규·세부기준을 조문 단위로 찾습니다. 중요한 판단은 법제처 국가법령정보센터의 현행 원문으로 확인하세요.</p>
+  <button type="button" id="open">규정 검색 열기</button>
+  <small>자료 출처와 기준일은 README.md 를 보세요.</small>
+</main>
+<script src="lib/regsearch.js"></script>
+<script>
+  const openReg = () => { if (window.PPS_REGSEARCH) PPS_REGSEARCH.open(); };
+  document.getElementById("open").addEventListener("click", openReg);
+  openReg();
+</script>
+</body>
+</html>

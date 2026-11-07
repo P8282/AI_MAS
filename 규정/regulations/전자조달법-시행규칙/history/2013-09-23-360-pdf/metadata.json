@@ -1,0 +1,73 @@
+{
+ "schema_version": "1.0",
+ "id": "EPROCUREMENT_RULE",
+ "name": "전자조달의 이용 및 촉진에 관한 법률 시행규칙",
+ "short_name": "전자조달법 시행규칙",
+ "display_id_prefix": "전자조달법-시행규칙",
+ "slug": "전자조달법-시행규칙",
+ "aliases": [
+  "전자조달의 이용 및 촉진에 관한 법률 시행규칙",
+  "전자조달법 시행규칙",
+  "전자조달법시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "기획재정부령",
+ "number": "제360호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "조달정책과"
+  },
+  {
+   "agency": "조달청",
+   "department": "디지털조달총괄과"
+  }
+ ],
+ "effective_date": "2013-09-23",
+ "revision_date": "2013-09-17",
+ "revision_type": "제정",
+ "version": "2013-09-23-360",
+ "versions": [
+  {
+   "version": "2013-09-23-360",
+   "effective_date": "2013-09-23",
+   "revision_date": "2013-09-17",
+   "number": "제360호",
+   "source_file": "전자조달의 이용 및 촉진에 관한 법률 시행규칙(기획재정부령)(제00360호)(20130923).pdf",
+   "source_path": "원문/규정/전자조달법 시행규칙/전자조달의 이용 및 촉진에 관한 법률 시행규칙(기획재정부령)(제00360호)(20130923).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "EPROCUREMENT_ENFORCEMENT",
+ "source_file": "전자조달의 이용 및 촉진에 관한 법률 시행규칙(기획재정부령)(제00360호)(20130923).pdf",
+ "source_path": "원문/규정/전자조달법 시행규칙/전자조달의 이용 및 촉진에 관한 법률 시행규칙(기획재정부령)(제00360호)(20130923).pdf",
+ "pdf_path": "pdf/전자조달법 시행규칙/전자조달의 이용 및 촉진에 관한 법률 시행규칙(기획재정부령)(제00360호)(20130923).pdf",
+ "source_pages": 3,
+ "header_raw": [
+  "전자조달의 이용 및 촉진에 관한 법률 시행규칙 ( 약칭: 전자조달법 시행규칙 )",
+  "[시행 2013. 9. 23.] [기획재정부령 제360호, 2013. 9. 17., 제정]",
+  "재정경제부 (조달정책과) 044-215-5236",
+  "조달청 (디지털조달총괄과) 042-724-7052"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 7,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/전자조달법-시행규칙/articles.json",
+  "annexes": "regulations/전자조달법-시행규칙/annexes.json",
+  "markdown": "regulations/전자조달법-시행규칙/regulation.md"
+ }
+}

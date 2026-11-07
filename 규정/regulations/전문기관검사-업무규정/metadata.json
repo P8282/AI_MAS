@@ -1,0 +1,69 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_SPECIALIZED_INSPECTION_REGULATION",
+ "name": "조달물자 전문기관검사 업무규정",
+ "short_name": "전문기관검사 업무규정",
+ "display_id_prefix": "전문기관검사-업무규정",
+ "slug": "전문기관검사-업무규정",
+ "aliases": [
+  "전문기관검사 업무규정",
+  "조달물자 전문기관검사 업무규정",
+  "조달청 조달물자 전문기관검사 업무규정",
+  "전문기관검사 규정",
+  "전문검사기관 업무규정"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "조달청고시",
+ "number": "제2024-18호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "납품검사과"
+  }
+ ],
+ "effective_date": "2024-10-01",
+ "revision_date": "2024-09-30",
+ "revision_type": "일부개정",
+ "version": "2024-10-01-202418",
+ "versions": [
+  {
+   "version": "2024-10-01-202418",
+   "effective_date": "2024-10-01",
+   "revision_date": "2024-09-30",
+   "number": "제2024-18호",
+   "source_file": "조달물자 전문기관검사 업무규정.json",
+   "source_path": "원문/법제처API/조달물자 전문기관검사 업무규정.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "조달물자 전문기관검사 업무규정.json",
+ "source_path": "원문/법제처API/조달물자 전문기관검사 업무규정.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000247640",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 42,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 19,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/전문기관검사-업무규정/articles.json",
+  "annexes": "regulations/전문기관검사-업무규정/annexes.json",
+  "markdown": "regulations/전문기관검사-업무규정/regulation.md"
+ }
+}

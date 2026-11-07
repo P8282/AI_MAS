@@ -1,0 +1,73 @@
+{
+ "schema_version": "1.0",
+ "id": "STATE_CONTRACT_ACT",
+ "name": "국가를 당사자로 하는 계약에 관한 법률",
+ "short_name": "국가계약법",
+ "display_id_prefix": "국가계약법",
+ "slug": "국가계약법",
+ "aliases": [
+  "국계법",
+  "국가계약법",
+  "국가를 당사자로 하는 계약에 관한 법률"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21418호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  },
+  {
+   "agency": "조달청",
+   "department": "규제개혁법무담당관실"
+  }
+ ],
+ "effective_date": "2026-06-11",
+ "revision_date": "2026-03-10",
+ "revision_type": "일부개정",
+ "version": "2026-06-11-21418",
+ "versions": [
+  {
+   "version": "2026-06-11-21418",
+   "effective_date": "2026-06-11",
+   "revision_date": "2026-03-10",
+   "number": "제21418호",
+   "source_file": "국가를 당사자로 하는 계약에 관한 법률(법률)(제21418호)(20260611).pdf",
+   "source_path": "원문/규정/국가를 당사자로 하는 계약에 관한 법률(법률)(제21418호)(20260611).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "국가를 당사자로 하는 계약에 관한 법률(법률)(제21418호)(20260611).pdf",
+ "source_path": "원문/규정/국가를 당사자로 하는 계약에 관한 법률(법률)(제21418호)(20260611).pdf",
+ "pdf_path": "pdf/국가를 당사자로 하는 계약에 관한 법률(법률)(제21418호)(20260611).pdf",
+ "source_pages": 9,
+ "header_raw": [
+  "국가를 당사자로 하는 계약에 관한 법률 ( 약칭: 국가계약법 )",
+  "[시행 2026. 6. 11.] [법률 제21418호, 2026. 3. 10., 일부개정]",
+  "재정경제부 (계약정책과) 044-215-5211, 5217, 5218",
+  "조달청 (규제개혁법무담당관실) 042-724-7277, 7249"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 44,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/국가계약법/articles.json",
+  "annexes": "regulations/국가계약법/annexes.json",
+  "markdown": "regulations/국가계약법/regulation.md"
+ }
+}

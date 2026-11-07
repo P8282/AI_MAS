@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "GOODS_MANAGEMENT_ENFORCEMENT",
+ "name": "물품관리법 시행령",
+ "short_name": "물품관리법 시행령",
+ "display_id_prefix": "물품관리법-시행령",
+ "slug": "물품관리법-시행령",
+ "aliases": [
+  "물품관리법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제35947호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "국유재산협력과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2025-12-30",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-35947",
+ "versions": [
+  {
+   "version": "2026-01-02-35947",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-12-30",
+   "number": "제35947호",
+   "source_file": "물품관리법 시행령.json",
+   "source_path": "원문/법제처API/물품관리법 시행령.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "물품관리법 시행령.json",
+ "source_path": "원문/법제처API/물품관리법 시행령.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=280849",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 59,
+  "scheduled_versions": 0,
+  "deleted_articles": 13,
+  "supplementary_articles": 44,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/물품관리법-시행령/articles.json",
+  "annexes": "regulations/물품관리법-시행령/annexes.json",
+  "markdown": "regulations/물품관리법-시행령/regulation.md"
+ }
+}

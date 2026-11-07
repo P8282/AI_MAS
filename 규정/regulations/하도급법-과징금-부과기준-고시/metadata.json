@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "SUBCONTRACT_FINE_NOTICE",
+ "name": "하도급법 위반사업자에 대한 과징금 부과기준에 관한 고시",
+ "short_name": "하도급법 과징금 부과기준 고시",
+ "display_id_prefix": "하도급법-과징금-부과기준-고시",
+ "slug": "하도급법-과징금-부과기준-고시",
+ "aliases": [
+  "하도급법 위반사업자에 대한 과징금 부과기준에 관한 고시",
+  "하도급 과징금 부과기준",
+  "하도급법 과징금 고시"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "공정거래위원회고시",
+ "number": "제2026-13호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "공정거래위원회",
+   "department": "기업거래정책과"
+  }
+ ],
+ "effective_date": "2026-08-04",
+ "revision_date": "2026-08-04",
+ "revision_type": "일부개정",
+ "version": "2026-08-04-202613",
+ "versions": [
+  {
+   "version": "2026-08-04-202613",
+   "effective_date": "2026-08-04",
+   "revision_date": "2026-08-04",
+   "number": "제2026-13호",
+   "source_file": "SUBCONTRACT_FINE_NOTICE.json",
+   "source_path": "원문/법제처API/SUBCONTRACT_FINE_NOTICE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-08-04-202613-pdf",
+   "effective_date": "2026-08-04",
+   "revision_date": "2026-08-04",
+   "number": "제2026-13호",
+   "source_file": "하도급법 위반사업자에 대한 과징금 부과기준에 관한 고시(공정거래위원회고시)(….pdf",
+   "source_path": "원문/규정/하도급법 위반사업자에 대한 과징금 부과기준에 관한 고시/하도급법 위반사업자에 대한 과징금 부과기준에 관한 고시(공정거래위원회고시)(….pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/하도급법-과징금-부과기준-고시/history/2026-08-04-202613-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "SUBCONTRACT_ENFORCEMENT",
+ "source_file": "SUBCONTRACT_FINE_NOTICE.json",
+ "source_path": "원문/법제처API/SUBCONTRACT_FINE_NOTICE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 1,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 16,
+  "annexes": 1
+ },
+ "files": {
+  "articles": "regulations/하도급법-과징금-부과기준-고시/articles.json",
+  "annexes": "regulations/하도급법-과징금-부과기준-고시/annexes.json",
+  "markdown": "regulations/하도급법-과징금-부과기준-고시/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000283588",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000283588",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 1
+}

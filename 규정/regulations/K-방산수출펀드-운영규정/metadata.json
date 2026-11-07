@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_A_2100000256314",
+ "name": "K-방산수출펀드 운영규정",
+ "short_name": "K-방산수출펀드 운영규정",
+ "display_id_prefix": "K-방산수출펀드-운영규정",
+ "slug": "K-방산수출펀드-운영규정",
+ "aliases": [
+  "K-방산수출펀드 운영규정"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "방위사업청고시",
+ "number": "제2025-1호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "방위산업금융지원TF"
+  }
+ ],
+ "effective_date": "2025-03-11",
+ "revision_date": "2025-03-11",
+ "revision_type": "제정",
+ "version": "2025-03-11-20251",
+ "versions": [
+  {
+   "version": "2025-03-11-20251",
+   "effective_date": "2025-03-11",
+   "revision_date": "2025-03-11",
+   "number": "제2025-1호",
+   "source_file": "K-방산수출펀드 운영규정.json",
+   "source_path": "원문/법제처API/K-방산수출펀드 운영규정.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "K-방산수출펀드 운영규정.json",
+ "source_path": "원문/법제처API/K-방산수출펀드 운영규정.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000256314",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 34,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/K-방산수출펀드-운영규정/articles.json",
+  "annexes": "regulations/K-방산수출펀드-운영규정/annexes.json",
+  "markdown": "regulations/K-방산수출펀드-운영규정/regulation.md"
+ }
+}

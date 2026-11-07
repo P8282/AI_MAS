@@ -1,0 +1,5381 @@
+{
+  "_comment": "법제처 API(원문/법제처API/*.json)에서 편입하는 규정 목록(사람이 관리). registry.json 과 같은 형식이며 build_regdb.py 는 읽지 않는다 — tools/merge_api_regs.py 가 읽는다. title 은 법제처 법령명과 같아야 한다.",
+  "regulations": [
+    {
+      "id": "GREEN_PRODUCT_PURCHASE_ACT",
+      "title": "녹색제품 구매촉진에 관한 법률",
+      "slug": "녹색제품구매법",
+      "display": "녹색제품구매법",
+      "short": "녹색제품구매법",
+      "aliases": [
+        "녹색제품구매법",
+        "녹색제품 구매촉진에 관한 법률",
+        "녹색제품구매촉진법",
+        "녹색구매법"
+      ],
+      "type": "법률",
+      "group": "환경·재활용",
+      "rank": 4,
+      "source": "api",
+      "api_file": "녹색제품 구매촉진에 관한 법률.json",
+      "confirmed_latest": true,
+      "api_mst": "276711"
+    },
+    {
+      "id": "CARBON_NEUTRALITY_ACT",
+      "title": "기후위기 대응을 위한 탄소중립·녹색성장 기본법",
+      "slug": "탄소중립기본법",
+      "display": "탄소중립기본법",
+      "short": "탄소중립기본법",
+      "aliases": [
+        "탄소중립기본법",
+        "기후위기 대응을 위한 탄소중립·녹색성장 기본법",
+        "탄소중립녹색성장기본법",
+        "탄소중립법"
+      ],
+      "type": "법률",
+      "group": "환경·재활용",
+      "rank": 5,
+      "source": "api",
+      "api_file": "기후위기 대응을 위한 탄소중립·녹색성장 기본법.json",
+      "confirmed_latest": true,
+      "api_mst": "285267"
+    },
+    {
+      "id": "SOCIAL_ENTERPRISE_ACT",
+      "title": "사회적기업 육성법",
+      "slug": "사회적기업법",
+      "display": "사회적기업법",
+      "short": "사회적기업법",
+      "aliases": [
+        "사회적기업법",
+        "사회적기업 육성법"
+      ],
+      "type": "법률",
+      "group": "중소기업",
+      "rank": 20,
+      "source": "api",
+      "api_file": "사회적기업 육성법.json",
+      "confirmed_latest": true,
+      "api_mst": "286815"
+    },
+    {
+      "id": "SOCIAL_ENTERPRISE_ENFORCEMENT",
+      "title": "사회적기업 육성법 시행령",
+      "slug": "사회적기업법-시행령",
+      "display": "사회적기업법-시행령",
+      "short": "사회적기업법 시행령",
+      "aliases": [
+        "사회적기업법 시행령",
+        "사회적기업 육성법 시행령",
+        "사회적기업육성법 시행령"
+      ],
+      "type": "시행령",
+      "group": "중소기업",
+      "rank": 21,
+      "source": "api",
+      "api_file": "사회적기업 육성법 시행령.json",
+      "confirmed_latest": true,
+      "parent": "SOCIAL_ENTERPRISE_ACT",
+      "api_mst": "281623"
+    },
+    {
+      "id": "SOFTWARE_PROMOTION_ACT",
+      "title": "소프트웨어 진흥법",
+      "slug": "소프트웨어진흥법",
+      "display": "소프트웨어진흥법",
+      "short": "소프트웨어진흥법",
+      "aliases": [
+        "소프트웨어진흥법",
+        "소프트웨어 진흥법",
+        "소프트웨어산업진흥법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 14,
+      "source": "api",
+      "api_file": "소프트웨어 진흥법.json",
+      "confirmed_latest": true,
+      "api_mst": "265845"
+    },
+    {
+      "id": "ENGINEERING_INDUSTRY_PROMOTION_ACT",
+      "title": "엔지니어링산업 진흥법",
+      "slug": "엔지니어링산업법",
+      "display": "엔지니어링산업법",
+      "short": "엔지니어링산업법",
+      "aliases": [
+        "엔지니어링산업법",
+        "엔지니어링산업 진흥법",
+        "엔지니어링산업진흥법"
+      ],
+      "type": "법률",
+      "group": "건설·하도급",
+      "rank": 23,
+      "source": "api",
+      "api_file": "엔지니어링산업 진흥법.json",
+      "confirmed_latest": true,
+      "api_mst": "280053"
+    },
+    {
+      "id": "PUBLIC_OFFICIAL_CONFLICT_OF_INTEREST_ACT",
+      "title": "공직자의 이해충돌 방지법",
+      "slug": "이해충돌방지법",
+      "display": "이해충돌방지법",
+      "short": "이해충돌방지법",
+      "aliases": [
+        "이해충돌방지법",
+        "공직자의 이해충돌 방지법",
+        "공직자 이해충돌방지법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 15,
+      "source": "api",
+      "api_file": "공직자의 이해충돌 방지법.json",
+      "confirmed_latest": true,
+      "api_mst": "290665"
+    },
+    {
+      "id": "STATE_PROPERTY_ACT",
+      "title": "국유재산법",
+      "slug": "국유재산법",
+      "display": "국유재산법",
+      "short": "국유재산법",
+      "aliases": [
+        "국유재산법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 16,
+      "source": "api",
+      "api_file": "국유재산법.json",
+      "confirmed_latest": true,
+      "api_mst": "283349"
+    },
+    {
+      "id": "SUBSIDY_MANAGEMENT_ACT",
+      "title": "보조금 관리에 관한 법률",
+      "slug": "보조금법",
+      "display": "보조금법",
+      "short": "보조금법",
+      "aliases": [
+        "보조금법",
+        "보조금 관리에 관한 법률",
+        "보조금관리법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 17,
+      "source": "api",
+      "api_file": "보조금 관리에 관한 법률.json",
+      "confirmed_latest": true,
+      "api_mst": "286449"
+    },
+    {
+      "id": "ADMINISTRATIVE_BASIC_ACT",
+      "title": "행정기본법",
+      "slug": "행정기본법",
+      "display": "행정기본법",
+      "short": "행정기본법",
+      "aliases": [
+        "행정기본법"
+      ],
+      "type": "법률",
+      "group": "헌법·민사",
+      "rank": 5,
+      "source": "api",
+      "api_file": "행정기본법.json",
+      "confirmed_latest": true,
+      "api_mst": "269955"
+    },
+    {
+      "id": "ADMINISTRATIVE_APPEALS_ACT",
+      "title": "행정심판법",
+      "slug": "행정심판법",
+      "display": "행정심판법",
+      "short": "행정심판법",
+      "aliases": [
+        "행정심판법"
+      ],
+      "type": "법률",
+      "group": "헌법·민사",
+      "rank": 6,
+      "source": "api",
+      "api_file": "행정심판법.json",
+      "confirmed_latest": true,
+      "api_mst": "249041"
+    },
+    {
+      "id": "LOCAL_FINANCE_ACT",
+      "title": "지방재정법",
+      "slug": "지방재정법",
+      "display": "지방재정법",
+      "short": "지방재정법",
+      "aliases": [
+        "지방재정법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 18,
+      "source": "api",
+      "api_file": "지방재정법.json",
+      "confirmed_latest": true,
+      "api_mst": "283145"
+    },
+    {
+      "id": "LOCAL_ACCOUNTING_ACT",
+      "title": "지방회계법",
+      "slug": "지방회계법",
+      "display": "지방회계법",
+      "short": "지방회계법",
+      "aliases": [
+        "지방회계법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 19,
+      "source": "api",
+      "api_file": "지방회계법.json",
+      "confirmed_latest": true,
+      "api_mst": "276363"
+    },
+    {
+      "id": "LOCAL_AUTONOMY_ACT",
+      "title": "지방자치법",
+      "slug": "지방자치법",
+      "display": "지방자치법",
+      "short": "지방자치법",
+      "aliases": [
+        "지방자치법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 20,
+      "source": "api",
+      "api_file": "지방자치법.json",
+      "confirmed_latest": true,
+      "api_mst": "284005"
+    },
+    {
+      "id": "CLOUD_COMPUTING_ACT",
+      "title": "클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률",
+      "slug": "클라우드컴퓨팅법",
+      "display": "클라우드컴퓨팅법",
+      "short": "클라우드컴퓨팅법",
+      "aliases": [
+        "클라우드컴퓨팅법",
+        "클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 21,
+      "source": "api",
+      "api_file": "클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률.json",
+      "confirmed_latest": true,
+      "api_mst": "277387"
+    },
+    {
+      "id": "CLOUD_COMPUTING_ENFORCEMENT",
+      "title": "클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률 시행령",
+      "slug": "클라우드컴퓨팅법-시행령",
+      "display": "클라우드컴퓨팅법-시행령",
+      "short": "클라우드컴퓨팅법 시행령",
+      "aliases": [
+        "클라우드컴퓨팅법 시행령",
+        "클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률 시행령"
+      ],
+      "type": "시행령",
+      "group": "재정·전자정부",
+      "rank": 22,
+      "source": "api",
+      "api_file": "클라우드컴퓨팅 발전 및 이용자 보호에 관한 법률 시행령.json",
+      "confirmed_latest": true,
+      "parent": "CLOUD_COMPUTING_ACT",
+      "api_mst": "280955"
+    },
+    {
+      "id": "SPECIFIC_PROCUREMENT_SPECIAL_PROVISIONS",
+      "title": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정",
+      "slug": "특례규정",
+      "display": "특례규정",
+      "short": "특례규정",
+      "aliases": [
+        "특례규정",
+        "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정",
+        "특정조달계약 특례규정",
+        "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령"
+      ],
+      "type": "대통령령",
+      "group": "국가계약",
+      "rank": 16,
+      "source": "api",
+      "api_file": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json",
+      "confirmed_latest": true,
+      "api_mst": "280909"
+    },
+    {
+      "id": "SME_STARTUP_SUPPORT_ACT",
+      "title": "중소기업 창업 지원법",
+      "slug": "중소기업창업법",
+      "display": "중소기업창업법",
+      "short": "중소기업창업법",
+      "aliases": [
+        "중소기업창업법",
+        "중소기업 창업 지원법",
+        "중소기업창업지원법"
+      ],
+      "type": "법률",
+      "group": "중소기업",
+      "rank": 22,
+      "source": "api",
+      "api_file": "중소기업 창업 지원법.json",
+      "confirmed_latest": true,
+      "api_mst": "281995"
+    },
+    {
+      "id": "SMALL_BUSINESS_SUPPORT_ACT",
+      "title": "소상공인 보호 및 지원에 관한 법률",
+      "slug": "소상공인법",
+      "display": "소상공인법",
+      "short": "소상공인법",
+      "aliases": [
+        "소상공인법",
+        "소상공인 보호 및 지원에 관한 법률"
+      ],
+      "type": "법률",
+      "group": "중소기업",
+      "rank": 23,
+      "source": "api",
+      "api_file": "소상공인 보호 및 지원에 관한 법률.json",
+      "confirmed_latest": true,
+      "api_mst": "281985"
+    },
+    {
+      "id": "SME_COOPERATIVE_ACT",
+      "title": "중소기업협동조합법",
+      "slug": "중소기업협동조합법",
+      "display": "중소기업협동조합법",
+      "short": "중소기업협동조합법",
+      "aliases": [
+        "중소기업협동조합법"
+      ],
+      "type": "법률",
+      "group": "중소기업",
+      "rank": 24,
+      "source": "api",
+      "api_file": "중소기업협동조합법.json",
+      "confirmed_latest": true,
+      "api_mst": "280149"
+    },
+    {
+      "id": "LARGE_SME_COOPERATION_ACT",
+      "title": "대·중소기업 상생협력 촉진에 관한 법률",
+      "slug": "상생협력법",
+      "display": "상생협력법",
+      "short": "상생협력법",
+      "aliases": [
+        "상생협력법",
+        "대·중소기업 상생협력 촉진에 관한 법률",
+        "대중소기업 상생협력 촉진에 관한 법률"
+      ],
+      "type": "법률",
+      "group": "중소기업",
+      "rank": 25,
+      "source": "api",
+      "api_file": "대·중소기업 상생협력 촉진에 관한 법률.json",
+      "confirmed_latest": true,
+      "api_mst": "290193"
+    },
+    {
+      "id": "BUSINESS_DEREGULATION_ACT",
+      "title": "기업활동 규제완화에 관한 특별조치법",
+      "slug": "기업규제완화법",
+      "display": "기업규제완화법",
+      "short": "기업규제완화법",
+      "aliases": [
+        "기업규제완화법",
+        "기업활동 규제완화에 관한 특별조치법"
+      ],
+      "type": "법률",
+      "group": "중소기업",
+      "rank": 26,
+      "source": "api",
+      "api_file": "기업활동 규제완화에 관한 특별조치법.json",
+      "confirmed_latest": true,
+      "api_mst": "276485"
+    },
+    {
+      "id": "MID_SIZED_ENTERPRISE_ACT",
+      "title": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법",
+      "slug": "중견기업법",
+      "display": "중견기업법",
+      "short": "중견기업법",
+      "aliases": [
+        "중견기업법",
+        "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법"
+      ],
+      "type": "법률",
+      "group": "중소기업",
+      "rank": 27,
+      "source": "api",
+      "api_file": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+      "confirmed_latest": true,
+      "api_mst": "276603"
+    },
+    {
+      "id": "DISABLED_EMPLOYMENT_ACT",
+      "title": "장애인고용촉진 및 직업재활법",
+      "slug": "장애인고용법",
+      "display": "장애인고용법",
+      "short": "장애인고용법",
+      "aliases": [
+        "장애인고용법",
+        "장애인고용촉진 및 직업재활법"
+      ],
+      "type": "법률",
+      "group": "중소기업",
+      "rank": 28,
+      "source": "api",
+      "api_file": "장애인고용촉진 및 직업재활법.json",
+      "confirmed_latest": true,
+      "api_mst": "279737"
+    },
+    {
+      "id": "ANTI_CORRUPTION_ACRC_ACT",
+      "title": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률",
+      "slug": "부패방지권익위법",
+      "display": "부패방지권익위법",
+      "short": "부패방지권익위법",
+      "aliases": [
+        "부패방지권익위법",
+        "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 23,
+      "source": "api",
+      "api_file": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+      "confirmed_latest": true,
+      "api_mst": "288607"
+    },
+    {
+      "id": "GOODS_MANAGEMENT_ENFORCEMENT",
+      "title": "물품관리법 시행령",
+      "slug": "물품관리법-시행령",
+      "display": "물품관리법-시행령",
+      "short": "물품관리법 시행령",
+      "aliases": [
+        "물품관리법 시행령"
+      ],
+      "type": "시행령",
+      "group": "재정·전자정부",
+      "rank": 24,
+      "source": "api",
+      "api_file": "물품관리법 시행령.json",
+      "confirmed_latest": true,
+      "api_mst": "280849"
+    },
+    {
+      "id": "PUBLIC_PROPERTY_GOODS_ENFORCEMENT",
+      "title": "공유재산 및 물품 관리법 시행령",
+      "slug": "공유재산법-시행령",
+      "display": "공유재산법-시행령",
+      "short": "공유재산법 시행령",
+      "aliases": [
+        "공유재산법 시행령",
+        "공유재산 및 물품 관리법 시행령"
+      ],
+      "type": "시행령",
+      "group": "재정·전자정부",
+      "rank": 25,
+      "source": "api",
+      "api_file": "공유재산 및 물품 관리법 시행령.json",
+      "confirmed_latest": true,
+      "api_mst": "288163"
+    },
+    {
+      "id": "LOCAL_PUBLIC_ENTERPRISE_ACT",
+      "title": "지방공기업법",
+      "slug": "지방공기업법",
+      "display": "지방공기업법",
+      "short": "지방공기업법",
+      "aliases": [
+        "지방공기업법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 26,
+      "source": "api",
+      "api_file": "지방공기업법.json",
+      "confirmed_latest": true,
+      "api_mst": "288617"
+    },
+    {
+      "id": "LOCAL_INVESTED_INSTITUTION_ACT",
+      "title": "지방자치단체 출자·출연 기관의 운영에 관한 법률",
+      "slug": "지방출자출연법",
+      "display": "지방출자출연법",
+      "short": "지방출자출연법",
+      "aliases": [
+        "지방출자출연법",
+        "지방자치단체 출자·출연 기관의 운영에 관한 법률"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 27,
+      "source": "api",
+      "api_file": "지방자치단체 출자·출연 기관의 운영에 관한 법률.json",
+      "confirmed_latest": true,
+      "api_mst": "288619"
+    },
+    {
+      "id": "DISASTER_SAFETY_ACT",
+      "title": "재난 및 안전관리 기본법",
+      "slug": "재난안전법",
+      "display": "재난안전법",
+      "short": "재난안전법",
+      "aliases": [
+        "재난안전법",
+        "재난 및 안전관리 기본법"
+      ],
+      "type": "법률",
+      "group": "건설·하도급",
+      "rank": 24,
+      "source": "api",
+      "api_file": "재난 및 안전관리 기본법.json",
+      "confirmed_latest": true,
+      "api_mst": "282883"
+    },
+    {
+      "id": "FACILITY_SAFETY_ACT",
+      "title": "시설물의 안전 및 유지관리에 관한 특별법",
+      "slug": "시설물안전법",
+      "display": "시설물안전법",
+      "short": "시설물안전법",
+      "aliases": [
+        "시설물안전법",
+        "시설물의 안전 및 유지관리에 관한 특별법",
+        "시설물안전관리특별법"
+      ],
+      "type": "법률",
+      "group": "건설·하도급",
+      "rank": 25,
+      "source": "api",
+      "api_file": "시설물의 안전 및 유지관리에 관한 특별법.json",
+      "confirmed_latest": true,
+      "api_mst": "283765"
+    },
+    {
+      "id": "ELECTRIC_UTILITY_ACT",
+      "title": "전기사업법",
+      "slug": "전기사업법",
+      "display": "전기사업법",
+      "short": "전기사업법",
+      "aliases": [
+        "전기사업법"
+      ],
+      "type": "법률",
+      "group": "산업·표준",
+      "rank": 4,
+      "source": "api",
+      "api_file": "전기사업법.json",
+      "confirmed_latest": true,
+      "api_mst": "284383"
+    },
+    {
+      "id": "ELECTRIC_WORK_BUSINESS_ACT",
+      "title": "전기공사업법",
+      "slug": "전기공사업법",
+      "display": "전기공사업법",
+      "short": "전기공사업법",
+      "aliases": [
+        "전기공사업법"
+      ],
+      "type": "법률",
+      "group": "건설·하도급",
+      "rank": 26,
+      "source": "api",
+      "api_file": "전기공사업법.json",
+      "confirmed_latest": true,
+      "api_mst": "284381"
+    },
+    {
+      "id": "INTELLIGENT_INFORMATION_ACT",
+      "title": "지능정보화 기본법",
+      "slug": "지능정보화기본법",
+      "display": "지능정보화기본법",
+      "short": "지능정보화기본법",
+      "aliases": [
+        "지능정보화기본법",
+        "지능정보화 기본법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 28,
+      "source": "api",
+      "api_file": "지능정보화 기본법.json",
+      "confirmed_latest": true,
+      "api_mst": "268535"
+    },
+    {
+      "id": "ELECTRONIC_DOCUMENT_ACT",
+      "title": "전자문서 및 전자거래 기본법",
+      "slug": "전자문서법",
+      "display": "전자문서법",
+      "short": "전자문서법",
+      "aliases": [
+        "전자문서법",
+        "전자문서 및 전자거래 기본법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 29,
+      "source": "api",
+      "api_file": "전자문서 및 전자거래 기본법.json",
+      "confirmed_latest": true,
+      "api_mst": "236053"
+    },
+    {
+      "id": "ICT_CONVERGENCE_ACT",
+      "title": "정보통신 진흥 및 융합 활성화 등에 관한 특별법",
+      "slug": "정보통신융합법",
+      "display": "정보통신융합법",
+      "short": "정보통신융합법",
+      "aliases": [
+        "정보통신융합법",
+        "정보통신 진흥 및 융합 활성화 등에 관한 특별법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 30,
+      "source": "api",
+      "api_file": "정보통신 진흥 및 융합 활성화 등에 관한 특별법.json",
+      "confirmed_latest": true,
+      "api_mst": "285533"
+    },
+    {
+      "id": "ICT_INDUSTRY_PROMOTION_ACT",
+      "title": "정보통신산업 진흥법",
+      "slug": "정보통신산업법",
+      "display": "정보통신산업법",
+      "short": "정보통신산업법",
+      "aliases": [
+        "정보통신산업법",
+        "정보통신산업 진흥법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 31,
+      "source": "api",
+      "api_file": "정보통신산업 진흥법.json",
+      "confirmed_latest": true,
+      "api_mst": "280045"
+    },
+    {
+      "id": "INDUSTRIAL_TECH_INNOVATION_ACT",
+      "title": "산업기술혁신 촉진법",
+      "slug": "산업기술혁신법",
+      "display": "산업기술혁신법",
+      "short": "산업기술혁신법",
+      "aliases": [
+        "산업기술혁신법",
+        "산업기술혁신 촉진법"
+      ],
+      "type": "법률",
+      "group": "산업·표준",
+      "rank": 5,
+      "source": "api",
+      "api_file": "산업기술혁신 촉진법.json",
+      "confirmed_latest": true,
+      "api_mst": "284363"
+    },
+    {
+      "id": "ARCHITECTURE_SERVICE_ENFORCEMENT",
+      "title": "건축서비스산업 진흥법 시행령",
+      "slug": "건축서비스법-시행령",
+      "display": "건축서비스법-시행령",
+      "short": "건축서비스법 시행령",
+      "aliases": [
+        "건축서비스법 시행령",
+        "건축서비스산업 진흥법 시행령",
+        "건축서비스산업진흥법 시행령"
+      ],
+      "type": "시행령",
+      "group": "건설·하도급",
+      "rank": 27,
+      "source": "api",
+      "api_file": "건축서비스산업 진흥법 시행령.json",
+      "confirmed_latest": true,
+      "api_mst": "290831"
+    },
+    {
+      "id": "ENVIRONMENTAL_TECH_ACT",
+      "title": "환경기술 및 환경산업 지원법",
+      "slug": "환경기술산업법",
+      "display": "환경기술산업법",
+      "short": "환경기술산업법",
+      "aliases": [
+        "환경기술산업법",
+        "환경기술 및 환경산업 지원법"
+      ],
+      "type": "법률",
+      "group": "환경·재활용",
+      "rank": 6,
+      "source": "api",
+      "api_file": "환경기술 및 환경산업 지원법.json",
+      "confirmed_latest": true,
+      "api_mst": "276823"
+    },
+    {
+      "id": "INDUSTRIAL_DESIGN_ACT",
+      "title": "산업디자인진흥법",
+      "slug": "산업디자인법",
+      "display": "산업디자인법",
+      "short": "산업디자인법",
+      "aliases": [
+        "산업디자인법",
+        "산업디자인진흥법"
+      ],
+      "type": "법률",
+      "group": "산업·표준",
+      "rank": 6,
+      "source": "api",
+      "api_file": "산업디자인진흥법.json",
+      "confirmed_latest": true,
+      "api_mst": "276523"
+    },
+    {
+      "id": "ADMINISTRATIVE_WORK_REGULATION",
+      "title": "행정업무의 운영 및 혁신에 관한 규정",
+      "slug": "행정업무규정",
+      "display": "행정업무규정",
+      "short": "행정업무규정",
+      "aliases": [
+        "행정업무규정",
+        "행정업무의 운영 및 혁신에 관한 규정"
+      ],
+      "type": "대통령령",
+      "group": "재정·전자정부",
+      "rank": 32,
+      "source": "api",
+      "api_file": "행정업무의 운영 및 혁신에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "290525"
+    },
+    {
+      "id": "GOVERNMENT_ENTERPRISE_BUDGET_ACT",
+      "title": "정부기업예산법",
+      "slug": "정부기업예산법",
+      "display": "정부기업예산법",
+      "short": "정부기업예산법",
+      "aliases": [
+        "정부기업예산법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 33,
+      "source": "api",
+      "api_file": "정부기업예산법.json",
+      "confirmed_latest": true,
+      "api_mst": "276143"
+    },
+    {
+      "id": "COMMERCIAL_ACT",
+      "title": "상법",
+      "slug": "상법",
+      "display": "상법",
+      "short": "상법",
+      "aliases": [
+        "상법"
+      ],
+      "type": "법률",
+      "group": "헌법·민사",
+      "rank": 7,
+      "source": "api",
+      "api_file": "상법.json",
+      "confirmed_latest": true
+    },
+    {
+      "id": "PPS_SPECIALIZED_INSPECTION_REGULATION",
+      "title": "조달물자 전문기관검사 업무규정",
+      "slug": "전문기관검사-업무규정",
+      "display": "전문기관검사-업무규정",
+      "short": "전문기관검사 업무규정",
+      "aliases": [
+        "전문기관검사 업무규정",
+        "조달물자 전문기관검사 업무규정",
+        "조달청 조달물자 전문기관검사 업무규정",
+        "전문기관검사 규정",
+        "전문검사기관 업무규정"
+      ],
+      "type": "고시",
+      "group": "조달사업·조달청",
+      "rank": 36,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "조달물자 전문기관검사 업무규정.json",
+      "api_mst": "2100000247640",
+      "confirmed_latest": true
+    },
+    {
+      "id": "PPS_GOODS_PURCHASE_SPECIAL_CONDITIONS",
+      "title": "물품구매(제조)계약 특수조건",
+      "slug": "물품구매(제조)계약-특수조건",
+      "display": "물품구매(제조)계약-특수조건",
+      "short": "물품구매(제조)계약 특수조건",
+      "aliases": [
+        "물품구매(제조)계약 특수조건",
+        "조달청 물품구매(제조)계약 특수조건",
+        "물품구매계약 특수조건"
+      ],
+      "type": "지침",
+      "group": "조달사업·조달청",
+      "rank": 37,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "물품구매(제조)계약 특수조건.json",
+      "api_mst": "2100000285334",
+      "confirmed_latest": true
+    },
+    {
+      "id": "GOODS_PURCHASE_BID_INSTRUCTIONS",
+      "title": "(계약예규) 물품구매(제조)입찰유의서",
+      "slug": "물품구매(제조)입찰유의서",
+      "display": "물품구매(제조)입찰유의서",
+      "short": "물품구매(제조)입찰유의서",
+      "aliases": [
+        "물품구매(제조)입찰유의서",
+        "(계약예규) 물품구매(제조)입찰유의서",
+        "입찰유의서",
+        "물품구매입찰유의서"
+      ],
+      "type": "계약예규",
+      "group": "국가계약",
+      "rank": 17,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(계약예규) 물품구매(제조)입찰유의서.json",
+      "api_mst": "2100000272402",
+      "confirmed_latest": true
+    },
+    {
+      "id": "SME_TECH_INNOVATION_ACT_CURRENT",
+      "title": "중소기업 기술혁신 촉진법 (현행 2026-07-01 시행본)",
+      "slug": "중소기업기술혁신법-현행",
+      "display": "중소기업기술혁신법-현행",
+      "short": "중소기업기술혁신법 (현행본)",
+      "aliases": [
+        "중소기업기술혁신법 (현행본)",
+        "중소기업 기술혁신 촉진법 (현행 2026-07-01 시행본)",
+        "중소기업 기술혁신 촉진법 현행본",
+        "중소기업기술혁신법 현행",
+        "중소기업기술혁신법",
+        "중소기업 기술혁신 촉진법",
+        "중소기업기술혁신촉진법"
+      ],
+      "type": "법률",
+      "group": "중소기업",
+      "rank": 29,
+      "source": "api",
+      "api_file": "중소기업 기술혁신 촉진법(현행본).json",
+      "confirmed_latest": true,
+      "no_resolve": true,
+      "family": "SME_TECH_INNOVATION",
+      "note": [
+        "이 항목은 법제처에서 받은 현행 본문(2026-07-01 시행, 제21289호)입니다. 2027-03-30 시행 예정본은 ‘중소기업 기술혁신 촉진법’ 항목에 있습니다."
+      ]
+    },
+    {
+      "id": "DAPA_L_283941",
+      "title": "국방과학기술혁신 촉진법",
+      "slug": "국방과학기술혁신-촉진법",
+      "display": "국방과학기술혁신-촉진법",
+      "short": "국방과학기술혁신 촉진법",
+      "aliases": [
+        "국방과학기술혁신 촉진법"
+      ],
+      "type": "법률",
+      "group": "방위사업",
+      "rank": 10,
+      "source": "api",
+      "api_file": "국방과학기술혁신 촉진법.json",
+      "confirmed_latest": true,
+      "api_mst": "283941"
+    },
+    {
+      "id": "DAPA_L_259617",
+      "title": "국방과학연구소법",
+      "slug": "국방과학연구소법",
+      "display": "국방과학연구소법",
+      "short": "국방과학연구소법",
+      "aliases": [
+        "국방과학연구소법"
+      ],
+      "type": "법률",
+      "group": "방위사업",
+      "rank": 11,
+      "source": "api",
+      "api_file": "국방과학연구소법.json",
+      "confirmed_latest": true,
+      "api_mst": "259617"
+    },
+    {
+      "id": "DAPA_L_258705",
+      "title": "군용항공기 비행안전성 인증에 관한 법률",
+      "slug": "군용항공기-비행안전성-인증에-관한-법률",
+      "display": "군용항공기-비행안전성-인증에-관한-법률",
+      "short": "군용항공기 비행안전성 인증에 관한 법률",
+      "aliases": [
+        "군용항공기 비행안전성 인증에 관한 법률"
+      ],
+      "type": "법률",
+      "group": "방위사업",
+      "rank": 12,
+      "source": "api",
+      "api_file": "군용항공기 비행안전성 인증에 관한 법률.json",
+      "confirmed_latest": true,
+      "api_mst": "258705"
+    },
+    {
+      "id": "DAPA_L_287981",
+      "title": "방위산업 발전 및 지원에 관한 법률",
+      "slug": "방위산업-발전-및-지원에-관한-법률",
+      "display": "방위산업-발전-및-지원에-관한-법률",
+      "short": "방위산업 발전 및 지원에 관한 법률",
+      "aliases": [
+        "방위산업 발전 및 지원에 관한 법률"
+      ],
+      "type": "법률",
+      "group": "방위사업",
+      "rank": 13,
+      "source": "api",
+      "api_file": "방위산업 발전 및 지원에 관한 법률.json",
+      "confirmed_latest": true,
+      "api_mst": "287981"
+    },
+    {
+      "id": "DAPA_L_283945",
+      "title": "방위산업기술 보호법",
+      "slug": "방위산업기술-보호법",
+      "display": "방위산업기술-보호법",
+      "short": "방위산업기술 보호법",
+      "aliases": [
+        "방위산업기술 보호법"
+      ],
+      "type": "법률",
+      "group": "방위사업",
+      "rank": 14,
+      "source": "api",
+      "api_file": "방위산업기술 보호법.json",
+      "confirmed_latest": true,
+      "api_mst": "283945"
+    },
+    {
+      "id": "DAPA_L_287549",
+      "title": "국방과학기술혁신 촉진법 시행령",
+      "slug": "국방과학기술혁신-촉진법-시행령",
+      "display": "국방과학기술혁신-촉진법-시행령",
+      "short": "국방과학기술혁신 촉진법 시행령",
+      "aliases": [
+        "국방과학기술혁신 촉진법 시행령"
+      ],
+      "type": "시행령",
+      "group": "방위사업",
+      "rank": 15,
+      "source": "api",
+      "api_file": "국방과학기술혁신 촉진법 시행령.json",
+      "confirmed_latest": true,
+      "api_mst": "287549"
+    },
+    {
+      "id": "DAPA_L_281003",
+      "title": "국방과학연구소법 시행령",
+      "slug": "국방과학연구소법-시행령",
+      "display": "국방과학연구소법-시행령",
+      "short": "국방과학연구소법 시행령",
+      "aliases": [
+        "국방과학연구소법 시행령"
+      ],
+      "type": "시행령",
+      "group": "방위사업",
+      "rank": 16,
+      "source": "api",
+      "api_file": "국방과학연구소법 시행령.json",
+      "confirmed_latest": true,
+      "api_mst": "281003"
+    },
+    {
+      "id": "DAPA_L_244197",
+      "title": "군용항공기 비행안전성 인증에 관한 법률 시행령",
+      "slug": "군용항공기-비행안전성-인증에-관한-법률-시행령",
+      "display": "군용항공기-비행안전성-인증에-관한-법률-시행령",
+      "short": "군용항공기 비행안전성 인증에 관한 법률 시행령",
+      "aliases": [
+        "군용항공기 비행안전성 인증에 관한 법률 시행령"
+      ],
+      "type": "시행령",
+      "group": "방위사업",
+      "rank": 17,
+      "source": "api",
+      "api_file": "군용항공기 비행안전성 인증에 관한 법률 시행령.json",
+      "confirmed_latest": true,
+      "api_mst": "244197"
+    },
+    {
+      "id": "DAPA_L_288759",
+      "title": "방위사업청과 그 소속기관 직제",
+      "slug": "방위사업청과-그-소속기관-직제",
+      "display": "방위사업청과-그-소속기관-직제",
+      "short": "방위사업청과 그 소속기관 직제",
+      "aliases": [
+        "방위사업청과 그 소속기관 직제"
+      ],
+      "type": "대통령령",
+      "group": "방위사업",
+      "rank": 18,
+      "source": "api",
+      "api_file": "방위사업청과 그 소속기관 직제.json",
+      "confirmed_latest": true,
+      "api_mst": "288759"
+    },
+    {
+      "id": "DAPA_L_289447",
+      "title": "방위산업 발전 및 지원에 관한 법률 시행령",
+      "slug": "방위산업-발전-및-지원에-관한-법률-시행령",
+      "display": "방위산업-발전-및-지원에-관한-법률-시행령",
+      "short": "방위산업 발전 및 지원에 관한 법률 시행령",
+      "aliases": [
+        "방위산업 발전 및 지원에 관한 법률 시행령"
+      ],
+      "type": "시행령",
+      "group": "방위사업",
+      "rank": 19,
+      "source": "api",
+      "api_file": "방위산업 발전 및 지원에 관한 법률 시행령.json",
+      "confirmed_latest": true,
+      "api_mst": "289447"
+    },
+    {
+      "id": "DAPA_L_290401",
+      "title": "방위산업기술 보호법 시행령",
+      "slug": "방위산업기술-보호법-시행령",
+      "display": "방위산업기술-보호법-시행령",
+      "short": "방위산업기술 보호법 시행령",
+      "aliases": [
+        "방위산업기술 보호법 시행령"
+      ],
+      "type": "시행령",
+      "group": "방위사업",
+      "rank": 20,
+      "source": "api",
+      "api_file": "방위산업기술 보호법 시행령.json",
+      "confirmed_latest": true,
+      "api_mst": "290401"
+    },
+    {
+      "id": "DAPA_L_230705",
+      "title": "국방과학기술혁신 촉진법 시행규칙",
+      "slug": "국방과학기술혁신-촉진법-시행규칙",
+      "display": "국방과학기술혁신-촉진법-시행규칙",
+      "short": "국방과학기술혁신 촉진법 시행규칙",
+      "aliases": [
+        "국방과학기술혁신 촉진법 시행규칙"
+      ],
+      "type": "시행규칙",
+      "group": "방위사업",
+      "rank": 21,
+      "source": "api",
+      "api_file": "국방과학기술혁신 촉진법 시행규칙.json",
+      "confirmed_latest": true,
+      "api_mst": "230705"
+    },
+    {
+      "id": "DAPA_L_210945",
+      "title": "군용항공기 비행안전성 인증에 관한 법률 시행규칙",
+      "slug": "군용항공기-비행안전성-인증에-관한-법률-시행규칙",
+      "display": "군용항공기-비행안전성-인증에-관한-법률-시행규칙",
+      "short": "군용항공기 비행안전성 인증에 관한 법률 시행규칙",
+      "aliases": [
+        "군용항공기 비행안전성 인증에 관한 법률 시행규칙"
+      ],
+      "type": "시행규칙",
+      "group": "방위사업",
+      "rank": 22,
+      "source": "api",
+      "api_file": "군용항공기 비행안전성 인증에 관한 법률 시행규칙.json",
+      "confirmed_latest": true,
+      "api_mst": "210945"
+    },
+    {
+      "id": "DAPA_L_283233",
+      "title": "방산원가대상물자의 원가계산에 관한 규칙",
+      "slug": "방산원가대상물자의-원가계산에-관한-규칙",
+      "display": "방산원가대상물자의-원가계산에-관한-규칙",
+      "short": "방산원가대상물자의 원가계산에 관한 규칙",
+      "aliases": [
+        "방산원가대상물자의 원가계산에 관한 규칙"
+      ],
+      "type": "부령",
+      "group": "방위사업",
+      "rank": 23,
+      "source": "api",
+      "api_file": "방산원가대상물자의 원가계산에 관한 규칙.json",
+      "confirmed_latest": true,
+      "api_mst": "283233"
+    },
+    {
+      "id": "DAPA_L_210539",
+      "title": "방위사업감독관 직무 등에 관한 규칙",
+      "slug": "방위사업감독관-직무-등에-관한-규칙",
+      "display": "방위사업감독관-직무-등에-관한-규칙",
+      "short": "방위사업감독관 직무 등에 관한 규칙",
+      "aliases": [
+        "방위사업감독관 직무 등에 관한 규칙"
+      ],
+      "type": "부령",
+      "group": "방위사업",
+      "rank": 24,
+      "source": "api",
+      "api_file": "방위사업감독관 직무 등에 관한 규칙.json",
+      "confirmed_latest": true,
+      "api_mst": "210539"
+    },
+    {
+      "id": "DAPA_L_288937",
+      "title": "방위사업청과 그 소속기관 직제 시행규칙",
+      "slug": "방위사업청과-그-소속기관-직제-시행규칙",
+      "display": "방위사업청과-그-소속기관-직제-시행규칙",
+      "short": "방위사업청과 그 소속기관 직제 시행규칙",
+      "aliases": [
+        "방위사업청과 그 소속기관 직제 시행규칙"
+      ],
+      "type": "시행규칙",
+      "group": "방위사업",
+      "rank": 25,
+      "source": "api",
+      "api_file": "방위사업청과 그 소속기관 직제 시행규칙.json",
+      "confirmed_latest": true,
+      "api_mst": "288937"
+    },
+    {
+      "id": "DAPA_L_286153",
+      "title": "방위산업 발전 및 지원에 관한 법률 시행규칙",
+      "slug": "방위산업-발전-및-지원에-관한-법률-시행규칙",
+      "display": "방위산업-발전-및-지원에-관한-법률-시행규칙",
+      "short": "방위산업 발전 및 지원에 관한 법률 시행규칙",
+      "aliases": [
+        "방위산업 발전 및 지원에 관한 법률 시행규칙"
+      ],
+      "type": "시행규칙",
+      "group": "방위사업",
+      "rank": 26,
+      "source": "api",
+      "api_file": "방위산업 발전 및 지원에 관한 법률 시행규칙.json",
+      "confirmed_latest": true,
+      "api_mst": "286153"
+    },
+    {
+      "id": "DAPA_L_289785",
+      "title": "방위산업기술 보호법 시행규칙",
+      "slug": "방위산업기술-보호법-시행규칙",
+      "display": "방위산업기술-보호법-시행규칙",
+      "short": "방위산업기술 보호법 시행규칙",
+      "aliases": [
+        "방위산업기술 보호법 시행규칙"
+      ],
+      "type": "시행규칙",
+      "group": "방위사업",
+      "rank": 27,
+      "source": "api",
+      "api_file": "방위산업기술 보호법 시행규칙.json",
+      "confirmed_latest": true,
+      "api_mst": "289785"
+    },
+    {
+      "id": "DAPA_L_282583",
+      "title": "방위산업에 관한 계약사무 처리규칙",
+      "slug": "방위산업에-관한-계약사무-처리규칙",
+      "display": "방위산업에-관한-계약사무-처리규칙",
+      "short": "방위산업에 관한 계약사무 처리규칙",
+      "aliases": [
+        "방위산업에 관한 계약사무 처리규칙"
+      ],
+      "type": "부령",
+      "group": "방위사업",
+      "rank": 28,
+      "source": "api",
+      "api_file": "방위산업에 관한 계약사무 처리규칙.json",
+      "confirmed_latest": true,
+      "api_mst": "282583"
+    },
+    {
+      "id": "DAPA_L_286201",
+      "title": "방위산업에 관한 착수금 및 중도금 지급규칙",
+      "slug": "방위산업에-관한-착수금-및-중도금-지급규칙",
+      "display": "방위산업에-관한-착수금-및-중도금-지급규칙",
+      "short": "방위산업에 관한 착수금 및 중도금 지급규칙",
+      "aliases": [
+        "방위산업에 관한 착수금 및 중도금 지급규칙"
+      ],
+      "type": "부령",
+      "group": "방위사업",
+      "rank": 29,
+      "source": "api",
+      "api_file": "방위산업에 관한 착수금 및 중도금 지급규칙.json",
+      "confirmed_latest": true,
+      "api_mst": "286201"
+    },
+    {
+      "id": "DAPA_A_2100000171270",
+      "title": "(방위사업청) 공무원 징계규정",
+      "slug": "방위사업청-공무원-징계규정",
+      "display": "방위사업청-공무원-징계규정",
+      "short": "(방위사업청) 공무원 징계규정",
+      "aliases": [
+        "(방위사업청) 공무원 징계규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 30,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 공무원 징계규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000171270"
+    },
+    {
+      "id": "DAPA_A_2100000264344",
+      "title": "(방위사업청) 공무직 및 기간제 근로자 관리규정",
+      "slug": "방위사업청-공무직-및-기간제-근로자-관리규정",
+      "display": "방위사업청-공무직-및-기간제-근로자-관리규정",
+      "short": "(방위사업청) 공무직 및 기간제 근로자 관리규정",
+      "aliases": [
+        "(방위사업청) 공무직 및 기간제 근로자 관리규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 31,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 공무직 및 기간제 근로자 관리규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000264344"
+    },
+    {
+      "id": "DAPA_A_2100000267644",
+      "title": "(방위사업청) 공익신고 처리 및 신고자 보호 등에 관한 규정",
+      "slug": "방위사업청-공익신고-처리-및-신고자-보호-등에-관한-규정",
+      "display": "방위사업청-공익신고-처리-및-신고자-보호-등에-관한-규정",
+      "short": "(방위사업청) 공익신고 처리 및 신고자 보호 등에 관한 규정",
+      "aliases": [
+        "(방위사업청) 공익신고 처리 및 신고자 보호 등에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 32,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 공익신고 처리 및 신고자 보호 등에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000267644"
+    },
+    {
+      "id": "DAPA_A_2100000171249",
+      "title": "(방위사업청) 멘토링 운영규정",
+      "slug": "방위사업청-멘토링-운영규정",
+      "display": "방위사업청-멘토링-운영규정",
+      "short": "(방위사업청) 멘토링 운영규정",
+      "aliases": [
+        "(방위사업청) 멘토링 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 33,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 멘토링 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000171249"
+    },
+    {
+      "id": "DAPA_A_2100000245608",
+      "title": "(방위사업청) 민·군기술협력사업 공동시행규정",
+      "slug": "방위사업청-민군기술협력사업-공동시행규정",
+      "display": "방위사업청-민군기술협력사업-공동시행규정",
+      "short": "(방위사업청) 민·군기술협력사업 공동시행규정",
+      "aliases": [
+        "(방위사업청) 민·군기술협력사업 공동시행규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 34,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 민·군기술협력사업 공동시행규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000245608"
+    },
+    {
+      "id": "DAPA_A_2100000182443",
+      "title": "(방위사업청) 보수조정심의위원회 운영규정",
+      "slug": "방위사업청-보수조정심의위원회-운영규정",
+      "display": "방위사업청-보수조정심의위원회-운영규정",
+      "short": "(방위사업청) 보수조정심의위원회 운영규정",
+      "aliases": [
+        "(방위사업청) 보수조정심의위원회 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 35,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 보수조정심의위원회 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000182443"
+    },
+    {
+      "id": "DAPA_A_2100000171276",
+      "title": "(방위사업청) 보직관리규정",
+      "slug": "방위사업청-보직관리규정",
+      "display": "방위사업청-보직관리규정",
+      "short": "(방위사업청) 보직관리규정",
+      "aliases": [
+        "(방위사업청) 보직관리규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 36,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 보직관리규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000171276"
+    },
+    {
+      "id": "DAPA_A_2100000196823",
+      "title": "(방위사업청) 소형무장헬기·소형민수헬기 연계개발사업 공동규정",
+      "slug": "방위사업청-소형무장헬기소형민수헬기-연계개발사업-공동규정",
+      "display": "방위사업청-소형무장헬기소형민수헬기-연계개발사업-공동규정",
+      "short": "(방위사업청) 소형무장헬기·소형민수헬기 연계개발사업 공동규정",
+      "aliases": [
+        "(방위사업청) 소형무장헬기·소형민수헬기 연계개발사업 공동규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 37,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 소형무장헬기·소형민수헬기 연계개발사업 공동규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000196823"
+    },
+    {
+      "id": "DAPA_A_2100000257908",
+      "title": "(방위사업청) 자체감사에 관한 규정",
+      "slug": "방위사업청-자체감사에-관한-규정",
+      "display": "방위사업청-자체감사에-관한-규정",
+      "short": "(방위사업청) 자체감사에 관한 규정",
+      "aliases": [
+        "(방위사업청) 자체감사에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 38,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 자체감사에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257908"
+    },
+    {
+      "id": "DAPA_A_2100000257914",
+      "title": "(방위사업청) 자체평가위원회 운영 규정",
+      "slug": "방위사업청-자체평가위원회-운영-규정",
+      "display": "방위사업청-자체평가위원회-운영-규정",
+      "short": "(방위사업청) 자체평가위원회 운영 규정",
+      "aliases": [
+        "(방위사업청) 자체평가위원회 운영 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 39,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 자체평가위원회 운영 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257914"
+    },
+    {
+      "id": "DAPA_A_2100000274582",
+      "title": "(방위사업청) 적극행정공무원의 징계절차에서의 소명 또는 소송 등에 관한 지원 지침",
+      "slug": "방위사업청-적극행정공무원의-징계절차에서의-소명-또는-소송-등에-관한-지원-지침",
+      "display": "방위사업청-적극행정공무원의-징계절차에서의-소명-또는-소송-등에-관한-지원-지침",
+      "short": "(방위사업청) 적극행정공무원의 징계절차에서의 소명 또는 소송 등에 관한 지원 지침",
+      "aliases": [
+        "(방위사업청) 적극행정공무원의 징계절차에서의 소명 또는 소송 등에 관한 지원 지침"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 40,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 적극행정공무원의 징계절차에서의 소명 또는 소송 등에 관한 지원 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274582"
+    },
+    {
+      "id": "DAPA_A_2100000228820",
+      "title": "(방위사업청) 적극행정위원회 운영규정",
+      "slug": "방위사업청-적극행정위원회-운영규정",
+      "display": "방위사업청-적극행정위원회-운영규정",
+      "short": "(방위사업청) 적극행정위원회 운영규정",
+      "aliases": [
+        "(방위사업청) 적극행정위원회 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 41,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 적극행정위원회 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000228820"
+    },
+    {
+      "id": "DAPA_A_2100000239696",
+      "title": "(방위사업청) 정보화 업무 처리 규정",
+      "slug": "방위사업청-정보화-업무-처리-규정",
+      "display": "방위사업청-정보화-업무-처리-규정",
+      "short": "(방위사업청) 정보화 업무 처리 규정",
+      "aliases": [
+        "(방위사업청) 정보화 업무 처리 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 42,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 정보화 업무 처리 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000239696"
+    },
+    {
+      "id": "DAPA_A_2100000257910",
+      "title": "(방위사업청) 정책연구관리 규정",
+      "slug": "방위사업청-정책연구관리-규정",
+      "display": "방위사업청-정책연구관리-규정",
+      "short": "(방위사업청) 정책연구관리 규정",
+      "aliases": [
+        "(방위사업청) 정책연구관리 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 43,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 정책연구관리 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257910"
+    },
+    {
+      "id": "DAPA_A_2100000277168",
+      "title": "(방위사업청) 조약 및 기관간 약정의 체결과 관리에 관한 규정",
+      "slug": "방위사업청-조약-및-기관간-약정의-체결과-관리에-관한-규정",
+      "display": "방위사업청-조약-및-기관간-약정의-체결과-관리에-관한-규정",
+      "short": "(방위사업청) 조약 및 기관간 약정의 체결과 관리에 관한 규정",
+      "aliases": [
+        "(방위사업청) 조약 및 기관간 약정의 체결과 관리에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 44,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 조약 및 기관간 약정의 체결과 관리에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000277168"
+    },
+    {
+      "id": "DAPA_A_2100000243736",
+      "title": "(방위사업청) 청원경찰 근무 훈령",
+      "slug": "방위사업청-청원경찰-근무-훈령",
+      "display": "방위사업청-청원경찰-근무-훈령",
+      "short": "(방위사업청) 청원경찰 근무 훈령",
+      "aliases": [
+        "(방위사업청) 청원경찰 근무 훈령"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 45,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 청원경찰 근무 훈령.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000243736"
+    },
+    {
+      "id": "DAPA_A_2100000206387",
+      "title": "(방위사업청) 청원경찰 징계 규정",
+      "slug": "방위사업청-청원경찰-징계-규정",
+      "display": "방위사업청-청원경찰-징계-규정",
+      "short": "(방위사업청) 청원경찰 징계 규정",
+      "aliases": [
+        "(방위사업청) 청원경찰 징계 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 46,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 청원경찰 징계 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000206387"
+    },
+    {
+      "id": "DAPA_A_2100000250590",
+      "title": "(방위사업청) 표창규정",
+      "slug": "방위사업청-표창규정",
+      "display": "방위사업청-표창규정",
+      "short": "(방위사업청) 표창규정",
+      "aliases": [
+        "(방위사업청) 표창규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 47,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 표창규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000250590"
+    },
+    {
+      "id": "DAPA_A_2100000182490",
+      "title": "(방위사업청) 행정서비스 헌장 운영 규정",
+      "slug": "방위사업청-행정서비스-헌장-운영-규정",
+      "display": "방위사업청-행정서비스-헌장-운영-규정",
+      "short": "(방위사업청) 행정서비스 헌장 운영 규정",
+      "aliases": [
+        "(방위사업청) 행정서비스 헌장 운영 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 48,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 행정서비스 헌장 운영 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000182490"
+    },
+    {
+      "id": "DAPA_A_2100000257944",
+      "title": "(방위사업청) 행정정보 공개 규정",
+      "slug": "방위사업청-행정정보-공개-규정",
+      "display": "방위사업청-행정정보-공개-규정",
+      "short": "(방위사업청) 행정정보 공개 규정",
+      "aliases": [
+        "(방위사업청) 행정정보 공개 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 49,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 행정정보 공개 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257944"
+    },
+    {
+      "id": "DAPA_A_2100000196824",
+      "title": "BSC 성과평가 운영규정",
+      "slug": "BSC-성과평가-운영규정",
+      "display": "BSC-성과평가-운영규정",
+      "short": "BSC 성과평가 운영규정",
+      "aliases": [
+        "BSC 성과평가 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 50,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "BSC 성과평가 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000196824"
+    },
+    {
+      "id": "DAPA_A_2100000237576",
+      "title": "공무국외출장 및 사적 국외여행 관리규정",
+      "slug": "공무국외출장-및-사적-국외여행-관리규정",
+      "display": "공무국외출장-및-사적-국외여행-관리규정",
+      "short": "공무국외출장 및 사적 국외여행 관리규정",
+      "aliases": [
+        "공무국외출장 및 사적 국외여행 관리규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 51,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "공무국외출장 및 사적 국외여행 관리규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000237576"
+    },
+    {
+      "id": "DAPA_A_2100000273174",
+      "title": "국방 양자암호통신·복합센서 기술개발 사업 운영관리 규정",
+      "slug": "국방-양자암호통신복합센서-기술개발-사업-운영관리-규정",
+      "display": "국방-양자암호통신복합센서-기술개발-사업-운영관리-규정",
+      "short": "국방 양자암호통신·복합센서 기술개발 사업 운영관리 규정",
+      "aliases": [
+        "국방 양자암호통신·복합센서 기술개발 사업 운영관리 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 52,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방 양자암호통신·복합센서 기술개발 사업 운영관리 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000273174"
+    },
+    {
+      "id": "DAPA_A_2100000275644",
+      "title": "국방기술품질원장·국방기술진흥연구소장 추천위원회 운영규정",
+      "slug": "국방기술품질원장국방기술진흥연구소장-추천위원회-운영규정",
+      "display": "국방기술품질원장국방기술진흥연구소장-추천위원회-운영규정",
+      "short": "국방기술품질원장·국방기술진흥연구소장 추천위원회 운영규정",
+      "aliases": [
+        "국방기술품질원장·국방기술진흥연구소장 추천위원회 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 53,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방기술품질원장·국방기술진흥연구소장 추천위원회 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000275644"
+    },
+    {
+      "id": "DAPA_A_2100000274594",
+      "title": "국방연구개발 시설·장비의 관리 등에 관한 규정",
+      "slug": "국방연구개발-시설장비의-관리-등에-관한-규정",
+      "display": "국방연구개발-시설장비의-관리-등에-관한-규정",
+      "short": "국방연구개발 시설·장비의 관리 등에 관한 규정",
+      "aliases": [
+        "국방연구개발 시설·장비의 관리 등에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 54,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방연구개발 시설·장비의 관리 등에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274594"
+    },
+    {
+      "id": "DAPA_A_2100000225990",
+      "title": "국방전자조달시스템 관리규정",
+      "slug": "국방전자조달시스템-관리규정",
+      "display": "국방전자조달시스템-관리규정",
+      "short": "국방전자조달시스템 관리규정",
+      "aliases": [
+        "국방전자조달시스템 관리규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 55,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방전자조달시스템 관리규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000225990"
+    },
+    {
+      "id": "DAPA_A_2100000272786",
+      "title": "국제경쟁력강화 지원사업 운영규정",
+      "slug": "국제경쟁력강화-지원사업-운영규정",
+      "display": "국제경쟁력강화-지원사업-운영규정",
+      "short": "국제경쟁력강화 지원사업 운영규정",
+      "aliases": [
+        "국제경쟁력강화 지원사업 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 56,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국제경쟁력강화 지원사업 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272786"
+    },
+    {
+      "id": "DAPA_A_2100000284496",
+      "title": "국제계약지원단 운영규정",
+      "slug": "국제계약지원단-운영규정",
+      "display": "국제계약지원단-운영규정",
+      "short": "국제계약지원단 운영규정",
+      "aliases": [
+        "국제계약지원단 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 57,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국제계약지원단 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000284496"
+    },
+    {
+      "id": "DAPA_A_2100000182498",
+      "title": "군수품 선택계약 업무처리 규정",
+      "slug": "군수품-선택계약-업무처리-규정",
+      "display": "군수품-선택계약-업무처리-규정",
+      "short": "군수품 선택계약 업무처리 규정",
+      "aliases": [
+        "군수품 선택계약 업무처리 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 58,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "군수품 선택계약 업무처리 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000182498"
+    },
+    {
+      "id": "DAPA_A_2100000285530",
+      "title": "군수품 조달의 조달청 위탁에 관한 공동훈령",
+      "slug": "군수품-조달의-조달청-위탁에-관한-공동훈령",
+      "display": "군수품-조달의-조달청-위탁에-관한-공동훈령",
+      "short": "군수품 조달의 조달청 위탁에 관한 공동훈령",
+      "aliases": [
+        "군수품 조달의 조달청 위탁에 관한 공동훈령"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 59,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000285530"
+    },
+    {
+      "id": "DAPA_A_2100000214044",
+      "title": "군용총포·도검·화약류 허가·감독에 관한 지침",
+      "slug": "군용총포도검화약류-허가감독에-관한-지침",
+      "display": "군용총포도검화약류-허가감독에-관한-지침",
+      "short": "군용총포·도검·화약류 허가·감독에 관한 지침",
+      "aliases": [
+        "군용총포·도검·화약류 허가·감독에 관한 지침"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 60,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "군용총포·도검·화약류 허가·감독에 관한 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000214044"
+    },
+    {
+      "id": "DAPA_A_2100000284782",
+      "title": "군용항공기 비행안전성 인증에 관한 업무규정",
+      "slug": "군용항공기-비행안전성-인증에-관한-업무규정",
+      "display": "군용항공기-비행안전성-인증에-관한-업무규정",
+      "short": "군용항공기 비행안전성 인증에 관한 업무규정",
+      "aliases": [
+        "군용항공기 비행안전성 인증에 관한 업무규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 61,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "군용항공기 비행안전성 인증에 관한 업무규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000284782"
+    },
+    {
+      "id": "DAPA_A_2100000284700",
+      "title": "군인 인사관리규정",
+      "slug": "군인-인사관리규정",
+      "display": "군인-인사관리규정",
+      "short": "군인 인사관리규정",
+      "aliases": [
+        "군인 인사관리규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 62,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "군인 인사관리규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000284700"
+    },
+    {
+      "id": "DAPA_A_2100000239706",
+      "title": "기록물 관리 규정",
+      "slug": "기록물-관리-규정",
+      "display": "기록물-관리-규정",
+      "short": "기록물 관리 규정",
+      "aliases": [
+        "기록물 관리 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 63,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "기록물 관리 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000239706"
+    },
+    {
+      "id": "DAPA_A_2100000247152",
+      "title": "기술성숙도평가 및 제조성숙도평가 업무처리규정",
+      "slug": "기술성숙도평가-및-제조성숙도평가-업무처리규정",
+      "display": "기술성숙도평가-및-제조성숙도평가-업무처리규정",
+      "short": "기술성숙도평가 및 제조성숙도평가 업무처리규정",
+      "aliases": [
+        "기술성숙도평가 및 제조성숙도평가 업무처리규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 64,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "기술성숙도평가 및 제조성숙도평가 업무처리규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000247152"
+    },
+    {
+      "id": "DAPA_A_2100000283930",
+      "title": "무기체계 부품국산화개발 관리규정",
+      "slug": "무기체계-부품국산화개발-관리규정",
+      "display": "무기체계-부품국산화개발-관리규정",
+      "short": "무기체계 부품국산화개발 관리규정",
+      "aliases": [
+        "무기체계 부품국산화개발 관리규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 65,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "무기체계 부품국산화개발 관리규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000283930"
+    },
+    {
+      "id": "DAPA_A_2100000274602",
+      "title": "무기체계 소프트웨어 개발 지원에 관한 규정",
+      "slug": "무기체계-소프트웨어-개발-지원에-관한-규정",
+      "display": "무기체계-소프트웨어-개발-지원에-관한-규정",
+      "short": "무기체계 소프트웨어 개발 지원에 관한 규정",
+      "aliases": [
+        "무기체계 소프트웨어 개발 지원에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 66,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "무기체계 소프트웨어 개발 지원에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274602"
+    },
+    {
+      "id": "DAPA_A_2100000285190",
+      "title": "방산 수출입 심사업무 훈령",
+      "slug": "방산-수출입-심사업무-훈령",
+      "display": "방산-수출입-심사업무-훈령",
+      "short": "방산 수출입 심사업무 훈령",
+      "aliases": [
+        "방산 수출입 심사업무 훈령"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 67,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산 수출입 심사업무 훈령.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000285190"
+    },
+    {
+      "id": "DAPA_A_2100000270522",
+      "title": "방산 중소기업 수출지원사업 운영 규정",
+      "slug": "방산-중소기업-수출지원사업-운영-규정",
+      "display": "방산-중소기업-수출지원사업-운영-규정",
+      "short": "방산 중소기업 수출지원사업 운영 규정",
+      "aliases": [
+        "방산 중소기업 수출지원사업 운영 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 68,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산 중소기업 수출지원사업 운영 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000270522"
+    },
+    {
+      "id": "DAPA_A_2100000270524",
+      "title": "방산 중소기업 지원사업 운영을 위한 위원회 운영규정",
+      "slug": "방산-중소기업-지원사업-운영을-위한-위원회-운영규정",
+      "display": "방산-중소기업-지원사업-운영을-위한-위원회-운영규정",
+      "short": "방산 중소기업 지원사업 운영을 위한 위원회 운영규정",
+      "aliases": [
+        "방산 중소기업 지원사업 운영을 위한 위원회 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 69,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산 중소기업 지원사업 운영을 위한 위원회 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000270524"
+    },
+    {
+      "id": "DAPA_A_2100000272968",
+      "title": "방산원가대상물자의 원가계산에 관한 시행세칙",
+      "slug": "방산원가대상물자의-원가계산에-관한-시행세칙",
+      "display": "방산원가대상물자의-원가계산에-관한-시행세칙",
+      "short": "방산원가대상물자의 원가계산에 관한 시행세칙",
+      "aliases": [
+        "방산원가대상물자의 원가계산에 관한 시행세칙"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 70,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산원가대상물자의 원가계산에 관한 시행세칙.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272968"
+    },
+    {
+      "id": "DAPA_A_2100000274588",
+      "title": "방산협력관 선발 및 관리규정",
+      "slug": "방산협력관-선발-및-관리규정",
+      "display": "방산협력관-선발-및-관리규정",
+      "short": "방산협력관 선발 및 관리규정",
+      "aliases": [
+        "방산협력관 선발 및 관리규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 71,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산협력관 선발 및 관리규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274588"
+    },
+    {
+      "id": "DAPA_A_2100000235076",
+      "title": "방산협력지원관 선발 및 운영에 관한 규정",
+      "slug": "방산협력지원관-선발-및-운영에-관한-규정",
+      "display": "방산협력지원관-선발-및-운영에-관한-규정",
+      "short": "방산협력지원관 선발 및 운영에 관한 규정",
+      "aliases": [
+        "방산협력지원관 선발 및 운영에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 72,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산협력지원관 선발 및 운영에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000235076"
+    },
+    {
+      "id": "DAPA_A_2100000257638",
+      "title": "방위력개선사업 예산운용규정",
+      "slug": "방위력개선사업-예산운용규정",
+      "display": "방위력개선사업-예산운용규정",
+      "short": "방위력개선사업 예산운용규정",
+      "aliases": [
+        "방위력개선사업 예산운용규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 73,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위력개선사업 예산운용규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257638"
+    },
+    {
+      "id": "DAPA_A_2100000275470",
+      "title": "방위사업 감독규정",
+      "slug": "방위사업-감독규정",
+      "display": "방위사업-감독규정",
+      "short": "방위사업 감독규정",
+      "aliases": [
+        "방위사업 감독규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 74,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업 감독규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000275470"
+    },
+    {
+      "id": "DAPA_A_2100000285644",
+      "title": "방위사업 품질관리 규정",
+      "slug": "방위사업-품질관리-규정",
+      "display": "방위사업-품질관리-규정",
+      "short": "방위사업 품질관리 규정",
+      "aliases": [
+        "방위사업 품질관리 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 75,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업 품질관리 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000285644"
+    },
+    {
+      "id": "DAPA_A_2100000282654",
+      "title": "방위사업교육원 운영에 관한 규정",
+      "slug": "방위사업교육원-운영에-관한-규정",
+      "display": "방위사업교육원-운영에-관한-규정",
+      "short": "방위사업교육원 운영에 관한 규정",
+      "aliases": [
+        "방위사업교육원 운영에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 76,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업교육원 운영에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000282654"
+    },
+    {
+      "id": "DAPA_A_2100000236952",
+      "title": "방위사업에 관한 홍보 규정",
+      "slug": "방위사업에-관한-홍보-규정",
+      "display": "방위사업에-관한-홍보-규정",
+      "short": "방위사업에 관한 홍보 규정",
+      "aliases": [
+        "방위사업에 관한 홍보 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 77,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업에 관한 홍보 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000236952"
+    },
+    {
+      "id": "DAPA_A_2100000282676",
+      "title": "방위사업청 계약심의위원회 운영 규정",
+      "slug": "방위사업청-계약심의위원회-운영-규정",
+      "display": "방위사업청-계약심의위원회-운영-규정",
+      "short": "방위사업청 계약심의위원회 운영 규정",
+      "aliases": [
+        "방위사업청 계약심의위원회 운영 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 78,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 계약심의위원회 운영 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000282676"
+    },
+    {
+      "id": "DAPA_A_2100000284778",
+      "title": "방위사업청 공무원 인사운영규정",
+      "slug": "방위사업청-공무원-인사운영규정",
+      "display": "방위사업청-공무원-인사운영규정",
+      "short": "방위사업청 공무원 인사운영규정",
+      "aliases": [
+        "방위사업청 공무원 인사운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 79,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 공무원 인사운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000284778"
+    },
+    {
+      "id": "DAPA_A_2100000239692",
+      "title": "방위사업청 공무원 제안 제도 운영 규정",
+      "slug": "방위사업청-공무원-제안-제도-운영-규정",
+      "display": "방위사업청-공무원-제안-제도-운영-규정",
+      "short": "방위사업청 공무원 제안 제도 운영 규정",
+      "aliases": [
+        "방위사업청 공무원 제안 제도 운영 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 80,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 공무원 제안 제도 운영 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000239692"
+    },
+    {
+      "id": "DAPA_A_2100000247908",
+      "title": "방위사업청 공무원 행동강령",
+      "slug": "방위사업청-공무원-행동강령",
+      "display": "방위사업청-공무원-행동강령",
+      "short": "방위사업청 공무원 행동강령",
+      "aliases": [
+        "방위사업청 공무원 행동강령"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 81,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 공무원 행동강령.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000247908"
+    },
+    {
+      "id": "DAPA_A_2100000210108",
+      "title": "방위사업청 공무원의 부동산 신규취득 제한에 관한 지침",
+      "slug": "방위사업청-공무원의-부동산-신규취득-제한에-관한-지침",
+      "display": "방위사업청-공무원의-부동산-신규취득-제한에-관한-지침",
+      "short": "방위사업청 공무원의 부동산 신규취득 제한에 관한 지침",
+      "aliases": [
+        "방위사업청 공무원의 부동산 신규취득 제한에 관한 지침"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 82,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 공무원의 부동산 신규취득 제한에 관한 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000210108"
+    },
+    {
+      "id": "DAPA_A_2100000196063",
+      "title": "방위사업청 공무원의 주식거래 제한에 관한 지침",
+      "slug": "방위사업청-공무원의-주식거래-제한에-관한-지침",
+      "display": "방위사업청-공무원의-주식거래-제한에-관한-지침",
+      "short": "방위사업청 공무원의 주식거래 제한에 관한 지침",
+      "aliases": [
+        "방위사업청 공무원의 주식거래 제한에 관한 지침"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 83,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 공무원의 주식거래 제한에 관한 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000196063"
+    },
+    {
+      "id": "DAPA_A_2100000247910",
+      "title": "방위사업청 공직자의 이해충돌 방지제도 운영지침",
+      "slug": "방위사업청-공직자의-이해충돌-방지제도-운영지침",
+      "display": "방위사업청-공직자의-이해충돌-방지제도-운영지침",
+      "short": "방위사업청 공직자의 이해충돌 방지제도 운영지침",
+      "aliases": [
+        "방위사업청 공직자의 이해충돌 방지제도 운영지침"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 84,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 공직자의 이해충돌 방지제도 운영지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000247910"
+    },
+    {
+      "id": "DAPA_A_2100000182352",
+      "title": "방위사업청 기업민원 보호·서비스 헌장 운영규정",
+      "slug": "방위사업청-기업민원-보호서비스-헌장-운영규정",
+      "display": "방위사업청-기업민원-보호서비스-헌장-운영규정",
+      "short": "방위사업청 기업민원 보호·서비스 헌장 운영규정",
+      "aliases": [
+        "방위사업청 기업민원 보호·서비스 헌장 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 85,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 기업민원 보호·서비스 헌장 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000182352"
+    },
+    {
+      "id": "DAPA_A_2100000216972",
+      "title": "방위사업청 내 위원회의 투명한 운영에 관한 규정",
+      "slug": "방위사업청-내-위원회의-투명한-운영에-관한-규정",
+      "display": "방위사업청-내-위원회의-투명한-운영에-관한-규정",
+      "short": "방위사업청 내 위원회의 투명한 운영에 관한 규정",
+      "aliases": [
+        "방위사업청 내 위원회의 투명한 운영에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 86,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 내 위원회의 투명한 운영에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000216972"
+    },
+    {
+      "id": "DAPA_A_2100000257948",
+      "title": "방위사업청 노사협의회 운영규정",
+      "slug": "방위사업청-노사협의회-운영규정",
+      "display": "방위사업청-노사협의회-운영규정",
+      "short": "방위사업청 노사협의회 운영규정",
+      "aliases": [
+        "방위사업청 노사협의회 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 87,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 노사협의회 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257948"
+    },
+    {
+      "id": "DAPA_A_2100000239694",
+      "title": "방위사업청 데이터 품질관리 규정",
+      "slug": "방위사업청-데이터-품질관리-규정",
+      "display": "방위사업청-데이터-품질관리-규정",
+      "short": "방위사업청 데이터 품질관리 규정",
+      "aliases": [
+        "방위사업청 데이터 품질관리 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 88,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 데이터 품질관리 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000239694"
+    },
+    {
+      "id": "DAPA_A_2100000194194",
+      "title": "방위사업청 부정청탁 및 금품등 수수의 신고사무 처리지침",
+      "slug": "방위사업청-부정청탁-및-금품등-수수의-신고사무-처리지침",
+      "display": "방위사업청-부정청탁-및-금품등-수수의-신고사무-처리지침",
+      "short": "방위사업청 부정청탁 및 금품등 수수의 신고사무 처리지침",
+      "aliases": [
+        "방위사업청 부정청탁 및 금품등 수수의 신고사무 처리지침"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 89,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 부정청탁 및 금품등 수수의 신고사무 처리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000194194"
+    },
+    {
+      "id": "DAPA_A_2100000201147",
+      "title": "방위사업청 사전컨설팅 운영규정",
+      "slug": "방위사업청-사전컨설팅-운영규정",
+      "display": "방위사업청-사전컨설팅-운영규정",
+      "short": "방위사업청 사전컨설팅 운영규정",
+      "aliases": [
+        "방위사업청 사전컨설팅 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 90,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 사전컨설팅 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000201147"
+    },
+    {
+      "id": "DAPA_A_2100000274964",
+      "title": "방위사업청 산하 출연기관 업무감독 규정",
+      "slug": "방위사업청-산하-출연기관-업무감독-규정",
+      "display": "방위사업청-산하-출연기관-업무감독-규정",
+      "short": "방위사업청 산하 출연기관 업무감독 규정",
+      "aliases": [
+        "방위사업청 산하 출연기관 업무감독 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 91,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 산하 출연기관 업무감독 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274964"
+    },
+    {
+      "id": "DAPA_A_2100000283954",
+      "title": "방위사업청 소속기관의 하부조직 편성에 관한 규정",
+      "slug": "방위사업청-소속기관의-하부조직-편성에-관한-규정",
+      "display": "방위사업청-소속기관의-하부조직-편성에-관한-규정",
+      "short": "방위사업청 소속기관의 하부조직 편성에 관한 규정",
+      "aliases": [
+        "방위사업청 소속기관의 하부조직 편성에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 92,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 소속기관의 하부조직 편성에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000283954"
+    },
+    {
+      "id": "DAPA_A_2100000284884",
+      "title": "방위사업청 정책자문위원회 규정",
+      "slug": "방위사업청-정책자문위원회-규정",
+      "display": "방위사업청-정책자문위원회-규정",
+      "short": "방위사업청 정책자문위원회 규정",
+      "aliases": [
+        "방위사업청 정책자문위원회 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 93,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 정책자문위원회 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000284884"
+    },
+    {
+      "id": "DAPA_A_2100000276000",
+      "title": "방위사업청 중앙사고수습본부의 구성 및 운영 등에 관한 규정",
+      "slug": "방위사업청-중앙사고수습본부의-구성-및-운영-등에-관한-규정",
+      "display": "방위사업청-중앙사고수습본부의-구성-및-운영-등에-관한-규정",
+      "short": "방위사업청 중앙사고수습본부의 구성 및 운영 등에 관한 규정",
+      "aliases": [
+        "방위사업청 중앙사고수습본부의 구성 및 운영 등에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 94,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 중앙사고수습본부의 구성 및 운영 등에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000276000"
+    },
+    {
+      "id": "DAPA_A_2100000211680",
+      "title": "방위사업청 청렴 및 이해충돌방지 자문위원회 운영규정",
+      "slug": "방위사업청-청렴-및-이해충돌방지-자문위원회-운영규정",
+      "display": "방위사업청-청렴-및-이해충돌방지-자문위원회-운영규정",
+      "short": "방위사업청 청렴 및 이해충돌방지 자문위원회 운영규정",
+      "aliases": [
+        "방위사업청 청렴 및 이해충돌방지 자문위원회 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 95,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 청렴 및 이해충돌방지 자문위원회 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000211680"
+    },
+    {
+      "id": "DAPA_A_2100000274624",
+      "title": "방위사업청 청원심의회 운영규정",
+      "slug": "방위사업청-청원심의회-운영규정",
+      "display": "방위사업청-청원심의회-운영규정",
+      "short": "방위사업청 청원심의회 운영규정",
+      "aliases": [
+        "방위사업청 청원심의회 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 96,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 청원심의회 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274624"
+    },
+    {
+      "id": "DAPA_A_2100000279028",
+      "title": "방위사업청 특별성과 포상금 제도 운영규정",
+      "slug": "방위사업청-특별성과-포상금-제도-운영규정",
+      "display": "방위사업청-특별성과-포상금-제도-운영규정",
+      "short": "방위사업청 특별성과 포상금 제도 운영규정",
+      "aliases": [
+        "방위사업청 특별성과 포상금 제도 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 97,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 특별성과 포상금 제도 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000279028"
+    },
+    {
+      "id": "DAPA_A_2100000206388",
+      "title": "방위사업청 회계관계공무원 재정보증 규정",
+      "slug": "방위사업청-회계관계공무원-재정보증-규정",
+      "display": "방위사업청-회계관계공무원-재정보증-규정",
+      "short": "방위사업청 회계관계공무원 재정보증 규정",
+      "aliases": [
+        "방위사업청 회계관계공무원 재정보증 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 98,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 회계관계공무원 재정보증 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000206388"
+    },
+    {
+      "id": "DAPA_A_2100000191082",
+      "title": "방위사업청 후원명칭 사용승인에 관한 규정",
+      "slug": "방위사업청-후원명칭-사용승인에-관한-규정",
+      "display": "방위사업청-후원명칭-사용승인에-관한-규정",
+      "short": "방위사업청 후원명칭 사용승인에 관한 규정",
+      "aliases": [
+        "방위사업청 후원명칭 사용승인에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 99,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 후원명칭 사용승인에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000191082"
+    },
+    {
+      "id": "DAPA_A_2100000275626",
+      "title": "방위사업청과 그 소속기관 위임전결 규정",
+      "slug": "방위사업청과-그-소속기관-위임전결-규정",
+      "display": "방위사업청과-그-소속기관-위임전결-규정",
+      "short": "방위사업청과 그 소속기관 위임전결 규정",
+      "aliases": [
+        "방위사업청과 그 소속기관 위임전결 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 100,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청과 그 소속기관 위임전결 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000275626"
+    },
+    {
+      "id": "DAPA_A_2100000273186",
+      "title": "방위산업 전문인력 양성지원 사업 운영규정",
+      "slug": "방위산업-전문인력-양성지원-사업-운영규정",
+      "display": "방위산업-전문인력-양성지원-사업-운영규정",
+      "short": "방위산업 전문인력 양성지원 사업 운영규정",
+      "aliases": [
+        "방위산업 전문인력 양성지원 사업 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 101,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업 전문인력 양성지원 사업 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000273186"
+    },
+    {
+      "id": "DAPA_A_2100000281134",
+      "title": "방위산업 진입을 위한 지원사업 공통운영규정",
+      "slug": "방위산업-진입을-위한-지원사업-공통운영규정",
+      "display": "방위산업-진입을-위한-지원사업-공통운영규정",
+      "short": "방위산업 진입을 위한 지원사업 공통운영규정",
+      "aliases": [
+        "방위산업 진입을 위한 지원사업 공통운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 102,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업 진입을 위한 지원사업 공통운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000281134"
+    },
+    {
+      "id": "DAPA_A_2100000171533",
+      "title": "방위산업기술 보호 유공자 포상규정",
+      "slug": "방위산업기술-보호-유공자-포상규정",
+      "display": "방위산업기술-보호-유공자-포상규정",
+      "short": "방위산업기술 보호 유공자 포상규정",
+      "aliases": [
+        "방위산업기술 보호 유공자 포상규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 103,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업기술 보호 유공자 포상규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000171533"
+    },
+    {
+      "id": "DAPA_A_2100000283172",
+      "title": "방위산업기술 보호지침",
+      "slug": "방위산업기술-보호지침",
+      "display": "방위산업기술-보호지침",
+      "short": "방위산업기술 보호지침",
+      "aliases": [
+        "방위산업기술 보호지침"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 104,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업기술 보호지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000283172"
+    },
+    {
+      "id": "DAPA_A_2100000211681",
+      "title": "방위산업기술 보호체계 구축 지원사업 운영규정",
+      "slug": "방위산업기술-보호체계-구축-지원사업-운영규정",
+      "display": "방위산업기술-보호체계-구축-지원사업-운영규정",
+      "short": "방위산업기술 보호체계 구축 지원사업 운영규정",
+      "aliases": [
+        "방위산업기술 보호체계 구축 지원사업 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 105,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업기술 보호체계 구축 지원사업 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000211681"
+    },
+    {
+      "id": "DAPA_A_2100000272962",
+      "title": "방위산업물자 및 방위산업체 지정 규정",
+      "slug": "방위산업물자-및-방위산업체-지정-규정",
+      "display": "방위산업물자-및-방위산업체-지정-규정",
+      "short": "방위산업물자 및 방위산업체 지정 규정",
+      "aliases": [
+        "방위산업물자 및 방위산업체 지정 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 106,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업물자 및 방위산업체 지정 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272962"
+    },
+    {
+      "id": "DAPA_A_2100000217874",
+      "title": "방위산업에 관한 계약사무처리 시행세칙",
+      "slug": "방위산업에-관한-계약사무처리-시행세칙",
+      "display": "방위산업에-관한-계약사무처리-시행세칙",
+      "short": "방위산업에 관한 계약사무처리 시행세칙",
+      "aliases": [
+        "방위산업에 관한 계약사무처리 시행세칙"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 107,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업에 관한 계약사무처리 시행세칙.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000217874"
+    },
+    {
+      "id": "DAPA_A_2100000257920",
+      "title": "방위산업에 관한 착수금 및 중도금 지급세칙",
+      "slug": "방위산업에-관한-착수금-및-중도금-지급세칙",
+      "display": "방위산업에-관한-착수금-및-중도금-지급세칙",
+      "short": "방위산업에 관한 착수금 및 중도금 지급세칙",
+      "aliases": [
+        "방위산업에 관한 착수금 및 중도금 지급세칙"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 108,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업에 관한 착수금 및 중도금 지급세칙.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257920"
+    },
+    {
+      "id": "DAPA_A_2100000250532",
+      "title": "법무운영 규정",
+      "slug": "법무운영-규정",
+      "display": "법무운영-규정",
+      "short": "법무운영 규정",
+      "aliases": [
+        "법무운영 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 109,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "법무운영 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000250532"
+    },
+    {
+      "id": "DAPA_A_2100000190001",
+      "title": "부정청구등 신고 처리 및 신고자 보호 등에 관한 규정",
+      "slug": "부정청구등-신고-처리-및-신고자-보호-등에-관한-규정",
+      "display": "부정청구등-신고-처리-및-신고자-보호-등에-관한-규정",
+      "short": "부정청구등 신고 처리 및 신고자 보호 등에 관한 규정",
+      "aliases": [
+        "부정청구등 신고 처리 및 신고자 보호 등에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 110,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "부정청구등 신고 처리 및 신고자 보호 등에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000190001"
+    },
+    {
+      "id": "DAPA_A_2100000230938",
+      "title": "부패신고 처리 및 신고자 보호 등에 관한 규정",
+      "slug": "부패신고-처리-및-신고자-보호-등에-관한-규정",
+      "display": "부패신고-처리-및-신고자-보호-등에-관한-규정",
+      "short": "부패신고 처리 및 신고자 보호 등에 관한 규정",
+      "aliases": [
+        "부패신고 처리 및 신고자 보호 등에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 111,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "부패신고 처리 및 신고자 보호 등에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000230938"
+    },
+    {
+      "id": "DAPA_A_2100000274610",
+      "title": "상소자문단 운영규정",
+      "slug": "상소자문단-운영규정",
+      "display": "상소자문단-운영규정",
+      "short": "상소자문단 운영규정",
+      "aliases": [
+        "상소자문단 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 112,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "상소자문단 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274610"
+    },
+    {
+      "id": "DAPA_A_2100000274562",
+      "title": "연구개발 장려금 지급규정",
+      "slug": "연구개발-장려금-지급규정",
+      "display": "연구개발-장려금-지급규정",
+      "short": "연구개발 장려금 지급규정",
+      "aliases": [
+        "연구개발 장려금 지급규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 113,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "연구개발 장려금 지급규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274562"
+    },
+    {
+      "id": "DAPA_A_2100000282596",
+      "title": "옴부즈만 제도 운영에 관한 규정",
+      "slug": "옴부즈만-제도-운영에-관한-규정",
+      "display": "옴부즈만-제도-운영에-관한-규정",
+      "short": "옴부즈만 제도 운영에 관한 규정",
+      "aliases": [
+        "옴부즈만 제도 운영에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 114,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "옴부즈만 제도 운영에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000282596"
+    },
+    {
+      "id": "DAPA_A_2100000209595",
+      "title": "육아휴직 결원보충 활성화를 위한 방위사업청과 그 소속기관에 두는 별도정원 운영 규정",
+      "slug": "육아휴직-결원보충-활성화를-위한-방위사업청과-그-소속기관에-두는-별도정원-운영-규정",
+      "display": "육아휴직-결원보충-활성화를-위한-방위사업청과-그-소속기관에-두는-별도정원-운영-규정",
+      "short": "육아휴직 결원보충 활성화를 위한 방위사업청과 그 소속기관에 두는 별도정원 운영 규정",
+      "aliases": [
+        "육아휴직 결원보충 활성화를 위한 방위사업청과 그 소속기관에 두는 별도정원 운영 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 115,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "육아휴직 결원보충 활성화를 위한 방위사업청과 그 소속기관에 두는 별도정원 운영 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000209595"
+    },
+    {
+      "id": "DAPA_A_2100000206390",
+      "title": "인력구조개편추진위원회 설치 및 운영에 관한 규정",
+      "slug": "인력구조개편추진위원회-설치-및-운영에-관한-규정",
+      "display": "인력구조개편추진위원회-설치-및-운영에-관한-규정",
+      "short": "인력구조개편추진위원회 설치 및 운영에 관한 규정",
+      "aliases": [
+        "인력구조개편추진위원회 설치 및 운영에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 116,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "인력구조개편추진위원회 설치 및 운영에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000206390"
+    },
+    {
+      "id": "DAPA_A_2100000284482",
+      "title": "자율기구 국방반도체인공지능과 설치 및 운영에 관한 규정",
+      "slug": "자율기구-국방반도체인공지능과-설치-및-운영에-관한-규정",
+      "display": "자율기구-국방반도체인공지능과-설치-및-운영에-관한-규정",
+      "short": "자율기구 국방반도체인공지능과 설치 및 운영에 관한 규정",
+      "aliases": [
+        "자율기구 국방반도체인공지능과 설치 및 운영에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 117,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "자율기구 국방반도체인공지능과 설치 및 운영에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000284482"
+    },
+    {
+      "id": "DAPA_A_2100000284484",
+      "title": "자율기구 방위사업AI기획담당관 설치 및 운영에 관한 규정",
+      "slug": "자율기구-방위사업AI기획담당관-설치-및-운영에-관한-규정",
+      "display": "자율기구-방위사업AI기획담당관-설치-및-운영에-관한-규정",
+      "short": "자율기구 방위사업AI기획담당관 설치 및 운영에 관한 규정",
+      "aliases": [
+        "자율기구 방위사업AI기획담당관 설치 및 운영에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 118,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "자율기구 방위사업AI기획담당관 설치 및 운영에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000284484"
+    },
+    {
+      "id": "DAPA_A_2100000279026",
+      "title": "전력화지원요소 및 하도급계약 등의 원가계산에 관한 규정",
+      "slug": "전력화지원요소-및-하도급계약-등의-원가계산에-관한-규정",
+      "display": "전력화지원요소-및-하도급계약-등의-원가계산에-관한-규정",
+      "short": "전력화지원요소 및 하도급계약 등의 원가계산에 관한 규정",
+      "aliases": [
+        "전력화지원요소 및 하도급계약 등의 원가계산에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 119,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "전력화지원요소 및 하도급계약 등의 원가계산에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000279026"
+    },
+    {
+      "id": "DAPA_A_2100000257912",
+      "title": "전문연구기관 위촉 및 해지 규정",
+      "slug": "전문연구기관-위촉-및-해지-규정",
+      "display": "전문연구기관-위촉-및-해지-규정",
+      "short": "전문연구기관 위촉 및 해지 규정",
+      "aliases": [
+        "전문연구기관 위촉 및 해지 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 120,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "전문연구기관 위촉 및 해지 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257912"
+    },
+    {
+      "id": "DAPA_A_2100000240228",
+      "title": "정책심의회의 운영 규정",
+      "slug": "정책심의회의-운영-규정",
+      "display": "정책심의회의-운영-규정",
+      "short": "정책심의회의 운영 규정",
+      "aliases": [
+        "정책심의회의 운영 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 121,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "정책심의회의 운영 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000240228"
+    },
+    {
+      "id": "DAPA_A_2100000274604",
+      "title": "조직·정원관리 및 파트리더 설치 운영규정",
+      "slug": "조직정원관리-및-파트리더-설치-운영규정",
+      "display": "조직정원관리-및-파트리더-설치-운영규정",
+      "short": "조직·정원관리 및 파트리더 설치 운영규정",
+      "aliases": [
+        "조직·정원관리 및 파트리더 설치 운영규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 122,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "조직·정원관리 및 파트리더 설치 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274604"
+    },
+    {
+      "id": "DAPA_A_2100000283408",
+      "title": "패키지시설사업 관리규정",
+      "slug": "패키지시설사업-관리규정",
+      "display": "패키지시설사업-관리규정",
+      "short": "패키지시설사업 관리규정",
+      "aliases": [
+        "패키지시설사업 관리규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 123,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "패키지시설사업 관리규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000283408"
+    },
+    {
+      "id": "DAPA_A_2100000282774",
+      "title": "표준화 업무규정",
+      "slug": "표준화-업무규정",
+      "display": "표준화-업무규정",
+      "short": "표준화 업무규정",
+      "aliases": [
+        "표준화 업무규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 124,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "표준화 업무규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000282774"
+    },
+    {
+      "id": "DAPA_A_2100000197489",
+      "title": "회계관계공무원 등의 지정과 임면의 위임에 관한 규정",
+      "slug": "회계관계공무원-등의-지정과-임면의-위임에-관한-규정",
+      "display": "회계관계공무원-등의-지정과-임면의-위임에-관한-규정",
+      "short": "회계관계공무원 등의 지정과 임면의 위임에 관한 규정",
+      "aliases": [
+        "회계관계공무원 등의 지정과 임면의 위임에 관한 규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 125,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "회계관계공무원 등의 지정과 임면의 위임에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000197489"
+    },
+    {
+      "id": "DAPA_A_2100000274576",
+      "title": "회계처리 및 구분회계 기준에 관한 훈령",
+      "slug": "회계처리-및-구분회계-기준에-관한-훈령",
+      "display": "회계처리-및-구분회계-기준에-관한-훈령",
+      "short": "회계처리 및 구분회계 기준에 관한 훈령",
+      "aliases": [
+        "회계처리 및 구분회계 기준에 관한 훈령"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 126,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "회계처리 및 구분회계 기준에 관한 훈령.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274576"
+    },
+    {
+      "id": "DAPA_A_2100000275698",
+      "title": "획득단계 수명주기관리규정",
+      "slug": "획득단계-수명주기관리규정",
+      "display": "획득단계-수명주기관리규정",
+      "short": "획득단계 수명주기관리규정",
+      "aliases": [
+        "획득단계 수명주기관리규정"
+      ],
+      "type": "훈령",
+      "group": "방위사업",
+      "rank": 127,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "획득단계 수명주기관리규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000275698"
+    },
+    {
+      "id": "DAPA_A_2100000236046",
+      "title": "(방위사업청) 성희롱·성폭력 예방 및 2차 피해 방지 지침",
+      "slug": "방위사업청-성희롱성폭력-예방-및-2차-피해-방지-지침",
+      "display": "방위사업청-성희롱성폭력-예방-및-2차-피해-방지-지침",
+      "short": "(방위사업청) 성희롱·성폭력 예방 및 2차 피해 방지 지침",
+      "aliases": [
+        "(방위사업청) 성희롱·성폭력 예방 및 2차 피해 방지 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 128,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(방위사업청) 성희롱·성폭력 예방 및 2차 피해 방지 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000236046"
+    },
+    {
+      "id": "DAPA_A_2100000282652",
+      "title": "계약변경업무 처리지침",
+      "slug": "계약변경업무-처리지침",
+      "display": "계약변경업무-처리지침",
+      "short": "계약변경업무 처리지침",
+      "aliases": [
+        "계약변경업무 처리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 129,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "계약변경업무 처리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000282652"
+    },
+    {
+      "id": "DAPA_A_2100000242140",
+      "title": "과학적사업관리 수행지침",
+      "slug": "과학적사업관리-수행지침",
+      "display": "과학적사업관리-수행지침",
+      "short": "과학적사업관리 수행지침",
+      "aliases": [
+        "과학적사업관리 수행지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 130,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "과학적사업관리 수행지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000242140"
+    },
+    {
+      "id": "DAPA_A_2100000274664",
+      "title": "국방과학기술 정보관리 업무지침",
+      "slug": "국방과학기술-정보관리-업무지침",
+      "display": "국방과학기술-정보관리-업무지침",
+      "short": "국방과학기술 정보관리 업무지침",
+      "aliases": [
+        "국방과학기술 정보관리 업무지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 131,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방과학기술 정보관리 업무지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274664"
+    },
+    {
+      "id": "DAPA_A_2100000274666",
+      "title": "국방기술 연구개발 업무처리지침",
+      "slug": "국방기술-연구개발-업무처리지침",
+      "display": "국방기술-연구개발-업무처리지침",
+      "short": "국방기술 연구개발 업무처리지침",
+      "aliases": [
+        "국방기술 연구개발 업무처리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 132,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방기술 연구개발 업무처리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274666"
+    },
+    {
+      "id": "DAPA_A_2100000254594",
+      "title": "국방반도체 핵심기술 연구개발 업무처리지침",
+      "slug": "국방반도체-핵심기술-연구개발-업무처리지침",
+      "display": "국방반도체-핵심기술-연구개발-업무처리지침",
+      "short": "국방반도체 핵심기술 연구개발 업무처리지침",
+      "aliases": [
+        "국방반도체 핵심기술 연구개발 업무처리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 133,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방반도체 핵심기술 연구개발 업무처리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000254594"
+    },
+    {
+      "id": "DAPA_A_2100000268078",
+      "title": "국방전자조달시스템 이용에 관한 약관",
+      "slug": "국방전자조달시스템-이용에-관한-약관",
+      "display": "국방전자조달시스템-이용에-관한-약관",
+      "short": "국방전자조달시스템 이용에 관한 약관",
+      "aliases": [
+        "국방전자조달시스템 이용에 관한 약관"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 134,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방전자조달시스템 이용에 관한 약관.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000268078"
+    },
+    {
+      "id": "DAPA_A_2100000257928",
+      "title": "국방전자조달시스템 전자계약 사무처리 지침",
+      "slug": "국방전자조달시스템-전자계약-사무처리-지침",
+      "display": "국방전자조달시스템-전자계약-사무처리-지침",
+      "short": "국방전자조달시스템 전자계약 사무처리 지침",
+      "aliases": [
+        "국방전자조달시스템 전자계약 사무처리 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 135,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방전자조달시스템 전자계약 사무처리 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257928"
+    },
+    {
+      "id": "DAPA_A_2100000268018",
+      "title": "국방전자조달시스템 전자입찰 특별유의서",
+      "slug": "국방전자조달시스템-전자입찰-특별유의서",
+      "display": "국방전자조달시스템-전자입찰-특별유의서",
+      "short": "국방전자조달시스템 전자입찰 특별유의서",
+      "aliases": [
+        "국방전자조달시스템 전자입찰 특별유의서"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 136,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방전자조달시스템 전자입찰 특별유의서.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000268018"
+    },
+    {
+      "id": "DAPA_A_2100000281474",
+      "title": "국외 상업구매 업무지침",
+      "slug": "국외-상업구매-업무지침",
+      "display": "국외-상업구매-업무지침",
+      "short": "국외 상업구매 업무지침",
+      "aliases": [
+        "국외 상업구매 업무지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 137,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외 상업구매 업무지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000281474"
+    },
+    {
+      "id": "DAPA_A_2100000233526",
+      "title": "국외사업 현장감독관 선발 및 운영 지침",
+      "slug": "국외사업-현장감독관-선발-및-운영-지침",
+      "display": "국외사업-현장감독관-선발-및-운영-지침",
+      "short": "국외사업 현장감독관 선발 및 운영 지침",
+      "aliases": [
+        "국외사업 현장감독관 선발 및 운영 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 138,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외사업 현장감독관 선발 및 운영 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000233526"
+    },
+    {
+      "id": "DAPA_A_2100000272508",
+      "title": "국외조달 2단계 입찰유의서",
+      "slug": "국외조달-2단계-입찰유의서",
+      "display": "국외조달-2단계-입찰유의서",
+      "short": "국외조달 2단계 입찰유의서",
+      "aliases": [
+        "국외조달 2단계 입찰유의서"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 139,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외조달 2단계 입찰유의서.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272508"
+    },
+    {
+      "id": "DAPA_A_2100000281506",
+      "title": "국외조달 수의계약 참가유의서",
+      "slug": "국외조달-수의계약-참가유의서",
+      "display": "국외조달-수의계약-참가유의서",
+      "short": "국외조달 수의계약 참가유의서",
+      "aliases": [
+        "국외조달 수의계약 참가유의서"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 140,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외조달 수의계약 참가유의서.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000281506"
+    },
+    {
+      "id": "DAPA_A_2100000272506",
+      "title": "국외조달 일반경쟁 입찰유의서",
+      "slug": "국외조달-일반경쟁-입찰유의서",
+      "display": "국외조달-일반경쟁-입찰유의서",
+      "short": "국외조달 일반경쟁 입찰유의서",
+      "aliases": [
+        "국외조달 일반경쟁 입찰유의서"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 141,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외조달 일반경쟁 입찰유의서.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272506"
+    },
+    {
+      "id": "DAPA_A_2100000285308",
+      "title": "국외조달 적격심사기준",
+      "slug": "국외조달-적격심사기준",
+      "display": "국외조달-적격심사기준",
+      "short": "국외조달 적격심사기준",
+      "aliases": [
+        "국외조달 적격심사기준"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 142,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외조달 적격심사기준.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000285308"
+    },
+    {
+      "id": "DAPA_A_2100000272504",
+      "title": "국외조달(기술용역) 계약일반조건",
+      "slug": "국외조달기술용역-계약일반조건",
+      "display": "국외조달기술용역-계약일반조건",
+      "short": "국외조달(기술용역) 계약일반조건",
+      "aliases": [
+        "국외조달(기술용역) 계약일반조건"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 143,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외조달(기술용역) 계약일반조건.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272504"
+    },
+    {
+      "id": "DAPA_A_2100000272342",
+      "title": "국외조달(무기체계) 계약일반조건",
+      "slug": "국외조달무기체계-계약일반조건",
+      "display": "국외조달무기체계-계약일반조건",
+      "short": "국외조달(무기체계) 계약일반조건",
+      "aliases": [
+        "국외조달(무기체계) 계약일반조건"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 144,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외조달(무기체계) 계약일반조건.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272342"
+    },
+    {
+      "id": "DAPA_A_2100000272356",
+      "title": "국외조달(부품) 계약일반조건",
+      "slug": "국외조달부품-계약일반조건",
+      "display": "국외조달부품-계약일반조건",
+      "short": "국외조달(부품) 계약일반조건",
+      "aliases": [
+        "국외조달(부품) 계약일반조건"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 145,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외조달(부품) 계약일반조건.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272356"
+    },
+    {
+      "id": "DAPA_A_2100000272460",
+      "title": "국외조달(성과기반군수지원) 계약일반조건",
+      "slug": "국외조달성과기반군수지원-계약일반조건",
+      "display": "국외조달성과기반군수지원-계약일반조건",
+      "short": "국외조달(성과기반군수지원) 계약일반조건",
+      "aliases": [
+        "국외조달(성과기반군수지원) 계약일반조건"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 146,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외조달(성과기반군수지원) 계약일반조건.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272460"
+    },
+    {
+      "id": "DAPA_A_2100000272354",
+      "title": "국외조달(일반장비) 계약일반조건",
+      "slug": "국외조달일반장비-계약일반조건",
+      "display": "국외조달일반장비-계약일반조건",
+      "short": "국외조달(일반장비) 계약일반조건",
+      "aliases": [
+        "국외조달(일반장비) 계약일반조건"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 147,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외조달(일반장비) 계약일반조건.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272354"
+    },
+    {
+      "id": "DAPA_A_2100000272456",
+      "title": "국외조달(한도액 해외정비) 계약일반조건",
+      "slug": "국외조달한도액-해외정비-계약일반조건",
+      "display": "국외조달한도액-해외정비-계약일반조건",
+      "short": "국외조달(한도액 해외정비) 계약일반조건",
+      "aliases": [
+        "국외조달(한도액 해외정비) 계약일반조건"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 148,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외조달(한도액 해외정비) 계약일반조건.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272456"
+    },
+    {
+      "id": "DAPA_A_2100000272464",
+      "title": "국외조달(한도액부품) 계약일반조건",
+      "slug": "국외조달한도액부품-계약일반조건",
+      "display": "국외조달한도액부품-계약일반조건",
+      "short": "국외조달(한도액부품) 계약일반조건",
+      "aliases": [
+        "국외조달(한도액부품) 계약일반조건"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 149,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국외조달(한도액부품) 계약일반조건.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272464"
+    },
+    {
+      "id": "DAPA_A_2100000217901",
+      "title": "국제계약 민간전문가 운영지침",
+      "slug": "국제계약-민간전문가-운영지침",
+      "display": "국제계약-민간전문가-운영지침",
+      "short": "국제계약 민간전문가 운영지침",
+      "aliases": [
+        "국제계약 민간전문가 운영지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 150,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국제계약 민간전문가 운영지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000217901"
+    },
+    {
+      "id": "DAPA_A_2100000285310",
+      "title": "국제운송 적격심사 기준",
+      "slug": "국제운송-적격심사-기준",
+      "display": "국제운송-적격심사-기준",
+      "short": "국제운송 적격심사 기준",
+      "aliases": [
+        "국제운송 적격심사 기준"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 151,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국제운송 적격심사 기준.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000285310"
+    },
+    {
+      "id": "DAPA_A_2100000257964",
+      "title": "군수품 감액업무 처리지침",
+      "slug": "군수품-감액업무-처리지침",
+      "display": "군수품-감액업무-처리지침",
+      "short": "군수품 감액업무 처리지침",
+      "aliases": [
+        "군수품 감액업무 처리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 152,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "군수품 감액업무 처리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257964"
+    },
+    {
+      "id": "DAPA_A_2100000242194",
+      "title": "군용총포·도검·화약류 안전관리 지원사업 운영규정",
+      "slug": "군용총포도검화약류-안전관리-지원사업-운영규정",
+      "display": "군용총포도검화약류-안전관리-지원사업-운영규정",
+      "short": "군용총포·도검·화약류 안전관리 지원사업 운영규정",
+      "aliases": [
+        "군용총포·도검·화약류 안전관리 지원사업 운영규정"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 153,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "군용총포·도검·화약류 안전관리 지원사업 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000242194"
+    },
+    {
+      "id": "DAPA_A_2100000257926",
+      "title": "기성제도 운영지침",
+      "slug": "기성제도-운영지침",
+      "display": "기성제도-운영지침",
+      "short": "기성제도 운영지침",
+      "aliases": [
+        "기성제도 운영지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 154,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "기성제도 운영지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257926"
+    },
+    {
+      "id": "DAPA_A_2100000284174",
+      "title": "나토 표준 제공 및 관리 지침",
+      "slug": "나토-표준-제공-및-관리-지침",
+      "display": "나토-표준-제공-및-관리-지침",
+      "short": "나토 표준 제공 및 관리 지침",
+      "aliases": [
+        "나토 표준 제공 및 관리 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 155,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "나토 표준 제공 및 관리 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000284174"
+    },
+    {
+      "id": "DAPA_A_2100000201398",
+      "title": "다파로 운영 규정",
+      "slug": "다파로-운영-규정",
+      "display": "다파로-운영-규정",
+      "short": "다파로 운영 규정",
+      "aliases": [
+        "다파로 운영 규정"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 156,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "다파로 운영 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000201398"
+    },
+    {
+      "id": "DAPA_A_2100000274632",
+      "title": "목표가격 관리지침",
+      "slug": "목표가격-관리지침",
+      "display": "목표가격-관리지침",
+      "short": "목표가격 관리지침",
+      "aliases": [
+        "목표가격 관리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 157,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "목표가격 관리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274632"
+    },
+    {
+      "id": "DAPA_A_2100000203233",
+      "title": "무기체계 RAM 업무지침",
+      "slug": "무기체계-RAM-업무지침",
+      "display": "무기체계-RAM-업무지침",
+      "short": "무기체계 RAM 업무지침",
+      "aliases": [
+        "무기체계 RAM 업무지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 158,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "무기체계 RAM 업무지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000203233"
+    },
+    {
+      "id": "DAPA_A_2100000233820",
+      "title": "무기체계 디지털 트윈 활용 지침",
+      "slug": "무기체계-디지털-트윈-활용-지침",
+      "display": "무기체계-디지털-트윈-활용-지침",
+      "short": "무기체계 디지털 트윈 활용 지침",
+      "aliases": [
+        "무기체계 디지털 트윈 활용 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 159,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "무기체계 디지털 트윈 활용 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000233820"
+    },
+    {
+      "id": "DAPA_A_2100000272176",
+      "title": "무기체계 연구개발 표준협약서",
+      "slug": "무기체계-연구개발-표준협약서",
+      "display": "무기체계-연구개발-표준협약서",
+      "short": "무기체계 연구개발 표준협약서",
+      "aliases": [
+        "무기체계 연구개발 표준협약서"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 160,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "무기체계 연구개발 표준협약서.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272176"
+    },
+    {
+      "id": "DAPA_A_2100000206394",
+      "title": "무기체계 연구개발의 투자주체 선정 등에 관한 지침",
+      "slug": "무기체계-연구개발의-투자주체-선정-등에-관한-지침",
+      "display": "무기체계-연구개발의-투자주체-선정-등에-관한-지침",
+      "short": "무기체계 연구개발의 투자주체 선정 등에 관한 지침",
+      "aliases": [
+        "무기체계 연구개발의 투자주체 선정 등에 관한 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 161,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "무기체계 연구개발의 투자주체 선정 등에 관한 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000206394"
+    },
+    {
+      "id": "DAPA_A_2100000282656",
+      "title": "물품 제조·구매 계약특수조건 표준(특정조달)",
+      "slug": "물품-제조구매-계약특수조건-표준특정조달",
+      "display": "물품-제조구매-계약특수조건-표준특정조달",
+      "short": "물품 제조·구매 계약특수조건 표준(특정조달)",
+      "aliases": [
+        "물품 제조·구매 계약특수조건 표준(특정조달)"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 162,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "물품 제조·구매 계약특수조건 표준(특정조달).json",
+      "confirmed_latest": true,
+      "api_mst": "2100000282656"
+    },
+    {
+      "id": "DAPA_A_2100000274618",
+      "title": "미래도전국방기술 연구개발 업무처리지침",
+      "slug": "미래도전국방기술-연구개발-업무처리지침",
+      "display": "미래도전국방기술-연구개발-업무처리지침",
+      "short": "미래도전국방기술 연구개발 업무처리지침",
+      "aliases": [
+        "미래도전국방기술 연구개발 업무처리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 163,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "미래도전국방기술 연구개발 업무처리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274618"
+    },
+    {
+      "id": "DAPA_A_2100000216969",
+      "title": "민·군규격 표준화 업무지침",
+      "slug": "민군규격-표준화-업무지침",
+      "display": "민군규격-표준화-업무지침",
+      "short": "민·군규격 표준화 업무지침",
+      "aliases": [
+        "민·군규격 표준화 업무지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 164,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "민·군규격 표준화 업무지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000216969"
+    },
+    {
+      "id": "DAPA_A_2100000212399",
+      "title": "방산물자 감손율 산정지침",
+      "slug": "방산물자-감손율-산정지침",
+      "display": "방산물자-감손율-산정지침",
+      "short": "방산물자 감손율 산정지침",
+      "aliases": [
+        "방산물자 감손율 산정지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 165,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산물자 감손율 산정지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000212399"
+    },
+    {
+      "id": "DAPA_A_2100000203235",
+      "title": "방산물자용 비축원자재 관리지침",
+      "slug": "방산물자용-비축원자재-관리지침",
+      "display": "방산물자용-비축원자재-관리지침",
+      "short": "방산물자용 비축원자재 관리지침",
+      "aliases": [
+        "방산물자용 비축원자재 관리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 166,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산물자용 비축원자재 관리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000203235"
+    },
+    {
+      "id": "DAPA_A_2100000260050",
+      "title": "방산수출 자문단 운영지침",
+      "slug": "방산수출-자문단-운영지침",
+      "display": "방산수출-자문단-운영지침",
+      "short": "방산수출 자문단 운영지침",
+      "aliases": [
+        "방산수출 자문단 운영지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 167,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산수출 자문단 운영지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000260050"
+    },
+    {
+      "id": "DAPA_A_2100000274622",
+      "title": "방산수출 후속군수지원에 관한 지침",
+      "slug": "방산수출-후속군수지원에-관한-지침",
+      "display": "방산수출-후속군수지원에-관한-지침",
+      "short": "방산수출 후속군수지원에 관한 지침",
+      "aliases": [
+        "방산수출 후속군수지원에 관한 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 168,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산수출 후속군수지원에 관한 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274622"
+    },
+    {
+      "id": "DAPA_A_2100000274628",
+      "title": "방산수출심의위원회 운영 지침",
+      "slug": "방산수출심의위원회-운영-지침",
+      "display": "방산수출심의위원회-운영-지침",
+      "short": "방산수출심의위원회 운영 지침",
+      "aliases": [
+        "방산수출심의위원회 운영 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 169,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산수출심의위원회 운영 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274628"
+    },
+    {
+      "id": "DAPA_A_2100000269414",
+      "title": "방산원가관리체계 인증제도 운영지침",
+      "slug": "방산원가관리체계-인증제도-운영지침",
+      "display": "방산원가관리체계-인증제도-운영지침",
+      "short": "방산원가관리체계 인증제도 운영지침",
+      "aliases": [
+        "방산원가관리체계 인증제도 운영지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 170,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산원가관리체계 인증제도 운영지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000269414"
+    },
+    {
+      "id": "DAPA_A_2100000283972",
+      "title": "방위력개선사업 협상에 의한 계약체결기준",
+      "slug": "방위력개선사업-협상에-의한-계약체결기준",
+      "display": "방위력개선사업-협상에-의한-계약체결기준",
+      "short": "방위력개선사업 협상에 의한 계약체결기준",
+      "aliases": [
+        "방위력개선사업 협상에 의한 계약체결기준"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 171,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위력개선사업 협상에 의한 계약체결기준.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000283972"
+    },
+    {
+      "id": "DAPA_A_2100000257924",
+      "title": "방위사업 입찰질서 공정화에 관한 지침",
+      "slug": "방위사업-입찰질서-공정화에-관한-지침",
+      "display": "방위사업-입찰질서-공정화에-관한-지침",
+      "short": "방위사업 입찰질서 공정화에 관한 지침",
+      "aliases": [
+        "방위사업 입찰질서 공정화에 관한 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 172,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업 입찰질서 공정화에 관한 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257924"
+    },
+    {
+      "id": "DAPA_A_2100000256988",
+      "title": "방위사업기획·관리 실무위원회 운영규정",
+      "slug": "방위사업기획관리-실무위원회-운영규정",
+      "display": "방위사업기획관리-실무위원회-운영규정",
+      "short": "방위사업기획·관리 실무위원회 운영규정",
+      "aliases": [
+        "방위사업기획·관리 실무위원회 운영규정"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 173,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업기획·관리 실무위원회 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000256988"
+    },
+    {
+      "id": "DAPA_A_2100000229140",
+      "title": "방위사업법에 따른 과태료의 가중처분에 관한 세부 지침",
+      "slug": "방위사업법에-따른-과태료의-가중처분에-관한-세부-지침",
+      "display": "방위사업법에-따른-과태료의-가중처분에-관한-세부-지침",
+      "short": "방위사업법에 따른 과태료의 가중처분에 관한 세부 지침",
+      "aliases": [
+        "방위사업법에 따른 과태료의 가중처분에 관한 세부 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 174,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업법에 따른 과태료의 가중처분에 관한 세부 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000229140"
+    },
+    {
+      "id": "DAPA_A_2100000275514",
+      "title": "방위사업청 공무용 차량 관리지침",
+      "slug": "방위사업청-공무용-차량-관리지침",
+      "display": "방위사업청-공무용-차량-관리지침",
+      "short": "방위사업청 공무용 차량 관리지침",
+      "aliases": [
+        "방위사업청 공무용 차량 관리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 175,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 공무용 차량 관리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000275514"
+    },
+    {
+      "id": "DAPA_A_2100000196844",
+      "title": "방위사업청 공무원 맞춤형 복지제도 운영지침",
+      "slug": "방위사업청-공무원-맞춤형-복지제도-운영지침",
+      "display": "방위사업청-공무원-맞춤형-복지제도-운영지침",
+      "short": "방위사업청 공무원 맞춤형 복지제도 운영지침",
+      "aliases": [
+        "방위사업청 공무원 맞춤형 복지제도 운영지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 176,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 공무원 맞춤형 복지제도 운영지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000196844"
+    },
+    {
+      "id": "DAPA_A_2100000271364",
+      "title": "방위사업청 당직근무 지침",
+      "slug": "방위사업청-당직근무-지침",
+      "display": "방위사업청-당직근무-지침",
+      "short": "방위사업청 당직근무 지침",
+      "aliases": [
+        "방위사업청 당직근무 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 177,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 당직근무 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000271364"
+    },
+    {
+      "id": "DAPA_A_2100000239752",
+      "title": "방위사업청 도서관 운영 및 관리지침",
+      "slug": "방위사업청-도서관-운영-및-관리지침",
+      "display": "방위사업청-도서관-운영-및-관리지침",
+      "short": "방위사업청 도서관 운영 및 관리지침",
+      "aliases": [
+        "방위사업청 도서관 운영 및 관리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 178,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 도서관 운영 및 관리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000239752"
+    },
+    {
+      "id": "DAPA_A_2100000228308",
+      "title": "방위사업청 소송비용 회수 사무처리 지침",
+      "slug": "방위사업청-소송비용-회수-사무처리-지침",
+      "display": "방위사업청-소송비용-회수-사무처리-지침",
+      "short": "방위사업청 소송비용 회수 사무처리 지침",
+      "aliases": [
+        "방위사업청 소송비용 회수 사무처리 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 179,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 소송비용 회수 사무처리 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000228308"
+    },
+    {
+      "id": "DAPA_A_2100000240014",
+      "title": "방위사업청 스토킹 예방 지침",
+      "slug": "방위사업청-스토킹-예방-지침",
+      "display": "방위사업청-스토킹-예방-지침",
+      "short": "방위사업청 스토킹 예방 지침",
+      "aliases": [
+        "방위사업청 스토킹 예방 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 180,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 스토킹 예방 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000240014"
+    },
+    {
+      "id": "DAPA_A_2100000191385",
+      "title": "방위사업청 인사고충상담지침",
+      "slug": "방위사업청-인사고충상담지침",
+      "display": "방위사업청-인사고충상담지침",
+      "short": "방위사업청 인사고충상담지침",
+      "aliases": [
+        "방위사업청 인사고충상담지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 181,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 인사고충상담지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000191385"
+    },
+    {
+      "id": "DAPA_A_2100000282594",
+      "title": "방위산업관련 협회(단체) 또는 공제조합에 대한 주무관청 감독업무지침",
+      "slug": "방위산업관련-협회단체-또는-공제조합에-대한-주무관청-감독업무지침",
+      "display": "방위산업관련-협회단체-또는-공제조합에-대한-주무관청-감독업무지침",
+      "short": "방위산업관련 협회(단체) 또는 공제조합에 대한 주무관청 감독업무지침",
+      "aliases": [
+        "방위산업관련 협회(단체) 또는 공제조합에 대한 주무관청 감독업무지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 182,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업관련 협회(단체) 또는 공제조합에 대한 주무관청 감독업무지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000282594"
+    },
+    {
+      "id": "DAPA_A_2100000211351",
+      "title": "방위산업기술 보호법에 따른 과태료의 가중처분에 관한 세부지침",
+      "slug": "방위산업기술-보호법에-따른-과태료의-가중처분에-관한-세부지침",
+      "display": "방위산업기술-보호법에-따른-과태료의-가중처분에-관한-세부지침",
+      "short": "방위산업기술 보호법에 따른 과태료의 가중처분에 관한 세부지침",
+      "aliases": [
+        "방위산업기술 보호법에 따른 과태료의 가중처분에 관한 세부지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 183,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업기술 보호법에 따른 과태료의 가중처분에 관한 세부지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000211351"
+    },
+    {
+      "id": "DAPA_A_2100000215282",
+      "title": "방첩업무 규정",
+      "slug": "방첩업무-규정",
+      "display": "방첩업무-규정",
+      "short": "방첩업무 규정",
+      "aliases": [
+        "방첩업무 규정"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 184,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방첩업무 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000215282"
+    },
+    {
+      "id": "DAPA_A_2100000216850",
+      "title": "보훈·복지단체 수의계약업무 처리지침",
+      "slug": "보훈복지단체-수의계약업무-처리지침",
+      "display": "보훈복지단체-수의계약업무-처리지침",
+      "short": "보훈·복지단체 수의계약업무 처리지침",
+      "aliases": [
+        "보훈·복지단체 수의계약업무 처리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 185,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "보훈·복지단체 수의계약업무 처리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000216850"
+    },
+    {
+      "id": "DAPA_A_2100000257830",
+      "title": "분석평가업무 실무지침",
+      "slug": "분석평가업무-실무지침",
+      "display": "분석평가업무-실무지침",
+      "short": "분석평가업무 실무지침",
+      "aliases": [
+        "분석평가업무 실무지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 186,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "분석평가업무 실무지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257830"
+    },
+    {
+      "id": "DAPA_A_2100000283718",
+      "title": "상호운용성 관리지침",
+      "slug": "상호운용성-관리지침",
+      "display": "상호운용성-관리지침",
+      "short": "상호운용성 관리지침",
+      "aliases": [
+        "상호운용성 관리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 187,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "상호운용성 관리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000283718"
+    },
+    {
+      "id": "DAPA_A_2100000281998",
+      "title": "선금지급조건",
+      "slug": "선금지급조건",
+      "display": "선금지급조건",
+      "short": "선금지급조건",
+      "aliases": [
+        "선금지급조건"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 188,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "선금지급조건.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000281998"
+    },
+    {
+      "id": "DAPA_A_2100000280268",
+      "title": "선행연구 수행지침",
+      "slug": "선행연구-수행지침",
+      "display": "선행연구-수행지침",
+      "short": "선행연구 수행지침",
+      "aliases": [
+        "선행연구 수행지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 189,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "선행연구 수행지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000280268"
+    },
+    {
+      "id": "DAPA_A_2100000217899",
+      "title": "성과기반계약 운영지침",
+      "slug": "성과기반계약-운영지침",
+      "display": "성과기반계약-운영지침",
+      "short": "성과기반계약 운영지침",
+      "aliases": [
+        "성과기반계약 운영지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 190,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "성과기반계약 운영지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000217899"
+    },
+    {
+      "id": "DAPA_A_2100000270544",
+      "title": "소프트웨어 중심 무기체계 애자일(Agile) 개발 도입·운영 지침",
+      "slug": "소프트웨어-중심-무기체계-애자일Agile-개발-도입운영-지침",
+      "display": "소프트웨어-중심-무기체계-애자일Agile-개발-도입운영-지침",
+      "short": "소프트웨어 중심 무기체계 애자일(Agile) 개발 도입·운영 지침",
+      "aliases": [
+        "소프트웨어 중심 무기체계 애자일(Agile) 개발 도입·운영 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 191,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "소프트웨어 중심 무기체계 애자일(Agile) 개발 도입·운영 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000270544"
+    },
+    {
+      "id": "DAPA_A_2100000274620",
+      "title": "신속시범사업 업무관리 지침",
+      "slug": "신속시범사업-업무관리-지침",
+      "display": "신속시범사업-업무관리-지침",
+      "short": "신속시범사업 업무관리 지침",
+      "aliases": [
+        "신속시범사업 업무관리 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 192,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "신속시범사업 업무관리 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274620"
+    },
+    {
+      "id": "DAPA_A_2100000198057",
+      "title": "실태조사심의 위원회 운영규정",
+      "slug": "실태조사심의-위원회-운영규정",
+      "display": "실태조사심의-위원회-운영규정",
+      "short": "실태조사심의 위원회 운영규정",
+      "aliases": [
+        "실태조사심의 위원회 운영규정"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 193,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "실태조사심의 위원회 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000198057"
+    },
+    {
+      "id": "DAPA_A_2100000272234",
+      "title": "업체 생산 및 정비능력 확인지침",
+      "slug": "업체-생산-및-정비능력-확인지침",
+      "display": "업체-생산-및-정비능력-확인지침",
+      "short": "업체 생산 및 정비능력 확인지침",
+      "aliases": [
+        "업체 생산 및 정비능력 확인지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 194,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "업체 생산 및 정비능력 확인지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272234"
+    },
+    {
+      "id": "DAPA_A_2100000199739",
+      "title": "역경매 업무처리지침",
+      "slug": "역경매-업무처리지침",
+      "display": "역경매-업무처리지침",
+      "short": "역경매 업무처리지침",
+      "aliases": [
+        "역경매 업무처리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 195,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "역경매 업무처리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000199739"
+    },
+    {
+      "id": "DAPA_A_2100000199738",
+      "title": "역경매입찰 특별유의서",
+      "slug": "역경매입찰-특별유의서",
+      "display": "역경매입찰-특별유의서",
+      "short": "역경매입찰 특별유의서",
+      "aliases": [
+        "역경매입찰 특별유의서"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 196,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "역경매입찰 특별유의서.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000199738"
+    },
+    {
+      "id": "DAPA_A_2100000282660",
+      "title": "외주정비 계약특수조건 표준",
+      "slug": "외주정비-계약특수조건-표준",
+      "display": "외주정비-계약특수조건-표준",
+      "short": "외주정비 계약특수조건 표준",
+      "aliases": [
+        "외주정비 계약특수조건 표준"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 197,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "외주정비 계약특수조건 표준.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000282660"
+    },
+    {
+      "id": "DAPA_A_2100000282662",
+      "title": "용역 계약특수조건 표준",
+      "slug": "용역-계약특수조건-표준",
+      "display": "용역-계약특수조건-표준",
+      "short": "용역 계약특수조건 표준",
+      "aliases": [
+        "용역 계약특수조건 표준"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 198,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "용역 계약특수조건 표준.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000282662"
+    },
+    {
+      "id": "DAPA_A_2100000285258",
+      "title": "용역 적격심사 기준",
+      "slug": "용역-적격심사-기준",
+      "display": "용역-적격심사-기준",
+      "short": "용역 적격심사 기준",
+      "aliases": [
+        "용역 적격심사 기준"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 199,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "용역 적격심사 기준.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000285258"
+    },
+    {
+      "id": "DAPA_A_2100000218775",
+      "title": "우주물체 제작 계약특수조건 표준",
+      "slug": "우주물체-제작-계약특수조건-표준",
+      "display": "우주물체-제작-계약특수조건-표준",
+      "short": "우주물체 제작 계약특수조건 표준",
+      "aliases": [
+        "우주물체 제작 계약특수조건 표준"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 200,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "우주물체 제작 계약특수조건 표준.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000218775"
+    },
+    {
+      "id": "DAPA_A_2100000242462",
+      "title": "원가계산 관리지침",
+      "slug": "원가계산-관리지침",
+      "display": "원가계산-관리지침",
+      "short": "원가계산 관리지침",
+      "aliases": [
+        "원가계산 관리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 201,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "원가계산 관리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000242462"
+    },
+    {
+      "id": "DAPA_A_2100000274636",
+      "title": "원가관리 자문단 구성 및 운영지침",
+      "slug": "원가관리-자문단-구성-및-운영지침",
+      "display": "원가관리-자문단-구성-및-운영지침",
+      "short": "원가관리 자문단 구성 및 운영지침",
+      "aliases": [
+        "원가관리 자문단 구성 및 운영지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 202,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "원가관리 자문단 구성 및 운영지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274636"
+    },
+    {
+      "id": "DAPA_A_2100000274634",
+      "title": "원가회계심의위원회 운영 지침",
+      "slug": "원가회계심의위원회-운영-지침",
+      "display": "원가회계심의위원회-운영-지침",
+      "short": "원가회계심의위원회 운영 지침",
+      "aliases": [
+        "원가회계심의위원회 운영 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 203,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "원가회계심의위원회 운영 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274634"
+    },
+    {
+      "id": "DAPA_A_2100000282658",
+      "title": "일반무기체계 연구개발 계약특수조건 표준",
+      "slug": "일반무기체계-연구개발-계약특수조건-표준",
+      "display": "일반무기체계-연구개발-계약특수조건-표준",
+      "short": "일반무기체계 연구개발 계약특수조건 표준",
+      "aliases": [
+        "일반무기체계 연구개발 계약특수조건 표준"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 204,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "일반무기체계 연구개발 계약특수조건 표준.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000282658"
+    },
+    {
+      "id": "DAPA_A_2100000253156",
+      "title": "잠수함 감항성 관리 세부지침",
+      "slug": "잠수함-감항성-관리-세부지침",
+      "display": "잠수함-감항성-관리-세부지침",
+      "short": "잠수함 감항성 관리 세부지침",
+      "aliases": [
+        "잠수함 감항성 관리 세부지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 205,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "잠수함 감항성 관리 세부지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000253156"
+    },
+    {
+      "id": "DAPA_A_2100000257790",
+      "title": "잠수함 시운전 지침",
+      "slug": "잠수함-시운전-지침",
+      "display": "잠수함-시운전-지침",
+      "short": "잠수함 시운전 지침",
+      "aliases": [
+        "잠수함 시운전 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 206,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "잠수함 시운전 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257790"
+    },
+    {
+      "id": "DAPA_A_2100000285262",
+      "title": "장비정비용역 적격심사 기준",
+      "slug": "장비정비용역-적격심사-기준",
+      "display": "장비정비용역-적격심사-기준",
+      "short": "장비정비용역 적격심사 기준",
+      "aliases": [
+        "장비정비용역 적격심사 기준"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 207,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "장비정비용역 적격심사 기준.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000285262"
+    },
+    {
+      "id": "DAPA_A_2100000245274",
+      "title": "전력화장비 후속지원 사업 업무지침",
+      "slug": "전력화장비-후속지원-사업-업무지침",
+      "display": "전력화장비-후속지원-사업-업무지침",
+      "short": "전력화장비 후속지원 사업 업무지침",
+      "aliases": [
+        "전력화장비 후속지원 사업 업무지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 208,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "전력화장비 후속지원 사업 업무지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000245274"
+    },
+    {
+      "id": "DAPA_A_2100000239708",
+      "title": "전시 국외현지구매 지침",
+      "slug": "전시-국외현지구매-지침",
+      "display": "전시-국외현지구매-지침",
+      "short": "전시 국외현지구매 지침",
+      "aliases": [
+        "전시 국외현지구매 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 209,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "전시 국외현지구매 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000239708"
+    },
+    {
+      "id": "DAPA_A_2100000285306",
+      "title": "전투근무지원정 적격심사 기준",
+      "slug": "전투근무지원정-적격심사-기준",
+      "display": "전투근무지원정-적격심사-기준",
+      "short": "전투근무지원정 적격심사 기준",
+      "aliases": [
+        "전투근무지원정 적격심사 기준"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 210,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "전투근무지원정 적격심사 기준.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000285306"
+    },
+    {
+      "id": "DAPA_A_2100000274668",
+      "title": "절충교역 지침",
+      "slug": "절충교역-지침",
+      "display": "절충교역-지침",
+      "short": "절충교역 지침",
+      "aliases": [
+        "절충교역 지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 211,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "절충교역 지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274668"
+    },
+    {
+      "id": "DAPA_A_2100000280954",
+      "title": "조달원 등록정보 관리지침",
+      "slug": "조달원-등록정보-관리지침",
+      "display": "조달원-등록정보-관리지침",
+      "short": "조달원 등록정보 관리지침",
+      "aliases": [
+        "조달원 등록정보 관리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 212,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "조달원 등록정보 관리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000280954"
+    },
+    {
+      "id": "DAPA_A_2100000224694",
+      "title": "주거지원 운영 및 관리지침",
+      "slug": "주거지원-운영-및-관리지침",
+      "display": "주거지원-운영-및-관리지침",
+      "short": "주거지원 운영 및 관리지침",
+      "aliases": [
+        "주거지원 운영 및 관리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 213,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "주거지원 운영 및 관리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000224694"
+    },
+    {
+      "id": "DAPA_A_2100000274630",
+      "title": "지식재산권 관리지침",
+      "slug": "지식재산권-관리지침",
+      "display": "지식재산권-관리지침",
+      "short": "지식재산권 관리지침",
+      "aliases": [
+        "지식재산권 관리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 214,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "지식재산권 관리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274630"
+    },
+    {
+      "id": "DAPA_A_2100000233830",
+      "title": "채권양도 업무지침",
+      "slug": "채권양도-업무지침",
+      "display": "채권양도-업무지침",
+      "short": "채권양도 업무지침",
+      "aliases": [
+        "채권양도 업무지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 215,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "채권양도 업무지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000233830"
+    },
+    {
+      "id": "DAPA_A_2100000281918",
+      "title": "첨단항공추진체계 개발사업 업무처리지침",
+      "slug": "첨단항공추진체계-개발사업-업무처리지침",
+      "display": "첨단항공추진체계-개발사업-업무처리지침",
+      "short": "첨단항공추진체계 개발사업 업무처리지침",
+      "aliases": [
+        "첨단항공추진체계 개발사업 업무처리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 216,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "첨단항공추진체계 개발사업 업무처리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000281918"
+    },
+    {
+      "id": "DAPA_A_2100000281478",
+      "title": "한도액계약 운영지침",
+      "slug": "한도액계약-운영지침",
+      "display": "한도액계약-운영지침",
+      "short": "한도액계약 운영지침",
+      "aliases": [
+        "한도액계약 운영지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 217,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "한도액계약 운영지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000281478"
+    },
+    {
+      "id": "DAPA_A_2100000282680",
+      "title": "함정건조 계약특수조건 표준(일반 및 방산)",
+      "slug": "함정건조-계약특수조건-표준일반-및-방산",
+      "display": "함정건조-계약특수조건-표준일반-및-방산",
+      "short": "함정건조 계약특수조건 표준(일반 및 방산)",
+      "aliases": [
+        "함정건조 계약특수조건 표준(일반 및 방산)"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 218,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "함정건조 계약특수조건 표준(일반 및 방산).json",
+      "confirmed_latest": true,
+      "api_mst": "2100000282680"
+    },
+    {
+      "id": "DAPA_A_2100000283882",
+      "title": "현존전력 성능 극대화 사업 업무지침",
+      "slug": "현존전력-성능-극대화-사업-업무지침",
+      "display": "현존전력-성능-극대화-사업-업무지침",
+      "short": "현존전력 성능 극대화 사업 업무지침",
+      "aliases": [
+        "현존전력 성능 극대화 사업 업무지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 219,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "현존전력 성능 극대화 사업 업무지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000283882"
+    },
+    {
+      "id": "DAPA_A_2100000214251",
+      "title": "회계업무 처리지침",
+      "slug": "회계업무-처리지침",
+      "display": "회계업무-처리지침",
+      "short": "회계업무 처리지침",
+      "aliases": [
+        "회계업무 처리지침"
+      ],
+      "type": "예규",
+      "group": "방위사업",
+      "rank": 220,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "회계업무 처리지침.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000214251"
+    },
+    {
+      "id": "DAPA_A_2100000238974",
+      "title": "DQ마크 인증제도 운영에 관한 고시",
+      "slug": "DQ마크-인증제도-운영에-관한-고시",
+      "display": "DQ마크-인증제도-운영에-관한-고시",
+      "short": "DQ마크 인증제도 운영에 관한 고시",
+      "aliases": [
+        "DQ마크 인증제도 운영에 관한 고시"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 221,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "DQ마크 인증제도 운영에 관한 고시.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000238974"
+    },
+    {
+      "id": "DAPA_A_2100000256314",
+      "title": "K-방산수출펀드 운영규정",
+      "slug": "K-방산수출펀드-운영규정",
+      "display": "K-방산수출펀드-운영규정",
+      "short": "K-방산수출펀드 운영규정",
+      "aliases": [
+        "K-방산수출펀드 운영규정"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 222,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "K-방산수출펀드 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000256314"
+    },
+    {
+      "id": "DAPA_A_2100000183768",
+      "title": "감항인증 기술 자료의 관리·유지에 관한 권한 위탁 기관 지정",
+      "slug": "감항인증-기술-자료의-관리유지에-관한-권한-위탁-기관-지정",
+      "display": "감항인증-기술-자료의-관리유지에-관한-권한-위탁-기관-지정",
+      "short": "감항인증 기술 자료의 관리·유지에 관한 권한 위탁 기관 지정",
+      "aliases": [
+        "감항인증 기술 자료의 관리·유지에 관한 권한 위탁 기관 지정"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 223,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "감항인증 기술 자료의 관리·유지에 관한 권한 위탁 기관 지정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000183768"
+    },
+    {
+      "id": "DAPA_A_2100000257972",
+      "title": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시",
+      "slug": "국가를-당사자로-하는-계약에-관한-법률-시행령-제39조제1항-단서의-규정에-의한-정보처리장치의-지정에-관한-고시",
+      "display": "국가를-당사자로-하는-계약에-관한-법률-시행령-제39조제1항-단서의-규정에-의한-정보처리장치의-지정에-관한-고시",
+      "short": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시",
+      "aliases": [
+        "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 224,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000257972"
+    },
+    {
+      "id": "DAPA_A_2100000239714",
+      "title": "국방 연구개발 사업 중소기업자 우선선정 품목지정 제도 운영에 관한 고시",
+      "slug": "국방-연구개발-사업-중소기업자-우선선정-품목지정-제도-운영에-관한-고시",
+      "display": "국방-연구개발-사업-중소기업자-우선선정-품목지정-제도-운영에-관한-고시",
+      "short": "국방 연구개발 사업 중소기업자 우선선정 품목지정 제도 운영에 관한 고시",
+      "aliases": [
+        "국방 연구개발 사업 중소기업자 우선선정 품목지정 제도 운영에 관한 고시"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 225,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방 연구개발 사업 중소기업자 우선선정 품목지정 제도 운영에 관한 고시.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000239714"
+    },
+    {
+      "id": "DAPA_A_2100000274638",
+      "title": "국방과학 기술료 산정ㆍ징수방법 및 징수절차 등에 관한 고시",
+      "slug": "국방과학-기술료-산정징수방법-및-징수절차-등에-관한-고시",
+      "display": "국방과학-기술료-산정징수방법-및-징수절차-등에-관한-고시",
+      "short": "국방과학 기술료 산정ㆍ징수방법 및 징수절차 등에 관한 고시",
+      "aliases": [
+        "국방과학 기술료 산정ㆍ징수방법 및 징수절차 등에 관한 고시"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 226,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방과학 기술료 산정ㆍ징수방법 및 징수절차 등에 관한 고시.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274638"
+    },
+    {
+      "id": "DAPA_A_2100000206396",
+      "title": "국방연구개발사업 출연금의 지급·사용 및 관리에 관한 고시",
+      "slug": "국방연구개발사업-출연금의-지급사용-및-관리에-관한-고시",
+      "display": "국방연구개발사업-출연금의-지급사용-및-관리에-관한-고시",
+      "short": "국방연구개발사업 출연금의 지급·사용 및 관리에 관한 고시",
+      "aliases": [
+        "국방연구개발사업 출연금의 지급·사용 및 관리에 관한 고시"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 227,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방연구개발사업 출연금의 지급·사용 및 관리에 관한 고시.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000206396"
+    },
+    {
+      "id": "DAPA_A_2100000277786",
+      "title": "국방연구개발사업의 기획등 업무 지원기관 지정",
+      "slug": "국방연구개발사업의-기획등-업무-지원기관-지정",
+      "display": "국방연구개발사업의-기획등-업무-지원기관-지정",
+      "short": "국방연구개발사업의 기획등 업무 지원기관 지정",
+      "aliases": [
+        "국방연구개발사업의 기획등 업무 지원기관 지정"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 228,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국방연구개발사업의 기획등 업무 지원기관 지정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000277786"
+    },
+    {
+      "id": "DAPA_A_2100000214045",
+      "title": "군용총포·도검·화약류 운반허가에 관한 고시",
+      "slug": "군용총포도검화약류-운반허가에-관한-고시",
+      "display": "군용총포도검화약류-운반허가에-관한-고시",
+      "short": "군용총포·도검·화약류 운반허가에 관한 고시",
+      "aliases": [
+        "군용총포·도검·화약류 운반허가에 관한 고시"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 229,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "군용총포·도검·화약류 운반허가에 관한 고시.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000214045"
+    },
+    {
+      "id": "DAPA_A_2100000090000",
+      "title": "군용항공기 감항인증 전문기관 지정",
+      "slug": "군용항공기-감항인증-전문기관-지정",
+      "display": "군용항공기-감항인증-전문기관-지정",
+      "short": "군용항공기 감항인증 전문기관 지정",
+      "aliases": [
+        "군용항공기 감항인증 전문기관 지정"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 230,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "군용항공기 감항인증 전문기관 지정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000090000"
+    },
+    {
+      "id": "DAPA_A_2100000247146",
+      "title": "군용항공기 표준감항인증기준(Part 1)",
+      "slug": "군용항공기-표준감항인증기준Part-1",
+      "display": "군용항공기-표준감항인증기준Part-1",
+      "short": "군용항공기 표준감항인증기준(Part 1)",
+      "aliases": [
+        "군용항공기 표준감항인증기준(Part 1)"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 231,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "군용항공기 표준감항인증기준(Part 1).json",
+      "confirmed_latest": true,
+      "api_mst": "2100000247146"
+    },
+    {
+      "id": "DAPA_A_2100000247298",
+      "title": "군용항공기 표준감항인증기준(Part 2)",
+      "slug": "군용항공기-표준감항인증기준Part-2",
+      "display": "군용항공기-표준감항인증기준Part-2",
+      "short": "군용항공기 표준감항인증기준(Part 2)",
+      "aliases": [
+        "군용항공기 표준감항인증기준(Part 2)"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 232,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "군용항공기 표준감항인증기준(Part 2).json",
+      "confirmed_latest": true,
+      "api_mst": "2100000247298"
+    },
+    {
+      "id": "DAPA_A_2100000247262",
+      "title": "군용항공기 표준감항인증기준(Part 4)",
+      "slug": "군용항공기-표준감항인증기준Part-4",
+      "display": "군용항공기-표준감항인증기준Part-4",
+      "short": "군용항공기 표준감항인증기준(Part 4)",
+      "aliases": [
+        "군용항공기 표준감항인증기준(Part 4)"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 233,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "군용항공기 표준감항인증기준(Part 4).json",
+      "confirmed_latest": true,
+      "api_mst": "2100000247262"
+    },
+    {
+      "id": "DAPA_A_2100000252852",
+      "title": "방산기술혁신펀드 운영규정",
+      "slug": "방산기술혁신펀드-운영규정",
+      "display": "방산기술혁신펀드-운영규정",
+      "short": "방산기술혁신펀드 운영규정",
+      "aliases": [
+        "방산기술혁신펀드 운영규정"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 234,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산기술혁신펀드 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000252852"
+    },
+    {
+      "id": "DAPA_A_2100000272772",
+      "title": "방산혁신기업 육성 지원사업 운영규정",
+      "slug": "방산혁신기업-육성-지원사업-운영규정",
+      "display": "방산혁신기업-육성-지원사업-운영규정",
+      "short": "방산혁신기업 육성 지원사업 운영규정",
+      "aliases": [
+        "방산혁신기업 육성 지원사업 운영규정"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 235,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산혁신기업 육성 지원사업 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272772"
+    },
+    {
+      "id": "DAPA_A_2100000220762",
+      "title": "방산혁신클러스터사업 공통 운영요령",
+      "slug": "방산혁신클러스터사업-공통-운영요령",
+      "display": "방산혁신클러스터사업-공통-운영요령",
+      "short": "방산혁신클러스터사업 공통 운영요령",
+      "aliases": [
+        "방산혁신클러스터사업 공통 운영요령"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 236,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산혁신클러스터사업 공통 운영요령.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000220762"
+    },
+    {
+      "id": "DAPA_A_2100000236942",
+      "title": "방위사업청 방위산업고도화지원과 소관 보조금사업 위임사무 고시",
+      "slug": "방위사업청-방위산업고도화지원과-소관-보조금사업-위임사무-고시",
+      "display": "방위사업청-방위산업고도화지원과-소관-보조금사업-위임사무-고시",
+      "short": "방위사업청 방위산업고도화지원과 소관 보조금사업 위임사무 고시",
+      "aliases": [
+        "방위사업청 방위산업고도화지원과 소관 보조금사업 위임사무 고시"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 237,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위사업청 방위산업고도화지원과 소관 보조금사업 위임사무 고시.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000236942"
+    },
+    {
+      "id": "DAPA_A_2100000249452",
+      "title": "방위산업 공급망 안정화 선도사업자 운영규정",
+      "slug": "방위산업-공급망-안정화-선도사업자-운영규정",
+      "display": "방위산업-공급망-안정화-선도사업자-운영규정",
+      "short": "방위산업 공급망 안정화 선도사업자 운영규정",
+      "aliases": [
+        "방위산업 공급망 안정화 선도사업자 운영규정"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 238,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업 공급망 안정화 선도사업자 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000249452"
+    },
+    {
+      "id": "DAPA_A_2100000284682",
+      "title": "방위산업 국가정책사업 지정 등에 관한 고시",
+      "slug": "방위산업-국가정책사업-지정-등에-관한-고시",
+      "display": "방위산업-국가정책사업-지정-등에-관한-고시",
+      "short": "방위산업 국가정책사업 지정 등에 관한 고시",
+      "aliases": [
+        "방위산업 국가정책사업 지정 등에 관한 고시"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 239,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업 국가정책사업 지정 등에 관한 고시.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000284682"
+    },
+    {
+      "id": "DAPA_A_2100000206397",
+      "title": "방위산업 실태조사 업무 위탁 고시",
+      "slug": "방위산업-실태조사-업무-위탁-고시",
+      "display": "방위산업-실태조사-업무-위탁-고시",
+      "short": "방위산업 실태조사 업무 위탁 고시",
+      "aliases": [
+        "방위산업 실태조사 업무 위탁 고시"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 240,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업 실태조사 업무 위탁 고시.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000206397"
+    },
+    {
+      "id": "DAPA_A_2100000274486",
+      "title": "방위산업 이차보전사업 운영규정",
+      "slug": "방위산업-이차보전사업-운영규정",
+      "display": "방위산업-이차보전사업-운영규정",
+      "short": "방위산업 이차보전사업 운영규정",
+      "aliases": [
+        "방위산업 이차보전사업 운영규정"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 241,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업 이차보전사업 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000274486"
+    },
+    {
+      "id": "DAPA_A_2100000224886",
+      "title": "방위산업기술 지정 고시",
+      "slug": "방위산업기술-지정-고시",
+      "display": "방위산업기술-지정-고시",
+      "short": "방위산업기술 지정 고시",
+      "aliases": [
+        "방위산업기술 지정 고시"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 242,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업기술 지정 고시.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000224886"
+    },
+    {
+      "id": "DAPA_A_2100000206398",
+      "title": "절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시",
+      "slug": "절충교역-획득자산의-기술료-및-대부료-징수요율에-관한-고시",
+      "display": "절충교역-획득자산의-기술료-및-대부료-징수요율에-관한-고시",
+      "short": "절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시",
+      "aliases": [
+        "절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시"
+      ],
+      "type": "고시",
+      "group": "방위사업",
+      "rank": 243,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "절충교역 획득자산의 기술료 및 대부료 징수요율에 관한 고시.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000206398"
+    },
+    {
+      "id": "DAPA_A_10000097175",
+      "title": "방산물자등의 정부간 판매에 관한 규정",
+      "slug": "방산물자등의-정부간-판매에-관한-규정",
+      "display": "방산물자등의-정부간-판매에-관한-규정",
+      "short": "방산물자등의 정부간 판매에 관한 규정",
+      "aliases": [
+        "방산물자등의 정부간 판매에 관한 규정"
+      ],
+      "type": "대통령훈령",
+      "group": "방위사업",
+      "rank": 244,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방산물자등의 정부간 판매에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "10000097175"
+    },
+    {
+      "id": "DAPA_A_10000096866",
+      "title": "방위산업물자 등의 교역지원에 관한 규정",
+      "slug": "방위산업물자-등의-교역지원에-관한-규정",
+      "display": "방위산업물자-등의-교역지원에-관한-규정",
+      "short": "방위산업물자 등의 교역지원에 관한 규정",
+      "aliases": [
+        "방위산업물자 등의 교역지원에 관한 규정"
+      ],
+      "type": "대통령훈령",
+      "group": "방위사업",
+      "rank": 245,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "방위산업물자 등의 교역지원에 관한 규정.json",
+      "confirmed_latest": true,
+      "api_mst": "10000096866"
+    },
+    {
+      "id": "NATIONAL_CONTRACT_DISPUTE_COMMITTEE_RULE",
+      "title": "국가계약분쟁조정위원회 운영규정",
+      "slug": "국가계약분쟁조정위원회-운영규정",
+      "display": "국가계약분쟁조정위원회-운영규정",
+      "short": "국가계약분쟁조정위원회 운영규정",
+      "aliases": [
+        "국가계약분쟁조정위원회 운영규정",
+        "분쟁조정위원회 운영규정",
+        "국가계약분쟁조정 운영규정",
+        "분쟁조정위 운영규정"
+      ],
+      "type": "훈령",
+      "group": "국가계약",
+      "rank": 18,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "국가계약분쟁조정위원회 운영규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000272540"
+    },
+    {
+      "id": "PPS_QUALITY_ASSURANCE_DESIGNATION_REGULATION",
+      "title": "품질보증조달물품 지정 및 관리규정",
+      "slug": "품질보증조달물품-지정-및-관리규정",
+      "display": "품질보증조달물품-지정-및-관리규정",
+      "short": "품질보증조달물품 지정 및 관리규정",
+      "aliases": [
+        "품질보증조달물품 지정 및 관리규정",
+        "품질보증조달물품 지정관리규정",
+        "품질보증조달물품 규정",
+        "품질보증 지정 및 관리규정"
+      ],
+      "type": "고시",
+      "group": "조달사업·조달청",
+      "rank": 38,
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "품질보증조달물품 지정 및 관리규정.json",
+      "confirmed_latest": true,
+      "api_mst": "2100000280332"
+    },
+    {
+      "id": "CONSTRUCTION_BID_INSTRUCTIONS_RULE",
+      "title": "(계약예규) 공사입찰유의서",
+      "short": "공사입찰유의서",
+      "display": "공사입찰유의서",
+      "slug": "공사입찰유의서",
+      "type": "계약예규",
+      "group": "국가계약",
+      "aliases": [
+        "(계약예규) 공사입찰유의서",
+        "공사입찰유의서"
+      ],
+      "rank": 0,
+      "parent": "STATE_CONTRACT_ACT",
+      "api_kind": "admrul",
+      "api_mst": "2100000284222",
+      "api_query": "공사입찰유의서",
+      "confirmed_latest": true,
+      "source": "api"
+    },
+    {
+      "id": "SERVICE_BID_INSTRUCTIONS_RULE",
+      "title": "(계약예규) 용역입찰유의서",
+      "short": "용역입찰유의서",
+      "display": "용역입찰유의서",
+      "slug": "용역입찰유의서",
+      "type": "계약예규",
+      "group": "국가계약",
+      "aliases": [
+        "(계약예규) 용역입찰유의서",
+        "용역입찰유의서"
+      ],
+      "rank": 0,
+      "parent": "STATE_CONTRACT_ACT",
+      "api_kind": "admrul",
+      "api_mst": "2100000271132",
+      "api_query": "용역입찰유의서",
+      "confirmed_latest": true,
+      "source": "api"
+    },
+    {
+      "id": "PPS_COMPREHENSIVE_AWARD_OPERATION_RULE",
+      "title": "종합낙찰제 세부운용기준",
+      "short": "종합낙찰제 세부운용기준",
+      "display": "종합낙찰제 세부운용기준",
+      "slug": "종합낙찰제-세부운용기준",
+      "type": "훈령",
+      "group": "조달사업·조달청",
+      "aliases": [
+        "종합낙찰제 세부운용기준",
+        "조달청 종합낙찰제 세부운영기준",
+        "조달청 종합낙찰제 세부운용기준",
+        "종합낙찰제 세부운영기준"
+      ],
+      "rank": 0,
+      "parent": "STATE_CONTRACT_ENFORCEMENT",
+      "api_kind": "admrul",
+      "api_mst": "2100000210969",
+      "api_query": "종합낙찰제 세부운용기준",
+      "confirmed_latest": true,
+      "source": "api"
+    },
+    {
+      "id": "PPS_CONSTRUCTION_COMPREHENSIVE_REVIEW_GUIDE",
+      "title": "조달청 공사계약 종합심사낙찰제 심사세부기준",
+      "short": "조달청 공사계약 종합심사낙찰제 심사세부기준",
+      "display": "조달청 공사계약 종합심사낙찰제 심사세부기준",
+      "slug": "조달청-공사계약-종합심사낙찰제-심사세부기준",
+      "type": "지침",
+      "group": "조달사업·조달청",
+      "aliases": [
+        "조달청 공사계약 종합심사낙찰제 심사세부기준",
+        "조달청 종합심사낙찰제 심사기준",
+        "조달청 종합심사낙찰제 심사세부기준"
+      ],
+      "rank": 0,
+      "parent": "STATE_CONTRACT_ENFORCEMENT",
+      "api_kind": "admrul",
+      "api_mst": "2100000284838",
+      "api_query": "조달청 공사계약 종합심사낙찰제 심사세부기준",
+      "confirmed_latest": true,
+      "source": "api"
+    },
+    {
+      "id": "PPS_CONSTRUCTION_CONTRACT_PROCESSING_RULE",
+      "title": "조달청 시설공사 계약업무 처리규정",
+      "short": "조달청 시설공사 계약업무 처리규정",
+      "display": "조달청 시설공사 계약업무 처리규정",
+      "slug": "조달청-시설공사-계약업무-처리규정",
+      "type": "훈령",
+      "group": "조달사업·조달청",
+      "aliases": [
+        "조달청 시설공사 계약업무 처리규정"
+      ],
+      "rank": 0,
+      "parent": "STATE_CONTRACT_ACT",
+      "api_kind": "admrul",
+      "api_mst": "2100000281276",
+      "api_query": "조달청 시설공사 계약업무 처리규정",
+      "confirmed_latest": true,
+      "source": "api"
+    },
+    {
+      "id": "PPS_CONSTRUCTION_QUALIFICATION_GUIDE",
+      "title": "조달청 시설공사 적격심사세부기준",
+      "short": "조달청 시설공사 적격심사세부기준",
+      "display": "조달청 시설공사 적격심사세부기준",
+      "slug": "조달청-시설공사-적격심사세부기준",
+      "type": "지침",
+      "group": "조달사업·조달청",
+      "aliases": [
+        "조달청 시설공사 적격심사세부기준",
+        "조달청 시설공사 적격심사 세부기준"
+      ],
+      "rank": 0,
+      "parent": "QUALIFICATION_REVIEW_RULE",
+      "api_kind": "admrul",
+      "api_mst": "2100000281312",
+      "api_query": "조달청 시설공사 적격심사세부기준",
+      "confirmed_latest": true,
+      "source": "api"
+    },
+    {
+      "id": "ADMINISTRATIVE_PROCEDURE_ACT",
+      "title": "행정절차법",
+      "short": "행정절차법",
+      "display": "행정절차법",
+      "slug": "행정절차법",
+      "type": "법률",
+      "group": "행정법",
+      "aliases": [
+        "행정절차법"
+      ],
+      "rank": 0,
+      "parent": null,
+      "api_kind": "eflaw",
+      "api_mst": "239291",
+      "api_query": "행정절차법",
+      "confirmed_latest": true,
+      "source": "api"
+    },
+    {
+      "id": "PPS_GPASS_DESIGNATION_EXPORT_SUPPORT_NOTICE",
+      "title": "해외조달시장 진출유망기업 지정·관리 및 수출지원에 관한 규정",
+      "short": "해외조달시장 진출유망기업 지정·관리 및 수출지원에 관한 규정",
+      "display": "해외조달시장 진출유망기업 지정·관리 및 수출지원에 관한 규정",
+      "slug": "해외조달시장-진출유망기업-지정·관리-및-수출지원에-관한-규정",
+      "type": "고시",
+      "group": "조달사업·조달청",
+      "aliases": [
+        "해외조달시장 진출유망기업 지정·관리 및 수출지원에 관한 규정",
+        "G-PASS기업 지정 규정",
+        "해외조달시장 진출유망기업 지정관리 규정"
+      ],
+      "rank": 0,
+      "parent": "PROCUREMENT_BUSINESS_ACT",
+      "api_kind": "admrul",
+      "api_mst": "2100000261408",
+      "api_query": "해외조달시장 진출유망기업 지정·관리 및 수출지원에 관한 규정",
+      "confirmed_latest": true,
+      "source": "api"
+    },
+    {
+      "id": "PPS_CATALOGING_GUIDELINE",
+      "title": "목록화지침",
+      "short": "목록화지침",
+      "display": "목록화지침",
+      "slug": "목록화지침",
+      "type": "훈령",
+      "group": "물품관리",
+      "aliases": [
+        "목록화지침",
+        "물품목록화 관련 조달청 지침",
+        "조달청 목록화지침"
+      ],
+      "rank": 0,
+      "parent": "GOODS_LIST_INFO_ACT",
+      "api_kind": "admrul",
+      "api_mst": "2100000270308",
+      "api_query": "목록화지침",
+      "confirmed_latest": true,
+      "source": "api"
+    },
+    {
+      "id": "CONSTRUCTION_COMPREHENSIVE_REVIEW_RULE",
+      "title": "(계약예규) 공사계약 종합심사낙찰제 심사기준",
+      "short": "공사계약 종합심사낙찰제 심사기준",
+      "display": "공사계약-종합심사낙찰제-심사기준",
+      "slug": "공사계약-종합심사낙찰제-심사기준",
+      "type": "계약예규",
+      "group": "국가계약",
+      "aliases": [
+        "(계약예규) 공사계약 종합심사낙찰제 심사기준",
+        "공사계약 종합심사낙찰제 심사기준"
+      ],
+      "rank": 0,
+      "parent": "STATE_CONTRACT_ENFORCEMENT",
+      "source": "api",
+      "api_kind": "admrul",
+      "api_file": "(계약예규) 공사계약 종합심사낙찰제 심사기준.json",
+      "api_mst": "2100000284220",
+      "api_query": "공사계약 종합심사낙찰제 심사기준",
+      "confirmed_latest": true
+    },
+    {
+      "id": "TAX_CRIME_PUNISHMENT_ACT",
+      "title": "조세범 처벌법",
+      "slug": "조세범-처벌법",
+      "display": "조세범처벌법",
+      "short": "조세범 처벌법",
+      "aliases": [
+        "조세범 처벌법",
+        "조세범처벌법"
+      ],
+      "type": "법률",
+      "group": "재정·전자정부",
+      "rank": 0,
+      "source": "api",
+      "api_file": "조세범 처벌법.json",
+      "confirmed_latest": true
+    }
+  ]
+}

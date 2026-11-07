@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "DISABLED_ENTERPRISE_ACT",
+ "name": "장애인기업활동 촉진법",
+ "short_name": "장애인기업활동법",
+ "display_id_prefix": "장애인기업활동법",
+ "slug": "장애인기업활동법",
+ "aliases": [
+  "장애인기업활동법",
+  "장애인기업활동 촉진법",
+  "장애인기업법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21195호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "소상공인정책과"
+  }
+ ],
+ "effective_date": "2026-06-03",
+ "revision_date": "2025-12-02",
+ "revision_type": "일부개정",
+ "version": "2026-06-03-21195",
+ "versions": [
+  {
+   "version": "2026-06-03-21195",
+   "effective_date": "2026-06-03",
+   "revision_date": "2025-12-02",
+   "number": "제21195호",
+   "source_file": "장애인기업활동 촉진법(법률)(제21195호)(20260603).pdf",
+   "source_path": "원문/규정/장애인기업활동 촉진법(법률)(제21195호)(20260603).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "장애인기업활동 촉진법(법률)(제21195호)(20260603).pdf",
+ "source_path": "원문/규정/장애인기업활동 촉진법(법률)(제21195호)(20260603).pdf",
+ "pdf_path": "pdf/장애인기업활동 촉진법(법률)(제21195호)(20260603).pdf",
+ "source_pages": 7,
+ "header_raw": [
+  "장애인기업활동 촉진법 ( 약칭: 장애인기업법 )",
+  "[시행 2026. 6. 3.] [법률 제21195호, 2025. 12. 2., 일부개정]",
+  "중소벤처기업부 (소상공인정책과) 044-204-7825"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 30,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/장애인기업활동법/articles.json",
+  "annexes": "regulations/장애인기업활동법/annexes.json",
+  "markdown": "regulations/장애인기업활동법/regulation.md"
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_FOREIGN_PURCHASE_DIRECTIVE",
+ "name": "조달청 외자구매업무 처리규정",
+ "short_name": "조달청 외자구매업무 처리규정",
+ "display_id_prefix": "조달청-외자구매업무-처리규정",
+ "slug": "조달청-외자구매업무-처리규정",
+ "aliases": [
+  "조달청 외자구매업무 처리규정",
+  "외자구매업무 처리규정",
+  "외자구매"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "조달청훈령",
+ "number": "제2341호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "해외물자과"
+  }
+ ],
+ "effective_date": "2026-01-23",
+ "revision_date": "2026-01-23",
+ "revision_type": "일부개정",
+ "version": "2026-01-23-2341",
+ "versions": [
+  {
+   "version": "2026-01-23-2341",
+   "effective_date": "2026-01-23",
+   "revision_date": "2026-01-23",
+   "number": "제2341호",
+   "source_file": "조달청 외자구매업무 처리규정(조달청훈령)(제2341호)(20260123).pdf",
+   "source_path": "원문/규정/조달청 외자구매업무 처리규정/조달청 외자구매업무 처리규정(조달청훈령)(제2341호)(20260123).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "조달청 외자구매업무 처리규정(조달청훈령)(제2341호)(20260123).pdf",
+ "source_path": "원문/규정/조달청 외자구매업무 처리규정/조달청 외자구매업무 처리규정(조달청훈령)(제2341호)(20260123).pdf",
+ "pdf_path": "pdf/조달청 외자구매업무 처리규정/조달청 외자구매업무 처리규정(조달청훈령)(제2341호)(20260123).pdf",
+ "source_pages": 25,
+ "header_raw": [
+  "조달청 외자구매업무 처리규정",
+  "[시행 2026. 1. 23.] [조달청훈령 제2341호, 2026. 1. 23., 일부개정]",
+  "조달청(해외물자과), 042-724-7330"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 조달요청서 접수 및 검토",
+   "raw": "제2장 조달요청서 접수 및 검토",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 입찰공고",
+   "raw": "제3장 입찰공고",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 개찰과 낙찰자 선정",
+   "raw": "제4장 개찰과 낙찰자 선정",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 계약체결",
+   "raw": "제5장 계약체결",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 계약관리",
+   "raw": "제6장 계약관리",
+   "page": 18,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 단가계약",
+   "raw": "제7장 단가계약",
+   "page": 23,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 소액외자 계약",
+   "raw": "제8장 소액외자 계약",
+   "page": 24,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제9장 시설대여(리스)계약 등",
+   "raw": "제9장 시설대여(리스)계약 등",
+   "page": 24,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 83,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 6
+ },
+ "files": {
+  "articles": "regulations/조달청-외자구매업무-처리규정/articles.json",
+  "annexes": "regulations/조달청-외자구매업무-처리규정/annexes.json",
+  "markdown": "regulations/조달청-외자구매업무-처리규정/regulation.md"
+ }
+}

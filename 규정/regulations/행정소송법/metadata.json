@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "ADMINISTRATIVE_LITIGATION_ACT",
+ "name": "행정소송법",
+ "short_name": "행정소송법",
+ "display_id_prefix": "행정소송법",
+ "slug": "행정소송법",
+ "aliases": [
+  "행정소송법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21615호",
+ "group": "헌법·민사",
+ "agencies": [
+  {
+   "agency": "법무부",
+   "department": "행정소송과"
+  }
+ ],
+ "effective_date": "2026-05-12",
+ "revision_date": "2026-05-12",
+ "revision_type": "일부개정",
+ "version": "2026-05-12-21615",
+ "versions": [
+  {
+   "version": "2026-05-12-21615",
+   "effective_date": "2026-05-12",
+   "revision_date": "2026-05-12",
+   "number": "제21615호",
+   "source_file": "ADMINISTRATIVE_LITIGATION_ACT.json",
+   "source_path": "원문/법제처API/ADMINISTRATIVE_LITIGATION_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-05-12-21615-pdf",
+   "effective_date": "2026-05-12",
+   "revision_date": "2026-05-12",
+   "number": "제21615호",
+   "source_file": "행정소송법(법률)(제21615호)(20260512).pdf",
+   "source_path": "원문/규정/행정소송법(법률)(제21615호)(20260512).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/행정소송법/history/2026-05-12-21615-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "ADMINISTRATIVE_LITIGATION_ACT.json",
+ "source_path": "원문/법제처API/ADMINISTRATIVE_LITIGATION_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 46,
+  "scheduled_versions": 2,
+  "deleted_articles": 1,
+  "supplementary_articles": 23,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/행정소송법/articles.json",
+  "annexes": "regulations/행정소송법/annexes.json",
+  "markdown": "regulations/행정소송법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=285913",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "285913",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

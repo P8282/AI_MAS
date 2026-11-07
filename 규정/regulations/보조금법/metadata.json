@@ -1,0 +1,67 @@
+{
+ "schema_version": "1.0",
+ "id": "SUBSIDY_MANAGEMENT_ACT",
+ "name": "보조금 관리에 관한 법률",
+ "short_name": "보조금법",
+ "display_id_prefix": "보조금법",
+ "slug": "보조금법",
+ "aliases": [
+  "보조금법",
+  "보조금 관리에 관한 법률",
+  "보조금관리법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21751호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "기획예산처",
+   "department": "예산기준과"
+  }
+ ],
+ "effective_date": "2026-06-02",
+ "revision_date": "2026-06-02",
+ "revision_type": "일부개정",
+ "version": "2026-06-02-21751",
+ "versions": [
+  {
+   "version": "2026-06-02-21751",
+   "effective_date": "2026-06-02",
+   "revision_date": "2026-06-02",
+   "number": "제21751호",
+   "source_file": "보조금 관리에 관한 법률.json",
+   "source_path": "원문/법제처API/보조금 관리에 관한 법률.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "보조금 관리에 관한 법률.json",
+ "source_path": "원문/법제처API/보조금 관리에 관한 법률.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=286449",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 62,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 77,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/보조금법/articles.json",
+  "annexes": "regulations/보조금법/annexes.json",
+  "markdown": "regulations/보조금법/regulation.md"
+ }
+}

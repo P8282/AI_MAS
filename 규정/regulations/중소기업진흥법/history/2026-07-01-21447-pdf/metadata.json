@@ -1,0 +1,204 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_PROMOTION_ACT",
+ "name": "중소기업진흥에 관한 법률",
+ "short_name": "중소기업진흥법",
+ "display_id_prefix": "중소기업진흥법",
+ "slug": "중소기업진흥법",
+ "aliases": [
+  "중소기업진흥법",
+  "중소기업진흥에 관한 법률"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21447호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "중소기업제도과"
+  },
+  {
+   "agency": "중소벤처기업부",
+   "department": "기업금융과-중소벤처기업진흥공단, 기금"
+  },
+  {
+   "agency": "중소벤처기업부",
+   "department": "기업금융과-매출채권보험"
+  }
+ ],
+ "effective_date": "2026-07-01",
+ "revision_date": "2026-03-05",
+ "revision_type": "타법개정",
+ "version": "2026-07-01-21447",
+ "versions": [
+  {
+   "version": "2026-07-01-21447",
+   "effective_date": "2026-07-01",
+   "revision_date": "2026-03-05",
+   "number": "제21447호",
+   "source_file": "중소기업진흥에 관한 법률(법률)(제21447호)(20260701).pdf",
+   "source_path": "원문/규정/중소기업진흥에 관한 법률(법률)(제21447호)(20260701).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "중소기업진흥에 관한 법률(법률)(제21447호)(20260701).pdf",
+ "source_path": "원문/규정/중소기업진흥에 관한 법률(법률)(제21447호)(20260701).pdf",
+ "pdf_path": "pdf/중소기업진흥에 관한 법률(법률)(제21447호)(20260701).pdf",
+ "source_pages": 23,
+ "header_raw": [
+  "중소기업진흥에 관한 법률 ( 약칭: 중소기업진흥법 )",
+  "[시행 2026. 7. 1.] [법률 제21447호, 2026. 3. 5., 타법개정]",
+  "중소벤처기업부 (중소기업제도과) 044-204-7576",
+  "중소벤처기업부 (기업금융과-중소벤처기업진흥공단, 기금) 044-204-7522,7524",
+  "중소벤처기업부 (기업금융과-매출채권보험) 044-204-7523"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 중소기업의 구조 고도화",
+   "raw": "제2장 중소기업의 구조 고도화",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 삭제",
+   "raw": "제3장 삭제 <2009. 5. 21.>",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 중소기업의 경영기반 확충",
+   "raw": "제4장 중소기업의 경영기반 확충",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 협동화 사업",
+   "raw": "제1절 협동화 사업",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 협업지원사업",
+   "raw": "제2절 협업지원사업 <개정 2015. 5. 18.>",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 입지 지원사업과 환경오염 저감(低減) 지원사업",
+   "raw": "제3절 입지 지원사업과 환경오염 저감(低減) 지원사업",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 지도와 연수사업",
+   "raw": "제4절 지도와 연수사업",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 국제화 지원사업 등",
+   "raw": "제5절 국제화 지원사업 등",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 중소기업의 경영안정 지원 등",
+   "raw": "제6절 중소기업의 경영안정 지원 등",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 중소기업의 가업승계 지원",
+   "raw": "제7절 중소기업의 가업승계 지원 <신설 2007. 12. 27.>",
+   "page": 10,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제8절 중소기업의 사회적책임경영",
+   "raw": "제8절 중소기업의 사회적책임경영 <신설 2012. 12. 11.>",
+   "page": 12,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제9절 소기업에 대한 지원",
+   "raw": "제9절 소기업에 대한 지원 <신설 2016. 3. 29.>",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제10절 삭제",
+   "raw": "제10절 삭제 <2021. 7. 27.>",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 중소벤처기업창업 및 진흥기금",
+   "raw": "제5장 중소벤처기업창업 및 진흥기금 <개정 2018. 12. 31.>",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 중소벤처기업진흥공단",
+   "raw": "제6장 중소벤처기업진흥공단 <개정 2018. 12. 31.>",
+   "page": 16,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 보칙",
+   "raw": "제7장 보칙",
+   "page": 20,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 벌칙",
+   "raw": "제8장 벌칙",
+   "page": 22,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 134,
+  "scheduled_versions": 0,
+  "deleted_articles": 49,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/중소기업진흥법/articles.json",
+  "annexes": "regulations/중소기업진흥법/annexes.json",
+  "markdown": "regulations/중소기업진흥법/regulation.md"
+ }
+}

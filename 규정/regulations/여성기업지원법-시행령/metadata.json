@@ -1,0 +1,83 @@
+{
+ "schema_version": "1.0",
+ "id": "WOMEN_ENTERPRISE_SUPPORT_ENFORCEMENT",
+ "name": "여성기업지원에 관한 법률 시행령",
+ "short_name": "여성기업지원법 시행령",
+ "display_id_prefix": "여성기업지원법-시행령",
+ "slug": "여성기업지원법-시행령",
+ "aliases": [
+  "여성기업지원법 시행령",
+  "여성기업지원법시행령",
+  "여성기업지원에 관한 법률 시행령",
+  "여성기업법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제34512호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "중소기업제도과"
+  }
+ ],
+ "effective_date": "2024-05-14",
+ "revision_date": "2024-05-14",
+ "revision_type": "일부개정",
+ "version": "2024-05-14-34512",
+ "versions": [
+  {
+   "version": "2024-05-14-34512",
+   "effective_date": "2024-05-14",
+   "revision_date": "2024-05-14",
+   "number": "제34512호",
+   "source_file": "WOMEN_ENTERPRISE_SUPPORT_ENFORCEMENT.json",
+   "source_path": "원문/법제처API/WOMEN_ENTERPRISE_SUPPORT_ENFORCEMENT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2024-05-14-34512-pdf",
+   "effective_date": "2024-05-14",
+   "revision_date": "2024-05-14",
+   "number": "제34512호",
+   "source_file": "여성기업지원에 관한 법률 시행령(대통령령)(제34512호)(20240514).pdf",
+   "source_path": "원문/규정/여성기업지원에 관한 법률 시행령(대통령령)(제34512호)(20240514).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/여성기업지원법-시행령/history/2024-05-14-34512-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "WOMEN_ENTERPRISE_SUPPORT_ACT",
+ "source_file": "WOMEN_ENTERPRISE_SUPPORT_ENFORCEMENT.json",
+ "source_path": "원문/법제처API/WOMEN_ENTERPRISE_SUPPORT_ENFORCEMENT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 24,
+  "scheduled_versions": 0,
+  "deleted_articles": 4,
+  "supplementary_articles": 46,
+  "annexes": 2
+ },
+ "files": {
+  "articles": "regulations/여성기업지원법-시행령/articles.json",
+  "annexes": "regulations/여성기업지원법-시행령/annexes.json",
+  "markdown": "regulations/여성기업지원법-시행령/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=262701",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "262701",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE",
+ "name": "군수품조달관리규정",
+ "short_name": "군수품조달관리규정",
+ "display_id_prefix": "군수품조달관리규정",
+ "slug": "군수품조달관리규정",
+ "aliases": [
+  "군수품조달관리규정",
+  "군수품 조달관리규정"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "방위사업청훈령",
+ "number": "제974호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "계약제도발전과"
+  }
+ ],
+ "effective_date": "2026-07-15",
+ "revision_date": "2026-07-15",
+ "revision_type": "일부개정",
+ "version": "2026-07-15-974",
+ "versions": [
+  {
+   "version": "2026-07-15-974",
+   "effective_date": "2026-07-15",
+   "revision_date": "2026-07-15",
+   "number": "제974호",
+   "source_file": "DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE.json",
+   "source_path": "원문/법제처API/DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-07-15-974-pdf",
+   "effective_date": "2026-07-15",
+   "revision_date": "2026-07-15",
+   "number": "제974호",
+   "source_file": "군수품조달관리규정(방위사업청훈령)(제974호)(20260715).pdf",
+   "source_path": "원문/규정/군수품조달관리규정/군수품조달관리규정(방위사업청훈령)(제974호)(20260715).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/군수품조달관리규정/history/2026-07-15-974-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "DEFENSE_ACQ_RULE",
+ "source_file": "DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE.json",
+ "source_path": "원문/법제처API/DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 217,
+  "scheduled_versions": 0,
+  "deleted_articles": 7,
+  "supplementary_articles": 36,
+  "annexes": 56
+ },
+ "files": {
+  "articles": "regulations/군수품조달관리규정/articles.json",
+  "annexes": "regulations/군수품조달관리규정/annexes.json",
+  "markdown": "regulations/군수품조달관리규정/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000282600",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000282600",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 56
+}

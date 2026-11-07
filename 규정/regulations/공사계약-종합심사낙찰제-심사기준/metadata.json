@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "CONSTRUCTION_COMPREHENSIVE_REVIEW_RULE",
+ "name": "(계약예규) 공사계약 종합심사낙찰제 심사기준",
+ "short_name": "공사계약 종합심사낙찰제 심사기준",
+ "display_id_prefix": "공사계약-종합심사낙찰제-심사기준",
+ "slug": "공사계약-종합심사낙찰제-심사기준",
+ "aliases": [
+  "(계약예규) 공사계약 종합심사낙찰제 심사기준",
+  "공사계약 종합심사낙찰제 심사기준"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "재정경제부계약예규",
+ "number": "제168호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  }
+ ],
+ "effective_date": "2026-08-25",
+ "revision_date": "2026-08-25",
+ "revision_type": "일부개정",
+ "version": "2026-08-25-168",
+ "versions": [
+  {
+   "version": "2026-08-25-168",
+   "effective_date": "2026-08-25",
+   "revision_date": "2026-08-25",
+   "number": "제168호",
+   "source_file": "(계약예규) 공사계약 종합심사낙찰제 심사기준.json",
+   "source_path": "원문/법제처API/(계약예규) 공사계약 종합심사낙찰제 심사기준.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "STATE_CONTRACT_ENFORCEMENT",
+ "source_file": "(계약예규) 공사계약 종합심사낙찰제 심사기준.json",
+ "source_path": "원문/법제처API/(계약예규) 공사계약 종합심사낙찰제 심사기준.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000284220",
+ "api_received": "2026-10-16",
+ "counts": {
+  "articles": 19,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 44,
+  "annexes": 6
+ },
+ "files": {
+  "articles": "regulations/공사계약-종합심사낙찰제-심사기준/articles.json",
+  "annexes": "regulations/공사계약-종합심사낙찰제-심사기준/annexes.json",
+  "markdown": "regulations/공사계약-종합심사낙찰제-심사기준/regulation.md"
+ }
+}

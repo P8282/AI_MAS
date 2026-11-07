@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_TECH_INNOVATION_RULE",
+ "name": "중소기업 기술혁신 촉진법 시행규칙",
+ "short_name": "중소기업기술혁신법 시행규칙",
+ "display_id_prefix": "중소기업기술혁신법-시행규칙",
+ "slug": "중소기업기술혁신법-시행규칙",
+ "aliases": [
+  "중소기업기술혁신법 시행규칙",
+  "중소기업기술혁신법시행규칙",
+  "중소기업 기술혁신 촉진법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "중소벤처기업부령",
+ "number": "제34호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "기술혁신정책과"
+  }
+ ],
+ "effective_date": "2020-07-30",
+ "revision_date": "2020-07-30",
+ "revision_type": "일부개정",
+ "version": "2020-07-30-34",
+ "versions": [
+  {
+   "version": "2020-07-30-34",
+   "effective_date": "2020-07-30",
+   "revision_date": "2020-07-30",
+   "number": "제34호",
+   "source_file": "SME_TECH_INNOVATION_RULE.json",
+   "source_path": "원문/법제처API/SME_TECH_INNOVATION_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2020-07-30-34-pdf",
+   "effective_date": "2020-07-30",
+   "revision_date": "2020-07-30",
+   "number": "제34호",
+   "source_file": "중소기업 기술혁신 촉진법 시행규칙(중소벤처기업부령)(제00034호)(20200730).pdf",
+   "source_path": "원문/규정/중소기업 기술혁신 촉진법 시행규칙(중소벤처기업부령)(제00034호)(20200730).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/중소기업기술혁신법-시행규칙/history/2020-07-30-34-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "SME_TECH_INNOVATION_ENFORCEMENT",
+ "source_file": "SME_TECH_INNOVATION_RULE.json",
+ "source_path": "원문/법제처API/SME_TECH_INNOVATION_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 11,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 12,
+  "annexes": 7
+ },
+ "files": {
+  "articles": "regulations/중소기업기술혁신법-시행규칙/articles.json",
+  "annexes": "regulations/중소기업기술혁신법-시행규칙/annexes.json",
+  "markdown": "regulations/중소기업기술혁신법-시행규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=220365",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "220365",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

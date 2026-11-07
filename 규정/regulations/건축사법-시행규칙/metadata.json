@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "ARCHITECT_RULE",
+ "name": "건축사법 시행규칙",
+ "short_name": "건축사법 시행규칙",
+ "display_id_prefix": "건축사법-시행규칙",
+ "slug": "건축사법-시행규칙",
+ "aliases": [
+  "건축사법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "국토교통부령",
+ "number": "제1390호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "건축문화경관과"
+  }
+ ],
+ "effective_date": "2024-09-26",
+ "revision_date": "2024-09-26",
+ "revision_type": "타법개정",
+ "version": "2024-09-26-1390",
+ "versions": [
+  {
+   "version": "2024-09-26-1390",
+   "effective_date": "2024-09-26",
+   "revision_date": "2024-09-26",
+   "number": "제1390호",
+   "source_file": "ARCHITECT_RULE.json",
+   "source_path": "원문/법제처API/ARCHITECT_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2024-09-26-1390-pdf",
+   "effective_date": "2024-09-26",
+   "revision_date": "2024-09-26",
+   "number": "제1390호",
+   "source_file": "건축사법 시행규칙(국토교통부령)(제01390호)(20240926).pdf",
+   "source_path": "원문/규정/건축사법 시행규칙/건축사법 시행규칙(국토교통부령)(제01390호)(20240926).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/건축사법-시행규칙/history/2024-09-26-1390-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "ARCHITECT_ENFORCEMENT",
+ "source_file": "ARCHITECT_RULE.json",
+ "source_path": "원문/법제처API/ARCHITECT_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 38,
+  "scheduled_versions": 0,
+  "deleted_articles": 11,
+  "supplementary_articles": 54,
+  "annexes": 47
+ },
+ "files": {
+  "articles": "regulations/건축사법-시행규칙/articles.json",
+  "annexes": "regulations/건축사법-시행규칙/annexes.json",
+  "markdown": "regulations/건축사법-시행규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=265655",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "265655",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

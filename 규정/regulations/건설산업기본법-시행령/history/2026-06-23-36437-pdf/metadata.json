@@ -1,0 +1,161 @@
+{
+ "schema_version": "1.0",
+ "id": "CONSTRUCTION_INDUSTRY_BASIC_ENFORCEMENT",
+ "name": "건설산업기본법 시행령",
+ "short_name": "건설산업기본법 시행령",
+ "display_id_prefix": "건설산업기본법-시행령",
+ "slug": "건설산업기본법-시행령",
+ "aliases": [
+  "건설산업기본법 시행령",
+  "건설산업기본법시행령",
+  "건설산업기본법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36437호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "건설정책과-보증, 실적신고"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "건설정책과-건설업등록관리, 제재처분"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "건설정책과-건설기술인배치, 건설업종, 기타"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "공정건설지원과-하도급"
+  }
+ ],
+ "effective_date": "2026-06-23",
+ "revision_date": "2026-06-23",
+ "revision_type": "일부개정",
+ "version": "2026-06-23-36437",
+ "versions": [
+  {
+   "version": "2026-06-23-36437",
+   "effective_date": "2026-06-23",
+   "revision_date": "2026-06-23",
+   "number": "제36437호",
+   "source_file": "건설산업기본법 시행령(대통령령)(제36437호)(20260623).pdf",
+   "source_path": "원문/규정/건설산업기본법 시행령(대통령령)(제36437호)(20260623).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "CONSTRUCTION_INDUSTRY_BASIC_ACT",
+ "source_file": "건설산업기본법 시행령(대통령령)(제36437호)(20260623).pdf",
+ "source_path": "원문/규정/건설산업기본법 시행령(대통령령)(제36437호)(20260623).pdf",
+ "pdf_path": "pdf/건설산업기본법 시행령(대통령령)(제36437호)(20260623).pdf",
+ "source_pages": 37,
+ "header_raw": [
+  "건설산업기본법 시행령",
+  "[시행 2026. 6. 23.] [대통령령 제36437호, 2026. 6. 23., 일부개정]",
+  "국토교통부 (건설정책과-보증, 실적신고) 044-201-3616",
+  "국토교통부 (건설정책과-건설업등록관리, 제재처분) 044-201-4586",
+  "국토교통부 (건설정책과-건설기술인배치, 건설업종, 기타) 044-201-3514, 3515",
+  "국토교통부 (공정건설지원과-하도급) 044-201-3572"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 건설업의 등록",
+   "raw": "제2장 건설업의 등록 <개정 1999. 8. 6.>",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 도급 및 하도급계약",
+   "raw": "제3장 도급 및 하도급계약",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 시공 및 기술관리",
+   "raw": "제4장 시공 및 기술관리",
+   "page": 15,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 경영합리화와 중소건설사업자 지원",
+   "raw": "제5장 경영합리화와 중소건설사업자 지원 <개정 2020. 2. 18.>",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 건설사업자의 단체",
+   "raw": "제6장 건설사업자의 단체 <개정 2020. 2. 18.>",
+   "page": 18,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 건설관련 공제조합",
+   "raw": "제7장 건설관련 공제조합",
+   "page": 19,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 건설분쟁조정위원회",
+   "raw": "제8장 건설분쟁조정위원회",
+   "page": 25,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제9장 시정명령등",
+   "raw": "제9장 시정명령등",
+   "page": 27,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제10장 보칙",
+   "raw": "제10장 보칙",
+   "page": 29,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제11장 벌칙",
+   "raw": "제11장 벌칙",
+   "page": 36,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 137,
+  "scheduled_versions": 1,
+  "deleted_articles": 17,
+  "supplementary_articles": 3,
+  "annexes": 9
+ },
+ "files": {
+  "articles": "regulations/건설산업기본법-시행령/articles.json",
+  "annexes": "regulations/건설산업기본법-시행령/annexes.json",
+  "markdown": "regulations/건설산업기본법-시행령/regulation.md"
+ }
+}

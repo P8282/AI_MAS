@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "EGOVERNMENT_ACT",
+ "name": "전자정부법",
+ "short_name": "전자정부법",
+ "display_id_prefix": "전자정부법",
+ "slug": "전자정부법",
+ "aliases": [
+  "전자정부법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21394호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "인공지능정부정책과 - 전자정부법 총괄"
+  }
+ ],
+ "effective_date": "2026-08-28",
+ "revision_date": "2026-02-27",
+ "revision_type": "일부개정",
+ "version": "2026-08-28-21394",
+ "versions": [
+  {
+   "version": "2026-08-28-21394",
+   "effective_date": "2026-08-28",
+   "revision_date": "2026-02-27",
+   "number": "제21394호",
+   "source_file": "EGOVERNMENT_ACT.json",
+   "source_path": "원문/법제처API/EGOVERNMENT_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-08-28-21394-pdf",
+   "effective_date": "2026-08-28",
+   "revision_date": "2026-02-27",
+   "number": "제21394호",
+   "source_file": "전자정부법(법률)(제21394호)(20260828).pdf",
+   "source_path": "원문/규정/전자정부법(법률)(제21394호)(20260828).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/전자정부법/history/2026-08-28-21394-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "EGOVERNMENT_ACT.json",
+ "source_path": "원문/법제처API/EGOVERNMENT_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 100,
+  "scheduled_versions": 1,
+  "deleted_articles": 4,
+  "supplementary_articles": 55,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/전자정부법/articles.json",
+  "annexes": "regulations/전자정부법/annexes.json",
+  "markdown": "regulations/전자정부법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=283701",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "283701",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

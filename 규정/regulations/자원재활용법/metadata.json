@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "RESOURCE_RECYCLING_ACT",
+ "name": "자원의 절약과 재활용촉진에 관한 법률",
+ "short_name": "자원재활용법",
+ "display_id_prefix": "자원재활용법",
+ "slug": "자원재활용법",
+ "aliases": [
+  "자원의 절약과 재활용촉진에 관한 법률",
+  "자원재활용촉진법",
+  "자원절약재활용법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21370호",
+ "group": "환경·재활용",
+ "agencies": [
+  {
+   "agency": "기후에너지환경부",
+   "department": "포장재 재질ㆍ구조 기준, 포장폐기물 - 자원재활용과"
+  }
+ ],
+ "effective_date": "2026-08-20",
+ "revision_date": "2026-02-19",
+ "revision_type": "일부개정",
+ "version": "2026-08-20-21370",
+ "versions": [
+  {
+   "version": "2026-08-20-21370",
+   "effective_date": "2026-08-20",
+   "revision_date": "2026-02-19",
+   "number": "제21370호",
+   "source_file": "RESOURCE_RECYCLING_ACT.json",
+   "source_path": "원문/법제처API/RESOURCE_RECYCLING_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-08-20-21370-pdf",
+   "effective_date": "2026-08-20",
+   "revision_date": "2026-02-19",
+   "number": "제21370호",
+   "source_file": "자원의 절약과 재활용촉진에 관한 법률(법률)(제21370호)(20260820).pdf",
+   "source_path": "원문/규정/자원의 절약과 재활용촉진에 관한 법률(법률)(제21370호)(20260820).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/자원재활용법/history/2026-08-20-21370-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "RESOURCE_RECYCLING_ACT.json",
+ "source_path": "원문/법제처API/RESOURCE_RECYCLING_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 103,
+  "scheduled_versions": 3,
+  "deleted_articles": 16,
+  "supplementary_articles": 83,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/자원재활용법/articles.json",
+  "annexes": "regulations/자원재활용법/annexes.json",
+  "markdown": "regulations/자원재활용법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=283445",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "283445",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_GENERAL_SERVICE_SPECIAL_CONDITIONS",
+ "name": "일반용역계약특수조건",
+ "short_name": "일반용역계약특수조건",
+ "display_id_prefix": "일반용역계약특수조건",
+ "slug": "일반용역계약특수조건",
+ "aliases": [
+  "일반용역계약특수조건",
+  "일반용역계약 특수조건"
+ ],
+ "document_type": "지침",
+ "format": "article",
+ "issuer_form": "조달청지침",
+ "number": "제16호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "기술서비스총괄과"
+  }
+ ],
+ "effective_date": "2026-01-12",
+ "revision_date": "2026-01-08",
+ "revision_type": "일부개정",
+ "version": "2026-01-12-16",
+ "versions": [
+  {
+   "version": "2026-01-12-16",
+   "effective_date": "2026-01-12",
+   "revision_date": "2026-01-08",
+   "number": "제16호",
+   "source_file": "PPS_GENERAL_SERVICE_SPECIAL_CONDITIONS.json",
+   "source_path": "원문/법제처API/PPS_GENERAL_SERVICE_SPECIAL_CONDITIONS.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-01-12-16-pdf",
+   "effective_date": "2026-01-12",
+   "revision_date": "2026-01-08",
+   "number": "제16호",
+   "source_file": "일반용역계약특수조건(조달청지침)(제16호)(20260112).pdf",
+   "source_path": "원문/규정/일반용역계약특수조건(조달청지침)(제16호)(20260112).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/일반용역계약특수조건/history/2026-01-12-16-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "PPS_GENERAL_SERVICE_SPECIAL_CONDITIONS.json",
+ "source_path": "원문/법제처API/PPS_GENERAL_SERVICE_SPECIAL_CONDITIONS.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 33,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 4,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/일반용역계약특수조건/articles.json",
+  "annexes": "regulations/일반용역계약특수조건/annexes.json",
+  "markdown": "regulations/일반용역계약특수조건/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000272444",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000272444",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

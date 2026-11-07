@@ -1,0 +1,67 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_GOODS_PURCHASE_SPECIAL_CONDITIONS",
+ "name": "물품구매(제조)계약 특수조건",
+ "short_name": "물품구매(제조)계약 특수조건",
+ "display_id_prefix": "물품구매(제조)계약-특수조건",
+ "slug": "물품구매(제조)계약-특수조건",
+ "aliases": [
+  "물품구매(제조)계약 특수조건",
+  "조달청 물품구매(제조)계약 특수조건",
+  "물품구매계약 특수조건"
+ ],
+ "document_type": "지침",
+ "format": "article",
+ "issuer_form": "조달청지침",
+ "number": "제5909호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "구매총괄과"
+  }
+ ],
+ "effective_date": "2026-10-01",
+ "revision_date": "2026-09-21",
+ "revision_type": "일부개정",
+ "version": "2026-10-01-5909",
+ "versions": [
+  {
+   "version": "2026-10-01-5909",
+   "effective_date": "2026-10-01",
+   "revision_date": "2026-09-21",
+   "number": "제5909호",
+   "source_file": "물품구매(제조)계약 특수조건.json",
+   "source_path": "원문/법제처API/물품구매(제조)계약 특수조건.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "물품구매(제조)계약 특수조건.json",
+ "source_path": "원문/법제처API/물품구매(제조)계약 특수조건.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000285334",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 39,
+  "scheduled_versions": 0,
+  "deleted_articles": 7,
+  "supplementary_articles": 23,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/물품구매(제조)계약-특수조건/articles.json",
+  "annexes": "regulations/물품구매(제조)계약-특수조건/annexes.json",
+  "markdown": "regulations/물품구매(제조)계약-특수조건/regulation.md"
+ }
+}

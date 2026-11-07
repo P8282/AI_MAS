@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_A_2100000253156",
+ "name": "잠수함 감항성 관리 세부지침",
+ "short_name": "잠수함 감항성 관리 세부지침",
+ "display_id_prefix": "잠수함-감항성-관리-세부지침",
+ "slug": "잠수함-감항성-관리-세부지침",
+ "aliases": [
+  "잠수함 감항성 관리 세부지침"
+ ],
+ "document_type": "예규",
+ "format": "article",
+ "issuer_form": "방위사업청예규",
+ "number": "제970호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "한국형잠수함총괄계약팀"
+  }
+ ],
+ "effective_date": "2025-01-09",
+ "revision_date": "2025-01-09",
+ "revision_type": "제정",
+ "version": "2025-01-09-970",
+ "versions": [
+  {
+   "version": "2025-01-09-970",
+   "effective_date": "2025-01-09",
+   "revision_date": "2025-01-09",
+   "number": "제970호",
+   "source_file": "잠수함 감항성 관리 세부지침.json",
+   "source_path": "원문/법제처API/잠수함 감항성 관리 세부지침.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "잠수함 감항성 관리 세부지침.json",
+ "source_path": "원문/법제처API/잠수함 감항성 관리 세부지침.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000253156",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 21,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/잠수함-감항성-관리-세부지침/articles.json",
+  "annexes": "regulations/잠수함-감항성-관리-세부지침/annexes.json",
+  "markdown": "regulations/잠수함-감항성-관리-세부지침/regulation.md"
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_A_2100000214045",
+ "name": "군용총포·도검·화약류 운반허가에 관한 고시",
+ "short_name": "군용총포·도검·화약류 운반허가에 관한 고시",
+ "display_id_prefix": "군용총포도검화약류-운반허가에-관한-고시",
+ "slug": "군용총포도검화약류-운반허가에-관한-고시",
+ "aliases": [
+  "군용총포·도검·화약류 운반허가에 관한 고시"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "방위사업청고시",
+ "number": "제2022-6호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "방산정책과"
+  }
+ ],
+ "effective_date": "2022-08-22",
+ "revision_date": "2022-08-22",
+ "revision_type": "일부개정",
+ "version": "2022-08-22-20226",
+ "versions": [
+  {
+   "version": "2022-08-22-20226",
+   "effective_date": "2022-08-22",
+   "revision_date": "2022-08-22",
+   "number": "제2022-6호",
+   "source_file": "군용총포·도검·화약류 운반허가에 관한 고시.json",
+   "source_path": "원문/법제처API/군용총포·도검·화약류 운반허가에 관한 고시.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "군용총포·도검·화약류 운반허가에 관한 고시.json",
+ "source_path": "원문/법제처API/군용총포·도검·화약류 운반허가에 관한 고시.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000214045",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 9,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 4,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/군용총포도검화약류-운반허가에-관한-고시/articles.json",
+  "annexes": "regulations/군용총포도검화약류-운반허가에-관한-고시/annexes.json",
+  "markdown": "regulations/군용총포도검화약류-운반허가에-관한-고시/regulation.md"
+ }
+}

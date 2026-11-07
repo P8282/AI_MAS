@@ -1,0 +1,84 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_SERVICE_MAS_RULE",
+ "name": "용역 다수공급자계약 업무처리규정",
+ "short_name": "용역 다수공급자계약 업무처리규정",
+ "display_id_prefix": "용역-다수공급자계약-업무처리규정",
+ "slug": "용역-다수공급자계약-업무처리규정",
+ "aliases": [
+  "용역 다수공급자계약 업무처리규정",
+  "용역 MAS",
+  "용역다수공급자계약",
+  "다수공급자계약 업무처리규정",
+  "MAS 업무처리규정"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "조달청고시",
+ "number": "제2026-40호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "기술서비스총괄과"
+  }
+ ],
+ "effective_date": "2026-07-21",
+ "revision_date": "2026-07-21",
+ "revision_type": "일부개정",
+ "version": "2026-07-21-202640",
+ "versions": [
+  {
+   "version": "2026-07-21-202640",
+   "effective_date": "2026-07-21",
+   "revision_date": "2026-07-21",
+   "number": "제2026-40호",
+   "source_file": "PPS_SERVICE_MAS_RULE.json",
+   "source_path": "원문/법제처API/PPS_SERVICE_MAS_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-07-21-202640-pdf",
+   "effective_date": "2026-07-21",
+   "revision_date": "2026-07-21",
+   "number": "제2026-40호",
+   "source_file": "용역 다수공급자계약 업무처리규정(조달청고시)(제2026-40호)(20260721).pdf",
+   "source_path": "원문/규정/용역 다수공급자계약 업무처리규정(조달청고시)(제2026-40호)(20260721).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/용역-다수공급자계약-업무처리규정/history/2026-07-21-202640-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "PPS_SERVICE_MAS_RULE.json",
+ "source_path": "원문/법제처API/PPS_SERVICE_MAS_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 77,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 9,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/용역-다수공급자계약-업무처리규정/articles.json",
+  "annexes": "regulations/용역-다수공급자계약-업무처리규정/annexes.json",
+  "markdown": "regulations/용역-다수공급자계약-업무처리규정/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000282832",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000282832",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

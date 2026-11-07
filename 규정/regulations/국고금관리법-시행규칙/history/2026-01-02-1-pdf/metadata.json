@@ -1,0 +1,257 @@
+{
+ "schema_version": "1.0",
+ "id": "NATIONAL_TREASURY_RULE",
+ "name": "국고금 관리법 시행규칙",
+ "short_name": "국고금관리법 시행규칙",
+ "display_id_prefix": "국고금관리법-시행규칙",
+ "slug": "국고금관리법-시행규칙",
+ "aliases": [
+  "국고금관리법 시행규칙",
+  "국고금 관리법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "재정경제부령",
+ "number": "제1호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "국고총괄과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2026-01-02",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-1",
+ "versions": [
+  {
+   "version": "2026-01-02-1",
+   "effective_date": "2026-01-02",
+   "revision_date": "2026-01-02",
+   "number": "제1호",
+   "source_file": "국고금 관리법 시행규칙(재정경제부령)(제00001호)(20260102).pdf",
+   "source_path": "원문/규정/국고금 관리법 시행규칙/국고금 관리법 시행규칙(재정경제부령)(제00001호)(20260102).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "NATIONAL_TREASURY_ENFORCEMENT",
+ "source_file": "국고금 관리법 시행규칙(재정경제부령)(제00001호)(20260102).pdf",
+ "source_path": "원문/규정/국고금 관리법 시행규칙/국고금 관리법 시행규칙(재정경제부령)(제00001호)(20260102).pdf",
+ "pdf_path": "pdf/국고금 관리법 시행규칙/국고금 관리법 시행규칙(재정경제부령)(제00001호)(20260102).pdf",
+ "source_pages": 22,
+ "header_raw": [
+  "국고금 관리법 시행규칙",
+  "[시행 2026. 1. 2.] [재정경제부령 제1호, 2026. 1. 2., 타법개정]",
+  "재정경제부 (국고총괄과) 044-215-5112"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 수입",
+   "raw": "제2장 수입",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 징수결정",
+   "raw": "제1절 징수결정",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 납입의 고지",
+   "raw": "제2절 납입의 고지",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 전자송달대행기관 등",
+   "raw": "제3절 전자송달대행기관 등",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 수납",
+   "raw": "제4절 수납",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 과오납금의 반환 등",
+   "raw": "제5절 과오납금의 반환 등",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 수입관리 등",
+   "raw": "제6절 수입관리 등",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 선사용자금",
+   "raw": "제3장 선사용자금",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 지출",
+   "raw": "제4장 지출",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 지출원인행위 등",
+   "raw": "제1절 지출원인행위 등",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 지출절차",
+   "raw": "제2절 지출절차",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 지출의 특례",
+   "raw": "제3절 지출의 특례",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 지출금의 반납",
+   "raw": "제4절 지출금의 반납",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 상계",
+   "raw": "제5장 상계",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 재정증권의 발행 및 국고금의 이체",
+   "raw": "제6장 재정증권의 발행 및 국고금의 이체 <개정 2005. 6. 30.>",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 한국은행등의 사무",
+   "raw": "제7장 한국은행등의 사무",
+   "page": 15,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통칙",
+   "raw": "제1절 통칙",
+   "page": 15,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 수입금",
+   "raw": "제2절 수입금",
+   "page": 16,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 지출금",
+   "raw": "제3절 지출금",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 장부ㆍ계산보고 및 증명",
+   "raw": "제4절 장부ㆍ계산보고 및 증명",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 출납공무원",
+   "raw": "제8장 출납공무원",
+   "page": 18,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제9장 보칙",
+   "raw": "제9장 보칙",
+   "page": 19,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 결의서ㆍ장부 및 보고서",
+   "raw": "제1절 결의서ㆍ장부 및 보고서",
+   "page": 19,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 월계대사",
+   "raw": "제2절 월계대사",
+   "page": 20,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 오류정정",
+   "raw": "제3절 오류정정",
+   "page": 20,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 사무의 인계 등",
+   "raw": "제4절 사무의 인계 등",
+   "page": 20,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 138,
+  "scheduled_versions": 0,
+  "deleted_articles": 2,
+  "supplementary_articles": 2,
+  "annexes": 47
+ },
+ "files": {
+  "articles": "regulations/국고금관리법-시행규칙/articles.json",
+  "annexes": "regulations/국고금관리법-시행규칙/annexes.json",
+  "markdown": "regulations/국고금관리법-시행규칙/regulation.md"
+ }
+}

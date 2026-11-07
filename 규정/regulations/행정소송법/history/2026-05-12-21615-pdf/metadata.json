@@ -1,0 +1,144 @@
+{
+ "schema_version": "1.0",
+ "id": "ADMINISTRATIVE_LITIGATION_ACT",
+ "name": "행정소송법",
+ "short_name": "행정소송법",
+ "display_id_prefix": "행정소송법",
+ "slug": "행정소송법",
+ "aliases": [
+  "행정소송법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21615호",
+ "group": "헌법·민사",
+ "agencies": [
+  {
+   "agency": "법무부",
+   "department": "행정소송과"
+  }
+ ],
+ "effective_date": "2026-05-12",
+ "revision_date": "2026-05-12",
+ "revision_type": "일부개정",
+ "version": "2026-05-12-21615",
+ "versions": [
+  {
+   "version": "2026-05-12-21615",
+   "effective_date": "2026-05-12",
+   "revision_date": "2026-05-12",
+   "number": "제21615호",
+   "source_file": "행정소송법(법률)(제21615호)(20260512).pdf",
+   "source_path": "원문/규정/행정소송법(법률)(제21615호)(20260512).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "행정소송법(법률)(제21615호)(20260512).pdf",
+ "source_path": "원문/규정/행정소송법(법률)(제21615호)(20260512).pdf",
+ "pdf_path": "pdf/행정소송법(법률)(제21615호)(20260512).pdf",
+ "source_pages": 7,
+ "header_raw": [
+  "행정소송법",
+  "[시행 2026. 5. 12.] [법률 제21615호, 2026. 5. 12., 일부개정]",
+  "법무부 (행정소송과) 02-2110-4406"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 취소소송",
+   "raw": "제2장 취소소송",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 재판관할",
+   "raw": "제1절 재판관할",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 당사자",
+   "raw": "제2절 당사자",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 소의 제기",
+   "raw": "제3절 소의 제기",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 심리",
+   "raw": "제4절 심리",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 재판",
+   "raw": "제5절 재판",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 보칙",
+   "raw": "제6절 보칙",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 취소소송외의 항고소송",
+   "raw": "제3장 취소소송외의 항고소송",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 당사자소송",
+   "raw": "제4장 당사자소송",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 민중소송 및 기관소송",
+   "raw": "제5장 민중소송 및 기관소송",
+   "page": 7,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 46,
+  "scheduled_versions": 2,
+  "deleted_articles": 1,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/행정소송법/articles.json",
+  "annexes": "regulations/행정소송법/annexes.json",
+  "markdown": "regulations/행정소송법/regulation.md"
+ }
+}

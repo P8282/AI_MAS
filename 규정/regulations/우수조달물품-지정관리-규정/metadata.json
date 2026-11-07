@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_EXCELLENT_PROCUREMENT_GOODS_NOTICE",
+ "name": "우수조달물품 지정·관리 규정",
+ "short_name": "우수조달물품 지정·관리 규정",
+ "display_id_prefix": "우수조달물품-지정관리-규정",
+ "slug": "우수조달물품-지정관리-규정",
+ "aliases": [
+  "우수조달물품 지정·관리 규정",
+  "우수조달물품 지정관리 규정",
+  "우수제품 지정",
+  "우수제품 지정 관리규정",
+  "우수제품 지정관리규정"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "조달청고시",
+ "number": "제2026-49호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "우수제품구매과"
+  }
+ ],
+ "effective_date": "2026-10-14",
+ "revision_date": "2026-10-14",
+ "revision_type": "일부개정",
+ "version": "2026-10-14-202649",
+ "versions": [
+  {
+   "version": "2026-10-14-202649",
+   "effective_date": "2026-10-14",
+   "revision_date": "2026-10-14",
+   "number": "제2026-49호",
+   "source_file": "PPS_EXCELLENT_PROCUREMENT_GOODS_NOTICE.json",
+   "source_path": "원문/법제처API/PPS_EXCELLENT_PROCUREMENT_GOODS_NOTICE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-04-27-202629",
+   "effective_date": "2026-04-27",
+   "revision_date": "2026-04-23",
+   "number": "제2026-29호",
+   "source_file": "PPS_EXCELLENT_PROCUREMENT_GOODS_NOTICE.json",
+   "source_path": "원문/법제처API/PPS_EXCELLENT_PROCUREMENT_GOODS_NOTICE.json",
+   "source": "api",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/우수조달물품-지정관리-규정/history/2026-04-27-202629/"
+  },
+  {
+   "version": "2026-04-27-202629-pdf",
+   "effective_date": "2026-04-27",
+   "revision_date": "2026-04-23",
+   "number": "제2026-29호",
+   "source_file": "우수조달물품 지정·관리 규정(조달청고시)(제2026-29호)(20260427).pdf",
+   "source_path": "원문/규정/우수조달물품 지정·관리 규정/우수조달물품 지정·관리 규정(조달청고시)(제2026-29호)(20260427).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/우수조달물품-지정관리-규정/history/2026-04-27-202629-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "PPS_EXCELLENT_PROCUREMENT_GOODS_NOTICE.json",
+ "source_path": "원문/법제처API/PPS_EXCELLENT_PROCUREMENT_GOODS_NOTICE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 62,
+  "scheduled_versions": 5,
+  "deleted_articles": 0,
+  "supplementary_articles": 20,
+  "annexes": 52
+ },
+ "files": {
+  "articles": "regulations/우수조달물품-지정관리-규정/articles.json",
+  "annexes": "regulations/우수조달물품-지정관리-규정/annexes.json",
+  "markdown": "regulations/우수조달물품-지정관리-규정/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000286866",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000286866",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

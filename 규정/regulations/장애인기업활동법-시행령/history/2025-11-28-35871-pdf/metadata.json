@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "DISABLED_ENTERPRISE_ENFORCEMENT",
+ "name": "장애인기업활동 촉진법 시행령",
+ "short_name": "장애인기업활동법 시행령",
+ "display_id_prefix": "장애인기업활동법-시행령",
+ "slug": "장애인기업활동법-시행령",
+ "aliases": [
+  "장애인기업활동법 시행령",
+  "장애인기업활동법시행령",
+  "장애인기업활동 촉진법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제35871호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "소상공인정책과"
+  }
+ ],
+ "effective_date": "2025-11-28",
+ "revision_date": "2025-11-25",
+ "revision_type": "일부개정",
+ "version": "2025-11-28-35871",
+ "versions": [
+  {
+   "version": "2025-11-28-35871",
+   "effective_date": "2025-11-28",
+   "revision_date": "2025-11-25",
+   "number": "제35871호",
+   "source_file": "장애인기업활동 촉진법 시행령(대통령령)(제35871호)(20251128).pdf",
+   "source_path": "원문/규정/장애인기업활동 촉진법 시행령(대통령령)(제35871호)(20251128).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "DISABLED_ENTERPRISE_ACT",
+ "source_file": "장애인기업활동 촉진법 시행령(대통령령)(제35871호)(20251128).pdf",
+ "source_path": "원문/규정/장애인기업활동 촉진법 시행령(대통령령)(제35871호)(20251128).pdf",
+ "pdf_path": "pdf/장애인기업활동 촉진법 시행령(대통령령)(제35871호)(20251128).pdf",
+ "source_pages": 6,
+ "header_raw": [
+  "장애인기업활동 촉진법 시행령 ( 약칭: 장애인기업법 시행령 )",
+  "[시행 2025. 11. 28.] [대통령령 제35871호, 2025. 11. 25., 일부개정]",
+  "중소벤처기업부 (소상공인정책과) 044-204-7825"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 23,
+  "scheduled_versions": 0,
+  "deleted_articles": 5,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/장애인기업활동법-시행령/articles.json",
+  "annexes": "regulations/장애인기업활동법-시행령/annexes.json",
+  "markdown": "regulations/장애인기업활동법-시행령/regulation.md"
+ }
+}

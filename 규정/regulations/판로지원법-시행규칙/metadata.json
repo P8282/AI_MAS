@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_PRODUCT_PROCUREMENT_RULE",
+ "name": "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙",
+ "short_name": "판로지원법 시행규칙",
+ "display_id_prefix": "판로지원법-시행규칙",
+ "slug": "판로지원법-시행규칙",
+ "aliases": [
+  "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙",
+  "판로지원법 시행규칙",
+  "판로지원법시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "중소벤처기업부령",
+ "number": "제76호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "판로정책과 - 우선조달(제1조의2)"
+  }
+ ],
+ "effective_date": "2023-08-08",
+ "revision_date": "2023-08-08",
+ "revision_type": "일부개정",
+ "version": "2023-08-08-76",
+ "versions": [
+  {
+   "version": "2023-08-08-76",
+   "effective_date": "2023-08-08",
+   "revision_date": "2023-08-08",
+   "number": "제76호",
+   "source_file": "SME_PRODUCT_PROCUREMENT_RULE.json",
+   "source_path": "원문/법제처API/SME_PRODUCT_PROCUREMENT_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2023-08-08-76-pdf",
+   "effective_date": "2023-08-08",
+   "revision_date": "2023-08-08",
+   "number": "제76호",
+   "source_file": "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙(중소벤처기업부령)(제00076호)(20230808).pdf",
+   "source_path": "원문/규정/판로지원법 시행규칙/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙(중소벤처기업부령)(제00076호)(20230808).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/판로지원법-시행규칙/history/2023-08-08-76-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "SME_PRODUCT_PROCUREMENT_ENFORCEMENT",
+ "source_file": "SME_PRODUCT_PROCUREMENT_RULE.json",
+ "source_path": "원문/법제처API/SME_PRODUCT_PROCUREMENT_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 26,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 29,
+  "annexes": 16
+ },
+ "files": {
+  "articles": "regulations/판로지원법-시행규칙/articles.json",
+  "annexes": "regulations/판로지원법-시행규칙/annexes.json",
+  "markdown": "regulations/판로지원법-시행규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=253373",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "253373",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

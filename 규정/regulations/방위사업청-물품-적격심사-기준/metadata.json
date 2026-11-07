@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_GOODS_QUALIFICATION_GUIDE",
+ "name": "(방위사업청) 물품 적격심사 기준",
+ "short_name": "방위사업청 물품 적격심사 기준",
+ "display_id_prefix": "방위사업청-물품-적격심사-기준",
+ "slug": "방위사업청-물품-적격심사-기준",
+ "aliases": [
+  "(방위사업청) 물품 적격심사 기준",
+  "방위사업청 적격심사 기준",
+  "방사청 물품 적격심사"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "방위사업청예규",
+ "number": "제1080호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "계약제도발전과"
+  }
+ ],
+ "effective_date": "2026-09-21",
+ "revision_date": "2026-09-21",
+ "revision_type": "일부개정",
+ "version": "2026-09-21-1080",
+ "versions": [
+  {
+   "version": "2026-09-21-1080",
+   "effective_date": "2026-09-21",
+   "revision_date": "2026-09-21",
+   "number": "제1080호",
+   "source_file": "DAPA_GOODS_QUALIFICATION_GUIDE.json",
+   "source_path": "원문/법제처API/DAPA_GOODS_QUALIFICATION_GUIDE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-09-21-1080-pdf",
+   "effective_date": "2026-09-21",
+   "revision_date": "2026-09-21",
+   "number": "제1080호",
+   "source_file": "(방위사업청) 물품 적격심사 기준(방위사업청예규)(제1080호)(20260921).pdf",
+   "source_path": "원문/규정/(방위사업청) 물품 적격심사 기준/(방위사업청) 물품 적격심사 기준(방위사업청예규)(제1080호)(20260921).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/방위사업청-물품-적격심사-기준/history/2026-09-21-1080-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE",
+ "source_file": "DAPA_GOODS_QUALIFICATION_GUIDE.json",
+ "source_path": "원문/법제처API/DAPA_GOODS_QUALIFICATION_GUIDE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 15,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 38,
+  "annexes": 11
+ },
+ "files": {
+  "articles": "regulations/방위사업청-물품-적격심사-기준/articles.json",
+  "annexes": "regulations/방위사업청-물품-적격심사-기준/annexes.json",
+  "markdown": "regulations/방위사업청-물품-적격심사-기준/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000285254",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000285254",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 11
+}

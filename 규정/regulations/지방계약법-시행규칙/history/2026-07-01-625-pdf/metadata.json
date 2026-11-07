@@ -1,0 +1,133 @@
+{
+ "schema_version": "1.0",
+ "id": "LOCAL_CONTRACT_RULE",
+ "name": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙",
+ "short_name": "지방계약법 시행규칙",
+ "display_id_prefix": "지방계약법-시행규칙",
+ "slug": "지방계약법-시행규칙",
+ "aliases": [
+  "지방계약법시행규칙",
+  "지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "행정안전부령",
+ "number": "제625호",
+ "group": "지방계약",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "회계제도과"
+  }
+ ],
+ "effective_date": "2026-07-01",
+ "revision_date": "2026-06-19",
+ "revision_type": "일부개정",
+ "version": "2026-07-01-625",
+ "versions": [
+  {
+   "version": "2026-07-01-625",
+   "effective_date": "2026-07-01",
+   "revision_date": "2026-06-19",
+   "number": "제625호",
+   "source_file": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙(행정안전부령)(제0….pdf",
+   "source_path": "원문/규정/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙(행정안전부령)(제0….pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [
+  "파일명이 잘려 있어 파일명의 번호·시행일을 본문 머리와 대조하지 못함 (본문 머리 값 사용)"
+ ],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "LOCAL_CONTRACT_ENFORCEMENT",
+ "source_file": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙(행정안전부령)(제0….pdf",
+ "source_path": "원문/규정/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙(행정안전부령)(제0….pdf",
+ "pdf_path": "pdf/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙(행정안전부령)(제0….pdf",
+ "source_pages": 26,
+ "header_raw": [
+  "지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙 ( 약칭: 지방계약법 시행규칙 )",
+  "[시행 2026. 7. 1.] [행정안전부령 제625호, 2026. 6. 19., 일부개정]",
+  "행정안전부 (회계제도과) 044-205-3783"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 추정가격과 예정가격",
+   "raw": "제2장 추정가격과 예정가격 <개정 2010. 11. 5.>",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 계약의 방법",
+   "raw": "제3장 계약의 방법",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 입찰 및 낙찰절차",
+   "raw": "제4장 입찰 및 낙찰절차",
+   "page": 12,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 계약의 체결 및 이행",
+   "raw": "제5장 계약의 체결 및 이행",
+   "page": 15,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 대형공사계약",
+   "raw": "제6장 대형공사계약",
+   "page": 23,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 지방계약심의조정위원회",
+   "raw": "제7장 지방계약심의조정위원회 <개정 2024. 12. 6.>",
+   "page": 24,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 계약정보의 공개 및 그 밖의 사항",
+   "raw": "제8장 계약정보의 공개 및 그 밖의 사항",
+   "page": 24,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제9장 보칙",
+   "raw": "제9장 보칙 <신설 2022. 1. 17.>",
+   "page": 25,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 95,
+  "scheduled_versions": 1,
+  "deleted_articles": 4,
+  "supplementary_articles": 1,
+  "annexes": 18
+ },
+ "files": {
+  "articles": "regulations/지방계약법-시행규칙/articles.json",
+  "annexes": "regulations/지방계약법-시행규칙/annexes.json",
+  "markdown": "regulations/지방계약법-시행규칙/regulation.md"
+ }
+}

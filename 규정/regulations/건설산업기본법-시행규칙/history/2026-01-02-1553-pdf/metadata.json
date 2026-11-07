@@ -1,0 +1,83 @@
+{
+ "schema_version": "1.0",
+ "id": "CONSTRUCTION_INDUSTRY_BASIC_RULE",
+ "name": "건설산업기본법 시행규칙",
+ "short_name": "건설산업기본법 시행규칙",
+ "display_id_prefix": "건설산업기본법-시행규칙",
+ "slug": "건설산업기본법-시행규칙",
+ "aliases": [
+  "건설산업기본법 시행규칙",
+  "건설산업기본법시행규칙",
+  "건설산업기본법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "국토교통부령",
+ "number": "제1553호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "건설정책과-건설업등록관리, 제재처분"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "공정건설지원과-하도급"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "건설정책과-건설기술인배치, 건설업종, 기타"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "건설정책과-보증, 실적신고"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2025-12-30",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-1553",
+ "versions": [
+  {
+   "version": "2026-01-02-1553",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-12-30",
+   "number": "제1553호",
+   "source_file": "건설산업기본법 시행규칙(국토교통부령)(제01553호)(20260102).pdf",
+   "source_path": "원문/규정/건설산업기본법 시행규칙(국토교통부령)(제01553호)(20260102).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "CONSTRUCTION_INDUSTRY_BASIC_ENFORCEMENT",
+ "source_file": "건설산업기본법 시행규칙(국토교통부령)(제01553호)(20260102).pdf",
+ "source_path": "원문/규정/건설산업기본법 시행규칙(국토교통부령)(제01553호)(20260102).pdf",
+ "pdf_path": "pdf/건설산업기본법 시행규칙(국토교통부령)(제01553호)(20260102).pdf",
+ "source_pages": 23,
+ "header_raw": [
+  "건설산업기본법 시행규칙",
+  "[시행 2026. 1. 2.] [국토교통부령 제1553호, 2025. 12. 30., 타법개정]",
+  "국토교통부 (건설정책과-건설업등록관리, 제재처분) 044-201-4586",
+  "국토교통부 (공정건설지원과-하도급) 044-201-3572",
+  "국토교통부 (건설정책과-건설기술인배치, 건설업종, 기타) 044-201-3514, 3515",
+  "국토교통부 (건설정책과-보증, 실적신고) 044-201-3616"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 72,
+  "scheduled_versions": 0,
+  "deleted_articles": 13,
+  "supplementary_articles": 2,
+  "annexes": 52
+ },
+ "files": {
+  "articles": "regulations/건설산업기본법-시행규칙/articles.json",
+  "annexes": "regulations/건설산업기본법-시행규칙/annexes.json",
+  "markdown": "regulations/건설산업기본법-시행규칙/regulation.md"
+ }
+}

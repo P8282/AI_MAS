@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_L_287549",
+ "name": "국방과학기술혁신 촉진법 시행령",
+ "short_name": "국방과학기술혁신 촉진법 시행령",
+ "display_id_prefix": "국방과학기술혁신-촉진법-시행령",
+ "slug": "국방과학기술혁신-촉진법-시행령",
+ "aliases": [
+  "국방과학기술혁신 촉진법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36453호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "기술정책과-국방과학기술 지식 · 정보 관리 및 연구개발장려금"
+  }
+ ],
+ "effective_date": "2026-07-01",
+ "revision_date": "2026-06-30",
+ "revision_type": "일부개정",
+ "version": "2026-07-01-36453",
+ "versions": [
+  {
+   "version": "2026-07-01-36453",
+   "effective_date": "2026-07-01",
+   "revision_date": "2026-06-30",
+   "number": "제36453호",
+   "source_file": "국방과학기술혁신 촉진법 시행령.json",
+   "source_path": "원문/법제처API/국방과학기술혁신 촉진법 시행령.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "국방과학기술혁신 촉진법 시행령.json",
+ "source_path": "원문/법제처API/국방과학기술혁신 촉진법 시행령.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=287549",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 20,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 8,
+  "annexes": 3
+ },
+ "files": {
+  "articles": "regulations/국방과학기술혁신-촉진법-시행령/articles.json",
+  "annexes": "regulations/국방과학기술혁신-촉진법-시행령/annexes.json",
+  "markdown": "regulations/국방과학기술혁신-촉진법-시행령/regulation.md"
+ }
+}

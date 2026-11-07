@@ -1,0 +1,117 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_GENERAL_SERVICE_SPECIAL_CONDITIONS",
+ "name": "일반용역계약특수조건",
+ "short_name": "일반용역계약특수조건",
+ "display_id_prefix": "일반용역계약특수조건",
+ "slug": "일반용역계약특수조건",
+ "aliases": [
+  "일반용역계약특수조건",
+  "일반용역계약 특수조건"
+ ],
+ "document_type": "지침",
+ "format": "article",
+ "issuer_form": "조달청지침",
+ "number": "제16호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "기술서비스총괄과"
+  }
+ ],
+ "effective_date": "2026-01-12",
+ "revision_date": "2026-01-08",
+ "revision_type": "일부개정",
+ "version": "2026-01-12-16",
+ "versions": [
+  {
+   "version": "2026-01-12-16",
+   "effective_date": "2026-01-12",
+   "revision_date": "2026-01-08",
+   "number": "제16호",
+   "source_file": "일반용역계약특수조건(조달청지침)(제16호)(20260112).pdf",
+   "source_path": "원문/규정/일반용역계약특수조건(조달청지침)(제16호)(20260112).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "일반용역계약특수조건(조달청지침)(제16호)(20260112).pdf",
+ "source_path": "원문/규정/일반용역계약특수조건(조달청지침)(제16호)(20260112).pdf",
+ "pdf_path": "pdf/일반용역계약특수조건(조달청지침)(제16호)(20260112).pdf",
+ "source_pages": 9,
+ "header_raw": [
+  "일반용역계약특수조건",
+  "[시행 2026. 1. 12.] [조달청지침 제16호, 2026. 1. 8., 일부개정]",
+  "조달청(기술서비스총괄과), 070-4056-7133, 6117"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총 칙",
+   "raw": "제1장 총 칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 용역계약 이행",
+   "raw": "제2장 용역계약 이행",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 계약금액 조정과 대가 지급",
+   "raw": "제3장 계약금액 조정과 대가 지급",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 계약 사후관리",
+   "raw": "제4장 계약 사후관리",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 협력업체 지원",
+   "raw": "제5장 협력업체 지원",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 지식재산권",
+   "raw": "제6장 지식재산권",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 기타",
+   "raw": "제7장 기타",
+   "page": 8,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 26,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/일반용역계약특수조건/articles.json",
+  "annexes": "regulations/일반용역계약특수조건/annexes.json",
+  "markdown": "regulations/일반용역계약특수조건/regulation.md"
+ }
+}

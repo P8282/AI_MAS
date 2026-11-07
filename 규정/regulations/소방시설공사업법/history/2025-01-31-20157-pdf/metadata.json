@@ -1,0 +1,152 @@
+{
+ "schema_version": "1.0",
+ "id": "FIRE_FACILITY_WORK_ACT",
+ "name": "소방시설공사업법",
+ "short_name": "소방시설공사업법",
+ "display_id_prefix": "소방시설공사업법",
+ "slug": "소방시설공사업법",
+ "aliases": [
+  "소방시설공사업법",
+  "소방공사업법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제20157호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "소방청",
+   "department": "소방산업진흥정책과"
+  }
+ ],
+ "effective_date": "2025-01-31",
+ "revision_date": "2024-01-30",
+ "revision_type": "일부개정",
+ "version": "2025-01-31-20157",
+ "versions": [
+  {
+   "version": "2025-01-31-20157",
+   "effective_date": "2025-01-31",
+   "revision_date": "2024-01-30",
+   "number": "제20157호",
+   "source_file": "소방시설공사업법(법률)(제20157호)(20250131).pdf",
+   "source_path": "원문/규정/소방시설공사업법(법률)(제20157호)(20250131).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "소방시설공사업법(법률)(제20157호)(20250131).pdf",
+ "source_path": "원문/규정/소방시설공사업법(법률)(제20157호)(20250131).pdf",
+ "pdf_path": "pdf/소방시설공사업법(법률)(제20157호)(20250131).pdf",
+ "source_pages": 17,
+ "header_raw": [
+  "소방시설공사업법",
+  "[시행 2025. 1. 31.] [법률 제20157호, 2024. 1. 30., 일부개정]",
+  "소방청 (소방산업진흥정책과) 044-205-7507"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙 <개정 2010. 7. 23.>",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 소방시설업",
+   "raw": "제2장 소방시설업",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 소방시설공사등",
+   "raw": "제3장 소방시설공사등 <개정 2014. 12. 30.>",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 설계",
+   "raw": "제1절 설계 <개정 2010. 7. 23.>",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 시공",
+   "raw": "제2절 시공 <개정 2010. 7. 23.>",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 감리",
+   "raw": "제3절 감리 <개정 2010. 7. 23.>",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절의2 방염",
+   "raw": "제3절의2 방염 <신설 2014. 12. 30.>",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 도급",
+   "raw": "제4절 도급 <개정 2010. 7. 23.>",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 소방기술자",
+   "raw": "제4장 소방기술자",
+   "page": 12,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 소방시설업자협회",
+   "raw": "제5장 소방시설업자협회 <개정 2014. 12. 30.>",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 보칙",
+   "raw": "제6장 보칙 <개정 2010. 7. 23.>",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 벌칙",
+   "raw": "제7장 벌칙 <개정 2010. 7. 23.>",
+   "page": 16,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 59,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/소방시설공사업법/articles.json",
+  "annexes": "regulations/소방시설공사업법/annexes.json",
+  "markdown": "regulations/소방시설공사업법/regulation.md"
+ }
+}

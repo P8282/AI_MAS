@@ -1,0 +1,74 @@
+{
+ "id": "PPS_GPASS_DESIGNATION_EXPORT_SUPPORT_NOTICE",
+ "name": "해외조달시장 진출유망기업 지정·관리 및 수출지원에 관한 규정",
+ "short_name": "해외조달시장 진출유망기업 지정·관리 및 수출지원에 관한 규정",
+ "display_id_prefix": "해외조달시장 진출유망기업 지정·관리 및 수출지원에 관한 규정",
+ "slug": "해외조달시장-진출유망기업-지정·관리-및-수출지원에-관한-규정",
+ "aliases": [
+  "해외조달시장 진출유망기업 지정·관리 및 수출지원에 관한 규정",
+  "G-PASS기업 지정 규정",
+  "해외조달시장 진출유망기업 지정관리 규정"
+ ],
+ "document_type": "고시",
+ "issuer_form": "조달청고시",
+ "number": "제2025-20호",
+ "group": "조달사업·조달청",
+ "agencies": [],
+ "effective_date": "2025-07-01",
+ "revision_date": "2025-07-01",
+ "revision_type": "",
+ "version": "2025-07-01-2025-20",
+ "latest_status": "공식 API 현행 및 Sites 활성 원문 확인 (2026-10-16)",
+ "needs_review": false,
+ "review_reasons": [],
+ "parent_regulation_id": "PROCUREMENT_BUSINESS_ACT",
+ "source_file": "live-documents.json",
+ "source_path": "규정검색rev/신규9개_20261016/unpacked/sites-source/live-documents.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "format": "article",
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000261408",
+ "api_mst": "2100000261408",
+ "api_received": "2026-10-16T08:30:35.031Z",
+ "status": "시행",
+ "upcoming_versions": [
+  {
+   "target": "admrul",
+   "state": "scheduled",
+   "serial": "2100000286012",
+   "name": "해외조달시장 진출유망기업 지정·관리 및 수출지원에 관한 규정",
+   "law_id": "43481",
+   "effective_date": "2027-01-01",
+   "publication_date": "2026-10-01",
+   "number": "2026-48",
+   "official_url": "https://www.law.go.kr/행정규칙/%ED%95%B4%EC%99%B8%EC%A1%B0%EB%8B%AC%EC%8B%9C%EC%9E%A5%20%EC%A7%84%EC%B6%9C%EC%9C%A0%EB%A7%9D%EA%B8%B0%EC%97%85%20%EC%A7%80%EC%A0%95%C2%B7%EA%B4%80%EB%A6%AC%20%EB%B0%8F%20%EC%88%98%EC%B6%9C%EC%A7%80%EC%9B%90%EC%97%90%20%EA%B4%80%ED%95%9C%20%EA%B7%9C%EC%A0%95"
+  }
+ ],
+ "counts": {
+  "articles": 25,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 9
+ },
+ "files": {
+  "articles": "regulations/해외조달시장-진출유망기업-지정·관리-및-수출지원에-관한-규정/articles.json",
+  "annexes": "regulations/해외조달시장-진출유망기업-지정·관리-및-수출지원에-관한-규정/annexes.json",
+  "markdown": "regulations/해외조달시장-진출유망기업-지정·관리-및-수출지원에-관한-규정/regulation.md"
+ },
+ "versions": [
+  {
+   "version": "2025-07-01-2025-20",
+   "effective_date": "2025-07-01",
+   "revision_date": "2025-07-01",
+   "number": "제2025-20호",
+   "source_file": "live-documents.json",
+   "source_path": "규정검색rev/신규9개_20261016/unpacked/sites-source/live-documents.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  }
+ ]
+}

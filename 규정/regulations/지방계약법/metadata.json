@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "LOCAL_CONTRACT_ACT",
+ "name": "지방자치단체를 당사자로 하는 계약에 관한 법률",
+ "short_name": "지방계약법",
+ "display_id_prefix": "지방계약법",
+ "slug": "지방계약법",
+ "aliases": [
+  "지계법",
+  "지방계약법",
+  "지방자치단체를 당사자로 하는 계약에 관한 법률"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제19634호",
+ "group": "지방계약",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "회계제도과"
+  }
+ ],
+ "effective_date": "2024-02-17",
+ "revision_date": "2023-08-16",
+ "revision_type": "타법개정",
+ "version": "2024-02-17-19634",
+ "versions": [
+  {
+   "version": "2024-02-17-19634",
+   "effective_date": "2024-02-17",
+   "revision_date": "2023-08-16",
+   "number": "제19634호",
+   "source_file": "LOCAL_CONTRACT_ACT.json",
+   "source_path": "원문/법제처API/LOCAL_CONTRACT_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2024-02-17-19634-pdf",
+   "effective_date": "2024-02-17",
+   "revision_date": "2023-08-16",
+   "number": "제19634호",
+   "source_file": "지방자치단체를 당사자로 하는 계약에 관한 법률(법률)(제19634호)(20240217).pdf",
+   "source_path": "원문/규정/지방자치단체를 당사자로 하는 계약에 관한 법률(법률)(제19634호)(20240217).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/지방계약법/history/2024-02-17-19634-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "LOCAL_CONTRACT_ACT.json",
+ "source_path": "원문/법제처API/LOCAL_CONTRACT_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 54,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 51,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/지방계약법/articles.json",
+  "annexes": "regulations/지방계약법/annexes.json",
+  "markdown": "regulations/지방계약법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=253973",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "253973",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

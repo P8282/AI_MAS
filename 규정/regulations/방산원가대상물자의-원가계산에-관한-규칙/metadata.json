@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_L_283233",
+ "name": "방산원가대상물자의 원가계산에 관한 규칙",
+ "short_name": "방산원가대상물자의 원가계산에 관한 규칙",
+ "display_id_prefix": "방산원가대상물자의-원가계산에-관한-규칙",
+ "slug": "방산원가대상물자의-원가계산에-관한-규칙",
+ "aliases": [
+  "방산원가대상물자의 원가계산에 관한 규칙"
+ ],
+ "document_type": "부령",
+ "format": "article",
+ "issuer_form": "국방부령",
+ "number": "제01202호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "국방부",
+   "department": "전력정책과"
+  }
+ ],
+ "effective_date": "2026-01-30",
+ "revision_date": "2026-01-30",
+ "revision_type": "일부개정",
+ "version": "2026-01-30-01202",
+ "versions": [
+  {
+   "version": "2026-01-30-01202",
+   "effective_date": "2026-01-30",
+   "revision_date": "2026-01-30",
+   "number": "제01202호",
+   "source_file": "방산원가대상물자의 원가계산에 관한 규칙.json",
+   "source_path": "원문/법제처API/방산원가대상물자의 원가계산에 관한 규칙.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "방산원가대상물자의 원가계산에 관한 규칙.json",
+ "source_path": "원문/법제처API/방산원가대상물자의 원가계산에 관한 규칙.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=283233",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 51,
+  "scheduled_versions": 0,
+  "deleted_articles": 5,
+  "supplementary_articles": 38,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/방산원가대상물자의-원가계산에-관한-규칙/articles.json",
+  "annexes": "regulations/방산원가대상물자의-원가계산에-관한-규칙/annexes.json",
+  "markdown": "regulations/방산원가대상물자의-원가계산에-관한-규칙/regulation.md"
+ }
+}

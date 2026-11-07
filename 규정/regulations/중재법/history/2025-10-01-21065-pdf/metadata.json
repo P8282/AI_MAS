@@ -1,0 +1,130 @@
+{
+ "schema_version": "1.0",
+ "id": "ARBITRATION_ACT",
+ "name": "중재법",
+ "short_name": "중재법",
+ "display_id_prefix": "중재법",
+ "slug": "중재법",
+ "aliases": [
+  "중재법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21065호",
+ "group": "헌법·민사",
+ "agencies": [
+  {
+   "agency": "법무부",
+   "department": "법무심의관실"
+  }
+ ],
+ "effective_date": "2025-10-01",
+ "revision_date": "2025-10-01",
+ "revision_type": "타법개정",
+ "version": "2025-10-01-21065",
+ "versions": [
+  {
+   "version": "2025-10-01-21065",
+   "effective_date": "2025-10-01",
+   "revision_date": "2025-10-01",
+   "number": "제21065호",
+   "source_file": "중재법(법률)(제21065호)(20251001).pdf",
+   "source_path": "원문/규정/중재법(법률)(제21065호)(20251001).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "중재법(법률)(제21065호)(20251001).pdf",
+ "source_path": "원문/규정/중재법(법률)(제21065호)(20251001).pdf",
+ "pdf_path": "pdf/중재법(법률)(제21065호)(20251001).pdf",
+ "source_pages": 12,
+ "header_raw": [
+  "중재법",
+  "[시행 2025. 10. 1.] [법률 제21065호, 2025. 10. 1., 타법개정]",
+  "법무부 (법무심의관실) 02-2110-3164"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙 <개정 2010. 3. 31.>",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 중재합의",
+   "raw": "제2장 중재합의 <개정 2010. 3. 31.>",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 중재판정부",
+   "raw": "제3장 중재판정부 <개정 2010. 3. 31.>",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장의2 임시적 처분",
+   "raw": "제3장의2 임시적 처분 <신설 2016. 5. 29.>",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 중재절차",
+   "raw": "제4장 중재절차 <개정 2010. 3. 31.>",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 중재판정",
+   "raw": "제5장 중재판정 <개정 2010. 3. 31.>",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 중재판정의 효력 및 불복",
+   "raw": "제6장 중재판정의 효력 및 불복 <개정 2010. 3. 31.>",
+   "page": 10,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 중재판정의 승인과 집행",
+   "raw": "제7장 중재판정의 승인과 집행 <개정 2010. 3. 31.>",
+   "page": 11,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 보칙",
+   "raw": "제8장 보칙 <개정 2010. 3. 31.>",
+   "page": 11,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 50,
+  "scheduled_versions": 1,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/중재법/articles.json",
+  "annexes": "regulations/중재법/annexes.json",
+  "markdown": "regulations/중재법/regulation.md"
+ }
+}

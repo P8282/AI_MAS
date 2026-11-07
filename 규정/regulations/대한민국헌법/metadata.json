@@ -1,0 +1,76 @@
+{
+ "schema_version": "1.0",
+ "id": "CONSTITUTION",
+ "name": "대한민국헌법",
+ "short_name": "헌법",
+ "display_id_prefix": "대한민국헌법",
+ "slug": "대한민국헌법",
+ "aliases": [
+  "대한민국헌법",
+  "헌법"
+ ],
+ "document_type": "헌법",
+ "format": "article",
+ "issuer_form": "헌법",
+ "number": "제10호",
+ "group": "헌법·민사",
+ "agencies": [],
+ "effective_date": "1988-02-25",
+ "revision_date": "1987-10-29",
+ "revision_type": "전부개정",
+ "version": "1988-02-25-10",
+ "versions": [
+  {
+   "version": "1988-02-25-10",
+   "effective_date": "1988-02-25",
+   "revision_date": "1987-10-29",
+   "number": "제10호",
+   "source_file": "CONSTITUTION.json",
+   "source_path": "원문/법제처API/CONSTITUTION.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "1988-02-25-10-pdf",
+   "effective_date": "1988-02-25",
+   "revision_date": "1987-10-29",
+   "number": "제10호",
+   "source_file": "대한민국헌법(헌법)(제00010호)(19880225).pdf",
+   "source_path": "원문/규정/대한민국헌법(헌법)(제00010호)(19880225).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/대한민국헌법/history/1988-02-25-10-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "CONSTITUTION.json",
+ "source_path": "원문/법제처API/CONSTITUTION.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 133,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/대한민국헌법/articles.json",
+  "annexes": "regulations/대한민국헌법/annexes.json",
+  "markdown": "regulations/대한민국헌법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=61603",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "61603",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

@@ -1,0 +1,83 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_PROPOSAL_EVALUATION_GUIDE",
+ "name": "조달청 협상에 의한 계약 제안서평가 세부기준",
+ "short_name": "제안서평가 세부기준",
+ "display_id_prefix": "조달청-제안서평가-세부기준",
+ "slug": "조달청-제안서평가-세부기준",
+ "aliases": [
+  "조달청 협상에 의한 계약 제안서평가 세부기준",
+  "제안서평가 세부기준",
+  "제안서 평가",
+  "제안서평가"
+ ],
+ "document_type": "지침",
+ "format": "article",
+ "issuer_form": "조달청지침",
+ "number": "제379호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "기술서비스총괄과"
+  }
+ ],
+ "effective_date": "2026-01-26",
+ "revision_date": "2026-01-26",
+ "revision_type": "일부개정",
+ "version": "2026-01-26-379",
+ "versions": [
+  {
+   "version": "2026-01-26-379",
+   "effective_date": "2026-01-26",
+   "revision_date": "2026-01-26",
+   "number": "제379호",
+   "source_file": "PPS_PROPOSAL_EVALUATION_GUIDE.json",
+   "source_path": "원문/법제처API/PPS_PROPOSAL_EVALUATION_GUIDE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-01-26-379-pdf",
+   "effective_date": "2026-01-26",
+   "revision_date": "2026-01-26",
+   "number": "제379호",
+   "source_file": "조달청 협상에 의한 계약 제안서평가 세부기준(조달청지침)(제379호)(20260126).pdf",
+   "source_path": "원문/규정/조달청 협상에 의한 계약 제안서평가 세부기준/조달청 협상에 의한 계약 제안서평가 세부기준(조달청지침)(제379호)(20260126).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/조달청-제안서평가-세부기준/history/2026-01-26-379-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "NEGOTIATION_CONTRACT_RULE",
+ "source_file": "PPS_PROPOSAL_EVALUATION_GUIDE.json",
+ "source_path": "원문/법제처API/PPS_PROPOSAL_EVALUATION_GUIDE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 41,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 39,
+  "annexes": 58
+ },
+ "files": {
+  "articles": "regulations/조달청-제안서평가-세부기준/articles.json",
+  "annexes": "regulations/조달청-제안서평가-세부기준/annexes.json",
+  "markdown": "regulations/조달청-제안서평가-세부기준/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000273638",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000273638",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 58
+}

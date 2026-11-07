@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "ELECTRONIC_DOCUMENT_ACT",
+ "name": "전자문서 및 전자거래 기본법",
+ "short_name": "전자문서법",
+ "display_id_prefix": "전자문서법",
+ "slug": "전자문서법",
+ "aliases": [
+  "전자문서법",
+  "전자문서 및 전자거래 기본법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제18478호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "과학기술정보통신부",
+   "department": "디지털신산업제도과"
+  }
+ ],
+ "effective_date": "2022-10-20",
+ "revision_date": "2021-10-19",
+ "revision_type": "일부개정",
+ "version": "2022-10-20-18478",
+ "versions": [
+  {
+   "version": "2022-10-20-18478",
+   "effective_date": "2022-10-20",
+   "revision_date": "2021-10-19",
+   "number": "제18478호",
+   "source_file": "전자문서 및 전자거래 기본법.json",
+   "source_path": "원문/법제처API/전자문서 및 전자거래 기본법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "전자문서 및 전자거래 기본법.json",
+ "source_path": "원문/법제처API/전자문서 및 전자거래 기본법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=236053",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 81,
+  "scheduled_versions": 0,
+  "deleted_articles": 7,
+  "supplementary_articles": 71,
+  "annexes": 1
+ },
+ "files": {
+  "articles": "regulations/전자문서법/articles.json",
+  "annexes": "regulations/전자문서법/annexes.json",
+  "markdown": "regulations/전자문서법/regulation.md"
+ }
+}

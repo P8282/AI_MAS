@@ -1,0 +1,138 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_GOODS_MAS_SPECIAL_CONDITION",
+ "name": "물품 다수공급자계약 특수조건",
+ "short_name": "물품 다수공급자계약 특수조건",
+ "display_id_prefix": "물품-다수공급자계약-특수조건",
+ "slug": "물품-다수공급자계약-특수조건",
+ "aliases": [
+  "물품 다수공급자계약 특수조건",
+  "물품 MAS 특수조건"
+ ],
+ "document_type": "공고",
+ "format": "article",
+ "issuer_form": "조달청공고",
+ "number": "제2026-270호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "구매총괄과"
+  }
+ ],
+ "effective_date": "2026-06-01",
+ "revision_date": "2026-05-29",
+ "revision_type": "일부개정",
+ "version": "2026-06-01-2026270",
+ "versions": [
+  {
+   "version": "2026-06-01-2026270",
+   "effective_date": "2026-06-01",
+   "revision_date": "2026-05-29",
+   "number": "제2026-270호",
+   "source_file": "물품 다수공급자계약 특수조건(조달청공고)(제2026-270호)(20260601).pdf",
+   "source_path": "원문/규정/조달청 물품 다수공급자계약 특수조건/물품 다수공급자계약 특수조건(조달청공고)(제2026-270호)(20260601).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "PPS_GOODS_MAS_RULE",
+ "source_file": "물품 다수공급자계약 특수조건(조달청공고)(제2026-270호)(20260601).pdf",
+ "source_path": "원문/규정/조달청 물품 다수공급자계약 특수조건/물품 다수공급자계약 특수조건(조달청공고)(제2026-270호)(20260601).pdf",
+ "pdf_path": "pdf/조달청 물품 다수공급자계약 특수조건/물품 다수공급자계약 특수조건(조달청공고)(제2026-270호)(20260601).pdf",
+ "source_pages": 25,
+ "header_raw": [
+  "물품 다수공급자계약 특수조건",
+  "[시행 2026. 6. 1.] [조달청공고 제2026-270호, 2026. 5. 29., 일부개정]",
+  "조달청(구매총괄과), 070-4056-7266"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 다수공급자계약 체결",
+   "raw": "제2장 다수공급자계약 체결",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 다수공급자계약 관리",
+   "raw": "제3장 다수공급자계약 관리",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 계약 변경",
+   "raw": "제1절 계약 변경",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 계약상대자의 의무",
+   "raw": "제2절 계약상대자의 의무",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 사후 점검 및 조치",
+   "raw": "제3절 사후 점검 및 조치",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 다수공급자계약 납품요구",
+   "raw": "제4장 다수공급자계약 납품요구",
+   "page": 16,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 2단계경쟁",
+   "raw": "제1절 2단계경쟁",
+   "page": 16,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 납품요구",
+   "raw": "제2절 납품요구",
+   "page": 19,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 기타",
+   "raw": "제5장 기타",
+   "page": 24,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 52,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 3
+ },
+ "files": {
+  "articles": "regulations/물품-다수공급자계약-특수조건/articles.json",
+  "annexes": "regulations/물품-다수공급자계약-특수조건/annexes.json",
+  "markdown": "regulations/물품-다수공급자계약-특수조건/regulation.md"
+ }
+}

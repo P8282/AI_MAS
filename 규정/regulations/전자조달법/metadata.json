@@ -1,0 +1,83 @@
+{
+ "schema_version": "1.0",
+ "id": "EPROCUREMENT_ACT",
+ "name": "전자조달의 이용 및 촉진에 관한 법률",
+ "short_name": "전자조달법",
+ "display_id_prefix": "전자조달법",
+ "slug": "전자조달법",
+ "aliases": [
+  "전자조달의 이용 및 촉진에 관한 법률",
+  "전자조달법",
+  "전자조달촉진법",
+  "전자조달의 이용에 및 촉진에 관한 법률"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21065호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "디지털조달총괄과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2025-10-01",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-21065",
+ "versions": [
+  {
+   "version": "2026-01-02-21065",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-10-01",
+   "number": "제21065호",
+   "source_file": "EPROCUREMENT_ACT.json",
+   "source_path": "원문/법제처API/EPROCUREMENT_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-01-02-21065-pdf",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-10-01",
+   "number": "제21065호",
+   "source_file": "전자조달의 이용 및 촉진에 관한 법률(법률)(제21065호)(20260102).pdf",
+   "source_path": "원문/규정/전자조달의 이용 및 촉진에 관한 법률(법률)(제21065호)(20260102).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/전자조달법/history/2026-01-02-21065-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "EPROCUREMENT_ACT.json",
+ "source_path": "원문/법제처API/EPROCUREMENT_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 32,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 17,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/전자조달법/articles.json",
+  "annexes": "regulations/전자조달법/annexes.json",
+  "markdown": "regulations/전자조달법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=277153",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "277153",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

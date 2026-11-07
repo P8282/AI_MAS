@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "LOCAL_CONTRACT_INFO_DEVICE_GUIDE",
+ "name": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침",
+ "short_name": "지방계약 지정정보처리장치 관리·운영지침",
+ "display_id_prefix": "지방계약-지정정보처리장치-관리운영지침",
+ "slug": "지방계약-지정정보처리장치-관리운영지침",
+ "aliases": [
+  "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침",
+  "지정정보처리장치 관리운영지침"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "행정안전부예규",
+ "number": "제151호",
+ "group": "지방계약",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "회계계약제도과"
+  }
+ ],
+ "effective_date": "2021-02-10",
+ "revision_date": "2021-02-10",
+ "revision_type": "전부개정",
+ "version": "2021-02-10-151",
+ "versions": [
+  {
+   "version": "2021-02-10-151",
+   "effective_date": "2021-02-10",
+   "revision_date": "2021-02-10",
+   "number": "제151호",
+   "source_file": "LOCAL_CONTRACT_INFO_DEVICE_GUIDE.json",
+   "source_path": "원문/법제처API/LOCAL_CONTRACT_INFO_DEVICE_GUIDE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2021-02-10-151-pdf",
+   "effective_date": "2021-02-10",
+   "revision_date": "2021-02-10",
+   "number": "제151호",
+   "source_file": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침(행정안전부예규)(제151호)(20210210).pdf",
+   "source_path": "원문/규정/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침(행정안전부예규)(제151호)(20210210).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/지방계약-지정정보처리장치-관리운영지침/history/2021-02-10-151-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "LOCAL_CONTRACT_ENFORCEMENT",
+ "source_file": "LOCAL_CONTRACT_INFO_DEVICE_GUIDE.json",
+ "source_path": "원문/법제처API/LOCAL_CONTRACT_INFO_DEVICE_GUIDE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 12,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/지방계약-지정정보처리장치-관리운영지침/articles.json",
+  "annexes": "regulations/지방계약-지정정보처리장치-관리운영지침/annexes.json",
+  "markdown": "regulations/지방계약-지정정보처리장치-관리운영지침/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000198047",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000198047",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

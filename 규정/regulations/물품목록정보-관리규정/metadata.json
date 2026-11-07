@@ -1,0 +1,61 @@
+{
+ "id": "PPS_GOODS_LIST_INFO_REGULATION",
+ "name": "물품목록정보의 관리 및 이용에 관한 규정",
+ "short_name": "물품목록정보 관리규정",
+ "display_id_prefix": "물품목록정보 관리규정",
+ "slug": "물품목록정보-관리규정",
+ "aliases": [
+  "물품목록정보의 관리 및 이용에 관한 규정",
+  "물품목록정보 관리규정"
+ ],
+ "document_type": "훈령",
+ "issuer_form": "조달청훈령",
+ "number": "제2308호",
+ "group": "물품관리",
+ "agencies": [],
+ "effective_date": "2026-01-01",
+ "revision_date": "2025-12-23",
+ "revision_type": "",
+ "version": "2026-01-01-2308",
+ "versions": [
+  {
+   "version": "2026-01-01-2308",
+   "effective_date": "2026-01-01",
+   "revision_date": "2025-12-23",
+   "number": "제2308호",
+   "source_file": "goods-list-sites-preview.json",
+   "source_path": "규정검색rev/물품목록정보_20261015/unpacked/sites-source/goods-list-sites-preview.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  }
+ ],
+ "latest_status": "공식 API 확인 (2026-10-15)",
+ "needs_review": false,
+ "review_reasons": [],
+ "parent_regulation_id": "GOODS_LIST_INFO_ACT",
+ "source_file": "goods-list-sites-preview.json",
+ "source_path": "규정검색rev/물품목록정보_20261015/unpacked/sites-source/goods-list-sites-preview.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "format": "article",
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000270306",
+ "api_mst": "2100000270306",
+ "api_received": "2026-10-15",
+ "status": "시행",
+ "upcoming_versions": [],
+ "counts": {
+  "articles": 13,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 6,
+  "annexes": 5
+ },
+ "files": {
+  "articles": "regulations/물품목록정보-관리규정/articles.json",
+  "annexes": "regulations/물품목록정보-관리규정/annexes.json",
+  "markdown": "regulations/물품목록정보-관리규정/regulation.md"
+ }
+}

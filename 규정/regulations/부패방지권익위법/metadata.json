@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "ANTI_CORRUPTION_ACRC_ACT",
+ "name": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률",
+ "short_name": "부패방지권익위법",
+ "display_id_prefix": "부패방지권익위법",
+ "slug": "부패방지권익위법",
+ "aliases": [
+  "부패방지권익위법",
+  "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21857호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "국민권익위원회",
+   "department": "청렴정책총괄과-부패방지정책"
+  }
+ ],
+ "effective_date": "2026-10-02",
+ "revision_date": "2026-08-04",
+ "revision_type": "타법개정",
+ "version": "2026-10-02-21857",
+ "versions": [
+  {
+   "version": "2026-10-02-21857",
+   "effective_date": "2026-10-02",
+   "revision_date": "2026-08-04",
+   "number": "제21857호",
+   "source_file": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+   "source_path": "원문/법제처API/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+ "source_path": "원문/법제처API/부패방지 및 국민권익위원회의 설치와 운영에 관한 법률.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=288607",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 112,
+  "scheduled_versions": 0,
+  "deleted_articles": 3,
+  "supplementary_articles": 66,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/부패방지권익위법/articles.json",
+  "annexes": "regulations/부패방지권익위법/annexes.json",
+  "markdown": "regulations/부패방지권익위법/regulation.md"
+ }
+}

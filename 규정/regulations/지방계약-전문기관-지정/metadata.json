@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "LOCAL_CONTRACT_SPECIALIST_AGENCY_NOTICE",
+ "name": "지방계약 전문기관 지정",
+ "short_name": "지방계약 전문기관 지정",
+ "display_id_prefix": "지방계약-전문기관-지정",
+ "slug": "지방계약-전문기관-지정",
+ "aliases": [
+  "지방계약 전문기관 지정",
+  "지방계약 전문기관"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "행정안전부고시",
+ "number": "제2019-45호",
+ "group": "지방계약",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "회계계약제도과"
+  }
+ ],
+ "effective_date": "2019-05-29",
+ "revision_date": "2019-05-23",
+ "revision_type": "제정",
+ "version": "2019-05-29-201945",
+ "versions": [
+  {
+   "version": "2019-05-29-201945",
+   "effective_date": "2019-05-29",
+   "revision_date": "2019-05-23",
+   "number": "제2019-45호",
+   "source_file": "LOCAL_CONTRACT_SPECIALIST_AGENCY_NOTICE.json",
+   "source_path": "원문/법제처API/LOCAL_CONTRACT_SPECIALIST_AGENCY_NOTICE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2019-05-29-201945-pdf",
+   "effective_date": "2019-05-29",
+   "revision_date": "2019-05-23",
+   "number": "제2019-45호",
+   "source_file": "지방계약 전문기관 지정(행정안전부고시)(제2019-45호)(20190529).pdf",
+   "source_path": "원문/규정/지방계약 전문기관 지정(행정안전부고시)(제2019-45호)(20190529).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/지방계약-전문기관-지정/history/2019-05-29-201945-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "LOCAL_CONTRACT_ENFORCEMENT",
+ "source_file": "LOCAL_CONTRACT_SPECIALIST_AGENCY_NOTICE.json",
+ "source_path": "원문/법제처API/LOCAL_CONTRACT_SPECIALIST_AGENCY_NOTICE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 1,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 0,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/지방계약-전문기관-지정/articles.json",
+  "annexes": "regulations/지방계약-전문기관-지정/annexes.json",
+  "markdown": "regulations/지방계약-전문기관-지정/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000179056",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000179056",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

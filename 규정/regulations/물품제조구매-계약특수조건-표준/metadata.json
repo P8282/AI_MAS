@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_GOODS_SPECIAL_CONDITIONS_STANDARD",
+ "name": "물품 제조ㆍ구매 계약특수조건 표준(일반 및 방산)",
+ "short_name": "물품 제조·구매 계약특수조건 표준",
+ "display_id_prefix": "물품제조구매-계약특수조건-표준",
+ "slug": "물품제조구매-계약특수조건-표준",
+ "aliases": [
+  "물품 제조ㆍ구매 계약특수조건 표준(일반 및 방산)",
+  "계약특수조건 표준",
+  "물품 제조구매 계약특수조건"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "방위사업청예규",
+ "number": "제1087호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "계약제도발전과"
+  }
+ ],
+ "effective_date": "2026-09-30",
+ "revision_date": "2026-09-30",
+ "revision_type": "일부개정",
+ "version": "2026-09-30-1087",
+ "versions": [
+  {
+   "version": "2026-09-30-1087",
+   "effective_date": "2026-09-30",
+   "revision_date": "2026-09-30",
+   "number": "제1087호",
+   "source_file": "DAPA_GOODS_SPECIAL_CONDITIONS_STANDARD.json",
+   "source_path": "원문/법제처API/DAPA_GOODS_SPECIAL_CONDITIONS_STANDARD.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-09-30-1087-pdf",
+   "effective_date": "2026-09-30",
+   "revision_date": "2026-09-30",
+   "number": "제1087호",
+   "source_file": "물품 제조ㆍ구매 계약특수조건 표준(일반 및 방산)(방위사업청예규)(제1087호)(20260930).pdf",
+   "source_path": "원문/규정/물품 제조ㆍ구매 계약특수조건 표준(일반 및 방산)/물품 제조ㆍ구매 계약특수조건 표준(일반 및 방산)(방위사업청예규)(제1087호)(20260930).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/물품제조구매-계약특수조건-표준/history/2026-09-30-1087-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE",
+ "source_file": "DAPA_GOODS_SPECIAL_CONDITIONS_STANDARD.json",
+ "source_path": "원문/법제처API/DAPA_GOODS_SPECIAL_CONDITIONS_STANDARD.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 57,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 24,
+  "annexes": 5
+ },
+ "files": {
+  "articles": "regulations/물품제조구매-계약특수조건-표준/articles.json",
+  "annexes": "regulations/물품제조구매-계약특수조건-표준/annexes.json",
+  "markdown": "regulations/물품제조구매-계약특수조건-표준/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000285670",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000285670",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 5
+}

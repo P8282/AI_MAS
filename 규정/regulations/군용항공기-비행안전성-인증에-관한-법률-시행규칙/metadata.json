@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_L_210945",
+ "name": "군용항공기 비행안전성 인증에 관한 법률 시행규칙",
+ "short_name": "군용항공기 비행안전성 인증에 관한 법률 시행규칙",
+ "display_id_prefix": "군용항공기-비행안전성-인증에-관한-법률-시행규칙",
+ "slug": "군용항공기-비행안전성-인증에-관한-법률-시행규칙",
+ "aliases": [
+  "군용항공기 비행안전성 인증에 관한 법률 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "국방부령",
+ "number": "제00999호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "국방부",
+   "department": "전력정책과"
+  }
+ ],
+ "effective_date": "2019-10-24",
+ "revision_date": "2019-10-24",
+ "revision_type": "일부개정",
+ "version": "2019-10-24-00999",
+ "versions": [
+  {
+   "version": "2019-10-24-00999",
+   "effective_date": "2019-10-24",
+   "revision_date": "2019-10-24",
+   "number": "제00999호",
+   "source_file": "군용항공기 비행안전성 인증에 관한 법률 시행규칙.json",
+   "source_path": "원문/법제처API/군용항공기 비행안전성 인증에 관한 법률 시행규칙.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "군용항공기 비행안전성 인증에 관한 법률 시행규칙.json",
+ "source_path": "원문/법제처API/군용항공기 비행안전성 인증에 관한 법률 시행규칙.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=210945",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 11,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 4,
+  "annexes": 7
+ },
+ "files": {
+  "articles": "regulations/군용항공기-비행안전성-인증에-관한-법률-시행규칙/articles.json",
+  "annexes": "regulations/군용항공기-비행안전성-인증에-관한-법률-시행규칙/annexes.json",
+  "markdown": "regulations/군용항공기-비행안전성-인증에-관한-법률-시행규칙/regulation.md"
+ }
+}

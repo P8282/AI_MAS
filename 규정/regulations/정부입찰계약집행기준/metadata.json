@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.0",
+ "id": "BID_CONTRACT_EXECUTION_RULE",
+ "name": "(계약예규)정부 입찰ㆍ계약 집행기준",
+ "short_name": "정부 입찰·계약 집행기준",
+ "display_id_prefix": "정부입찰계약집행기준",
+ "slug": "정부입찰계약집행기준",
+ "aliases": [
+  "정부 입찰ㆍ계약 집행기준",
+  "정부 입찰·계약 집행기준",
+  "입찰계약집행기준",
+  "집행기준",
+  "계약예규 집행기준",
+  "정부 입찰 계약집행기준",
+  "정부입찰계약집행기준"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "재정경제부계약예규",
+ "number": "제172호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  }
+ ],
+ "effective_date": "2026-08-25",
+ "revision_date": "2026-08-25",
+ "revision_type": "일부개정",
+ "version": "2026-08-25-172",
+ "versions": [
+  {
+   "version": "2026-08-25-172",
+   "effective_date": "2026-08-25",
+   "revision_date": "2026-08-25",
+   "number": "제172호",
+   "source_file": "BID_CONTRACT_EXECUTION_RULE.json",
+   "source_path": "원문/법제처API/BID_CONTRACT_EXECUTION_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-08-25-172-pdf",
+   "effective_date": "2026-08-25",
+   "revision_date": "2026-08-25",
+   "number": "제172호",
+   "source_file": "(계약예규)정부 입찰ㆍ계약 집행기준(재정경제부계약예규)(제172호)(20260825).pdf",
+   "source_path": "원문/규정/(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준(재정경제부계약예규)(제172호)(20260825).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/정부입찰계약집행기준/history/2026-08-25-172-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "STATE_CONTRACT_ENFORCEMENT",
+ "source_file": "BID_CONTRACT_EXECUTION_RULE.json",
+ "source_path": "원문/법제처API/BID_CONTRACT_EXECUTION_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 177,
+  "scheduled_versions": 0,
+  "deleted_articles": 5,
+  "supplementary_articles": 62,
+  "annexes": 9
+ },
+ "files": {
+  "articles": "regulations/정부입찰계약집행기준/articles.json",
+  "annexes": "regulations/정부입찰계약집행기준/annexes.json",
+  "markdown": "regulations/정부입찰계약집행기준/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000284266",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000284266",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 9
+}

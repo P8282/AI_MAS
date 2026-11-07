@@ -1,0 +1,67 @@
+{
+ "schema_version": "1.0",
+ "id": "INFO_COMM_WORK_RULE",
+ "name": "정보통신공사업법 시행규칙",
+ "short_name": "정보통신공사업법 시행규칙",
+ "display_id_prefix": "정보통신공사업법-시행규칙",
+ "slug": "정보통신공사업법-시행규칙",
+ "aliases": [
+  "정보통신공사업법 시행규칙",
+  "정통공사업법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "과학기술정보통신부령",
+ "number": "제152호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "과학기술정보통신부",
+   "department": "네트워크정책과"
+  }
+ ],
+ "effective_date": "2025-07-18",
+ "revision_date": "2025-07-18",
+ "revision_type": "일부개정",
+ "version": "2025-07-18-152",
+ "versions": [
+  {
+   "version": "2025-07-18-152",
+   "effective_date": "2025-07-18",
+   "revision_date": "2025-07-18",
+   "number": "제152호",
+   "source_file": "정보통신공사업법 시행규칙(과학기술정보통신부령)(제00152호)(20250718).pdf",
+   "source_path": "원문/규정/정보통신공사업법 시행규칙/정보통신공사업법 시행규칙(과학기술정보통신부령)(제00152호)(20250718).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "INFO_COMM_WORK_ENFORCEMENT",
+ "source_file": "정보통신공사업법 시행규칙(과학기술정보통신부령)(제00152호)(20250718).pdf",
+ "source_path": "원문/규정/정보통신공사업법 시행규칙/정보통신공사업법 시행규칙(과학기술정보통신부령)(제00152호)(20250718).pdf",
+ "pdf_path": "pdf/정보통신공사업법 시행규칙/정보통신공사업법 시행규칙(과학기술정보통신부령)(제00152호)(20250718).pdf",
+ "source_pages": 3,
+ "header_raw": [
+  "정보통신공사업법 시행규칙",
+  "[시행 2025. 7. 18.] [과학기술정보통신부령 제152호, 2025. 7. 18., 일부개정]",
+  "과학기술정보통신부 (네트워크정책과) 044-202-6425"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 12,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 16
+ },
+ "files": {
+  "articles": "regulations/정보통신공사업법-시행규칙/articles.json",
+  "annexes": "regulations/정보통신공사업법-시행규칙/annexes.json",
+  "markdown": "regulations/정보통신공사업법-시행규칙/regulation.md"
+ }
+}

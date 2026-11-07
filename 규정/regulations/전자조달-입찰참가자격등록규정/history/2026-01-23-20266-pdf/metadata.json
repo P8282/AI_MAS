@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.0",
+ "id": "EPROCUREMENT_BIDDER_REGISTRATION_NOTICE",
+ "name": "국가종합전자조달시스템 입찰참가자격등록규정",
+ "short_name": "전자조달 입찰참가자격등록규정",
+ "display_id_prefix": "전자조달-입찰참가자격등록규정",
+ "slug": "전자조달-입찰참가자격등록규정",
+ "aliases": [
+  "국가종합전자조달시스템 입찰참가자격등록규정",
+  "입찰참가자격등록규정",
+  "나라장터 입찰참가자격등록",
+  "조달청 국가종합전자조달시스템 입찰참가자격등록규정"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "조달청고시",
+ "number": "제2026-6호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "조달등록팀"
+  }
+ ],
+ "effective_date": "2026-01-23",
+ "revision_date": "2026-01-23",
+ "revision_type": "일부개정",
+ "version": "2026-01-23-20266",
+ "versions": [
+  {
+   "version": "2026-01-23-20266",
+   "effective_date": "2026-01-23",
+   "revision_date": "2026-01-23",
+   "number": "제2026-6호",
+   "source_file": "국가종합전자조달시스템 입찰참가자격등록규정(조달청고시)(제2026-6호)(20260123).pdf",
+   "source_path": "원문/규정/국가종합전자조달시스템 입찰참가자격등록규정/국가종합전자조달시스템 입찰참가자격등록규정(조달청고시)(제2026-6호)(20260123).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "국가종합전자조달시스템 입찰참가자격등록규정(조달청고시)(제2026-6호)(20260123).pdf",
+ "source_path": "원문/규정/국가종합전자조달시스템 입찰참가자격등록규정/국가종합전자조달시스템 입찰참가자격등록규정(조달청고시)(제2026-6호)(20260123).pdf",
+ "pdf_path": "pdf/국가종합전자조달시스템 입찰참가자격등록규정/국가종합전자조달시스템 입찰참가자격등록규정(조달청고시)(제2026-6호)(20260123).pdf",
+ "source_pages": 13,
+ "header_raw": [
+  "국가종합전자조달시스템 입찰참가자격등록규정",
+  "[시행 2026. 1. 23.] [조달청고시 제2026-6호, 2026. 1. 23., 일부개정]",
+  "조달청(조달등록팀), 070-4056-7061"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 등록 절차 및 기준",
+   "raw": "제2장 등록 절차 및 기준",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 물품등록",
+   "raw": "제3장 물품등록",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 공사 또는 용역등록",
+   "raw": "제4장 공사 또는 용역등록",
+   "page": 12,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 보 칙",
+   "raw": "제5장 보 칙",
+   "page": 12,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 36,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 2
+ },
+ "files": {
+  "articles": "regulations/전자조달-입찰참가자격등록규정/articles.json",
+  "annexes": "regulations/전자조달-입찰참가자격등록규정/annexes.json",
+  "markdown": "regulations/전자조달-입찰참가자격등록규정/regulation.md"
+ }
+}

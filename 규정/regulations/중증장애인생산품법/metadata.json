@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "SEVERELY_DISABLED_PRODUCTS_ACT",
+ "name": "중증장애인생산품 우선구매 특별법",
+ "short_name": "중증장애인생산품법",
+ "display_id_prefix": "중증장애인생산품법",
+ "slug": "중증장애인생산품법",
+ "aliases": [
+  "중증장애인생산품법",
+  "중증장애인생산품 우선구매 특별법",
+  "중증장애인생산품 우선구매법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21138호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "보건복지부",
+   "department": "장애인자립기반과"
+  }
+ ],
+ "effective_date": "2025-11-11",
+ "revision_date": "2025-11-11",
+ "revision_type": "타법개정",
+ "version": "2025-11-11-21138",
+ "versions": [
+  {
+   "version": "2025-11-11-21138",
+   "effective_date": "2025-11-11",
+   "revision_date": "2025-11-11",
+   "number": "제21138호",
+   "source_file": "SEVERELY_DISABLED_PRODUCTS_ACT.json",
+   "source_path": "원문/법제처API/SEVERELY_DISABLED_PRODUCTS_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2025-11-11-21138-pdf",
+   "effective_date": "2025-11-11",
+   "revision_date": "2025-11-11",
+   "number": "제21138호",
+   "source_file": "중증장애인생산품 우선구매 특별법(법률)(제21138호)(20251111).pdf",
+   "source_path": "원문/규정/중증장애인생산품 우선구매 특별법(법률)(제21138호)(20251111).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/중증장애인생산품법/history/2025-11-11-21138-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "SEVERELY_DISABLED_PRODUCTS_ACT.json",
+ "source_path": "원문/법제처API/SEVERELY_DISABLED_PRODUCTS_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 28,
+  "scheduled_versions": 2,
+  "deleted_articles": 1,
+  "supplementary_articles": 37,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/중증장애인생산품법/articles.json",
+  "annexes": "regulations/중증장애인생산품법/annexes.json",
+  "markdown": "regulations/중증장애인생산품법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=279741",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "279741",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

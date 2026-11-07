@@ -1,0 +1,124 @@
+{
+ "schema_version": "1.0",
+ "id": "EPROCUREMENT_ACT",
+ "name": "전자조달의 이용 및 촉진에 관한 법률",
+ "short_name": "전자조달법",
+ "display_id_prefix": "전자조달법",
+ "slug": "전자조달법",
+ "aliases": [
+  "전자조달의 이용 및 촉진에 관한 법률",
+  "전자조달법",
+  "전자조달촉진법",
+  "전자조달의 이용에 및 촉진에 관한 법률"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21065호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "조달정책과"
+  },
+  {
+   "agency": "조달청",
+   "department": "디지털조달총괄과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2025-10-01",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-21065",
+ "versions": [
+  {
+   "version": "2026-01-02-21065",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-10-01",
+   "number": "제21065호",
+   "source_file": "전자조달의 이용 및 촉진에 관한 법률(법률)(제21065호)(20260102).pdf",
+   "source_path": "원문/규정/전자조달의 이용 및 촉진에 관한 법률(법률)(제21065호)(20260102).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "전자조달의 이용 및 촉진에 관한 법률(법률)(제21065호)(20260102).pdf",
+ "source_path": "원문/규정/전자조달의 이용 및 촉진에 관한 법률(법률)(제21065호)(20260102).pdf",
+ "pdf_path": "pdf/전자조달의 이용 및 촉진에 관한 법률(법률)(제21065호)(20260102).pdf",
+ "source_pages": 6,
+ "header_raw": [
+  "전자조달의 이용 및 촉진에 관한 법률 ( 약칭: 전자조달법 )",
+  "[시행 2026. 1. 2.] [법률 제21065호, 2025. 10. 1., 타법개정]",
+  "재정경제부 (조달정책과) 044-215-5236",
+  "조달청 (디지털조달총괄과) 042-724-7052"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 조달업무의 전자화",
+   "raw": "제2장 조달업무의 전자화",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 전자조달시스템의 운용 및 관리",
+   "raw": "제3장 전자조달시스템의 운용 및 관리",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 전자조달이용자 정보의 관리 및 보호",
+   "raw": "제4장 전자조달이용자 정보의 관리 및 보호",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 전자조달업무의 촉진 및 지원",
+   "raw": "제5장 전자조달업무의 촉진 및 지원",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 보칙",
+   "raw": "제6장 보칙",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 벌칙",
+   "raw": "제7장 벌칙",
+   "page": 5,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 32,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/전자조달법/articles.json",
+  "annexes": "regulations/전자조달법/annexes.json",
+  "markdown": "regulations/전자조달법/regulation.md"
+ }
+}

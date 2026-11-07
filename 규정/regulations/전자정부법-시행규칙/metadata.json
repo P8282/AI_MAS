@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "EGOVERNMENT_RULE",
+ "name": "전자정부법 시행규칙",
+ "short_name": "전자정부법 시행규칙",
+ "display_id_prefix": "전자정부법-시행규칙",
+ "slug": "전자정부법-시행규칙",
+ "aliases": [
+  "전자정부법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "행정안전부령",
+ "number": "제595호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "인공지능정부정책과"
+  }
+ ],
+ "effective_date": "2025-12-31",
+ "revision_date": "2025-12-31",
+ "revision_type": "일부개정",
+ "version": "2025-12-31-595",
+ "versions": [
+  {
+   "version": "2025-12-31-595",
+   "effective_date": "2025-12-31",
+   "revision_date": "2025-12-31",
+   "number": "제595호",
+   "source_file": "EGOVERNMENT_RULE.json",
+   "source_path": "원문/법제처API/EGOVERNMENT_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2025-12-31-595-pdf",
+   "effective_date": "2025-12-31",
+   "revision_date": "2025-12-31",
+   "number": "제595호",
+   "source_file": "전자정부법 시행규칙(행정안전부령)(제00595호)(20251231).pdf",
+   "source_path": "원문/규정/전자정부법 시행규칙(행정안전부령)(제00595호)(20251231).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/전자정부법-시행규칙/history/2025-12-31-595-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "EGOVERNMENT_ENFORCEMENT",
+ "source_file": "EGOVERNMENT_RULE.json",
+ "source_path": "원문/법제처API/EGOVERNMENT_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 3,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/전자정부법-시행규칙/articles.json",
+  "annexes": "regulations/전자정부법-시행규칙/annexes.json",
+  "markdown": "regulations/전자정부법-시행규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=282543",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "282543",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

@@ -1,0 +1,71 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_SME_COMPETITIVE_GOODS_PERFORMANCE_REVIEW_GUIDE",
+ "name": "조달청 중소기업자간 경쟁물품에 대한 계약이행능력심사 세부기준",
+ "short_name": "조달청 경쟁물품 이행능력심사 세부기준",
+ "display_id_prefix": "조달청-경쟁물품-이행능력심사-세부기준",
+ "slug": "조달청-경쟁물품-계약이행능력심사-세부기준",
+ "aliases": [
+  "중소기업자간 경쟁물품 계약이행능력심사 세부기준",
+  "경쟁물품 계약이행능력심사",
+  "경쟁물품 이행능력심사",
+  "조달청 이행능력심사 세부기준"
+ ],
+ "document_type": "지침",
+ "format": "article",
+ "issuer_form": "조달청지침",
+ "number": "제4781호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "구매총괄과"
+  }
+ ],
+ "effective_date": "2026-07-27",
+ "revision_date": "2026-07-23",
+ "revision_type": "일부개정",
+ "version": "2026-07-27-4781",
+ "versions": [
+  {
+   "version": "2026-07-27-4781",
+   "effective_date": "2026-07-27",
+   "revision_date": "2026-07-23",
+   "number": "제4781호",
+   "source_file": "조달청 중소기업자간 경쟁물품에 대한 계약이행능력심사 세부기준(조달청….pdf",
+   "source_path": "원문/규정/조달청 중소기업자간 경쟁물품에 대한 계약이행능력심사 세부기준/조달청 중소기업자간 경쟁물품에 대한 계약이행능력심사 세부기준(조달청….pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [
+  "파일명이 잘려 있어 파일명의 번호·시행일을 본문 머리와 대조하지 못함 (본문 머리 값 사용)"
+ ],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "PPS_GOODS_QUALIFICATION_GUIDE",
+ "source_file": "조달청 중소기업자간 경쟁물품에 대한 계약이행능력심사 세부기준(조달청….pdf",
+ "source_path": "원문/규정/조달청 중소기업자간 경쟁물품에 대한 계약이행능력심사 세부기준/조달청 중소기업자간 경쟁물품에 대한 계약이행능력심사 세부기준(조달청….pdf",
+ "pdf_path": "pdf/조달청 중소기업자간 경쟁물품에 대한 계약이행능력심사 세부기준/조달청 중소기업자간 경쟁물품에 대한 계약이행능력심사 세부기준(조달청….pdf",
+ "source_pages": 6,
+ "header_raw": [
+  "조달청 중소기업자간 경쟁물품에 대한 계약이행능력심사 세부기준",
+  "[시행 2026. 7. 27.] [조달청지침 제4781호, 2026. 7. 23., 일부개정]",
+  "조달청(구매총괄과), 070-4056-7302, 7259"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 14,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 13
+ },
+ "files": {
+  "articles": "regulations/조달청-경쟁물품-계약이행능력심사-세부기준/articles.json",
+  "annexes": "regulations/조달청-경쟁물품-계약이행능력심사-세부기준/annexes.json",
+  "markdown": "regulations/조달청-경쟁물품-계약이행능력심사-세부기준/regulation.md"
+ }
+}

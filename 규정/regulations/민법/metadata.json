@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "CIVIL_ACT",
+ "name": "민법",
+ "short_name": "민법",
+ "display_id_prefix": "민법",
+ "slug": "민법",
+ "aliases": [
+  "민법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21454호",
+ "group": "헌법·민사",
+ "agencies": [
+  {
+   "agency": "법무부",
+   "department": "법무심의관실"
+  }
+ ],
+ "effective_date": "2026-03-17",
+ "revision_date": "2026-03-17",
+ "revision_type": "일부개정",
+ "version": "2026-03-17-21454",
+ "versions": [
+  {
+   "version": "2026-03-17-21454",
+   "effective_date": "2026-03-17",
+   "revision_date": "2026-03-17",
+   "number": "제21454호",
+   "source_file": "CIVIL_ACT.json",
+   "source_path": "원문/법제처API/CIVIL_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-03-17-21454-pdf",
+   "effective_date": "2026-03-17",
+   "revision_date": "2026-03-17",
+   "number": "제21454호",
+   "source_file": "민법(법률)(제21454호)(20260317).pdf",
+   "source_path": "원문/규정/민법(법률)(제21454호)(20260317).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/민법/history/2026-03-17-21454-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "CIVIL_ACT.json",
+ "source_path": "원문/법제처API/CIVIL_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 1195,
+  "scheduled_versions": 0,
+  "deleted_articles": 77,
+  "supplementary_articles": 115,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/민법/articles.json",
+  "annexes": "regulations/민법/annexes.json",
+  "markdown": "regulations/민법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=284415",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "284415",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

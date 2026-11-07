@@ -1,0 +1,212 @@
+{
+ "schema_version": "1.0",
+ "id": "CONSTRUCTION_TECH_PROMOTION_ACT",
+ "name": "건설기술 진흥법",
+ "short_name": "건설기술진흥법",
+ "display_id_prefix": "건설기술진흥법",
+ "slug": "건설기술진흥법",
+ "aliases": [
+  "건설기술진흥법",
+  "건설기술 진흥법",
+  "건진법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21065호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "기술정책과-경력관리, 교육"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "건설안전과-건설사업관리, 안전관리수준평가"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "기술정책과-기타"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "기술정책과-환경관리비"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "건설안전과-건설자재품질관리"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "기술기준과-설계제도"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "기술정책과-건설신기술"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "건설안전과-건설사고"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "건설안전과-건설안전"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "건설안전과-벌점, 점검"
+  }
+ ],
+ "effective_date": "2025-10-01",
+ "revision_date": "2025-10-01",
+ "revision_type": "타법개정",
+ "version": "2025-10-01-21065",
+ "versions": [
+  {
+   "version": "2025-10-01-21065",
+   "effective_date": "2025-10-01",
+   "revision_date": "2025-10-01",
+   "number": "제21065호",
+   "source_file": "건설기술 진흥법(법률)(제21065호)(20251001).pdf",
+   "source_path": "원문/규정/건설기술 진흥법(법률)(제21065호)(20251001).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "건설기술 진흥법(법률)(제21065호)(20251001).pdf",
+ "source_path": "원문/규정/건설기술 진흥법(법률)(제21065호)(20251001).pdf",
+ "pdf_path": "pdf/건설기술 진흥법(법률)(제21065호)(20251001).pdf",
+ "source_pages": 33,
+ "header_raw": [
+  "건설기술 진흥법",
+  "[시행 2025. 10. 1.] [법률 제21065호, 2025. 10. 1., 타법개정]",
+  "국토교통부 (기술정책과-경력관리, 교육) 044-201-3555",
+  "국토교통부 (건설안전과-건설사업관리, 안전관리수준평가) 044-201-3582, 4592",
+  "국토교통부 (기술정책과-기타) 044-201-3554",
+  "국토교통부 (기술정책과-환경관리비) 044-201-3558",
+  "국토교통부 (건설안전과-건설자재품질관리) 044-201-3580, 3579",
+  "국토교통부 (기술기준과-설계제도) 044-201-3567",
+  "국토교통부 (기술정책과-건설신기술) 044-201-3558",
+  "국토교통부 (건설안전과-건설사고) 044-201-3562, 3563",
+  "국토교통부 (건설안전과-건설안전) 044-201-3575, 3574",
+  "국토교통부 (건설안전과-벌점, 점검) 044-201-3586, 4593"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 건설기술의 연구ㆍ개발 지원 등",
+   "raw": "제2장 건설기술의 연구ㆍ개발 지원 등",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 건설기술인의 육성 등",
+   "raw": "제3장 건설기술인의 육성 등 <개정 2018. 8. 14.>",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 건설엔지니어링 등",
+   "raw": "제4장 건설엔지니어링 등 <개정 2021. 3. 16.>",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 건설엔지니어링업",
+   "raw": "제1절 건설엔지니어링업 <개정 2021. 3. 16.>",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 건설사업관리",
+   "raw": "제2절 건설사업관리",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 건설공사의 관리",
+   "raw": "제5장 건설공사의 관리",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 건설공사의 표준화 등",
+   "raw": "제1절 건설공사의 표준화 등",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 건설공사의 품질 및 안전 관리 등",
+   "raw": "제2절 건설공사의 품질 및 안전 관리 등",
+   "page": 21,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 건설엔지니어링사업자 등의 단체 및 공제조합",
+   "raw": "제6장 건설엔지니어링사업자 등의 단체 및 공제조합 <개정 2019. 4. 30., 2021. 3. 16.>",
+   "page": 27,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 건설엔지니어링사업자 등의 단체",
+   "raw": "제1절 건설엔지니어링사업자 등의 단체 <개정 2019. 4. 30., 2021. 3. 16.>",
+   "page": 27,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 공제조합",
+   "raw": "제2절 공제조합",
+   "page": 27,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 보칙",
+   "raw": "제7장 보칙",
+   "page": 29,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 벌칙",
+   "raw": "제8장 벌칙",
+   "page": 30,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 114,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/건설기술진흥법/articles.json",
+  "annexes": "regulations/건설기술진흥법/annexes.json",
+  "markdown": "regulations/건설기술진흥법/regulation.md"
+ }
+}

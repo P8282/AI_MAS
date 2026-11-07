@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_COMPETITIVE_DIALOGUE_GUIDE",
+ "name": "조달청 경쟁적 대화에 의한 계약체결 세부기준",
+ "short_name": "조달청 경쟁적 대화 세부기준",
+ "display_id_prefix": "조달청-경쟁적대화-계약체결-세부기준",
+ "slug": "조달청-경쟁적대화-계약체결-세부기준",
+ "aliases": [
+  "조달청 경쟁적 대화에 의한 계약체결 세부기준",
+  "경쟁적 대화 세부기준"
+ ],
+ "document_type": "지침",
+ "format": "article",
+ "issuer_form": "조달청지침",
+ "number": "제403호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "혁신공공구매과"
+  }
+ ],
+ "effective_date": "2020-04-01",
+ "revision_date": "2020-02-24",
+ "revision_type": "제정",
+ "version": "2020-04-01-403",
+ "versions": [
+  {
+   "version": "2020-04-01-403",
+   "effective_date": "2020-04-01",
+   "revision_date": "2020-02-24",
+   "number": "제403호",
+   "source_file": "조달청 경쟁적 대화에 의한 계약체결 세부기준(조달청지침)(제403호)(20200401).pdf",
+   "source_path": "원문/규정/조달청 경쟁적 대화에 의한 계약체결 세부기준/조달청 경쟁적 대화에 의한 계약체결 세부기준(조달청지침)(제403호)(20200401).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "COMPETITIVE_DIALOGUE_RULE",
+ "source_file": "조달청 경쟁적 대화에 의한 계약체결 세부기준(조달청지침)(제403호)(20200401).pdf",
+ "source_path": "원문/규정/조달청 경쟁적 대화에 의한 계약체결 세부기준/조달청 경쟁적 대화에 의한 계약체결 세부기준(조달청지침)(제403호)(20200401).pdf",
+ "pdf_path": "pdf/조달청 경쟁적 대화에 의한 계약체결 세부기준/조달청 경쟁적 대화에 의한 계약체결 세부기준(조달청지침)(제403호)(20200401).pdf",
+ "source_pages": 19,
+ "header_raw": [
+  "조달청 경쟁적 대화에 의한 계약체결 세부기준",
+  "[시행 2020. 4. 1.] [조달청지침 제403호, 2020. 2. 24., 제정]",
+  "조달청(혁신공공구매과), 070-4056-7121"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장  총칙",
+   "raw": "제1장  총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장  경쟁적 대화 준비",
+   "raw": "제2장  경쟁적 대화 준비",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장  경쟁적 대화 단계",
+   "raw": "제3장  경쟁적 대화 단계",
+   "page": 10,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장  제안서 평가위원회의 구성 및 운영 등",
+   "raw": "제4장  제안서 평가위원회의 구성 및 운영 등",
+   "page": 15,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장  보칙",
+   "raw": "제5장  보칙",
+   "page": 18,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 54,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/조달청-경쟁적대화-계약체결-세부기준/articles.json",
+  "annexes": "regulations/조달청-경쟁적대화-계약체결-세부기준/annexes.json",
+  "markdown": "regulations/조달청-경쟁적대화-계약체결-세부기준/regulation.md"
+ }
+}

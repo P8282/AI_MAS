@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "ADMINISTRATIVE_APPEALS_ACT",
+ "name": "행정심판법",
+ "short_name": "행정심판법",
+ "display_id_prefix": "행정심판법",
+ "slug": "행정심판법",
+ "aliases": [
+  "행정심판법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제19269호",
+ "group": "헌법·민사",
+ "agencies": [
+  {
+   "agency": "국민권익위원회",
+   "department": "행정심판총괄과"
+  }
+ ],
+ "effective_date": "2023-03-21",
+ "revision_date": "2023-03-21",
+ "revision_type": "일부개정",
+ "version": "2023-03-21-19269",
+ "versions": [
+  {
+   "version": "2023-03-21-19269",
+   "effective_date": "2023-03-21",
+   "revision_date": "2023-03-21",
+   "number": "제19269호",
+   "source_file": "행정심판법.json",
+   "source_path": "원문/법제처API/행정심판법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "행정심판법.json",
+ "source_path": "원문/법제처API/행정심판법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=249041",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 65,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 21,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/행정심판법/articles.json",
+  "annexes": "regulations/행정심판법/annexes.json",
+  "markdown": "regulations/행정심판법/regulation.md"
+ }
+}

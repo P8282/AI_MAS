@@ -1,0 +1,157 @@
+{
+ "schema_version": "1.0",
+ "id": "RESOURCE_RECYCLING_ACT",
+ "name": "자원의 절약과 재활용촉진에 관한 법률",
+ "short_name": "자원재활용법",
+ "display_id_prefix": "자원재활용법",
+ "slug": "자원재활용법",
+ "aliases": [
+  "자원의 절약과 재활용촉진에 관한 법률",
+  "자원재활용촉진법",
+  "자원절약재활용법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21370호",
+ "group": "환경·재활용",
+ "agencies": [
+  {
+   "agency": "기후에너지환경부",
+   "department": "포장재 재질ㆍ구조 기준, 포장폐기물 - 자원재활용과"
+  },
+  {
+   "agency": "기후에너지환경부",
+   "department": "재활용의무이행, 재활용부과금 관련 - 자원재활용과"
+  },
+  {
+   "agency": "기후에너지환경부",
+   "department": "1회용품 관련 - 자원순환정책과"
+  },
+  {
+   "agency": "기후에너지환경부",
+   "department": "폐기물부담금 - 자원순환정책과"
+  },
+  {
+   "agency": "기후에너지환경부",
+   "department": "고형연료 관련 - 폐자원에너지과"
+  },
+  {
+   "agency": "기후에너지환경부",
+   "department": "에너지회수시설 - 폐자원에너지과"
+  }
+ ],
+ "effective_date": "2026-08-20",
+ "revision_date": "2026-02-19",
+ "revision_type": "일부개정",
+ "version": "2026-08-20-21370",
+ "versions": [
+  {
+   "version": "2026-08-20-21370",
+   "effective_date": "2026-08-20",
+   "revision_date": "2026-02-19",
+   "number": "제21370호",
+   "source_file": "자원의 절약과 재활용촉진에 관한 법률(법률)(제21370호)(20260820).pdf",
+   "source_path": "원문/규정/자원의 절약과 재활용촉진에 관한 법률(법률)(제21370호)(20260820).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "자원의 절약과 재활용촉진에 관한 법률(법률)(제21370호)(20260820).pdf",
+ "source_path": "원문/규정/자원의 절약과 재활용촉진에 관한 법률(법률)(제21370호)(20260820).pdf",
+ "pdf_path": "pdf/자원의 절약과 재활용촉진에 관한 법률(법률)(제21370호)(20260820).pdf",
+ "source_pages": 30,
+ "header_raw": [
+  "자원의 절약과 재활용촉진에 관한 법률 ( 약칭: 자원재활용법 )",
+  "[시행 2026. 8. 20.] [법률 제21370호, 2026. 2. 19., 일부개정]",
+  "기후에너지환경부 (포장재 재질ㆍ구조 기준, 포장폐기물 - 자원재활용과) 044-201-7382, 7391",
+  "기후에너지환경부 (재활용의무이행, 재활용부과금 관련 - 자원재활용과) 044-201-7397, 7392",
+  "기후에너지환경부 (1회용품 관련 - 자원순환정책과) 044-201-7359, 7358",
+  "기후에너지환경부 (폐기물부담금 - 자원순환정책과) 044-201-7352, 7356",
+  "기후에너지환경부 (고형연료 관련 - 폐자원에너지과) 044-201-7422, 7431",
+  "기후에너지환경부 (에너지회수시설 - 폐자원에너지과) 044-201-7408"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 자원의 절약과 재활용촉진 등",
+   "raw": "제2장 자원의 절약과 재활용촉진 등 <개정 2017. 11. 28.>",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 자원의 절약과 폐기물의 발생억제 등",
+   "raw": "제1절 자원의 절약과 폐기물의 발생억제 등 <신설 2008. 3. 21.>",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 폐기물의 분리ㆍ수거 및 자원의 순환 촉진 등",
+   "raw": "제2절 폐기물의 분리ㆍ수거 및 자원의 순환 촉진 등 <신설 2008. 3. 21., 2020. 6. 9.>",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 폐기물의 재활용 촉진 등",
+   "raw": "제3절 폐기물의 재활용 촉진 등 <신설 2008. 3. 21.>",
+   "page": 11,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 재활용사업공제조합 및 재활용가능자원 유통지원센터",
+   "raw": "제3장 재활용사업공제조합 및 재활용가능자원 유통지원센터 <개정 2013. 5. 22.>",
+   "page": 19,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 자원의 절약과 재활용촉진을 위한 기반 조성",
+   "raw": "제4장 자원의 절약과 재활용촉진을 위한 기반 조성 <개정2017. 11. 28.>",
+   "page": 22,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 보칙",
+   "raw": "제5장 보칙 <개정 2008. 3. 21.>",
+   "page": 25,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 벌칙",
+   "raw": "제6장 벌칙 <개정 2008. 3. 21.>",
+   "page": 28,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 103,
+  "scheduled_versions": 3,
+  "deleted_articles": 16,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/자원재활용법/articles.json",
+  "annexes": "regulations/자원재활용법/annexes.json",
+  "markdown": "regulations/자원재활용법/regulation.md"
+ }
+}

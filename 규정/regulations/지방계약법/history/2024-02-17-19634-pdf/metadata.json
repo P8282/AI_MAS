@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "LOCAL_CONTRACT_ACT",
+ "name": "지방자치단체를 당사자로 하는 계약에 관한 법률",
+ "short_name": "지방계약법",
+ "display_id_prefix": "지방계약법",
+ "slug": "지방계약법",
+ "aliases": [
+  "지계법",
+  "지방계약법",
+  "지방자치단체를 당사자로 하는 계약에 관한 법률"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제19634호",
+ "group": "지방계약",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "회계제도과"
+  }
+ ],
+ "effective_date": "2024-02-17",
+ "revision_date": "2023-08-16",
+ "revision_type": "타법개정",
+ "version": "2024-02-17-19634",
+ "versions": [
+  {
+   "version": "2024-02-17-19634",
+   "effective_date": "2024-02-17",
+   "revision_date": "2023-08-16",
+   "number": "제19634호",
+   "source_file": "지방자치단체를 당사자로 하는 계약에 관한 법률(법률)(제19634호)(20240217).pdf",
+   "source_path": "원문/규정/지방자치단체를 당사자로 하는 계약에 관한 법률(법률)(제19634호)(20240217).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "지방자치단체를 당사자로 하는 계약에 관한 법률(법률)(제19634호)(20240217).pdf",
+ "source_path": "원문/규정/지방자치단체를 당사자로 하는 계약에 관한 법률(법률)(제19634호)(20240217).pdf",
+ "pdf_path": "pdf/지방자치단체를 당사자로 하는 계약에 관한 법률(법률)(제19634호)(20240217).pdf",
+ "source_pages": 15,
+ "header_raw": [
+  "지방자치단체를 당사자로 하는 계약에 관한 법률 ( 약칭: 지방계약법 )",
+  "[시행 2024. 2. 17.] [법률 제19634호, 2023. 8. 16., 타법개정]",
+  "행정안전부 (회계제도과) 044-205-3783"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 54,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 3,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/지방계약법/articles.json",
+  "annexes": "regulations/지방계약법/annexes.json",
+  "markdown": "regulations/지방계약법/regulation.md"
+ }
+}

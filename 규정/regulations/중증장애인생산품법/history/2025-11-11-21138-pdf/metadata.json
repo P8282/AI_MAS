@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "SEVERELY_DISABLED_PRODUCTS_ACT",
+ "name": "중증장애인생산품 우선구매 특별법",
+ "short_name": "중증장애인생산품법",
+ "display_id_prefix": "중증장애인생산품법",
+ "slug": "중증장애인생산품법",
+ "aliases": [
+  "중증장애인생산품법",
+  "중증장애인생산품 우선구매 특별법",
+  "중증장애인생산품 우선구매법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21138호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "보건복지부",
+   "department": "장애인자립기반과"
+  }
+ ],
+ "effective_date": "2025-11-11",
+ "revision_date": "2025-11-11",
+ "revision_type": "타법개정",
+ "version": "2025-11-11-21138",
+ "versions": [
+  {
+   "version": "2025-11-11-21138",
+   "effective_date": "2025-11-11",
+   "revision_date": "2025-11-11",
+   "number": "제21138호",
+   "source_file": "중증장애인생산품 우선구매 특별법(법률)(제21138호)(20251111).pdf",
+   "source_path": "원문/규정/중증장애인생산품 우선구매 특별법(법률)(제21138호)(20251111).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "중증장애인생산품 우선구매 특별법(법률)(제21138호)(20251111).pdf",
+ "source_path": "원문/규정/중증장애인생산품 우선구매 특별법(법률)(제21138호)(20251111).pdf",
+ "pdf_path": "pdf/중증장애인생산품 우선구매 특별법(법률)(제21138호)(20251111).pdf",
+ "source_pages": 7,
+ "header_raw": [
+  "중증장애인생산품 우선구매 특별법 ( 약칭: 중증장애인생산품법 )",
+  "[시행 2025. 11. 11.] [법률 제21138호, 2025. 11. 11., 타법개정]",
+  "보건복지부 (장애인자립기반과) 044-202-3325, 3330"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 28,
+  "scheduled_versions": 2,
+  "deleted_articles": 1,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/중증장애인생산품법/articles.json",
+  "annexes": "regulations/중증장애인생산품법/annexes.json",
+  "markdown": "regulations/중증장애인생산품법/regulation.md"
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "ELECTRONIC_SIGNATURE_RULE",
+ "name": "전자서명법 시행규칙",
+ "short_name": "전자서명법 시행규칙",
+ "display_id_prefix": "전자서명법-시행규칙",
+ "slug": "전자서명법-시행규칙",
+ "aliases": [
+  "전자서명법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "과학기술정보통신부령",
+ "number": "제56호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "과학기술정보통신부",
+   "department": "정보보호기획과"
+  }
+ ],
+ "effective_date": "2020-12-10",
+ "revision_date": "2020-12-10",
+ "revision_type": "전부개정",
+ "version": "2020-12-10-56",
+ "versions": [
+  {
+   "version": "2020-12-10-56",
+   "effective_date": "2020-12-10",
+   "revision_date": "2020-12-10",
+   "number": "제56호",
+   "source_file": "ELECTRONIC_SIGNATURE_RULE.json",
+   "source_path": "원문/법제처API/ELECTRONIC_SIGNATURE_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2020-12-10-56-pdf",
+   "effective_date": "2020-12-10",
+   "revision_date": "2020-12-10",
+   "number": "제56호",
+   "source_file": "전자서명법 시행규칙(과학기술정보통신부령)(제00056호)(20201210).pdf",
+   "source_path": "원문/규정/전자서명법 시행규칙/전자서명법 시행규칙(과학기술정보통신부령)(제00056호)(20201210).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/전자서명법-시행규칙/history/2020-12-10-56-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "ELECTRONIC_SIGNATURE_ENFORCEMENT",
+ "source_file": "ELECTRONIC_SIGNATURE_RULE.json",
+ "source_path": "원문/법제처API/ELECTRONIC_SIGNATURE_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 6,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 4
+ },
+ "files": {
+  "articles": "regulations/전자서명법-시행규칙/articles.json",
+  "annexes": "regulations/전자서명법-시행규칙/annexes.json",
+  "markdown": "regulations/전자서명법-시행규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=224075",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "224075",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

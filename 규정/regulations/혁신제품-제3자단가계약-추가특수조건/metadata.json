@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_INNOVATION_PRODUCT_THIRD_PARTY_SPECIAL_CONDITIONS",
+ "name": "혁신제품 제3자단가계약 추가특수조건",
+ "short_name": "혁신제품 제3자단가계약 추가특수조건",
+ "display_id_prefix": "혁신제품-제3자단가계약-추가특수조건",
+ "slug": "혁신제품-제3자단가계약-추가특수조건",
+ "aliases": [
+  "혁신제품 제3자단가계약 추가특수조건",
+  "제3자단가계약 추가특수조건"
+ ],
+ "document_type": "공고",
+ "format": "article",
+ "issuer_form": "조달청공고",
+ "number": "제2026-386호",
+ "group": "혁신제품",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "혁신공공구매과"
+  }
+ ],
+ "effective_date": "2026-08-01",
+ "revision_date": "2026-08-01",
+ "revision_type": "일부개정",
+ "version": "2026-08-01-2026386",
+ "versions": [
+  {
+   "version": "2026-08-01-2026386",
+   "effective_date": "2026-08-01",
+   "revision_date": "2026-08-01",
+   "number": "제2026-386호",
+   "source_file": "PPS_INNOVATION_PRODUCT_THIRD_PARTY_SPECIAL_CONDITIONS.json",
+   "source_path": "원문/법제처API/PPS_INNOVATION_PRODUCT_THIRD_PARTY_SPECIAL_CONDITIONS.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-08-01-2026386-pdf",
+   "effective_date": "2026-08-01",
+   "revision_date": "2026-08-01",
+   "number": "제2026-386호",
+   "source_file": "혁신제품 제3자단가계약 추가특수조건(조달청공고)(제2026-386호)(20260801).pdf",
+   "source_path": "원문/규정/혁신제품 제3자단가계약 추가특수조건/혁신제품 제3자단가계약 추가특수조건(조달청공고)(제2026-386호)(20260801).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/혁신제품-제3자단가계약-추가특수조건/history/2026-08-01-2026386-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "PPS_INNOVATION_PRODUCT_PURCHASE_NOTICE",
+ "source_file": "PPS_INNOVATION_PRODUCT_THIRD_PARTY_SPECIAL_CONDITIONS.json",
+ "source_path": "원문/법제처API/PPS_INNOVATION_PRODUCT_THIRD_PARTY_SPECIAL_CONDITIONS.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 43,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 4,
+  "annexes": 3
+ },
+ "files": {
+  "articles": "regulations/혁신제품-제3자단가계약-추가특수조건/articles.json",
+  "annexes": "regulations/혁신제품-제3자단가계약-추가특수조건/annexes.json",
+  "markdown": "regulations/혁신제품-제3자단가계약-추가특수조건/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000282984",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000282984",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 3
+}

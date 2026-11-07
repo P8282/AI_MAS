@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_L_288759",
+ "name": "방위사업청과 그 소속기관 직제",
+ "short_name": "방위사업청과 그 소속기관 직제",
+ "display_id_prefix": "방위사업청과-그-소속기관-직제",
+ "slug": "방위사업청과-그-소속기관-직제",
+ "aliases": [
+  "방위사업청과 그 소속기관 직제"
+ ],
+ "document_type": "대통령령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36577호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "안전조직과"
+  }
+ ],
+ "effective_date": "2026-08-14",
+ "revision_date": "2026-08-14",
+ "revision_type": "일부개정",
+ "version": "2026-08-14-36577",
+ "versions": [
+  {
+   "version": "2026-08-14-36577",
+   "effective_date": "2026-08-14",
+   "revision_date": "2026-08-14",
+   "number": "제36577호",
+   "source_file": "방위사업청과 그 소속기관 직제.json",
+   "source_path": "원문/법제처API/방위사업청과 그 소속기관 직제.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "방위사업청과 그 소속기관 직제.json",
+ "source_path": "원문/법제처API/방위사업청과 그 소속기관 직제.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=288759",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 54,
+  "scheduled_versions": 0,
+  "deleted_articles": 6,
+  "supplementary_articles": 82,
+  "annexes": 9
+ },
+ "files": {
+  "articles": "regulations/방위사업청과-그-소속기관-직제/articles.json",
+  "annexes": "regulations/방위사업청과-그-소속기관-직제/annexes.json",
+  "markdown": "regulations/방위사업청과-그-소속기관-직제/regulation.md"
+ }
+}

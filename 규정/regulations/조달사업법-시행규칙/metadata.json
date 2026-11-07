@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "PROCUREMENT_BUSINESS_RULE",
+ "name": "조달사업에 관한 법률 시행규칙",
+ "short_name": "조달사업법 시행규칙",
+ "display_id_prefix": "조달사업법-시행규칙",
+ "slug": "조달사업법-시행규칙",
+ "aliases": [
+  "조달사업법 시행규칙",
+  "조달사업법시행규칙",
+  "조달사업에 관한 법률 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "재정경제부령",
+ "number": "제1호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "조달정책과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2026-01-02",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-1",
+ "versions": [
+  {
+   "version": "2026-01-02-1",
+   "effective_date": "2026-01-02",
+   "revision_date": "2026-01-02",
+   "number": "제1호",
+   "source_file": "PROCUREMENT_BUSINESS_RULE.json",
+   "source_path": "원문/법제처API/PROCUREMENT_BUSINESS_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-01-02-1-pdf",
+   "effective_date": "2026-01-02",
+   "revision_date": "2026-01-02",
+   "number": "제1호",
+   "source_file": "조달사업에 관한 법률 시행규칙(재정경제부령)(제00001호)(20260102).pdf",
+   "source_path": "원문/규정/조달사업에 관한 법률 시행규칙(재정경제부령)(제00001호)(20260102).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/조달사업법-시행규칙/history/2026-01-02-1-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "PROCUREMENT_BUSINESS_ENFORCEMENT",
+ "source_file": "PROCUREMENT_BUSINESS_RULE.json",
+ "source_path": "원문/법제처API/PROCUREMENT_BUSINESS_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 15,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 8,
+  "annexes": 18
+ },
+ "files": {
+  "articles": "regulations/조달사업법-시행규칙/articles.json",
+  "annexes": "regulations/조달사업법-시행규칙/annexes.json",
+  "markdown": "regulations/조달사업법-시행규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=282675",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "282675",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

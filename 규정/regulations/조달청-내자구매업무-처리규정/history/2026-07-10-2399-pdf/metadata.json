@@ -1,0 +1,170 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_DOMESTIC_PURCHASE_DIRECTIVE",
+ "name": "조달청 내자구매업무 처리규정",
+ "short_name": "조달청 내자구매업무 처리규정",
+ "display_id_prefix": "조달청-내자구매업무-처리규정",
+ "slug": "조달청-내자구매업무-처리규정",
+ "aliases": [
+  "조달청 내자구매업무 처리규정",
+  "내자구매업무 처리규정",
+  "내자구매",
+  "조달청 구매업무처리규정",
+  "조달청 구매업무 처리규정",
+  "구매업무처리규정"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "조달청훈령",
+ "number": "제2399호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "구매총괄과"
+  }
+ ],
+ "effective_date": "2026-07-10",
+ "revision_date": "2026-07-10",
+ "revision_type": "일부개정",
+ "version": "2026-07-10-2399",
+ "versions": [
+  {
+   "version": "2026-07-10-2399",
+   "effective_date": "2026-07-10",
+   "revision_date": "2026-07-10",
+   "number": "제2399호",
+   "source_file": "조달청 내자구매업무 처리규정(조달청훈령)(제2399호)(20260710).pdf",
+   "source_path": "원문/규정/조달청 내자구매업무 처리규정/조달청 내자구매업무 처리규정(조달청훈령)(제2399호)(20260710).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "조달청 내자구매업무 처리규정(조달청훈령)(제2399호)(20260710).pdf",
+ "source_path": "원문/규정/조달청 내자구매업무 처리규정/조달청 내자구매업무 처리규정(조달청훈령)(제2399호)(20260710).pdf",
+ "pdf_path": "pdf/조달청 내자구매업무 처리규정/조달청 내자구매업무 처리규정(조달청훈령)(제2399호)(20260710).pdf",
+ "source_pages": 31,
+ "header_raw": [
+  "조달청 내자구매업무 처리규정",
+  "[시행 2026. 7. 10.] [조달청훈령 제2399호, 2026. 7. 10., 일부개정]",
+  "조달청(구매총괄과), 070-4056-7302, 7259"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장  총  칙",
+   "raw": "제1장  총  칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 내자 구매절차",
+   "raw": "제2장 내자 구매절차",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절  내자 규격관리",
+   "raw": "제1절  내자 규격관리",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절  구매결의",
+   "raw": "제2절  구매결의",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절  입찰 및 낙찰",
+   "raw": "제3절  입찰 및 낙찰",
+   "page": 12,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절  계약체결",
+   "raw": "제4절  계약체결",
+   "page": 16,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절  계약관리 및 종결",
+   "raw": "제5절  계약관리 및 종결",
+   "page": 18,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 내자 협정물자 구매절차",
+   "raw": "제3장 내자 협정물자 구매절차",
+   "page": 22,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 구매결의",
+   "raw": "제1절 구매결의",
+   "page": 22,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절  입    찰",
+   "raw": "제2절  입    찰",
+   "page": 22,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절  구매계약",
+   "raw": "제3절  구매계약",
+   "page": 24,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장  소액내자 구매절차",
+   "raw": "제4장  소액내자 구매절차",
+   "page": 25,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장  외자구매절차<삭제>(2005.11.14.)",
+   "raw": "제5장  외자구매절차<삭제>(2005.11.14.)",
+   "page": 28,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장  리스계약 절차",
+   "raw": "제6장  리스계약 절차",
+   "page": 28,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 116,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 54
+ },
+ "files": {
+  "articles": "regulations/조달청-내자구매업무-처리규정/articles.json",
+  "annexes": "regulations/조달청-내자구매업무-처리규정/annexes.json",
+  "markdown": "regulations/조달청-내자구매업무-처리규정/regulation.md"
+ }
+}

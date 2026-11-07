@@ -1,0 +1,855 @@
+{
+ "schema_version": "1.0",
+ "id": "LOCAL_BID_CONTRACT_EXECUTION_GUIDELINE",
+ "name": "지방자치단체 입찰 및 계약집행기준",
+ "short_name": "지방 입찰·계약 집행기준",
+ "display_id_prefix": "지방입찰계약집행기준",
+ "slug": "지방자치단체-입찰계약집행기준",
+ "aliases": [
+  "지방자치단체 입찰 및 계약집행기준",
+  "지방자치단체 입찰 및 계약 집행기준",
+  "지방입찰계약집행기준",
+  "지방계약집행기준",
+  "지방 집행기준"
+ ],
+ "document_type": "계약예규",
+ "format": "outline",
+ "issuer_form": "행정안전부 예규",
+ "number": "제372호",
+ "group": "지방계약",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": ""
+  }
+ ],
+ "effective_date": "2026-07-01",
+ "revision_date": "2026-06-29",
+ "revision_type": "일부개정",
+ "version": "2026-07-01-372",
+ "versions": [
+  {
+   "version": "2026-07-01-372",
+   "effective_date": "2026-07-01",
+   "revision_date": "2026-06-29",
+   "number": "제372호",
+   "source_file": "[개정전문] 지방자치단체 입찰 및 계약집행기준.pdf",
+   "source_path": "원문/규정/[개정전문] 지방자치단체 입찰 및 계약집행기준.pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "LOCAL_CONTRACT_ENFORCEMENT",
+ "source_file": "[개정전문] 지방자치단체 입찰 및 계약집행기준.pdf",
+ "source_path": "원문/규정/[개정전문] 지방자치단체 입찰 및 계약집행기준.pdf",
+ "pdf_path": "pdf/[개정전문] 지방자치단체 입찰 및 계약집행기준.pdf",
+ "source_pages": 386,
+ "header_raw": [
+  "[시행 2026. 7. 1.][행정안전부 예규 제372호, 2026. 6. 29., 일부개정]",
+  "지방자치단체 입찰 및계약집행기준",
+  "행 정 안 전 부"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 입찰 및 계약일반기준",
+   "raw": "제1장 입찰 및 계약일반기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총 칙",
+   "raw": "제1절 총 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 선금 및 대가 지급",
+   "raw": "제2절 선금 및 대가 지급",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 내역입찰 집행",
+   "raw": "제3절 내역입찰 집행",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 지명입찰업체 선정",
+   "raw": "제4절 지명입찰업체 선정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 공사 이행보증 운용",
+   "raw": "제5절 공사 이행보증 운용",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 공사 손해보험 운용",
+   "raw": "제6절 공사 손해보험 운용",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 물가변동 조정률 산출",
+   "raw": "제7절 물가변동 조정률 산출",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제8절 실비 산정",
+   "raw": "제8절 실비 산정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제9절 보험료 사후정산 요령 등",
+   "raw": "제9절 보험료 사후정산 요령 등",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제10절 대형공사 및 기술제안입찰의 설계비 등 보상",
+   "raw": "제10절 대형공사 및 기술제안입찰의 설계비 등 보상",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제11절 지방자치단체 재해복구계약 운영요령",
+   "raw": "제11절 지방자치단체 재해복구계약 운영요령",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제12절 신기술·특허공법 선정기준",
+   "raw": "제12절 신기술·특허공법 선정기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 통 칙",
+   "raw": "제1관 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 공법선정 절차",
+   "raw": "제2관 공법선정 절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 공법선정위원회 구성․ 운영",
+   "raw": "제3관 공법선정위원회 구성․ 운영",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제4관 그 밖의 사항",
+   "raw": "제4관 그 밖의 사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제13절 2단계 입찰의 규격·기술평가위원회 구성·운영",
+   "raw": "제13절 2단계 입찰의 규격·기술평가위원회 구성·운영",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 예정가격 작성요령",
+   "raw": "제2장 예정가격 작성요령",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통 칙",
+   "raw": "제1절 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 추정가격과 예정가격",
+   "raw": "제2절 추정가격과 예정가격",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 적격심사에 따른 입찰의 예정가격 결정",
+   "raw": "제3절 적격심사에 따른 입찰의 예정가격 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 감정가격 등에 따른 예정가격 결정",
+   "raw": "제4절 감정가격 등에 따른 예정가격 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 원가계산에 따른 예정가격 결정",
+   "raw": "제5절 원가계산에 따른 예정가격 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 통 칙",
+   "raw": "제1관 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 제조 원가계산",
+   "raw": "제2관 제조 원가계산",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 공사 원가계산",
+   "raw": "제3관 공사 원가계산",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제4관 학술용역 원가계산",
+   "raw": "제4관 학술용역 원가계산",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제5관 그 밖의 용역의 원가계산",
+   "raw": "제5관 그 밖의 용역의 원가계산",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 표준시장단가에 따른 예정가격 결정",
+   "raw": "제6절 표준시장단가에 따른 예정가격 결정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 통 칙",
+   "raw": "제1관 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 표준시장단가 원가계산",
+   "raw": "제2관 표준시장단가 원가계산",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 원가계산관련기관",
+   "raw": "제7절 원가계산관련기관",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 원가계산용역기관",
+   "raw": "제1관 원가계산용역기관",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 원가검토기관",
+   "raw": "제2관 원가검토기관",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제8절 보 칙",
+   "raw": "제8절 보 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 계약심사 운영요령",
+   "raw": "제3장 계약심사 운영요령",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 계약심사제도의 의의",
+   "raw": "제1절 계약심사제도의 의의",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 계약심사대상 사업",
+   "raw": "제2절 계약심사대상 사업",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 계약심사업무 처리 절차",
+   "raw": "제3절 계약심사업무 처리 절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 원가심사",
+   "raw": "제4절 원가심사",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 공사분야 원가심사",
+   "raw": "제1관 공사분야 원가심사",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 용역분야 원가심사",
+   "raw": "제2관 용역분야 원가심사",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 물품분야 원가심사",
+   "raw": "제3관 물품분야 원가심사",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 설계변경 심사",
+   "raw": "제5절 설계변경 심사",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 보 칙",
+   "raw": "제6절 보 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 계약심사 시 주의할 사항",
+   "raw": "제1관 계약심사 시 주의할 사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 계약심사의 활성화",
+   "raw": "제2관 계약심사의 활성화",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 계약심사제도 시행의 예외",
+   "raw": "제3관 계약심사제도 시행의 예외",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 제한입찰 운영요령",
+   "raw": "제4장 제한입찰 운영요령",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통 칙",
+   "raw": "제1절 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 제한입찰의 범위와 구분",
+   "raw": "제2절 제한입찰의 범위와 구분",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 제한기준과 방법",
+   "raw": "제3절 제한기준과 방법",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 수의계약 운영요령",
+   "raw": "제5장 수의계약 운영요령",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통 칙",
+   "raw": "제1절 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 수의계약 유형별 구분",
+   "raw": "제2절 수의계약 유형별 구분",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 수의계약 대상과 운영요령",
+   "raw": "제3절 수의계약 대상과 운영요령",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 우수연구개발 혁신제품에 대한 수의계약 절차",
+   "raw": "제4절 우수연구개발 혁신제품에 대한 수의계약 절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 일괄입찰 등으로 발주된 공사의 수의계약 집행기준",
+   "raw": "제5절 일괄입찰 등으로 발주된 공사의 수의계약 집행기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 지정정보처리장치를이용하지않고 견적서를받을수있는 수의계약",
+   "raw": "제6절 지정정보처리장치를이용하지않고 견적서를받을수있는 수의계약",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 보험료 사후정산 등의 규정 준용",
+   "raw": "제7절 보험료 사후정산 등의 규정 준용",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제8절 수의계약 내역 공개",
+   "raw": "제8절 수의계약 내역 공개",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제9절 수의계약 체결 제한 대상자 확인",
+   "raw": "제9절 수의계약 체결 제한 대상자 확인",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제10절 수의계약 대상 심사",
+   "raw": "제10절 수의계약 대상 심사",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 공동계약 운영요령",
+   "raw": "제6장 공동계약 운영요령",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통 칙",
+   "raw": "제1절 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 공동수급체의 구성과 적용범위",
+   "raw": "제2절 공동수급체의 구성과 적용범위",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 공동계약의 입찰과 계약 절차",
+   "raw": "제3절 공동계약의 입찰과 계약 절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 공동수급체 구성원의 제재",
+   "raw": "제4절 공동수급체 구성원의 제재",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 종합계약 운영요령",
+   "raw": "제7장 종합계약 운영요령",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 통 칙",
+   "raw": "제1절 통 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 관련기관 협의체의 구성과 운영",
+   "raw": "제2절 관련기관 협의체의 구성과 운영",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 계약체결과 이행",
+   "raw": "제3절 계약체결과 이행",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 보 칙",
+   "raw": "제4절 보 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 입찰유의서",
+   "raw": "제8장 입찰유의서",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총 칙",
+   "raw": "제1절 총 칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 입찰 절차",
+   "raw": "제2절 입찰 절차",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 계약 체결",
+   "raw": "제3절 계약 체결",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 그밖의 유의사항",
+   "raw": "제4절 그밖의 유의사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제9장 계약 일반조건",
+   "raw": "제9장 계약 일반조건",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총칙",
+   "raw": "제1절 총칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 계약의 체결",
+   "raw": "제2절 계약의 체결",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 채권양도",
+   "raw": "제3절 채권양도",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 계약의 이행보증",
+   "raw": "제4절 계약의 이행보증",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 계약의 이행",
+   "raw": "제5절 계약의 이행",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 공사 설계 변경, 용역 과업내용 변경 및 물품수량조절 등",
+   "raw": "제6절 공사 설계 변경, 용역 과업내용 변경 및 물품수량조절 등",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 계약금액의 조정",
+   "raw": "제7절 계약금액의 조정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제8절 계약이행의 지체와 계약의 해제․ 해지",
+   "raw": "제8절 계약이행의 지체와 계약의 해제․ 해지",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제9절 검사와 대가지급",
+   "raw": "제9절 검사와 대가지급",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제10절 부정당업자의 제재와 당사자의 의무",
+   "raw": "제10절 부정당업자의 제재와 당사자의 의무",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제11절 공사목적물의 하자",
+   "raw": "제11절 공사목적물의 하자",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제12절 하도급",
+   "raw": "제12절 하도급",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제13절 엔지니어링용역 일반조건",
+   "raw": "제13절 엔지니어링용역 일반조건",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제10장 일괄입찰 등의 공사입찰 특별유의서",
+   "raw": "제10장 일괄입찰 등의 공사입찰 특별유의서",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총칙",
+   "raw": "제1절 총칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 공사의 입찰",
+   "raw": "제2절 공사의 입찰",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 기타사항",
+   "raw": "제3절 기타사항",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제11장 일괄입찰 등의 공사계약특수조건",
+   "raw": "제11장 일괄입찰 등의 공사계약특수조건",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총칙",
+   "raw": "제1절 총칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 계약의 체결",
+   "raw": "제2절 계약의 체결",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 공사계약의 이행",
+   "raw": "제3절 공사계약의 이행",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 설계의 변경",
+   "raw": "제4절 설계의 변경",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 계약금액의 조정",
+   "raw": "제5절 계약금액의 조정",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 검사와 대가지급",
+   "raw": "제6절 검사와 대가지급",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 공사목적물의 하자",
+   "raw": "제7절 공사목적물의 하자",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제8절 하도급",
+   "raw": "제8절 하도급",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제9절 기타",
+   "raw": "제9절 기타",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제12장 지방계약심의조정위원회 운영요령",
+   "raw": "제12장 지방계약심의조정위원회 운영요령",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총칙",
+   "raw": "제1절 총칙",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 위원회의 구성 및 운영",
+   "raw": "제2절 위원회의 구성 및 운영",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 조정의 청구 등",
+   "raw": "제3절 조정의 청구 등",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 사건의 처리",
+   "raw": "제4절 사건의 처리",
+   "page": 0,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 496,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 43,
+  "annexes": 43
+ },
+ "files": {
+  "articles": "regulations/지방자치단체-입찰계약집행기준/articles.json",
+  "annexes": "regulations/지방자치단체-입찰계약집행기준/annexes.json",
+  "markdown": "regulations/지방자치단체-입찰계약집행기준/regulation.md"
+ }
+}

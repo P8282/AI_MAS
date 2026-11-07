@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "BUSINESS_DEREGULATION_ACT",
+ "name": "기업활동 규제완화에 관한 특별조치법",
+ "short_name": "기업규제완화법",
+ "display_id_prefix": "기업규제완화법",
+ "slug": "기업규제완화법",
+ "aliases": [
+  "기업규제완화법",
+  "기업활동 규제완화에 관한 특별조치법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21065호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "산업통상부",
+   "department": "산업규제혁신과"
+  }
+ ],
+ "effective_date": "2025-10-01",
+ "revision_date": "2025-10-01",
+ "revision_type": "타법개정",
+ "version": "2025-10-01-21065",
+ "versions": [
+  {
+   "version": "2025-10-01-21065",
+   "effective_date": "2025-10-01",
+   "revision_date": "2025-10-01",
+   "number": "제21065호",
+   "source_file": "기업활동 규제완화에 관한 특별조치법.json",
+   "source_path": "원문/법제처API/기업활동 규제완화에 관한 특별조치법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "기업활동 규제완화에 관한 특별조치법.json",
+ "source_path": "원문/법제처API/기업활동 규제완화에 관한 특별조치법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=276485",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 87,
+  "scheduled_versions": 0,
+  "deleted_articles": 33,
+  "supplementary_articles": 215,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/기업규제완화법/articles.json",
+  "annexes": "regulations/기업규제완화법/annexes.json",
+  "markdown": "regulations/기업규제완화법/regulation.md"
+ }
+}

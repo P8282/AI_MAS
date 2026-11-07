@@ -1,0 +1,62 @@
+{
+ "id": "PPS_CATALOGING_GUIDELINE",
+ "name": "목록화지침",
+ "short_name": "목록화지침",
+ "display_id_prefix": "목록화지침",
+ "slug": "목록화지침",
+ "aliases": [
+  "목록화지침",
+  "물품목록화 관련 조달청 지침",
+  "조달청 목록화지침"
+ ],
+ "document_type": "훈령",
+ "issuer_form": "조달청훈령",
+ "number": "제2309호",
+ "group": "물품관리",
+ "agencies": [],
+ "effective_date": "2026-01-01",
+ "revision_date": "2025-12-23",
+ "revision_type": "",
+ "version": "2026-01-01-2309",
+ "latest_status": "공식 API 현행 및 Sites 활성 원문 확인 (2026-10-16)",
+ "needs_review": false,
+ "review_reasons": [],
+ "parent_regulation_id": "GOODS_LIST_INFO_ACT",
+ "source_file": "live-documents.json",
+ "source_path": "규정검색rev/신규9개_20261016/unpacked/sites-source/live-documents.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "format": "article",
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000270308",
+ "api_mst": "2100000270308",
+ "api_received": "2026-10-16T08:30:35.031Z",
+ "status": "시행",
+ "upcoming_versions": [],
+ "counts": {
+  "articles": 41,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 6,
+  "annexes": 14
+ },
+ "files": {
+  "articles": "regulations/목록화지침/articles.json",
+  "annexes": "regulations/목록화지침/annexes.json",
+  "markdown": "regulations/목록화지침/regulation.md"
+ },
+ "versions": [
+  {
+   "version": "2026-01-01-2309",
+   "effective_date": "2026-01-01",
+   "revision_date": "2025-12-23",
+   "number": "제2309호",
+   "source_file": "live-documents.json",
+   "source_path": "규정검색rev/신규9개_20261016/unpacked/sites-source/live-documents.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  }
+ ]
+}

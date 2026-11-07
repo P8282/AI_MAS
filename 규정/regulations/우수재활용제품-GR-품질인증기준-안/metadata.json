@@ -1,0 +1,100 @@
+{
+ "schema_version": "1.0",
+ "id": "GR_QUALITY_CERT_STANDARD_DRAFT",
+ "name": "우수재활용제품(GR)",
+ "short_name": "GR 품질인증기준(안)",
+ "display_id_prefix": "우수재활용제품-GR-품질인증기준(안)",
+ "slug": "우수재활용제품-GR-품질인증기준-안",
+ "aliases": [
+  "우수재활용제품 품질인증기준",
+  "GR 품질인증기준",
+  "우수재활용제품(GR) 품질인증기준(안)",
+  "GR인증기준",
+  "우수재활용제품"
+ ],
+ "document_type": "고시",
+ "format": "outline",
+ "issuer_form": "",
+ "number": "",
+ "group": "환경·재활용",
+ "agencies": [
+  {
+   "agency": "우수재활용제품",
+   "department": "GR"
+  },
+  {
+   "agency": "품질인증기준",
+   "department": "안"
+  }
+ ],
+ "effective_date": "",
+ "revision_date": "",
+ "revision_type": "",
+ "version": "",
+ "versions": [
+  {
+   "version": "",
+   "effective_date": "",
+   "revision_date": "",
+   "number": "",
+   "source_file": "붙임2. 우수재활용제품(GR) 품질인증기준(안) 전문_리튬이온전지 양극활물….pdf",
+   "source_path": "원문/규정/우수재활용제품(GR) 품질인증기준/붙임2. 우수재활용제품(GR) 품질인증기준(안) 전문_리튬이온전지 양극활물….pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "단일본(최신 여부는 원문 대조로만 확인 가능)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "붙임2. 우수재활용제품(GR) 품질인증기준(안) 전문_리튬이온전지 양극활물….pdf",
+ "source_path": "원문/규정/우수재활용제품(GR) 품질인증기준/붙임2. 우수재활용제품(GR) 품질인증기준(안) 전문_리튬이온전지 양극활물….pdf",
+ "pdf_path": "pdf/우수재활용제품(GR) 품질인증기준/붙임2. 우수재활용제품(GR) 품질인증기준(안) 전문_리튬이온전지 양극활물….pdf",
+ "source_pages": 25,
+ "header_raw": [
+  "공고번호 국가기술표준원 제2022-XXX호",
+  "우수재활용제품(GR)",
+  "품질인증기준(안)",
+  "제 품 명 리튬이온전지양극활물질용NCM 복합황산염수용액",
+  "기준번호 GR C 1002-2022",
+  "제정년월 2022년 00월 00일",
+  "국가기술표준원"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 대상범위",
+   "raw": "제1장 대상범위",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 현장심사기준",
+   "raw": "제2장 현장심사기준",
+   "page": 0,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 제품표준",
+   "raw": "제3장 제품표준",
+   "page": 0,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 12,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 0,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/우수재활용제품-GR-품질인증기준-안/articles.json",
+  "annexes": "regulations/우수재활용제품-GR-품질인증기준-안/annexes.json",
+  "markdown": "regulations/우수재활용제품-GR-품질인증기준-안/regulation.md"
+ }
+}

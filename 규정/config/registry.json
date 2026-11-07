@@ -1,0 +1,2287 @@
+{
+ "_comment": "원문 규정 → 내부 ID·폴더명·약칭·계층 설정(사람이 관리). title 은 PDF 머리의 규정명과 같아야 한다. parent 는 법적 위계(상위 규정). confirmed_latest=true 는 '이 PDF 가 최신본'이라고 사람이 확인했다는 뜻(시행일이 오래돼도 검토 필요로 표시하지 않음). 새 PDF 를 넣을 때는 다시 확인하세요. annex_dirs: 본문 PDF 와 다른 폴더에 있는 별표·별지·별첨 PDF 폴더 이름(원문/규정/ 아래). format=outline: 조(제N조)가 없고 장·절·번호 목록으로 쓰인 문서(tools/parse_outline.py). source_match: 파일명에 들어 있는 글자(머리에 규정명 줄이 없는 PDF 를 찾는 데 씀). format=opinion: 법제처 법령해석례(질의요지·회답·이유 …) — tools/parse_opinion.py. source_match 로 파일을 찾고, 문서의 날짜(회신일)를 시행일 자리에 쓴다.",
+ "regulations": [
+  {
+   "id": "STATE_CONTRACT_ACT",
+   "title": "국가를 당사자로 하는 계약에 관한 법률",
+   "slug": "국가계약법",
+   "display": "국가계약법",
+   "short": "국가계약법",
+   "aliases": [
+    "국계법",
+    "국가계약법",
+    "국가를 당사자로 하는 계약에 관한 법률"
+   ],
+   "type": "법률",
+   "group": "국가계약",
+   "rank": 1,
+   "confirmed_latest": true
+  },
+  {
+   "id": "STATE_CONTRACT_ENFORCEMENT",
+   "title": "국가를 당사자로 하는 계약에 관한 법률 시행령",
+   "slug": "국가계약법-시행령",
+   "display": "국가계약법-시행령",
+   "short": "국가계약법 시행령",
+   "aliases": [
+    "국가계약법시행령",
+    "국계령",
+    "국가를 당사자로 하는 계약에 관한 법률 시행령",
+    "국가를 당사자로 하는 법률 시행령"
+   ],
+   "type": "시행령",
+   "group": "국가계약",
+   "rank": 2,
+   "parent": "STATE_CONTRACT_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "STATE_CONTRACT_RULE",
+   "title": "국가를 당사자로 하는 계약에 관한 법률 시행규칙",
+   "slug": "국가계약법-시행규칙",
+   "display": "국가계약법-시행규칙",
+   "short": "국가계약법 시행규칙",
+   "aliases": [
+    "국가계약법시행규칙",
+    "국계규칙",
+    "국가를 당사자로 하는 계약에 관한 법률 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "국가계약",
+   "rank": 3,
+   "parent": "STATE_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true,
+   "annex_dirs": [
+    "국가계약법 시행규칙 별표 별지"
+   ]
+  },
+  {
+   "id": "QUALIFICATION_REVIEW_RULE",
+   "title": "(계약예규) 적격심사기준",
+   "slug": "적격심사기준",
+   "display": "적격심사기준",
+   "short": "적격심사기준",
+   "aliases": [
+    "계약예규 적격심사기준",
+    "적격심사기준",
+    "적격심사"
+   ],
+   "type": "계약예규",
+   "group": "국가계약",
+   "rank": 4,
+   "parent": "STATE_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "NEGOTIATION_CONTRACT_RULE",
+   "title": "(계약예규) 협상에 의한 계약체결기준",
+   "slug": "협상에의한계약체결기준",
+   "display": "협상계약체결기준",
+   "short": "협상에 의한 계약체결기준",
+   "aliases": [
+    "계약예규 협상에 의한 계약체결기준",
+    "협상에 의한 계약체결기준",
+    "협상계약체결기준",
+    "협상계약"
+   ],
+   "type": "계약예규",
+   "group": "국가계약",
+   "rank": 5,
+   "parent": "STATE_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "BID_CONTRACT_EXECUTION_RULE",
+   "title": "(계약예규)정부 입찰ㆍ계약 집행기준",
+   "slug": "정부입찰계약집행기준",
+   "display": "정부입찰계약집행기준",
+   "short": "정부 입찰·계약 집행기준",
+   "aliases": [
+    "정부 입찰ㆍ계약 집행기준",
+    "정부 입찰·계약 집행기준",
+    "입찰계약집행기준",
+    "집행기준",
+    "계약예규 집행기준",
+    "정부 입찰 계약집행기준",
+    "정부입찰계약집행기준"
+   ],
+   "type": "계약예규",
+   "group": "국가계약",
+   "rank": 6,
+   "parent": "STATE_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "ESTIMATED_PRICE_PREPARATION_RULE",
+   "title": "(계약예규) 예정가격작성기준",
+   "slug": "예정가격작성기준",
+   "display": "예정가격작성기준",
+   "short": "예정가격작성기준",
+   "aliases": [
+    "(계약예규) 예정가격작성기준",
+    "예정가격 작성기준",
+    "예가작성기준",
+    "계약예규 예정가격 작성기준"
+   ],
+   "type": "계약예규",
+   "group": "국가계약",
+   "rank": 7,
+   "parent": "STATE_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "CONSTRUCTION_CONTRACT_GENERAL_CONDITIONS_RULE",
+   "title": "(계약예규) 공사계약일반조건",
+   "slug": "공사계약일반조건",
+   "display": "공사계약일반조건",
+   "short": "공사계약일반조건",
+   "aliases": [
+    "(계약예규) 공사계약일반조건",
+    "공사계약 일반조건",
+    "공사 일반조건"
+   ],
+   "type": "계약예규",
+   "group": "국가계약",
+   "rank": 8,
+   "parent": "STATE_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "GOODS_PURCHASE_GENERAL_CONDITIONS_RULE",
+   "title": "(계약예규) 물품구매(제조)계약일반조건",
+   "slug": "물품구매계약일반조건",
+   "display": "물품구매계약일반조건",
+   "short": "물품구매(제조)계약일반조건",
+   "aliases": [
+    "(계약예규) 물품구매(제조)계약일반조건",
+    "물품구매계약 일반조건",
+    "물품계약 일반조건",
+    "물품구매제조계약 일반조건",
+    "물품구매계약일반조건"
+   ],
+   "type": "계약예규",
+   "group": "국가계약",
+   "rank": 9,
+   "parent": "STATE_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "COMPETITIVE_DIALOGUE_RULE",
+   "title": "(계약예규) 경쟁적대화에 의한 계약체결기준",
+   "slug": "경쟁적대화-계약체결기준",
+   "display": "경쟁적대화-계약체결기준",
+   "short": "경쟁적대화 계약체결기준",
+   "aliases": [
+    "(계약예규) 경쟁적대화에 의한 계약체결기준",
+    "경쟁적 대화에 의한 계약 체결기준",
+    "경쟁적대화"
+   ],
+   "type": "계약예규",
+   "group": "국가계약",
+   "rank": 10,
+   "parent": "STATE_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "BIDDER_PREQUALIFICATION_RULE",
+   "title": "(계약예규) 입찰참가자격사전심사요령",
+   "slug": "입찰참가자격사전심사요령",
+   "display": "입찰참가자격사전심사요령",
+   "short": "입찰참가자격사전심사요령",
+   "aliases": [
+    "(계약예규) 입찰참가자격사전심사요령",
+    "입찰참가자격 사전심사요령",
+    "입찰참가자격사전심사 요령(PQ)",
+    "입찰참가자격사전심사 요령",
+    "PQ심사요령"
+   ],
+   "type": "계약예규",
+   "group": "국가계약",
+   "rank": 11,
+   "parent": "STATE_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "JOINT_CONTRACT_OPERATION_RULE",
+   "title": "(계약예규) 공동계약운용요령",
+   "slug": "공동계약운용요령",
+   "display": "공동계약운용요령",
+   "short": "공동계약운용요령",
+   "aliases": [
+    "(계약예규) 공동계약운용요령",
+    "공동계약 운용요령",
+    "공동수급"
+   ],
+   "type": "계약예규",
+   "group": "국가계약",
+   "rank": 12,
+   "parent": "STATE_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "SERVICE_CONTRACT_GENERAL_CONDITIONS_RULE",
+   "title": "(계약예규) 용역계약일반조건",
+   "slug": "용역계약일반조건",
+   "display": "용역계약일반조건",
+   "short": "용역계약일반조건",
+   "aliases": [
+    "(계약예규) 용역계약일반조건",
+    "용역계약 일반조건",
+    "용역 일반조건"
+   ],
+   "type": "계약예규",
+   "group": "국가계약",
+   "rank": 13,
+   "parent": "STATE_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PUBLIC_ENTERPRISE_CONTRACT_RULE",
+   "title": "공기업ㆍ준정부기관 계약사무규칙",
+   "slug": "공기업-준정부기관-계약사무규칙",
+   "display": "공기업-준정부기관-계약사무규칙",
+   "short": "공기업·준정부기관 계약사무규칙",
+   "aliases": [
+    "공기업ㆍ준정부기관 계약사무규칙",
+    "계약사무규칙",
+    "공기업 준정부기관 계약사무규칙"
+   ],
+   "type": "부령",
+   "group": "국가계약",
+   "rank": 14,
+   "confirmed_latest": true
+  },
+  {
+   "id": "INTERPRETATION_18_0366",
+   "title": "법령해석례 18-0366 (협상에 의한 계약 시 제안서평가위원회 심의 대상의 범위)",
+   "slug": "법령해석례-18-0366",
+   "display": "법제처 해석례 18-0366",
+   "short": "해석례 18-0366",
+   "aliases": [
+    "해석례 18-0366",
+    "법제처 18-0366",
+    "18-0366",
+    "법제처 해석례 18-0366",
+    "법령해석례 18-0366",
+    "제안서평가위원회 심의 대상의 범위"
+   ],
+   "type": "법령해석례",
+   "group": "국가계약",
+   "rank": 15,
+   "format": "opinion",
+   "source_match": "18-0366",
+   "confirmed_latest": true
+  },
+  {
+   "id": "LOCAL_CONTRACT_ACT",
+   "title": "지방자치단체를 당사자로 하는 계약에 관한 법률",
+   "slug": "지방계약법",
+   "display": "지방계약법",
+   "short": "지방계약법",
+   "aliases": [
+    "지계법",
+    "지방계약법",
+    "지방자치단체를 당사자로 하는 계약에 관한 법률"
+   ],
+   "type": "법률",
+   "group": "지방계약",
+   "rank": 1,
+   "confirmed_latest": true
+  },
+  {
+   "id": "LOCAL_CONTRACT_ENFORCEMENT",
+   "title": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령",
+   "slug": "지방계약법-시행령",
+   "display": "지방계약법-시행령",
+   "short": "지방계약법 시행령",
+   "aliases": [
+    "지방계약법시행령",
+    "지계령",
+    "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령"
+   ],
+   "type": "시행령",
+   "group": "지방계약",
+   "rank": 2,
+   "parent": "LOCAL_CONTRACT_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "LOCAL_CONTRACT_RULE",
+   "title": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙",
+   "slug": "지방계약법-시행규칙",
+   "display": "지방계약법-시행규칙",
+   "short": "지방계약법 시행규칙",
+   "aliases": [
+    "지방계약법시행규칙",
+    "지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "지방계약",
+   "rank": 3,
+   "parent": "LOCAL_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true,
+   "annex_dirs": [
+    "지방계약법 시행규칙 별표 및 별지"
+   ]
+  },
+  {
+   "id": "LOCAL_BID_CONTRACT_EXECUTION_GUIDELINE",
+   "title": "지방자치단체 입찰 및 계약집행기준",
+   "slug": "지방자치단체-입찰계약집행기준",
+   "display": "지방입찰계약집행기준",
+   "short": "지방 입찰·계약 집행기준",
+   "aliases": [
+    "지방자치단체 입찰 및 계약집행기준",
+    "지방자치단체 입찰 및 계약 집행기준",
+    "지방입찰계약집행기준",
+    "지방계약집행기준",
+    "지방 집행기준"
+   ],
+   "type": "계약예규",
+   "group": "지방계약",
+   "rank": 4,
+   "parent": "LOCAL_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true,
+   "format": "outline",
+   "source_match": "입찰 및 계약집행기준"
+  },
+  {
+   "id": "LOCAL_BIDDER_SELECTION_GUIDELINE",
+   "title": "지방자치단체 입찰시 낙찰자 결정기준",
+   "slug": "지방자치단체-입찰시-낙찰자-결정기준",
+   "display": "지방자치단체-낙찰자-결정기준",
+   "short": "지방 낙찰자 결정기준",
+   "aliases": [
+    "지방자치단체 입찰시 낙찰자 결정기준",
+    "지방자치단체 입찰 시 낙찰자 결정기준",
+    "지방 낙찰자 결정기준",
+    "지방 적격심사 세부기준"
+   ],
+   "type": "계약예규",
+   "group": "지방계약",
+   "rank": 5,
+   "parent": "LOCAL_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true,
+   "format": "outline",
+   "source_match": "낙찰자 결정기준",
+   "agency": "행정안전부"
+  },
+  {
+   "id": "LOCAL_CONTRACT_INFO_DEVICE_GUIDE",
+   "title": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의",
+   "full_title": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침",
+   "slug": "지방계약-지정정보처리장치-관리운영지침",
+   "display": "지방계약-지정정보처리장치-관리운영지침",
+   "short": "지방계약 지정정보처리장치 관리·운영지침",
+   "aliases": [
+    "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침",
+    "지정정보처리장치 관리운영지침"
+   ],
+   "type": "계약예규",
+   "group": "지방계약",
+   "rank": 6,
+   "parent": "LOCAL_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "LOCAL_CONTRACT_SPECIALIST_AGENCY_NOTICE",
+   "title": "지방계약 전문기관 지정",
+   "slug": "지방계약-전문기관-지정",
+   "display": "지방계약-전문기관-지정",
+   "short": "지방계약 전문기관 지정",
+   "aliases": [
+    "지방계약 전문기관 지정",
+    "지방계약 전문기관"
+   ],
+   "type": "고시",
+   "group": "지방계약",
+   "rank": 7,
+   "parent": "LOCAL_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "LOCAL_CONTRACT_VULNERABLE_EMPLOYMENT_NOTICE",
+   "title": "율에 관한 고시",
+   "full_title": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제25조 및 제30조에 따른 기업 및 조합의 취약계층 고용비율에 관한 고시",
+   "slug": "지방계약-취약계층-고용비율-고시",
+   "display": "지방계약-취약계층-고용비율-고시",
+   "short": "지방계약 취약계층 고용비율 고시",
+   "aliases": [
+    "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제25조 및 제30조에 따른 기업 및 조합의 취약계층 고용비율에 관한 고시",
+    "취약계층 고용비율"
+   ],
+   "type": "고시",
+   "group": "지방계약",
+   "rank": 8,
+   "parent": "LOCAL_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "LOCAL_CONTRACT_INFO_DEVICE_NOTICE",
+   "title": "26조, 제78조에 따른 정보처리장치의 지정에 관한 고시",
+   "full_title": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2 및 공유재산 및 물품 관리법 시행령 제13조, 제26조, 제78조에 따른 정보처리장치의 지정에 관한 고시",
+   "slug": "지방계약-정보처리장치-지정-고시",
+   "display": "지방계약-정보처리장치-지정-고시",
+   "short": "지방계약 정보처리장치 지정 고시",
+   "aliases": [
+    "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2 및 공유재산 및 물품 관리법 시행령 제13조, 제26조, 제78조에 따른 정보처리장치의 지정에 관한 고시",
+    "정보처리장치 지정"
+   ],
+   "type": "고시",
+   "group": "지방계약",
+   "rank": 9,
+   "parent": "LOCAL_CONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PROCUREMENT_BUSINESS_ACT",
+   "title": "조달사업에 관한 법률",
+   "slug": "조달사업법",
+   "display": "조달사업법",
+   "short": "조달사업법",
+   "aliases": [
+    "조달사업법",
+    "조달사업에 관한 법률",
+    "조달법"
+   ],
+   "type": "법률",
+   "group": "조달사업·조달청",
+   "rank": 1,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PROCUREMENT_BUSINESS_ENFORCEMENT",
+   "title": "조달사업에 관한 법률 시행령",
+   "slug": "조달사업법-시행령",
+   "display": "조달사업법-시행령",
+   "short": "조달사업법 시행령",
+   "aliases": [
+    "조달사업법 시행령",
+    "조달사업법시행령",
+    "조달사업에 관한 법률 시행령"
+   ],
+   "type": "시행령",
+   "group": "조달사업·조달청",
+   "rank": 2,
+   "parent": "PROCUREMENT_BUSINESS_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PROCUREMENT_BUSINESS_RULE",
+   "title": "조달사업에 관한 법률 시행규칙",
+   "slug": "조달사업법-시행규칙",
+   "display": "조달사업법-시행규칙",
+   "short": "조달사업법 시행규칙",
+   "aliases": [
+    "조달사업법 시행규칙",
+    "조달사업법시행규칙",
+    "조달사업에 관한 법률 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "조달사업·조달청",
+   "rank": 3,
+   "parent": "PROCUREMENT_BUSINESS_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "EPROCUREMENT_ACT",
+   "title": "전자조달의 이용 및 촉진에 관한 법률",
+   "slug": "전자조달법",
+   "display": "전자조달법",
+   "short": "전자조달법",
+   "aliases": [
+    "전자조달의 이용 및 촉진에 관한 법률",
+    "전자조달법",
+    "전자조달촉진법",
+    "전자조달의 이용에 및 촉진에 관한 법률"
+   ],
+   "type": "법률",
+   "group": "조달사업·조달청",
+   "rank": 4,
+   "confirmed_latest": true
+  },
+  {
+   "id": "EPROCUREMENT_ENFORCEMENT",
+   "title": "전자조달의 이용 및 촉진에 관한 법률 시행령",
+   "slug": "전자조달법-시행령",
+   "display": "전자조달법-시행령",
+   "short": "전자조달법 시행령",
+   "aliases": [
+    "전자조달의 이용 및 촉진에 관한 법률 시행령",
+    "전자조달법 시행령",
+    "전자조달법시행령"
+   ],
+   "type": "시행령",
+   "group": "조달사업·조달청",
+   "rank": 5,
+   "parent": "EPROCUREMENT_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "EPROCUREMENT_RULE",
+   "title": "전자조달의 이용 및 촉진에 관한 법률 시행규칙",
+   "slug": "전자조달법-시행규칙",
+   "display": "전자조달법-시행규칙",
+   "short": "전자조달법 시행규칙",
+   "aliases": [
+    "전자조달의 이용 및 촉진에 관한 법률 시행규칙",
+    "전자조달법 시행규칙",
+    "전자조달법시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "조달사업·조달청",
+   "rank": 6,
+   "parent": "EPROCUREMENT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_ORGANIZATION_DECREE",
+   "title": "조달청과 그 소속기관 직제",
+   "slug": "조달청-직제",
+   "display": "조달청-직제",
+   "short": "조달청 직제",
+   "aliases": [
+    "조달청과 그 소속기관 직제",
+    "조달청 직제",
+    "직제"
+   ],
+   "type": "대통령령",
+   "group": "조달사업·조달청",
+   "rank": 7,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_ORGANIZATION_RULE",
+   "title": "조달청과 그 소속기관 직제 시행규칙",
+   "slug": "조달청-직제-시행규칙",
+   "display": "조달청-직제-시행규칙",
+   "short": "조달청 직제 시행규칙",
+   "aliases": [
+    "조달청과 그 소속기관 직제 시행규칙",
+    "조달청 직제 시행규칙",
+    "직제 시행규칙",
+    "직제시행규칙"
+   ],
+   "type": "부령",
+   "group": "조달사업·조달청",
+   "rank": 8,
+   "parent": "PPS_ORGANIZATION_DECREE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_QUALITY_TEST_RULE",
+   "title": "조달품질원 시험ㆍ분석 규칙",
+   "slug": "조달품질원-시험분석-규칙",
+   "display": "조달품질원-시험분석-규칙",
+   "short": "조달품질원 시험·분석 규칙",
+   "aliases": [
+    "조달품질원 시험ㆍ분석 규칙",
+    "조달품질원 시험·분석 규칙",
+    "조달품질원 시험분석 규칙",
+    "시험ㆍ분석 규칙",
+    "시험분석 규칙"
+   ],
+   "type": "부령",
+   "group": "조달사업·조달청",
+   "rank": 9,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_GOODS_MAS_RULE",
+   "title": "물품 다수공급자계약 업무처리규정",
+   "slug": "물품-다수공급자계약-업무처리규정",
+   "display": "물품-다수공급자계약-업무처리규정",
+   "short": "물품 다수공급자계약 업무처리규정",
+   "aliases": [
+    "물품 다수공급자계약 업무처리규정",
+    "물품 MAS",
+    "물품다수공급자계약",
+    "다수공급자계약 업무처리규정",
+    "MAS 업무처리규정"
+   ],
+   "type": "훈령",
+   "group": "조달사업·조달청",
+   "rank": 10,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_FOREIGN_PURCHASE_DIRECTIVE",
+   "title": "조달청 외자구매업무 처리규정",
+   "slug": "조달청-외자구매업무-처리규정",
+   "display": "조달청-외자구매업무-처리규정",
+   "short": "조달청 외자구매업무 처리규정",
+   "aliases": [
+    "조달청 외자구매업무 처리규정",
+    "외자구매업무 처리규정",
+    "외자구매"
+   ],
+   "type": "훈령",
+   "group": "조달사업·조달청",
+   "rank": 11,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_DOMESTIC_PURCHASE_DIRECTIVE",
+   "title": "조달청 내자구매업무 처리규정",
+   "slug": "조달청-내자구매업무-처리규정",
+   "display": "조달청-내자구매업무-처리규정",
+   "short": "조달청 내자구매업무 처리규정",
+   "aliases": [
+    "조달청 내자구매업무 처리규정",
+    "내자구매업무 처리규정",
+    "내자구매",
+    "조달청 구매업무처리규정",
+    "조달청 구매업무 처리규정",
+    "구매업무처리규정"
+   ],
+   "type": "훈령",
+   "group": "조달사업·조달청",
+   "rank": 12,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_SERVICE_MAS_RULE",
+   "title": "용역 다수공급자계약 업무처리규정",
+   "slug": "용역-다수공급자계약-업무처리규정",
+   "display": "용역-다수공급자계약-업무처리규정",
+   "short": "용역 다수공급자계약 업무처리규정",
+   "aliases": [
+    "용역 다수공급자계약 업무처리규정",
+    "용역 MAS",
+    "용역다수공급자계약",
+    "다수공급자계약 업무처리규정",
+    "MAS 업무처리규정"
+   ],
+   "type": "고시",
+   "group": "조달사업·조달청",
+   "rank": 13,
+   "confirmed_latest": true
+  },
+  {
+   "id": "EPROCUREMENT_BIDDER_REGISTRATION_NOTICE",
+   "title": "국가종합전자조달시스템 입찰참가자격등록규정",
+   "slug": "전자조달-입찰참가자격등록규정",
+   "display": "전자조달-입찰참가자격등록규정",
+   "short": "전자조달 입찰참가자격등록규정",
+   "aliases": [
+    "국가종합전자조달시스템 입찰참가자격등록규정",
+    "입찰참가자격등록규정",
+    "나라장터 입찰참가자격등록",
+    "조달청 국가종합전자조달시스템 입찰참가자격등록규정"
+   ],
+   "type": "고시",
+   "group": "조달사업·조달청",
+   "rank": 14,
+   "confirmed_latest": true
+  },
+  {
+   "id": "EPROCUREMENT_EBID_SPECIAL_NOTICE",
+   "title": "국가종합전자조달시스템 전자입찰특별유의서",
+   "slug": "전자조달-전자입찰특별유의서",
+   "display": "전자조달-전자입찰특별유의서",
+   "short": "전자입찰특별유의서",
+   "aliases": [
+    "국가종합전자조달시스템 전자입찰특별유의서",
+    "전자입찰 특별유의서"
+   ],
+   "type": "고시",
+   "group": "조달사업·조달청",
+   "rank": 15,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_EUMJANGTEO_OPERATION_NOTICE",
+   "title": "조달청 이음장터 운영규정",
+   "slug": "조달청-이음장터-운영규정",
+   "display": "조달청-이음장터-운영규정",
+   "short": "이음장터 운영규정",
+   "aliases": [
+    "조달청 이음장터 운영규정",
+    "이음장터 운영"
+   ],
+   "type": "고시",
+   "group": "조달사업·조달청",
+   "rank": 16,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_EUMJANGTEO_TERMS_NOTICE",
+   "title": "조달청 이음장터 이용약관",
+   "slug": "조달청-이음장터-이용약관",
+   "display": "조달청-이음장터-이용약관",
+   "short": "이음장터 이용약관",
+   "aliases": [
+    "조달청 이음장터 이용약관",
+    "이음장터 약관"
+   ],
+   "type": "고시",
+   "group": "조달사업·조달청",
+   "rank": 17,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_SHOPPING_MALL_OPERATION_NOTICE",
+   "title": "국가종합전자조달시스템 쇼핑몰 운영규정",
+   "slug": "쇼핑몰-운영규정",
+   "display": "쇼핑몰-운영규정",
+   "short": "쇼핑몰 운영규정",
+   "aliases": [
+    "국가종합전자조달시스템 쇼핑몰 운영규정",
+    "종합쇼핑몰 운영규정",
+    "국가종합전자조달시스템 종합쇼핑몰운영규정",
+    "나라장터 쇼핑몰 운영규정"
+   ],
+   "type": "고시",
+   "group": "조달사업·조달청",
+   "rank": 18,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_EXCELLENT_PROCUREMENT_GOODS_NOTICE",
+   "title": "우수조달물품 지정·관리 규정",
+   "slug": "우수조달물품-지정관리-규정",
+   "display": "우수조달물품-지정관리-규정",
+   "short": "우수조달물품 지정·관리 규정",
+   "aliases": [
+    "우수조달물품 지정·관리 규정",
+    "우수조달물품 지정관리 규정",
+    "우수제품 지정",
+    "우수제품 지정 관리규정",
+    "우수제품 지정관리규정"
+   ],
+   "type": "고시",
+   "group": "조달사업·조달청",
+   "rank": 19,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_EXCELLENT_PROCUREMENT_BRAND_NOTICE",
+   "title": "우수조달공동상표 물품 지정 관리규정",
+   "slug": "우수조달공동상표-지정관리규정",
+   "display": "우수조달공동상표-지정관리규정",
+   "short": "우수조달공동상표 물품 지정 관리규정",
+   "aliases": [
+    "우수조달공동상표 물품 지정 관리규정",
+    "우수조달공동상표 지정",
+    "공동상표 물품"
+   ],
+   "type": "고시",
+   "group": "조달사업·조달청",
+   "rank": 20,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_VENTURE_NARA_DESIGNATION_NOTICE",
+   "title": "벤처나라 등록 물품·서비스 지정 관리 규정",
+   "slug": "벤처나라-등록-물품서비스-지정-관리-규정",
+   "display": "벤처나라-등록-지정관리-규정",
+   "short": "벤처나라 등록 지정 관리 규정",
+   "aliases": [
+    "벤처나라 등록 물품·서비스 지정 관리 규정",
+    "벤처나라 등록 물품ㆍ서비스 지정 관리 규정",
+    "벤처나라 등록 규정",
+    "벤처나라",
+    "벤처나라 지정 관리 규정",
+    "벤처나라 등록 물품서비스 지정 관리 규정",
+    "벤처나라 등록 물품·서비스 지정관리규정"
+   ],
+   "type": "고시",
+   "group": "조달사업·조달청",
+   "rank": 21,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_GOODS_QUALIFICATION_GUIDE",
+   "title": "조달청 물품구매적격심사 세부기준",
+   "slug": "조달청-물품구매적격심사-세부기준",
+   "display": "조달청-물품적격심사-세부기준",
+   "short": "물품구매적격심사 세부기준",
+   "aliases": [
+    "조달청 물품구매적격심사 세부기준",
+    "물품구매적격심사",
+    "물품적격심사 세부기준",
+    "물품 적격심사"
+   ],
+   "type": "지침",
+   "group": "조달사업·조달청",
+   "rank": 22,
+   "parent": "QUALIFICATION_REVIEW_RULE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_PROPOSAL_EVALUATION_GUIDE",
+   "title": "조달청 협상에 의한 계약 제안서평가 세부기준",
+   "slug": "조달청-제안서평가-세부기준",
+   "display": "조달청-제안서평가-세부기준",
+   "short": "제안서평가 세부기준",
+   "aliases": [
+    "조달청 협상에 의한 계약 제안서평가 세부기준",
+    "제안서평가 세부기준",
+    "제안서 평가",
+    "제안서평가"
+   ],
+   "type": "지침",
+   "group": "조달사업·조달청",
+   "rank": 23,
+   "parent": "NEGOTIATION_CONTRACT_RULE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_COMPETITIVE_DIALOGUE_GUIDE",
+   "title": "조달청 경쟁적 대화에 의한 계약체결 세부기준",
+   "slug": "조달청-경쟁적대화-계약체결-세부기준",
+   "display": "조달청-경쟁적대화-계약체결-세부기준",
+   "short": "조달청 경쟁적 대화 세부기준",
+   "aliases": [
+    "조달청 경쟁적 대화에 의한 계약체결 세부기준",
+    "경쟁적 대화 세부기준"
+   ],
+   "type": "지침",
+   "group": "조달사업·조달청",
+   "rank": 24,
+   "parent": "COMPETITIVE_DIALOGUE_RULE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_SME_COMPETITIVE_GOODS_PERFORMANCE_REVIEW_GUIDE",
+   "title": "조달청 중소기업자간 경쟁물품에 대한 계약이행능력심사 세부기준",
+   "slug": "조달청-경쟁물품-계약이행능력심사-세부기준",
+   "display": "조달청-경쟁물품-이행능력심사-세부기준",
+   "short": "조달청 경쟁물품 이행능력심사 세부기준",
+   "aliases": [
+    "중소기업자간 경쟁물품 계약이행능력심사 세부기준",
+    "경쟁물품 계약이행능력심사",
+    "경쟁물품 이행능력심사",
+    "조달청 이행능력심사 세부기준"
+   ],
+   "type": "지침",
+   "group": "조달사업·조달청",
+   "rank": 25,
+   "parent": "PPS_GOODS_QUALIFICATION_GUIDE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_LOCAL_CONSTRUCTION_MGMT_SPECIAL_CONDITIONS",
+   "title": "지방자치단체용 건설기술(건설사업관리) 용역계약 특수조건",
+   "slug": "지방자치단체용-건설사업관리-용역계약-특수조건",
+   "display": "지방자치단체용-건설사업관리-용역계약-특수조건",
+   "short": "지방자치단체용 건설사업관리 용역 특수조건",
+   "aliases": [
+    "지방자치단체용 건설기술(건설사업관리) 용역계약 특수조건",
+    "건설사업관리 용역계약 특수조건"
+   ],
+   "type": "지침",
+   "group": "조달사업·조달청",
+   "rank": 26,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_LOCAL_CONSTRUCTION_DESIGN_SPECIAL_CONDITIONS",
+   "title": "지방자치단체용 건설기술(설계) 용역계약 특수조건",
+   "slug": "지방자치단체용-설계-용역계약-특수조건",
+   "display": "지방자치단체용-설계-용역계약-특수조건",
+   "short": "지방자치단체용 설계 용역 특수조건",
+   "aliases": [
+    "지방자치단체용 건설기술(설계) 용역계약 특수조건",
+    "설계 용역계약 특수조건"
+   ],
+   "type": "지침",
+   "group": "조달사업·조달청",
+   "rank": 27,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_GOODS_QUALITY_SPECIAL_CONDITIONS",
+   "title": "물품구매계약 품질관리 특수조건",
+   "slug": "물품구매계약-품질관리-특수조건",
+   "display": "물품구매계약-품질관리-특수조건",
+   "short": "물품구매계약 품질관리 특수조건",
+   "aliases": [
+    "물품구매계약 품질관리 특수조건",
+    "품질관리 특수조건",
+    "조달청 품질관리 특수조건"
+   ],
+   "type": "지침",
+   "group": "조달사업·조달청",
+   "rank": 28,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_GENERAL_SERVICE_SPECIAL_CONDITIONS",
+   "title": "일반용역계약특수조건",
+   "slug": "일반용역계약특수조건",
+   "display": "일반용역계약특수조건",
+   "short": "일반용역계약특수조건",
+   "aliases": [
+    "일반용역계약특수조건",
+    "일반용역계약 특수조건"
+   ],
+   "type": "지침",
+   "group": "조달사업·조달청",
+   "rank": 29,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_SERVICE_MAS_SPECIAL_CONDITION",
+   "title": "용역 다수공급자계약 특수조건",
+   "slug": "용역-다수공급자계약-특수조건",
+   "display": "용역-다수공급자계약-특수조건",
+   "short": "용역 다수공급자계약 특수조건",
+   "aliases": [
+    "용역 다수공급자계약 특수조건"
+   ],
+   "type": "공고",
+   "group": "조달사업·조달청",
+   "rank": 30,
+   "parent": "PPS_SERVICE_MAS_RULE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_GOODS_MAS_SPECIAL_CONDITION",
+   "title": "물품 다수공급자계약 특수조건",
+   "slug": "물품-다수공급자계약-특수조건",
+   "display": "물품-다수공급자계약-특수조건",
+   "short": "물품 다수공급자계약 특수조건",
+   "aliases": [
+    "물품 다수공급자계약 특수조건",
+    "물품 MAS 특수조건"
+   ],
+   "type": "공고",
+   "group": "조달사업·조달청",
+   "rank": 31,
+   "parent": "PPS_GOODS_MAS_RULE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_MAS_ADDITIONAL_CONDITION",
+   "title": "다수공급자계약 추가특수조건",
+   "slug": "다수공급자계약-추가특수조건",
+   "display": "다수공급자계약-추가특수조건",
+   "short": "다수공급자계약 추가특수조건",
+   "aliases": [
+    "다수공급자계약 추가특수조건",
+    "추가특수조건",
+    "추가조건"
+   ],
+   "type": "공고",
+   "group": "조달사업·조달청",
+   "rank": 32,
+   "parent": "PPS_GOODS_MAS_RULE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "SME_BASIC_ACT",
+   "title": "중소기업기본법",
+   "slug": "중소기업기본법",
+   "display": "중소기업기본법",
+   "short": "중소기업기본법",
+   "aliases": [
+    "중소기업기본법"
+   ],
+   "type": "법률",
+   "group": "중소기업",
+   "rank": 1,
+   "confirmed_latest": true
+  },
+  {
+   "id": "SME_BASIC_ENFORCEMENT",
+   "title": "중소기업기본법 시행령",
+   "slug": "중소기업기본법-시행령",
+   "display": "중소기업기본법-시행령",
+   "short": "중소기업기본법 시행령",
+   "aliases": [
+    "중소기업기본법 시행령"
+   ],
+   "type": "시행령",
+   "group": "중소기업",
+   "rank": 2,
+   "parent": "SME_BASIC_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "SME_PROMOTION_ACT",
+   "title": "중소기업진흥에 관한 법률",
+   "slug": "중소기업진흥법",
+   "display": "중소기업진흥법",
+   "short": "중소기업진흥법",
+   "aliases": [
+    "중소기업진흥법",
+    "중소기업진흥에 관한 법률"
+   ],
+   "type": "법률",
+   "group": "중소기업",
+   "rank": 3,
+   "confirmed_latest": true
+  },
+  {
+   "id": "SME_PROMOTION_ENFORCEMENT",
+   "title": "중소기업진흥에 관한 법률 시행령",
+   "slug": "중소기업진흥법-시행령",
+   "display": "중소기업진흥법-시행령",
+   "short": "중소기업진흥법 시행령",
+   "aliases": [
+    "중소기업진흥법 시행령",
+    "중소기업진흥법시행령",
+    "중소기업진흥에 관한 법률 시행령"
+   ],
+   "type": "시행령",
+   "group": "중소기업",
+   "rank": 4,
+   "parent": "SME_PROMOTION_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "SME_PROMOTION_RULE",
+   "title": "중소기업진흥에 관한 법률 시행규칙",
+   "slug": "중소기업진흥법-시행규칙",
+   "display": "중소기업진흥법-시행규칙",
+   "short": "중소기업진흥법 시행규칙",
+   "aliases": [
+    "중소기업진흥법 시행규칙",
+    "중소기업진흥법시행규칙",
+    "중소기업진흥에 관한 법률 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "중소기업",
+   "rank": 5,
+   "parent": "SME_PROMOTION_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "SME_PRODUCT_PROCUREMENT_ACT",
+   "title": "중소기업제품 구매촉진 및 판로지원에 관한 법률",
+   "slug": "판로지원법",
+   "display": "판로지원법",
+   "short": "판로지원법",
+   "aliases": [
+    "중소기업제품 구매촉진 및 판로지원에 관한 법률",
+    "판로지원법",
+    "중소기업제품 구매촉진법",
+    "중소기업제품구매촉진및판로지원에관한법률",
+    "중소기업 제품에 대한 판로지원법"
+   ],
+   "type": "법률",
+   "group": "중소기업",
+   "rank": 6,
+   "confirmed_latest": true
+  },
+  {
+   "id": "SME_PRODUCT_PROCUREMENT_ENFORCEMENT",
+   "title": "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령",
+   "slug": "판로지원법-시행령",
+   "display": "판로지원법-시행령",
+   "short": "판로지원법 시행령",
+   "aliases": [
+    "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령",
+    "판로지원법 시행령",
+    "판로지원법시행령",
+    "중소기업 제품에 대한 판로지원법 시행령"
+   ],
+   "type": "시행령",
+   "group": "중소기업",
+   "rank": 7,
+   "parent": "SME_PRODUCT_PROCUREMENT_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "SME_PRODUCT_PROCUREMENT_RULE",
+   "title": "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙",
+   "slug": "판로지원법-시행규칙",
+   "display": "판로지원법-시행규칙",
+   "short": "판로지원법 시행규칙",
+   "aliases": [
+    "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행규칙",
+    "판로지원법 시행규칙",
+    "판로지원법시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "중소기업",
+   "rank": 8,
+   "parent": "SME_PRODUCT_PROCUREMENT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "SME_TECH_INNOVATION_ACT",
+   "title": "중소기업 기술혁신 촉진법",
+   "slug": "중소기업기술혁신법",
+   "display": "중소기업기술혁신법",
+   "short": "중소기업기술혁신법",
+   "aliases": [
+    "중소기업기술혁신법",
+    "중소기업 기술혁신 촉진법"
+   ],
+   "type": "법률",
+   "group": "중소기업",
+   "rank": 9,
+   "confirmed_latest": true
+  },
+  {
+   "id": "SME_TECH_INNOVATION_ENFORCEMENT",
+   "title": "중소기업 기술혁신 촉진법 시행령",
+   "slug": "중소기업기술혁신법-시행령",
+   "display": "중소기업기술혁신법-시행령",
+   "short": "중소기업기술혁신법 시행령",
+   "aliases": [
+    "중소기업기술혁신법 시행령",
+    "중소기업기술혁신법시행령",
+    "중소기업 기술혁신 촉진법 시행령"
+   ],
+   "type": "시행령",
+   "group": "중소기업",
+   "rank": 10,
+   "parent": "SME_TECH_INNOVATION_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "SME_TECH_INNOVATION_RULE",
+   "title": "중소기업 기술혁신 촉진법 시행규칙",
+   "slug": "중소기업기술혁신법-시행규칙",
+   "display": "중소기업기술혁신법-시행규칙",
+   "short": "중소기업기술혁신법 시행규칙",
+   "aliases": [
+    "중소기업기술혁신법 시행규칙",
+    "중소기업기술혁신법시행규칙",
+    "중소기업 기술혁신 촉진법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "중소기업",
+   "rank": 11,
+   "parent": "SME_TECH_INNOVATION_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "WOMEN_ENTERPRISE_SUPPORT_ACT",
+   "title": "여성기업지원에 관한 법률",
+   "slug": "여성기업지원법",
+   "display": "여성기업지원법",
+   "short": "여성기업지원법",
+   "aliases": [
+    "여성기업지원법",
+    "여성기업지원에 관한 법률",
+    "여성기업법"
+   ],
+   "type": "법률",
+   "group": "중소기업",
+   "rank": 12,
+   "confirmed_latest": true
+  },
+  {
+   "id": "WOMEN_ENTERPRISE_SUPPORT_ENFORCEMENT",
+   "title": "여성기업지원에 관한 법률 시행령",
+   "slug": "여성기업지원법-시행령",
+   "display": "여성기업지원법-시행령",
+   "short": "여성기업지원법 시행령",
+   "aliases": [
+    "여성기업지원법 시행령",
+    "여성기업지원법시행령",
+    "여성기업지원에 관한 법률 시행령",
+    "여성기업법 시행령"
+   ],
+   "type": "시행령",
+   "group": "중소기업",
+   "rank": 13,
+   "parent": "WOMEN_ENTERPRISE_SUPPORT_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "DISABLED_ENTERPRISE_ACT",
+   "title": "장애인기업활동 촉진법",
+   "slug": "장애인기업활동법",
+   "display": "장애인기업활동법",
+   "short": "장애인기업활동법",
+   "aliases": [
+    "장애인기업활동법",
+    "장애인기업활동 촉진법",
+    "장애인기업법"
+   ],
+   "type": "법률",
+   "group": "중소기업",
+   "rank": 14,
+   "confirmed_latest": true
+  },
+  {
+   "id": "DISABLED_ENTERPRISE_ENFORCEMENT",
+   "title": "장애인기업활동 촉진법 시행령",
+   "slug": "장애인기업활동법-시행령",
+   "display": "장애인기업활동법-시행령",
+   "short": "장애인기업활동법 시행령",
+   "aliases": [
+    "장애인기업활동법 시행령",
+    "장애인기업활동법시행령",
+    "장애인기업활동 촉진법 시행령"
+   ],
+   "type": "시행령",
+   "group": "중소기업",
+   "rank": 15,
+   "parent": "DISABLED_ENTERPRISE_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "SEVERELY_DISABLED_PRODUCTS_ACT",
+   "title": "중증장애인생산품 우선구매 특별법",
+   "slug": "중증장애인생산품법",
+   "display": "중증장애인생산품법",
+   "short": "중증장애인생산품법",
+   "aliases": [
+    "중증장애인생산품법",
+    "중증장애인생산품 우선구매 특별법",
+    "중증장애인생산품 우선구매법"
+   ],
+   "type": "법률",
+   "group": "중소기업",
+   "rank": 16,
+   "confirmed_latest": true
+  },
+  {
+   "id": "SEVERELY_DISABLED_PRODUCTS_ENFORCEMENT",
+   "title": "중증장애인생산품 우선구매 특별법 시행령",
+   "slug": "중증장애인생산품법-시행령",
+   "display": "중증장애인생산품법-시행령",
+   "short": "중증장애인생산품법 시행령",
+   "aliases": [
+    "중증장애인생산품법 시행령",
+    "중증장애인생산품법시행령",
+    "중증장애인생산품 우선구매 특별법 시행령"
+   ],
+   "type": "시행령",
+   "group": "중소기업",
+   "rank": 17,
+   "parent": "SEVERELY_DISABLED_PRODUCTS_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "SEVERELY_DISABLED_PRODUCTS_RULE",
+   "title": "중증장애인생산품 우선구매 특별법 시행규칙",
+   "slug": "중증장애인생산품법-시행규칙",
+   "display": "중증장애인생산품법-시행규칙",
+   "short": "중증장애인생산품법 시행규칙",
+   "aliases": [
+    "중증장애인생산품법 시행규칙",
+    "중증장애인생산품법시행규칙",
+    "중증장애인생산품 우선구매 특별법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "중소기업",
+   "rank": 18,
+   "parent": "SEVERELY_DISABLED_PRODUCTS_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "SME_COMPETITIVE_GOODS_PERFORMANCE_REVIEW_GUIDE",
+   "title": "(중소벤처기업부) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준",
+   "slug": "중기부-경쟁제품-계약이행능력심사-세부기준",
+   "display": "중기부-경쟁제품-이행능력심사-세부기준",
+   "short": "중기부 경쟁제품 이행능력심사 세부기준",
+   "aliases": [
+    "중소기업자간 경쟁제품 계약이행능력심사 세부기준",
+    "경쟁제품 계약이행능력심사",
+    "경쟁제품 이행능력심사",
+    "중기부 이행능력심사 세부기준"
+   ],
+   "type": "고시",
+   "group": "중소기업",
+   "rank": 19,
+   "parent": "SME_PROMOTION_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "CONSTRUCTION_INDUSTRY_BASIC_ACT",
+   "title": "건설산업기본법",
+   "slug": "건설산업기본법",
+   "display": "건설산업기본법",
+   "short": "건설산업기본법",
+   "aliases": [
+    "건설산업기본법",
+    "건설산업기본법",
+    "건산법"
+   ],
+   "type": "법률",
+   "group": "건설·하도급",
+   "rank": 1,
+   "confirmed_latest": true
+  },
+  {
+   "id": "CONSTRUCTION_INDUSTRY_BASIC_ENFORCEMENT",
+   "title": "건설산업기본법 시행령",
+   "slug": "건설산업기본법-시행령",
+   "display": "건설산업기본법-시행령",
+   "short": "건설산업기본법 시행령",
+   "aliases": [
+    "건설산업기본법 시행령",
+    "건설산업기본법시행령",
+    "건설산업기본법 시행령"
+   ],
+   "type": "시행령",
+   "group": "건설·하도급",
+   "rank": 2,
+   "parent": "CONSTRUCTION_INDUSTRY_BASIC_ACT",
+   "confirmed_latest": true,
+   "annex_dirs": [
+    "건설산업기본법 시행령 별표"
+   ]
+  },
+  {
+   "id": "CONSTRUCTION_INDUSTRY_BASIC_RULE",
+   "title": "건설산업기본법 시행규칙",
+   "slug": "건설산업기본법-시행규칙",
+   "display": "건설산업기본법-시행규칙",
+   "short": "건설산업기본법 시행규칙",
+   "aliases": [
+    "건설산업기본법 시행규칙",
+    "건설산업기본법시행규칙",
+    "건설산업기본법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "건설·하도급",
+   "rank": 3,
+   "parent": "CONSTRUCTION_INDUSTRY_BASIC_ENFORCEMENT",
+   "confirmed_latest": true,
+   "annex_dirs": [
+    "건설산업기본법 시행규칙 별지"
+   ]
+  },
+  {
+   "id": "CONSTRUCTION_TECH_PROMOTION_ACT",
+   "title": "건설기술 진흥법",
+   "slug": "건설기술진흥법",
+   "display": "건설기술진흥법",
+   "short": "건설기술진흥법",
+   "aliases": [
+    "건설기술진흥법",
+    "건설기술 진흥법",
+    "건진법"
+   ],
+   "type": "법률",
+   "group": "건설·하도급",
+   "rank": 4,
+   "confirmed_latest": true
+  },
+  {
+   "id": "CONSTRUCTION_TECH_PROMOTION_ENFORCEMENT",
+   "title": "건설기술 진흥법 시행령",
+   "slug": "건설기술진흥법-시행령",
+   "display": "건설기술진흥법-시행령",
+   "short": "건설기술진흥법 시행령",
+   "aliases": [
+    "건설기술진흥법 시행령",
+    "건설기술진흥법시행령",
+    "건설기술 진흥법 시행령"
+   ],
+   "type": "시행령",
+   "group": "건설·하도급",
+   "rank": 5,
+   "parent": "CONSTRUCTION_TECH_PROMOTION_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "CONSTRUCTION_TECH_PROMOTION_RULE",
+   "title": "건설기술 진흥법 시행규칙",
+   "slug": "건설기술진흥법-시행규칙",
+   "display": "건설기술진흥법-시행규칙",
+   "short": "건설기술진흥법 시행규칙",
+   "aliases": [
+    "건설기술진흥법 시행규칙",
+    "건설기술진흥법시행규칙",
+    "건설기술 진흥법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "건설·하도급",
+   "rank": 6,
+   "parent": "CONSTRUCTION_TECH_PROMOTION_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "SUBCONTRACT_ACT",
+   "title": "하도급거래 공정화에 관한 법률",
+   "slug": "하도급법",
+   "display": "하도급법",
+   "short": "하도급법",
+   "aliases": [
+    "하도급거래 공정화에 관한 법률",
+    "하도급거래공정화법",
+    "하도급거래법"
+   ],
+   "type": "법률",
+   "group": "건설·하도급",
+   "rank": 7,
+   "confirmed_latest": true
+  },
+  {
+   "id": "SUBCONTRACT_ENFORCEMENT",
+   "title": "하도급거래 공정화에 관한 법률 시행령",
+   "slug": "하도급법-시행령",
+   "display": "하도급법-시행령",
+   "short": "하도급법 시행령",
+   "aliases": [
+    "하도급거래 공정화에 관한 법률 시행령",
+    "하도급법시행령"
+   ],
+   "type": "시행령",
+   "group": "건설·하도급",
+   "rank": 8,
+   "parent": "SUBCONTRACT_ACT",
+   "confirmed_latest": true,
+   "annex_dirs": [
+    "하도급법 시행령 별표"
+   ]
+  },
+  {
+   "id": "SUBCONTRACT_FINE_NOTICE",
+   "title": "하도급법 위반사업자에 대한 과징금 부과기준에 관한 고시",
+   "slug": "하도급법-과징금-부과기준-고시",
+   "display": "하도급법-과징금-부과기준-고시",
+   "short": "하도급법 과징금 부과기준 고시",
+   "aliases": [
+    "하도급법 위반사업자에 대한 과징금 부과기준에 관한 고시",
+    "하도급 과징금 부과기준",
+    "하도급법 과징금 고시"
+   ],
+   "type": "고시",
+   "group": "건설·하도급",
+   "rank": 9,
+   "parent": "SUBCONTRACT_ENFORCEMENT",
+   "confirmed_latest": true,
+   "format": "outline",
+   "source_match": "하도급법 위반사업자에 대한 과징금",
+   "outline_style": "roman",
+   "agency": "공정거래위원회"
+  },
+  {
+   "id": "SUBCONTRACT_MGMT_INFO_NOTICE",
+   "title": "하도급법상 요구가 금지되는 경영상 정보의 종류 고시",
+   "slug": "하도급법-경영상정보-요구금지-고시",
+   "display": "하도급법-경영상정보-요구금지-고시",
+   "short": "하도급법 경영상 정보 요구금지 고시",
+   "aliases": [
+    "하도급법상 요구가 금지되는 경영상 정보의 종류 고시",
+    "경영상 정보 요구 금지"
+   ],
+   "type": "고시",
+   "group": "건설·하도급",
+   "rank": 10,
+   "parent": "SUBCONTRACT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "NATIONAL_FINANCE_ACT",
+   "title": "국가재정법",
+   "slug": "국가재정법",
+   "display": "국가재정법",
+   "short": "국가재정법",
+   "aliases": [
+    "국가재정법"
+   ],
+   "type": "법률",
+   "group": "재정·전자정부",
+   "rank": 1,
+   "confirmed_latest": true
+  },
+  {
+   "id": "NATIONAL_FINANCE_ENFORCEMENT",
+   "title": "국가재정법 시행령",
+   "slug": "국가재정법-시행령",
+   "display": "국가재정법-시행령",
+   "short": "국가재정법 시행령",
+   "aliases": [
+    "국가재정법 시행령"
+   ],
+   "type": "시행령",
+   "group": "재정·전자정부",
+   "rank": 2,
+   "parent": "NATIONAL_FINANCE_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "EGOVERNMENT_ACT",
+   "title": "전자정부법",
+   "slug": "전자정부법",
+   "display": "전자정부법",
+   "short": "전자정부법",
+   "aliases": [
+    "전자정부법"
+   ],
+   "type": "법률",
+   "group": "재정·전자정부",
+   "rank": 3,
+   "confirmed_latest": true
+  },
+  {
+   "id": "EGOVERNMENT_ENFORCEMENT",
+   "title": "전자정부법 시행령",
+   "slug": "전자정부법-시행령",
+   "display": "전자정부법-시행령",
+   "short": "전자정부법 시행령",
+   "aliases": [
+    "전자정부법 시행령"
+   ],
+   "type": "시행령",
+   "group": "재정·전자정부",
+   "rank": 4,
+   "parent": "EGOVERNMENT_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "EGOVERNMENT_RULE",
+   "title": "전자정부법 시행규칙",
+   "slug": "전자정부법-시행규칙",
+   "display": "전자정부법-시행규칙",
+   "short": "전자정부법 시행규칙",
+   "aliases": [
+    "전자정부법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "재정·전자정부",
+   "rank": 5,
+   "parent": "EGOVERNMENT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PUBLIC_INSTITUTION_ACT",
+   "title": "공공기관의 운영에 관한 법률",
+   "slug": "공공기관운영법",
+   "display": "공공기관운영법",
+   "short": "공공기관운영법",
+   "aliases": [
+    "공공기관의 운영에 관한 법률",
+    "공공기관운영법",
+    "공공기관 운영에 관한 법률"
+   ],
+   "type": "법률",
+   "group": "재정·전자정부",
+   "rank": 6,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PUBLIC_INSTITUTION_ENFORCEMENT",
+   "title": "공공기관의 운영에 관한 법률 시행령",
+   "slug": "공공기관운영법-시행령",
+   "display": "공공기관운영법-시행령",
+   "short": "공공기관운영법 시행령",
+   "aliases": [
+    "공공기관의 운영에 관한 법률 시행령",
+    "공공기관운영법 시행령"
+   ],
+   "type": "시행령",
+   "group": "재정·전자정부",
+   "rank": 7,
+   "parent": "PUBLIC_INSTITUTION_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "ELECTRONIC_SIGNATURE_ACT",
+   "title": "전자서명법",
+   "slug": "전자서명법",
+   "display": "전자서명법",
+   "short": "전자서명법",
+   "aliases": [
+    "전자서명법"
+   ],
+   "type": "법률",
+   "group": "재정·전자정부",
+   "rank": 8,
+   "confirmed_latest": true
+  },
+  {
+   "id": "ELECTRONIC_SIGNATURE_ENFORCEMENT",
+   "title": "전자서명법 시행령",
+   "slug": "전자서명법-시행령",
+   "display": "전자서명법-시행령",
+   "short": "전자서명법 시행령",
+   "aliases": [
+    "전자서명법 시행령"
+   ],
+   "type": "시행령",
+   "group": "재정·전자정부",
+   "rank": 9,
+   "parent": "ELECTRONIC_SIGNATURE_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "ELECTRONIC_SIGNATURE_RULE",
+   "title": "전자서명법 시행규칙",
+   "slug": "전자서명법-시행규칙",
+   "display": "전자서명법-시행규칙",
+   "short": "전자서명법 시행규칙",
+   "aliases": [
+    "전자서명법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "재정·전자정부",
+   "rank": 10,
+   "parent": "ELECTRONIC_SIGNATURE_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "DEFENSE_ACQ_ACT",
+   "title": "방위사업법",
+   "slug": "방위사업법",
+   "display": "방위사업법",
+   "short": "방위사업법",
+   "aliases": [
+    "방위사업법",
+    "방위사업에 관한 법"
+   ],
+   "type": "법률",
+   "group": "방위사업",
+   "rank": 1,
+   "confirmed_latest": true
+  },
+  {
+   "id": "DEFENSE_ACQ_ENFORCEMENT",
+   "title": "방위사업법 시행령",
+   "slug": "방위사업법-시행령",
+   "display": "방위사업법-시행령",
+   "short": "방위사업법 시행령",
+   "aliases": [
+    "방위사업법 시행령"
+   ],
+   "type": "시행령",
+   "group": "방위사업",
+   "rank": 2,
+   "parent": "DEFENSE_ACQ_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "DEFENSE_ACQ_RULE",
+   "title": "방위사업법 시행규칙",
+   "slug": "방위사업법-시행규칙",
+   "display": "방위사업법-시행규칙",
+   "short": "방위사업법 시행규칙",
+   "aliases": [
+    "방위사업법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "방위사업",
+   "rank": 3,
+   "parent": "DEFENSE_ACQ_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "DAPA_MANAGEMENT_DIRECTIVE",
+   "title": "방위사업관리규정",
+   "slug": "방위사업관리규정",
+   "display": "방위사업관리규정",
+   "short": "방위사업관리규정",
+   "aliases": [
+    "방위사업관리규정",
+    "방사업관리규정"
+   ],
+   "type": "훈령",
+   "group": "방위사업",
+   "rank": 4,
+   "parent": "DEFENSE_ACQ_RULE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE",
+   "title": "군수품조달관리규정",
+   "slug": "군수품조달관리규정",
+   "display": "군수품조달관리규정",
+   "short": "군수품조달관리규정",
+   "aliases": [
+    "군수품조달관리규정",
+    "군수품 조달관리규정"
+   ],
+   "type": "훈령",
+   "group": "방위사업",
+   "rank": 5,
+   "parent": "DEFENSE_ACQ_RULE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "DAPA_GOODS_QUALIFICATION_GUIDE",
+   "title": "(방위사업청) 물품 적격심사 기준",
+   "slug": "방위사업청-물품-적격심사-기준",
+   "display": "방위사업청-물품-적격심사-기준",
+   "short": "방위사업청 물품 적격심사 기준",
+   "aliases": [
+    "(방위사업청) 물품 적격심사 기준",
+    "방위사업청 적격심사 기준",
+    "방사청 물품 적격심사"
+   ],
+   "type": "계약예규",
+   "group": "방위사업",
+   "rank": 6,
+   "parent": "DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "DAPA_SME_COMPETITIVE_GOODS_PERFORMANCE_REVIEW_GUIDE",
+   "title": "(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계",
+   "full_title": "(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준",
+   "slug": "방위사업청-경쟁제품-계약이행능력심사-세부기준",
+   "display": "방위사업청-경쟁제품-계약이행능력심사-세부기준",
+   "short": "방위사업청 경쟁제품 이행능력심사 세부기준",
+   "aliases": [
+    "(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준",
+    "방위사업청 계약이행능력심사",
+    "방사청 경쟁제품 이행능력심사"
+   ],
+   "type": "계약예규",
+   "group": "방위사업",
+   "rank": 7,
+   "parent": "DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "DAPA_GOODS_SPECIAL_CONDITIONS_STANDARD",
+   "title": "물품 제조ㆍ구매 계약특수조건 표준(일반 및 방산)",
+   "slug": "물품제조구매-계약특수조건-표준",
+   "display": "물품제조구매-계약특수조건-표준",
+   "short": "물품 제조·구매 계약특수조건 표준",
+   "aliases": [
+    "물품 제조ㆍ구매 계약특수조건 표준(일반 및 방산)",
+    "계약특수조건 표준",
+    "물품 제조구매 계약특수조건"
+   ],
+   "type": "계약예규",
+   "group": "방위사업",
+   "rank": 8,
+   "parent": "DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "DAPA_PETITION_DIRECTIVE",
+   "title": "(방위사업청) 민원 처리 규정",
+   "slug": "방위사업청-민원-처리-규정",
+   "display": "방위사업청-민원-처리-규정",
+   "short": "방위사업청 민원 처리 규정",
+   "aliases": [
+    "(방위사업청) 민원 처리 규정"
+   ],
+   "type": "훈령",
+   "group": "방위사업",
+   "rank": 9,
+   "confirmed_latest": true
+  },
+  {
+   "id": "INNOVATION_PRODUCT_DESIGNATION_DIRECTIVE",
+   "title": "혁신제품 지정 및 구매촉진 등에 관한 규정",
+   "slug": "혁신제품-지정-구매촉진-규정",
+   "display": "혁신제품-지정-구매촉진-규정",
+   "short": "혁신제품 지정·구매촉진 규정",
+   "aliases": [
+    "혁신제품 지정 및 구매촉진 등에 관한 규정",
+    "혁신제품 지정 규정",
+    "혁신제품 구매촉진"
+   ],
+   "type": "훈령",
+   "group": "혁신제품",
+   "rank": 1,
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_INNOVATION_PRODUCT_PURCHASE_NOTICE",
+   "title": "혁신제품 구매 운영 규정",
+   "slug": "혁신제품-구매-운영-규정",
+   "display": "혁신제품-구매-운영-규정",
+   "short": "혁신제품 구매 운영 규정",
+   "aliases": [
+    "혁신제품 구매 운영 규정",
+    "혁신제품 구매운영"
+   ],
+   "type": "고시",
+   "group": "혁신제품",
+   "rank": 2,
+   "parent": "INNOVATION_PRODUCT_DESIGNATION_DIRECTIVE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_INNOVATION_PRODUCT_SUPPORT_CENTER_NOTICE",
+   "title": "혁신제품 지원센터 지정·운영에 관한 고시",
+   "slug": "혁신제품-지원센터-지정-운영-고시",
+   "display": "혁신제품-지원센터-지정-운영-고시",
+   "short": "혁신제품 지원센터 고시",
+   "aliases": [
+    "혁신제품 지원센터 지정·운영에 관한 고시",
+    "혁신제품 지원센터"
+   ],
+   "type": "고시",
+   "group": "혁신제품",
+   "rank": 3,
+   "parent": "INNOVATION_PRODUCT_DESIGNATION_DIRECTIVE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_INNOVATION_PRODUCT_PILOT_SPECIAL_CONDITIONS",
+   "title": "혁신제품 시범구매계약 추가특수조건",
+   "slug": "혁신제품-시범구매계약-추가특수조건",
+   "display": "혁신제품-시범구매계약-추가특수조건",
+   "short": "혁신제품 시범구매계약 추가특수조건",
+   "aliases": [
+    "혁신제품 시범구매계약 추가특수조건",
+    "시범구매계약 추가특수조건"
+   ],
+   "type": "지침",
+   "group": "혁신제품",
+   "rank": 4,
+   "parent": "PPS_INNOVATION_PRODUCT_PURCHASE_NOTICE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "PPS_INNOVATION_PRODUCT_THIRD_PARTY_SPECIAL_CONDITIONS",
+   "title": "혁신제품 제3자단가계약 추가특수조건",
+   "slug": "혁신제품-제3자단가계약-추가특수조건",
+   "display": "혁신제품-제3자단가계약-추가특수조건",
+   "short": "혁신제품 제3자단가계약 추가특수조건",
+   "aliases": [
+    "혁신제품 제3자단가계약 추가특수조건",
+    "제3자단가계약 추가특수조건"
+   ],
+   "type": "공고",
+   "group": "혁신제품",
+   "rank": 5,
+   "parent": "PPS_INNOVATION_PRODUCT_PURCHASE_NOTICE",
+   "confirmed_latest": true
+  },
+  {
+   "id": "RESOURCE_RECYCLING_ACT",
+   "title": "자원의 절약과 재활용촉진에 관한 법률",
+   "slug": "자원재활용법",
+   "display": "자원재활용법",
+   "short": "자원재활용법",
+   "aliases": [
+    "자원의 절약과 재활용촉진에 관한 법률",
+    "자원재활용촉진법",
+    "자원절약재활용법"
+   ],
+   "type": "법률",
+   "group": "환경·재활용",
+   "rank": 1,
+   "confirmed_latest": true
+  },
+  {
+   "id": "RESOURCE_RECYCLING_ENFORCEMENT",
+   "title": "자원의 절약과 재활용촉진에 관한 법률 시행령",
+   "slug": "자원재활용법-시행령",
+   "display": "자원재활용법-시행령",
+   "short": "자원재활용법 시행령",
+   "aliases": [
+    "자원의 절약과 재활용촉진에 관한 법률 시행령",
+    "자원재활용촉진법 시행령"
+   ],
+   "type": "시행령",
+   "group": "환경·재활용",
+   "rank": 2,
+   "parent": "RESOURCE_RECYCLING_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "CONSTITUTION",
+   "title": "대한민국헌법",
+   "slug": "대한민국헌법",
+   "display": "대한민국헌법",
+   "short": "헌법",
+   "aliases": [
+    "대한민국헌법",
+    "헌법"
+   ],
+   "type": "헌법",
+   "group": "헌법·민사",
+   "rank": 1,
+   "confirmed_latest": true
+  },
+  {
+   "id": "CIVIL_ACT",
+   "title": "민법",
+   "slug": "민법",
+   "display": "민법",
+   "short": "민법",
+   "aliases": [
+    "민법"
+   ],
+   "type": "법률",
+   "group": "헌법·민사",
+   "rank": 2,
+   "confirmed_latest": true
+  },
+  {
+   "id": "ARBITRATION_ACT",
+   "title": "중재법",
+   "slug": "중재법",
+   "display": "중재법",
+   "short": "중재법",
+   "aliases": [
+    "중재법"
+   ],
+   "type": "법률",
+   "group": "헌법·민사",
+   "rank": 3,
+   "confirmed_latest": true
+  },
+  {
+   "id": "ARCHITECT_ACT",
+   "title": "건축사법",
+   "slug": "건축사법",
+   "display": "건축사법",
+   "short": "건축사법",
+   "aliases": [
+    "건축사법"
+   ],
+   "type": "법률",
+   "group": "건설·하도급",
+   "rank": 11,
+   "confirmed_latest": true
+  },
+  {
+   "id": "ARCHITECT_ENFORCEMENT",
+   "title": "건축사법 시행령",
+   "slug": "건축사법-시행령",
+   "display": "건축사법-시행령",
+   "short": "건축사법 시행령",
+   "aliases": [
+    "건축사법 시행령"
+   ],
+   "type": "시행령",
+   "group": "건설·하도급",
+   "rank": 12,
+   "parent": "ARCHITECT_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "ARCHITECT_RULE",
+   "title": "건축사법 시행규칙",
+   "slug": "건축사법-시행규칙",
+   "display": "건축사법-시행규칙",
+   "short": "건축사법 시행규칙",
+   "aliases": [
+    "건축사법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "건설·하도급",
+   "rank": 13,
+   "parent": "ARCHITECT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "FIRE_FACILITY_WORK_ACT",
+   "title": "소방시설공사업법",
+   "slug": "소방시설공사업법",
+   "display": "소방시설공사업법",
+   "short": "소방시설공사업법",
+   "aliases": [
+    "소방시설공사업법",
+    "소방공사업법"
+   ],
+   "type": "법률",
+   "group": "건설·하도급",
+   "rank": 14,
+   "confirmed_latest": true
+  },
+  {
+   "id": "FIRE_FACILITY_WORK_ENFORCEMENT",
+   "title": "소방시설공사업법 시행령",
+   "slug": "소방시설공사업법-시행령",
+   "display": "소방시설공사업법-시행령",
+   "short": "소방시설공사업법 시행령",
+   "aliases": [
+    "소방시설공사업법 시행령",
+    "소방공사업법 시행령"
+   ],
+   "type": "시행령",
+   "group": "건설·하도급",
+   "rank": 15,
+   "parent": "FIRE_FACILITY_WORK_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "FIRE_FACILITY_WORK_RULE",
+   "title": "소방시설공사업법 시행규칙",
+   "slug": "소방시설공사업법-시행규칙",
+   "display": "소방시설공사업법-시행규칙",
+   "short": "소방시설공사업법 시행규칙",
+   "aliases": [
+    "소방시설공사업법 시행규칙",
+    "소방공사업법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "건설·하도급",
+   "rank": 16,
+   "parent": "FIRE_FACILITY_WORK_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "POWER_TECH_MGMT_ACT",
+   "title": "전력기술관리법",
+   "slug": "전력기술관리법",
+   "display": "전력기술관리법",
+   "short": "전력기술관리법",
+   "aliases": [
+    "전력기술관리법"
+   ],
+   "type": "법률",
+   "group": "건설·하도급",
+   "rank": 17,
+   "confirmed_latest": true
+  },
+  {
+   "id": "POWER_TECH_MGMT_ENFORCEMENT",
+   "title": "전력기술관리법 시행령",
+   "slug": "전력기술관리법-시행령",
+   "display": "전력기술관리법-시행령",
+   "short": "전력기술관리법 시행령",
+   "aliases": [
+    "전력기술관리법 시행령"
+   ],
+   "type": "시행령",
+   "group": "건설·하도급",
+   "rank": 18,
+   "parent": "POWER_TECH_MGMT_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "POWER_TECH_MGMT_RULE",
+   "title": "전력기술관리법 시행규칙",
+   "slug": "전력기술관리법-시행규칙",
+   "display": "전력기술관리법-시행규칙",
+   "short": "전력기술관리법 시행규칙",
+   "aliases": [
+    "전력기술관리법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "건설·하도급",
+   "rank": 19,
+   "parent": "POWER_TECH_MGMT_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "INFO_COMM_WORK_ACT",
+   "title": "정보통신공사업법",
+   "slug": "정보통신공사업법",
+   "display": "정보통신공사업법",
+   "short": "정보통신공사업법",
+   "aliases": [
+    "정보통신공사업법",
+    "정통공사업법"
+   ],
+   "type": "법률",
+   "group": "건설·하도급",
+   "rank": 20,
+   "confirmed_latest": true
+  },
+  {
+   "id": "INFO_COMM_WORK_ENFORCEMENT",
+   "title": "정보통신공사업법 시행령",
+   "slug": "정보통신공사업법-시행령",
+   "display": "정보통신공사업법-시행령",
+   "short": "정보통신공사업법 시행령",
+   "aliases": [
+    "정보통신공사업법 시행령",
+    "정통공사업법 시행령"
+   ],
+   "type": "시행령",
+   "group": "건설·하도급",
+   "rank": 21,
+   "parent": "INFO_COMM_WORK_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "INFO_COMM_WORK_RULE",
+   "title": "정보통신공사업법 시행규칙",
+   "slug": "정보통신공사업법-시행규칙",
+   "display": "정보통신공사업법-시행규칙",
+   "short": "정보통신공사업법 시행규칙",
+   "aliases": [
+    "정보통신공사업법 시행규칙",
+    "정통공사업법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "건설·하도급",
+   "rank": 22,
+   "parent": "INFO_COMM_WORK_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "NATIONAL_TREASURY_ACT",
+   "title": "국고금 관리법",
+   "slug": "국고금관리법",
+   "display": "국고금관리법",
+   "short": "국고금관리법",
+   "aliases": [
+    "국고금관리법",
+    "국고금 관리법"
+   ],
+   "type": "법률",
+   "group": "재정·전자정부",
+   "rank": 11,
+   "confirmed_latest": true
+  },
+  {
+   "id": "NATIONAL_TREASURY_ENFORCEMENT",
+   "title": "국고금 관리법 시행령",
+   "slug": "국고금관리법-시행령",
+   "display": "국고금관리법-시행령",
+   "short": "국고금관리법 시행령",
+   "aliases": [
+    "국고금관리법 시행령",
+    "국고금 관리법 시행령"
+   ],
+   "type": "시행령",
+   "group": "재정·전자정부",
+   "rank": 12,
+   "parent": "NATIONAL_TREASURY_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "GOODS_LIST_INFO_ACT",
+   "title": "물품목록정보의 관리 및 이용에 관한 법률",
+   "slug": "물품목록정보법",
+   "display": "물품목록정보법",
+   "short": "물품목록정보법",
+   "aliases": [
+    "물품목록정보법",
+    "물품목록정보의 관리 및 이용에 관한 법률",
+    "물품목록법"
+   ],
+   "type": "법률",
+   "group": "조달사업·조달청",
+   "rank": 33,
+   "confirmed_latest": true
+  },
+  {
+   "id": "GOODS_LIST_INFO_ENFORCEMENT",
+   "title": "물품목록정보의 관리 및 이용에 관한 법률 시행령",
+   "slug": "물품목록정보법-시행령",
+   "display": "물품목록정보법-시행령",
+   "short": "물품목록정보법 시행령",
+   "aliases": [
+    "물품목록정보법 시행령",
+    "물품목록정보의 관리 및 이용에 관한 법률 시행령",
+    "물품목록법 시행령"
+   ],
+   "type": "시행령",
+   "group": "조달사업·조달청",
+   "rank": 34,
+   "parent": "GOODS_LIST_INFO_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "GOODS_LIST_INFO_RULE",
+   "title": "물품목록정보의 관리 및 이용에 관한 법률 시행규칙",
+   "slug": "물품목록정보법-시행규칙",
+   "display": "물품목록정보법-시행규칙",
+   "short": "물품목록정보법 시행규칙",
+   "aliases": [
+    "물품목록정보법 시행규칙",
+    "물품목록정보의 관리 및 이용에 관한 법률 시행규칙",
+    "물품목록법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "조달사업·조달청",
+   "rank": 35,
+   "parent": "GOODS_LIST_INFO_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "INDUSTRIAL_STANDARDIZATION_ACT",
+   "title": "산업표준화법",
+   "slug": "산업표준화법",
+   "display": "산업표준화법",
+   "short": "산업표준화법",
+   "aliases": [
+    "산업표준화법"
+   ],
+   "type": "법률",
+   "group": "산업·표준",
+   "rank": 1,
+   "confirmed_latest": true
+  },
+  {
+   "id": "INDUSTRIAL_STANDARDIZATION_ENFORCEMENT",
+   "title": "산업표준화법 시행령",
+   "slug": "산업표준화법-시행령",
+   "display": "산업표준화법-시행령",
+   "short": "산업표준화법 시행령",
+   "aliases": [
+    "산업표준화법 시행령"
+   ],
+   "type": "시행령",
+   "group": "산업·표준",
+   "rank": 2,
+   "parent": "INDUSTRIAL_STANDARDIZATION_ACT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "INDUSTRIAL_STANDARDIZATION_RULE",
+   "title": "산업표준화법 시행규칙",
+   "slug": "산업표준화법-시행규칙",
+   "display": "산업표준화법-시행규칙",
+   "short": "산업표준화법 시행규칙",
+   "aliases": [
+    "산업표준화법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "산업·표준",
+   "rank": 3,
+   "parent": "INDUSTRIAL_STANDARDIZATION_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "ADMINISTRATIVE_LITIGATION_ACT",
+   "title": "행정소송법",
+   "slug": "행정소송법",
+   "display": "행정소송법",
+   "short": "행정소송법",
+   "aliases": [
+    "행정소송법"
+   ],
+   "type": "법률",
+   "group": "헌법·민사",
+   "rank": 4,
+   "confirmed_latest": true
+  },
+  {
+   "id": "NATIONAL_TREASURY_RULE",
+   "title": "국고금 관리법 시행규칙",
+   "slug": "국고금관리법-시행규칙",
+   "display": "국고금관리법-시행규칙",
+   "short": "국고금관리법 시행규칙",
+   "aliases": [
+    "국고금관리법 시행규칙",
+    "국고금 관리법 시행규칙"
+   ],
+   "type": "시행규칙",
+   "group": "재정·전자정부",
+   "rank": 13,
+   "parent": "NATIONAL_TREASURY_ENFORCEMENT",
+   "confirmed_latest": true
+  },
+  {
+   "id": "GR_QUALITY_CERT_STANDARD_DRAFT",
+   "title": "우수재활용제품(GR)",
+   "slug": "우수재활용제품-GR-품질인증기준-안",
+   "display": "우수재활용제품-GR-품질인증기준(안)",
+   "short": "GR 품질인증기준(안)",
+   "aliases": [
+    "우수재활용제품 품질인증기준",
+    "GR 품질인증기준",
+    "우수재활용제품(GR) 품질인증기준(안)",
+    "GR인증기준",
+    "우수재활용제품"
+   ],
+   "type": "고시",
+   "group": "환경·재활용",
+   "rank": 3,
+   "confirmed_latest": false,
+   "format": "outline",
+   "source_match": "품질인증기준(안)",
+   "outline_style": "roman"
+  },
+  {
+   "id": "PPS_GOODS_LIST_INFO_REGULATION",
+   "title": "물품목록정보의 관리 및 이용에 관한 규정",
+   "slug": "물품목록정보-관리규정",
+   "display": "물품목록정보 관리규정",
+   "short": "물품목록정보 관리규정",
+   "aliases": [
+    "물품목록정보의 관리 및 이용에 관한 규정",
+    "물품목록정보 관리규정"
+   ],
+   "type": "훈령",
+   "group": "물품관리",
+   "rank": 36,
+   "parent": "GOODS_LIST_INFO_ACT",
+   "api_mst": "2100000270306"
+  }
+ ]
+}

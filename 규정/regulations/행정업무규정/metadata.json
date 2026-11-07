@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "ADMINISTRATIVE_WORK_REGULATION",
+ "name": "행정업무의 운영 및 혁신에 관한 규정",
+ "short_name": "행정업무규정",
+ "display_id_prefix": "행정업무규정",
+ "slug": "행정업무규정",
+ "aliases": [
+  "행정업무규정",
+  "행정업무의 운영 및 혁신에 관한 규정"
+ ],
+ "document_type": "대통령령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36728호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "정보공개제도과-공문서, 서식"
+  }
+ ],
+ "effective_date": "2026-10-02",
+ "revision_date": "2026-09-29",
+ "revision_type": "타법개정",
+ "version": "2026-10-02-36728",
+ "versions": [
+  {
+   "version": "2026-10-02-36728",
+   "effective_date": "2026-10-02",
+   "revision_date": "2026-09-29",
+   "number": "제36728호",
+   "source_file": "행정업무의 운영 및 혁신에 관한 규정.json",
+   "source_path": "원문/법제처API/행정업무의 운영 및 혁신에 관한 규정.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "행정업무의 운영 및 혁신에 관한 규정.json",
+ "source_path": "원문/법제처API/행정업무의 운영 및 혁신에 관한 규정.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=290525",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 86,
+  "scheduled_versions": 0,
+  "deleted_articles": 4,
+  "supplementary_articles": 37,
+  "annexes": 1
+ },
+ "files": {
+  "articles": "regulations/행정업무규정/articles.json",
+  "annexes": "regulations/행정업무규정/annexes.json",
+  "markdown": "regulations/행정업무규정/regulation.md"
+ }
+}

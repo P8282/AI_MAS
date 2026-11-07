@@ -1,0 +1,151 @@
+{
+ "schema_version": "1.0",
+ "id": "INDUSTRIAL_STANDARDIZATION_ACT",
+ "name": "산업표준화법",
+ "short_name": "산업표준화법",
+ "display_id_prefix": "산업표준화법",
+ "slug": "산업표준화법",
+ "aliases": [
+  "산업표준화법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21438호",
+ "group": "산업·표준",
+ "agencies": [
+  {
+   "agency": "산업통상부",
+   "department": "국가기술표준원 산업표준혁신과"
+  }
+ ],
+ "effective_date": "2026-03-10",
+ "revision_date": "2026-03-10",
+ "revision_type": "타법개정",
+ "version": "2026-03-10-21438",
+ "versions": [
+  {
+   "version": "2026-03-10-21438",
+   "effective_date": "2026-03-10",
+   "revision_date": "2026-03-10",
+   "number": "제21438호",
+   "source_file": "산업표준화법(법률)(제21438호)(20260310).pdf",
+   "source_path": "원문/규정/산업표준화법(법률)(제21438호)(20260310).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "산업표준화법(법률)(제21438호)(20260310).pdf",
+ "source_path": "원문/규정/산업표준화법(법률)(제21438호)(20260310).pdf",
+ "pdf_path": "pdf/산업표준화법(법률)(제21438호)(20260310).pdf",
+ "source_pages": 22,
+ "header_raw": [
+  "산업표준화법",
+  "[시행 2026. 3. 10.] [법률 제21438호, 2026. 3. 10., 타법개정]",
+  "산업통상부 (국가기술표준원 산업표준혁신과) 043-870-5382"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 한국산업표준",
+   "raw": "제2장 한국산업표준",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 한국산업표준에의 적합성 인증",
+   "raw": "제3장 한국산업표준에의 적합성 인증",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 인증기관의 지정 등",
+   "raw": "제1절 인증기관의 지정 등",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 제품 등의 인증",
+   "raw": "제2절 제품 등의 인증",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 인증심사",
+   "raw": "제3절 인증심사",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 사후관리",
+   "raw": "제4절 사후관리",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 산업표준화의 촉진",
+   "raw": "제4장 산업표준화의 촉진",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장의2 품질경영의 촉진",
+   "raw": "제4장의2 품질경영의 촉진 <신설 2016. 1. 27.>",
+   "page": 16,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 한국표준협회",
+   "raw": "제5장 한국표준협회",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 보칙",
+   "raw": "제6장 보칙",
+   "page": 18,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 벌칙",
+   "raw": "제7장 벌칙",
+   "page": 20,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 56,
+  "scheduled_versions": 22,
+  "deleted_articles": 2,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/산업표준화법/articles.json",
+  "annexes": "regulations/산업표준화법/annexes.json",
+  "markdown": "regulations/산업표준화법/regulation.md"
+ }
+}

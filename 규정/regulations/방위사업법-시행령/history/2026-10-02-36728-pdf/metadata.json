@@ -1,0 +1,189 @@
+{
+ "schema_version": "1.0",
+ "id": "DEFENSE_ACQ_ENFORCEMENT",
+ "name": "방위사업법 시행령",
+ "short_name": "방위사업법 시행령",
+ "display_id_prefix": "방위사업법-시행령",
+ "slug": "방위사업법-시행령",
+ "aliases": [
+  "방위사업법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36728호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "국방부",
+   "department": "전력정책과-총괄"
+  },
+  {
+   "agency": "방위사업청",
+   "department": "기술심사과-수출허가"
+  },
+  {
+   "agency": "방위사업청",
+   "department": "방산중소기업지원과,방산일자리과-방산육성제도"
+  },
+  {
+   "agency": "방위사업청",
+   "department": "방위산업협력과-절충교역"
+  },
+  {
+   "agency": "방위사업청",
+   "department": "인증기획과-품질보증, 품질경영체제 인증"
+  },
+  {
+   "agency": "방위사업청",
+   "department": "표준기획과-표준화"
+  },
+  {
+   "agency": "산업통상부",
+   "department": "첨단민군협력과-방산업체 지정"
+  },
+  {
+   "agency": "방위사업청",
+   "department": "원가관리과, 계약제도발전과-계약의 특례"
+  },
+  {
+   "agency": "방위사업청",
+   "department": "계약제도발전과-군수품무역대리업"
+  },
+  {
+   "agency": "방위사업청",
+   "department": "방산자원전략과-방산물자, 방산업체 지정"
+  }
+ ],
+ "effective_date": "2026-10-02",
+ "revision_date": "2026-09-29",
+ "revision_type": "타법개정",
+ "version": "2026-10-02-36728",
+ "versions": [
+  {
+   "version": "2026-10-02-36728",
+   "effective_date": "2026-10-02",
+   "revision_date": "2026-09-29",
+   "number": "제36728호",
+   "source_file": "방위사업법 시행령(대통령령)(제36728호)(20261002).pdf",
+   "source_path": "원문/규정/방위사업법 시행령/방위사업법 시행령(대통령령)(제36728호)(20261002).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "DEFENSE_ACQ_ACT",
+ "source_file": "방위사업법 시행령(대통령령)(제36728호)(20261002).pdf",
+ "source_path": "원문/규정/방위사업법 시행령/방위사업법 시행령(대통령령)(제36728호)(20261002).pdf",
+ "pdf_path": "pdf/방위사업법 시행령/방위사업법 시행령(대통령령)(제36728호)(20261002).pdf",
+ "source_pages": 41,
+ "header_raw": [
+  "방위사업법 시행령",
+  "[시행 2026. 10. 2.] [대통령령 제36728호, 2026. 9. 29., 타법개정]",
+  "국방부 (전력정책과-총괄) 02-748-5613",
+  "방위사업청 (기술심사과-수출허가) 02-2079-6827",
+  "방위사업청 (방산중소기업지원과,방산일자리과-방산육성제도) 02-2079-6442, 6476",
+  "방위사업청 (방위산업협력과-절충교역) 02-2079-6353",
+  "방위사업청 (인증기획과-품질보증, 품질경영체제 인증) 02-2079-6845",
+  "방위사업청 (표준기획과-표준화) 02-2079-6592",
+  "산업통상부 (첨단민군협력과-방산업체 지정) 044-203-4155",
+  "방위사업청 (원가관리과, 계약제도발전과-계약의 특례) 02-2079-6958, 6927",
+  "방위사업청 (계약제도발전과-군수품무역대리업) 02-2079-6918",
+  "방위사업청 (방산자원전략과-방산물자, 방산업체 지정) 02-2079-6416, 6415"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 방위사업수행의 투명화 및 전문화",
+   "raw": "제2장 방위사업수행의 투명화 및 전문화",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 방위력개선사업",
+   "raw": "제3장 방위력개선사업",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 방위력 개선사업 수행의 원칙",
+   "raw": "제1절 방위력 개선사업 수행의 원칙",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 국방중기계획 및 예산",
+   "raw": "제2절 국방중기계획 및 예산",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 소요의 결정 및 수정",
+   "raw": "제3절 소요의 결정 및 수정",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 방위력개선사업의 수행",
+   "raw": "제4절 방위력개선사업의 수행",
+   "page": 12,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 조달 및 품질관리",
+   "raw": "제4장 조달 및 품질관리",
+   "page": 16,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 국방과학기술의 진흥",
+   "raw": "제5장 국방과학기술의 진흥",
+   "page": 18,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 방위산업육성",
+   "raw": "제6장 방위산업육성",
+   "page": 19,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 보칙",
+   "raw": "제7장 보칙",
+   "page": 33,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 117,
+  "scheduled_versions": 0,
+  "deleted_articles": 17,
+  "supplementary_articles": 2,
+  "annexes": 2
+ },
+ "files": {
+  "articles": "regulations/방위사업법-시행령/articles.json",
+  "annexes": "regulations/방위사업법-시행령/annexes.json",
+  "markdown": "regulations/방위사업법-시행령/regulation.md"
+ }
+}

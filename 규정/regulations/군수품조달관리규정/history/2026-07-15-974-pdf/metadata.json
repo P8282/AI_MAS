@@ -1,0 +1,229 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE",
+ "name": "군수품조달관리규정",
+ "short_name": "군수품조달관리규정",
+ "display_id_prefix": "군수품조달관리규정",
+ "slug": "군수품조달관리규정",
+ "aliases": [
+  "군수품조달관리규정",
+  "군수품 조달관리규정"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "방위사업청훈령",
+ "number": "제974호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "계약제도발전과"
+  }
+ ],
+ "effective_date": "2026-07-15",
+ "revision_date": "2026-07-15",
+ "revision_type": "일부개정",
+ "version": "2026-07-15-974",
+ "versions": [
+  {
+   "version": "2026-07-15-974",
+   "effective_date": "2026-07-15",
+   "revision_date": "2026-07-15",
+   "number": "제974호",
+   "source_file": "군수품조달관리규정(방위사업청훈령)(제974호)(20260715).pdf",
+   "source_path": "원문/규정/군수품조달관리규정/군수품조달관리규정(방위사업청훈령)(제974호)(20260715).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "DEFENSE_ACQ_RULE",
+ "source_file": "군수품조달관리규정(방위사업청훈령)(제974호)(20260715).pdf",
+ "source_path": "원문/규정/군수품조달관리규정/군수품조달관리규정(방위사업청훈령)(제974호)(20260715).pdf",
+ "pdf_path": "pdf/군수품조달관리규정/군수품조달관리규정(방위사업청훈령)(제974호)(20260715).pdf",
+ "source_pages": 68,
+ "header_raw": [
+  "군수품조달관리규정",
+  "[시행 2026. 7. 15.] [방위사업청훈령 제974호, 2026. 7. 15., 일부개정]",
+  "방위사업청(계약제도발전과), 02-2079-6916"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 통 칙",
+   "raw": "제1장 통 칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절  일반사항",
+   "raw": "제1절  일반사항",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 조달계획 및 변경 등",
+   "raw": "제2절 조달계획 및 변경 등",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절  계약관리일반",
+   "raw": "제3절  계약관리일반",
+   "page": 11,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 관급재산 출납업무",
+   "raw": "제4절 관급재산 출납업무",
+   "page": 24,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 국내조달",
+   "raw": "제2장 국내조달",
+   "page": 27,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절  조달판단",
+   "raw": "제1절  조달판단",
+   "page": 27,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절  공고 및 입찰",
+   "raw": "제2절  공고 및 입찰",
+   "page": 28,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절  예정가격",
+   "raw": "제3절  예정가격",
+   "page": 32,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절  적격심사",
+   "raw": "제4절  적격심사",
+   "page": 35,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절  계약 체결",
+   "raw": "제5절  계약 체결",
+   "page": 35,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절  계약이행 관리",
+   "raw": "제6절  계약이행 관리",
+   "page": 38,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절  기타사항",
+   "raw": "제7절  기타사항",
+   "page": 42,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 국외조달",
+   "raw": "제3장 국외조달",
+   "page": 44,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절  상업계약",
+   "raw": "제1절  상업계약",
+   "page": 44,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 대외군사판매(FMS)",
+   "raw": "제2절 대외군사판매(FMS)",
+   "page": 45,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절  목표가격 산정업무",
+   "raw": "제3절  목표가격 산정업무",
+   "page": 48,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절  보험, 운송 및 하자 관리업무",
+   "raw": "제4절  보험, 운송 및 하자 관리업무",
+   "page": 50,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 기타업무",
+   "raw": "제5절 기타업무",
+   "page": 56,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 원가관리",
+   "raw": "제4장 원가관리",
+   "page": 57,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 원가관리일반",
+   "raw": "제1절 원가관리일반",
+   "page": 57,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절  가격조사 및 소액품목 가격결정 방법",
+   "raw": "제2절  가격조사 및 소액품목 가격결정 방법",
+   "page": 63,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 전시계약관리",
+   "raw": "제5장 전시계약관리",
+   "page": 65,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 194,
+  "scheduled_versions": 0,
+  "deleted_articles": 7,
+  "supplementary_articles": 3,
+  "annexes": 56
+ },
+ "files": {
+  "articles": "regulations/군수품조달관리규정/articles.json",
+  "annexes": "regulations/군수품조달관리규정/annexes.json",
+  "markdown": "regulations/군수품조달관리규정/regulation.md"
+ }
+}

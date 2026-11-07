@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "LOCAL_CONTRACT_ENFORCEMENT",
+ "name": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령",
+ "short_name": "지방계약법 시행령",
+ "display_id_prefix": "지방계약법-시행령",
+ "slug": "지방계약법-시행령",
+ "aliases": [
+  "지방계약법시행령",
+  "지계령",
+  "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36338호",
+ "group": "지방계약",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "회계제도과"
+  }
+ ],
+ "effective_date": "2026-06-03",
+ "revision_date": "2026-05-19",
+ "revision_type": "타법개정",
+ "version": "2026-06-03-36338",
+ "versions": [
+  {
+   "version": "2026-06-03-36338",
+   "effective_date": "2026-06-03",
+   "revision_date": "2026-05-19",
+   "number": "제36338호",
+   "source_file": "LOCAL_CONTRACT_ENFORCEMENT.json",
+   "source_path": "원문/법제처API/LOCAL_CONTRACT_ENFORCEMENT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-06-03-36338-pdf",
+   "effective_date": "2026-06-03",
+   "revision_date": "2026-05-19",
+   "number": "제36338호",
+   "source_file": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령(대통령령)(제36338호)(20260603).pdf",
+   "source_path": "원문/규정/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령(대통령령)(제36338호)(20260603).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/지방계약법-시행령/history/2026-06-03-36338-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "LOCAL_CONTRACT_ACT",
+ "source_file": "LOCAL_CONTRACT_ENFORCEMENT.json",
+ "source_path": "원문/법제처API/LOCAL_CONTRACT_ENFORCEMENT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 178,
+  "scheduled_versions": 0,
+  "deleted_articles": 16,
+  "supplementary_articles": 242,
+  "annexes": 1
+ },
+ "files": {
+  "articles": "regulations/지방계약법-시행령/articles.json",
+  "annexes": "regulations/지방계약법-시행령/annexes.json",
+  "markdown": "regulations/지방계약법-시행령/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=286149",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "286149",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

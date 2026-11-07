@@ -1,0 +1,101 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_VENTURE_NARA_DESIGNATION_NOTICE",
+ "name": "벤처나라 등록 물품·서비스 지정 관리 규정",
+ "short_name": "벤처나라 등록 지정 관리 규정",
+ "display_id_prefix": "벤처나라-등록-지정관리-규정",
+ "slug": "벤처나라-등록-물품서비스-지정-관리-규정",
+ "aliases": [
+  "벤처나라 등록 물품·서비스 지정 관리 규정",
+  "벤처나라 등록 물품ㆍ서비스 지정 관리 규정",
+  "벤처나라 등록 규정",
+  "벤처나라",
+  "벤처나라 지정 관리 규정",
+  "벤처나라 등록 물품서비스 지정 관리 규정",
+  "벤처나라 등록 물품·서비스 지정관리규정"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "조달청고시",
+ "number": "제2026-32호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "첨단융복합제품구매과"
+  }
+ ],
+ "effective_date": "2026-05-12",
+ "revision_date": "2026-05-07",
+ "revision_type": "일부개정",
+ "version": "2026-05-12-202632",
+ "versions": [
+  {
+   "version": "2026-05-12-202632",
+   "effective_date": "2026-05-12",
+   "revision_date": "2026-05-07",
+   "number": "제2026-32호",
+   "source_file": "벤처나라 등록 물품·서비스 지정 관리 규정(조달청고시)(제2026-32호)(20260512).pdf",
+   "source_path": "원문/규정/벤처나라 등록 물품·서비스 지정 관리 규정(조달청고시)(제2026-32호)(20260512).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "벤처나라 등록 물품·서비스 지정 관리 규정(조달청고시)(제2026-32호)(20260512).pdf",
+ "source_path": "원문/규정/벤처나라 등록 물품·서비스 지정 관리 규정(조달청고시)(제2026-32호)(20260512).pdf",
+ "pdf_path": "pdf/벤처나라 등록 물품·서비스 지정 관리 규정(조달청고시)(제2026-32호)(20260512).pdf",
+ "source_pages": 15,
+ "header_raw": [
+  "벤처나라 등록 물품·서비스 지정 관리 규정",
+  "[시행 2026. 5. 12.] [조달청고시 제2026-32호, 2026. 5. 7., 일부개정]",
+  "조달청(첨단융복합제품구매과), 070-4056-7237"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 벤처나라제품 지정",
+   "raw": "제2장 벤처나라제품 지정",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 벤처나라 상품 등록 및 거래",
+   "raw": "제3장 벤처나라 상품 등록 및 거래",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 등록 상품 관리 및 사후관리 등",
+   "raw": "제4장 등록 상품 관리 및 사후관리 등",
+   "page": 10,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 42,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/벤처나라-등록-물품서비스-지정-관리-규정/articles.json",
+  "annexes": "regulations/벤처나라-등록-물품서비스-지정-관리-규정/annexes.json",
+  "markdown": "regulations/벤처나라-등록-물품서비스-지정-관리-규정/regulation.md"
+ }
+}

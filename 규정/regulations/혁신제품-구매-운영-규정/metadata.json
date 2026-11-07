@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_INNOVATION_PRODUCT_PURCHASE_NOTICE",
+ "name": "혁신제품 구매 운영 규정",
+ "short_name": "혁신제품 구매 운영 규정",
+ "display_id_prefix": "혁신제품-구매-운영-규정",
+ "slug": "혁신제품-구매-운영-규정",
+ "aliases": [
+  "혁신제품 구매 운영 규정",
+  "혁신제품 구매운영"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "조달청고시",
+ "number": "제2026-19호",
+ "group": "혁신제품",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "혁신조달정책과"
+  }
+ ],
+ "effective_date": "2026-02-03",
+ "revision_date": "2026-01-30",
+ "revision_type": "일부개정",
+ "version": "2026-02-03-202619",
+ "versions": [
+  {
+   "version": "2026-02-03-202619",
+   "effective_date": "2026-02-03",
+   "revision_date": "2026-01-30",
+   "number": "제2026-19호",
+   "source_file": "PPS_INNOVATION_PRODUCT_PURCHASE_NOTICE.json",
+   "source_path": "원문/법제처API/PPS_INNOVATION_PRODUCT_PURCHASE_NOTICE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-02-03-202619-pdf",
+   "effective_date": "2026-02-03",
+   "revision_date": "2026-01-30",
+   "number": "제2026-19호",
+   "source_file": "혁신제품 구매 운영 규정(조달청고시)(제2026-19호)(20260203).pdf",
+   "source_path": "원문/규정/혁신제품 구매 운영 규정/혁신제품 구매 운영 규정(조달청고시)(제2026-19호)(20260203).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/혁신제품-구매-운영-규정/history/2026-02-03-202619-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "INNOVATION_PRODUCT_DESIGNATION_DIRECTIVE",
+ "source_file": "PPS_INNOVATION_PRODUCT_PURCHASE_NOTICE.json",
+ "source_path": "원문/법제처API/PPS_INNOVATION_PRODUCT_PURCHASE_NOTICE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 66,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 37,
+  "annexes": 47
+ },
+ "files": {
+  "articles": "regulations/혁신제품-구매-운영-규정/articles.json",
+  "annexes": "regulations/혁신제품-구매-운영-규정/annexes.json",
+  "markdown": "regulations/혁신제품-구매-운영-규정/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000274044",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000274044",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 47
+}

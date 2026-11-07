@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "POWER_TECH_MGMT_ENFORCEMENT",
+ "name": "전력기술관리법 시행령",
+ "short_name": "전력기술관리법 시행령",
+ "display_id_prefix": "전력기술관리법-시행령",
+ "slug": "전력기술관리법-시행령",
+ "aliases": [
+  "전력기술관리법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36587호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "기후에너지환경부",
+   "department": "전력산업정책과"
+  }
+ ],
+ "effective_date": "2026-09-18",
+ "revision_date": "2026-08-18",
+ "revision_type": "타법개정",
+ "version": "2026-09-18-36587",
+ "versions": [
+  {
+   "version": "2026-09-18-36587",
+   "effective_date": "2026-09-18",
+   "revision_date": "2026-08-18",
+   "number": "제36587호",
+   "source_file": "POWER_TECH_MGMT_ENFORCEMENT.json",
+   "source_path": "원문/법제처API/POWER_TECH_MGMT_ENFORCEMENT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-09-18-36587-pdf",
+   "effective_date": "2026-09-18",
+   "revision_date": "2026-08-18",
+   "number": "제36587호",
+   "source_file": "전력기술관리법 시행령(대통령령)(제36587호)(20260918).pdf",
+   "source_path": "원문/규정/전력기술관리법 시행령/전력기술관리법 시행령(대통령령)(제36587호)(20260918).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/전력기술관리법-시행령/history/2026-09-18-36587-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "POWER_TECH_MGMT_ACT",
+ "source_file": "POWER_TECH_MGMT_ENFORCEMENT.json",
+ "source_path": "원문/법제처API/POWER_TECH_MGMT_ENFORCEMENT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 46,
+  "scheduled_versions": 0,
+  "deleted_articles": 14,
+  "supplementary_articles": 92,
+  "annexes": 6
+ },
+ "files": {
+  "articles": "regulations/전력기술관리법-시행령/articles.json",
+  "annexes": "regulations/전력기술관리법-시행령/annexes.json",
+  "markdown": "regulations/전력기술관리법-시행령/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=288909",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "288909",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

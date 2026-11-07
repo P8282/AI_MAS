@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "EPROCUREMENT_RULE",
+ "name": "전자조달의 이용 및 촉진에 관한 법률 시행규칙",
+ "short_name": "전자조달법 시행규칙",
+ "display_id_prefix": "전자조달법-시행규칙",
+ "slug": "전자조달법-시행규칙",
+ "aliases": [
+  "전자조달의 이용 및 촉진에 관한 법률 시행규칙",
+  "전자조달법 시행규칙",
+  "전자조달법시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "기획재정부령",
+ "number": "제360호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "디지털조달총괄과"
+  }
+ ],
+ "effective_date": "2013-09-23",
+ "revision_date": "2013-09-17",
+ "revision_type": "제정",
+ "version": "2013-09-23-360",
+ "versions": [
+  {
+   "version": "2013-09-23-360",
+   "effective_date": "2013-09-23",
+   "revision_date": "2013-09-17",
+   "number": "제360호",
+   "source_file": "EPROCUREMENT_RULE.json",
+   "source_path": "원문/법제처API/EPROCUREMENT_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2013-09-23-360-pdf",
+   "effective_date": "2013-09-23",
+   "revision_date": "2013-09-17",
+   "number": "제360호",
+   "source_file": "전자조달의 이용 및 촉진에 관한 법률 시행규칙(기획재정부령)(제00360호)(20130923).pdf",
+   "source_path": "원문/규정/전자조달법 시행규칙/전자조달의 이용 및 촉진에 관한 법률 시행규칙(기획재정부령)(제00360호)(20130923).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/전자조달법-시행규칙/history/2013-09-23-360-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "EPROCUREMENT_ENFORCEMENT",
+ "source_file": "EPROCUREMENT_RULE.json",
+ "source_path": "원문/법제처API/EPROCUREMENT_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 7,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 4
+ },
+ "files": {
+  "articles": "regulations/전자조달법-시행규칙/articles.json",
+  "annexes": "regulations/전자조달법-시행규칙/annexes.json",
+  "markdown": "regulations/전자조달법-시행규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=144133",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "144133",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

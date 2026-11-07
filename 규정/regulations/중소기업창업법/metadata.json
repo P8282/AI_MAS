@@ -1,0 +1,67 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_STARTUP_SUPPORT_ACT",
+ "name": "중소기업 창업 지원법",
+ "short_name": "중소기업창업법",
+ "display_id_prefix": "중소기업창업법",
+ "slug": "중소기업창업법",
+ "aliases": [
+  "중소기업창업법",
+  "중소기업 창업 지원법",
+  "중소기업창업지원법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21293호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "창업정책과 - 창업기업 확인"
+  }
+ ],
+ "effective_date": "2026-07-01",
+ "revision_date": "2025-12-30",
+ "revision_type": "일부개정",
+ "version": "2026-07-01-21293",
+ "versions": [
+  {
+   "version": "2026-07-01-21293",
+   "effective_date": "2026-07-01",
+   "revision_date": "2025-12-30",
+   "number": "제21293호",
+   "source_file": "중소기업 창업 지원법.json",
+   "source_path": "원문/법제처API/중소기업 창업 지원법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "중소기업 창업 지원법.json",
+ "source_path": "원문/법제처API/중소기업 창업 지원법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=281995",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 67,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 31,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/중소기업창업법/articles.json",
+  "annexes": "regulations/중소기업창업법/annexes.json",
+  "markdown": "regulations/중소기업창업법/regulation.md"
+ }
+}

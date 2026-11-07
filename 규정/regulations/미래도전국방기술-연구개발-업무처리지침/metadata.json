@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_A_2100000274618",
+ "name": "미래도전국방기술 연구개발 업무처리지침",
+ "short_name": "미래도전국방기술 연구개발 업무처리지침",
+ "display_id_prefix": "미래도전국방기술-연구개발-업무처리지침",
+ "slug": "미래도전국방기술-연구개발-업무처리지침",
+ "aliases": [
+  "미래도전국방기술 연구개발 업무처리지침"
+ ],
+ "document_type": "예규",
+ "format": "article",
+ "issuer_form": "방위사업청예규",
+ "number": "제1040호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "기술도전과"
+  }
+ ],
+ "effective_date": "2026-02-10",
+ "revision_date": "2026-02-10",
+ "revision_type": "일부개정",
+ "version": "2026-02-10-1040",
+ "versions": [
+  {
+   "version": "2026-02-10-1040",
+   "effective_date": "2026-02-10",
+   "revision_date": "2026-02-10",
+   "number": "제1040호",
+   "source_file": "미래도전국방기술 연구개발 업무처리지침.json",
+   "source_path": "원문/법제처API/미래도전국방기술 연구개발 업무처리지침.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "미래도전국방기술 연구개발 업무처리지침.json",
+ "source_path": "원문/법제처API/미래도전국방기술 연구개발 업무처리지침.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000274618",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 51,
+  "scheduled_versions": 0,
+  "deleted_articles": 2,
+  "supplementary_articles": 11,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/미래도전국방기술-연구개발-업무처리지침/articles.json",
+  "annexes": "regulations/미래도전국방기술-연구개발-업무처리지침/annexes.json",
+  "markdown": "regulations/미래도전국방기술-연구개발-업무처리지침/regulation.md"
+ }
+}

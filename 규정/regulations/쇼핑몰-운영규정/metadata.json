@@ -1,0 +1,83 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_SHOPPING_MALL_OPERATION_NOTICE",
+ "name": "국가종합전자조달시스템 쇼핑몰 운영규정",
+ "short_name": "쇼핑몰 운영규정",
+ "display_id_prefix": "쇼핑몰-운영규정",
+ "slug": "쇼핑몰-운영규정",
+ "aliases": [
+  "국가종합전자조달시스템 쇼핑몰 운영규정",
+  "종합쇼핑몰 운영규정",
+  "국가종합전자조달시스템 종합쇼핑몰운영규정",
+  "나라장터 쇼핑몰 운영규정"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "조달청고시",
+ "number": "제2026-38호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "구매총괄과"
+  }
+ ],
+ "effective_date": "2026-07-16",
+ "revision_date": "2026-07-09",
+ "revision_type": "일부개정",
+ "version": "2026-07-16-202638",
+ "versions": [
+  {
+   "version": "2026-07-16-202638",
+   "effective_date": "2026-07-16",
+   "revision_date": "2026-07-09",
+   "number": "제2026-38호",
+   "source_file": "PPS_SHOPPING_MALL_OPERATION_NOTICE.json",
+   "source_path": "원문/법제처API/PPS_SHOPPING_MALL_OPERATION_NOTICE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-07-16-202638-pdf",
+   "effective_date": "2026-07-16",
+   "revision_date": "2026-07-09",
+   "number": "제2026-38호",
+   "source_file": "국가종합전자조달시스템 쇼핑몰 운영규정(조달청고시)(제2026-38호)(20260716).pdf",
+   "source_path": "원문/규정/국가종합전자조달시스템 종합쇼핑몰운영규정/국가종합전자조달시스템 쇼핑몰 운영규정(조달청고시)(제2026-38호)(20260716).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/쇼핑몰-운영규정/history/2026-07-16-202638-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "PPS_SHOPPING_MALL_OPERATION_NOTICE.json",
+ "source_path": "원문/법제처API/PPS_SHOPPING_MALL_OPERATION_NOTICE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 27,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 10,
+  "annexes": 1
+ },
+ "files": {
+  "articles": "regulations/쇼핑몰-운영규정/articles.json",
+  "annexes": "regulations/쇼핑몰-운영규정/annexes.json",
+  "markdown": "regulations/쇼핑몰-운영규정/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000282140",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000282140",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 1
+}

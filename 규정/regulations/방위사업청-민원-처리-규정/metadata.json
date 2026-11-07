@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_PETITION_DIRECTIVE",
+ "name": "(방위사업청) 민원 처리 규정",
+ "short_name": "방위사업청 민원 처리 규정",
+ "display_id_prefix": "방위사업청-민원-처리-규정",
+ "slug": "방위사업청-민원-처리-규정",
+ "aliases": [
+  "(방위사업청) 민원 처리 규정"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "방위사업청훈령",
+ "number": "제990호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "고객지원팀"
+  }
+ ],
+ "effective_date": "2026-09-07",
+ "revision_date": "2026-09-07",
+ "revision_type": "일부개정",
+ "version": "2026-09-07-990",
+ "versions": [
+  {
+   "version": "2026-09-07-990",
+   "effective_date": "2026-09-07",
+   "revision_date": "2026-09-07",
+   "number": "제990호",
+   "source_file": "DAPA_PETITION_DIRECTIVE.json",
+   "source_path": "원문/법제처API/DAPA_PETITION_DIRECTIVE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-09-07-990-pdf",
+   "effective_date": "2026-09-07",
+   "revision_date": "2026-09-07",
+   "number": "제990호",
+   "source_file": "(방위사업청) 민원 처리 규정(방위사업청훈령)(제990호)(20260907).pdf",
+   "source_path": "원문/규정/(방위사업청) 민원 처리 규정/(방위사업청) 민원 처리 규정(방위사업청훈령)(제990호)(20260907).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/방위사업청-민원-처리-규정/history/2026-09-07-990-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "DAPA_PETITION_DIRECTIVE.json",
+ "source_path": "원문/법제처API/DAPA_PETITION_DIRECTIVE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 39,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 15,
+  "annexes": 12
+ },
+ "files": {
+  "articles": "regulations/방위사업청-민원-처리-규정/articles.json",
+  "annexes": "regulations/방위사업청-민원-처리-규정/annexes.json",
+  "markdown": "regulations/방위사업청-민원-처리-규정/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000284798",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000284798",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 12
+}

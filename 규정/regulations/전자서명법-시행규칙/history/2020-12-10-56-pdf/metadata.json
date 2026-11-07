@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "ELECTRONIC_SIGNATURE_RULE",
+ "name": "전자서명법 시행규칙",
+ "short_name": "전자서명법 시행규칙",
+ "display_id_prefix": "전자서명법-시행규칙",
+ "slug": "전자서명법-시행규칙",
+ "aliases": [
+  "전자서명법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "과학기술정보통신부령",
+ "number": "제56호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "과학기술정보통신부",
+   "department": "정보보호기획과"
+  }
+ ],
+ "effective_date": "2020-12-10",
+ "revision_date": "2020-12-10",
+ "revision_type": "전부개정",
+ "version": "2020-12-10-56",
+ "versions": [
+  {
+   "version": "2020-12-10-56",
+   "effective_date": "2020-12-10",
+   "revision_date": "2020-12-10",
+   "number": "제56호",
+   "source_file": "전자서명법 시행규칙(과학기술정보통신부령)(제00056호)(20201210).pdf",
+   "source_path": "원문/규정/전자서명법 시행규칙/전자서명법 시행규칙(과학기술정보통신부령)(제00056호)(20201210).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "ELECTRONIC_SIGNATURE_ENFORCEMENT",
+ "source_file": "전자서명법 시행규칙(과학기술정보통신부령)(제00056호)(20201210).pdf",
+ "source_path": "원문/규정/전자서명법 시행규칙/전자서명법 시행규칙(과학기술정보통신부령)(제00056호)(20201210).pdf",
+ "pdf_path": "pdf/전자서명법 시행규칙/전자서명법 시행규칙(과학기술정보통신부령)(제00056호)(20201210).pdf",
+ "source_pages": 2,
+ "header_raw": [
+  "전자서명법 시행규칙",
+  "[시행 2020. 12. 10.] [과학기술정보통신부령 제56호, 2020. 12. 10., 전부개정]",
+  "과학기술정보통신부 (정보보호기획과) 044-202-6445, 6447"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 6,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 4
+ },
+ "files": {
+  "articles": "regulations/전자서명법-시행규칙/articles.json",
+  "annexes": "regulations/전자서명법-시행규칙/annexes.json",
+  "markdown": "regulations/전자서명법-시행규칙/regulation.md"
+ }
+}

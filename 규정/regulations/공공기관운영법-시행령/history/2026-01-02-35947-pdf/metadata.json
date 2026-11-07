@@ -1,0 +1,67 @@
+{
+ "schema_version": "1.0",
+ "id": "PUBLIC_INSTITUTION_ENFORCEMENT",
+ "name": "공공기관의 운영에 관한 법률 시행령",
+ "short_name": "공공기관운영법 시행령",
+ "display_id_prefix": "공공기관운영법-시행령",
+ "slug": "공공기관운영법-시행령",
+ "aliases": [
+  "공공기관의 운영에 관한 법률 시행령",
+  "공공기관운영법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제35947호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "공공정책총괄과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2025-12-30",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-35947",
+ "versions": [
+  {
+   "version": "2026-01-02-35947",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-12-30",
+   "number": "제35947호",
+   "source_file": "공공기관의 운영에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+   "source_path": "원문/규정/공공기관운영법 시행령/공공기관의 운영에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "PUBLIC_INSTITUTION_ACT",
+ "source_file": "공공기관의 운영에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+ "source_path": "원문/규정/공공기관운영법 시행령/공공기관의 운영에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+ "pdf_path": "pdf/공공기관운영법 시행령/공공기관의 운영에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+ "source_pages": 13,
+ "header_raw": [
+  "공공기관의 운영에 관한 법률 시행령 ( 약칭: 공공기관운영법 시행령 )",
+  "[시행 2026. 1. 2.] [대통령령 제35947호, 2025. 12. 30., 타법개정]",
+  "재정경제부 (공공정책총괄과) 044-215-5515, 5529"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 45,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 2
+ },
+ "files": {
+  "articles": "regulations/공공기관운영법-시행령/articles.json",
+  "annexes": "regulations/공공기관운영법-시행령/annexes.json",
+  "markdown": "regulations/공공기관운영법-시행령/regulation.md"
+ }
+}

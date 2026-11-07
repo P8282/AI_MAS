@@ -1,0 +1,1075 @@
+{
+ "schema_version": "1.0",
+ "id": "CIVIL_ACT",
+ "name": "민법",
+ "short_name": "민법",
+ "display_id_prefix": "민법",
+ "slug": "민법",
+ "aliases": [
+  "민법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21454호",
+ "group": "헌법·민사",
+ "agencies": [
+  {
+   "agency": "법무부",
+   "department": "법무심의관실"
+  }
+ ],
+ "effective_date": "2026-03-17",
+ "revision_date": "2026-03-17",
+ "revision_type": "일부개정",
+ "version": "2026-03-17-21454",
+ "versions": [
+  {
+   "version": "2026-03-17-21454",
+   "effective_date": "2026-03-17",
+   "revision_date": "2026-03-17",
+   "number": "제21454호",
+   "source_file": "민법(법률)(제21454호)(20260317).pdf",
+   "source_path": "원문/규정/민법(법률)(제21454호)(20260317).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "민법(법률)(제21454호)(20260317).pdf",
+ "source_path": "원문/규정/민법(법률)(제21454호)(20260317).pdf",
+ "pdf_path": "pdf/민법(법률)(제21454호)(20260317).pdf",
+ "source_pages": 106,
+ "header_raw": [
+  "민법",
+  "[시행 2026. 3. 17.] [법률 제21454호, 2026. 3. 17., 일부개정]",
+  "법무부 (법무심의관실) 02-2110-3164"
+ ],
+ "outline": [
+  {
+   "kind": "편",
+   "title": "제1편 총칙",
+   "raw": "제1편 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제1장 통칙",
+   "raw": "제1장 통칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 인",
+   "raw": "제2장 인",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 능력",
+   "raw": "제1절 능력",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 주소",
+   "raw": "제2절 주소",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 부재와 실종",
+   "raw": "제3절 부재와 실종",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 법인",
+   "raw": "제3장 법인",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총칙",
+   "raw": "제1절 총칙",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 설립",
+   "raw": "제2절 설립",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 기관",
+   "raw": "제3절 기관",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 해산",
+   "raw": "제4절 해산",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 벌칙",
+   "raw": "제5절 벌칙",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 물건",
+   "raw": "제4장 물건",
+   "page": 10,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 법률행위",
+   "raw": "제5장 법률행위",
+   "page": 10,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총칙",
+   "raw": "제1절 총칙",
+   "page": 10,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 의사표시",
+   "raw": "제2절 의사표시",
+   "page": 10,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 대리",
+   "raw": "제3절 대리",
+   "page": 11,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 무효와 취소",
+   "raw": "제4절 무효와 취소",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 조건과 기한",
+   "raw": "제5절 조건과 기한",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 기간",
+   "raw": "제6장 기간",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 소멸시효",
+   "raw": "제7장 소멸시효",
+   "page": 15,
+   "deleted": false
+  },
+  {
+   "kind": "편",
+   "title": "제2편 물권",
+   "raw": "제2편 물권",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 점유권",
+   "raw": "제2장 점유권",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 소유권",
+   "raw": "제3장 소유권",
+   "page": 19,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 소유권의 한계",
+   "raw": "제1절 소유권의 한계",
+   "page": 19,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 소유권의 취득",
+   "raw": "제2절 소유권의 취득",
+   "page": 22,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 공동소유",
+   "raw": "제3절 공동소유",
+   "page": 23,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 지상권",
+   "raw": "제4장 지상권",
+   "page": 24,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 지역권",
+   "raw": "제5장 지역권",
+   "page": 25,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 전세권",
+   "raw": "제6장 전세권",
+   "page": 26,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 유치권",
+   "raw": "제7장 유치권",
+   "page": 28,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 질권",
+   "raw": "제8장 질권",
+   "page": 28,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 동산질권",
+   "raw": "제1절 동산질권",
+   "page": 28,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 권리질권",
+   "raw": "제2절 권리질권",
+   "page": 29,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제9장 저당권",
+   "raw": "제9장 저당권",
+   "page": 30,
+   "deleted": false
+  },
+  {
+   "kind": "편",
+   "title": "제3편 채권",
+   "raw": "제3편 채권",
+   "page": 31,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 31,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 채권의 목적",
+   "raw": "제1절 채권의 목적",
+   "page": 31,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 채권의 효력",
+   "raw": "제2절 채권의 효력",
+   "page": 33,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 수인의 채권자 및 채무자",
+   "raw": "제3절 수인의 채권자 및 채무자",
+   "page": 34,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 총칙",
+   "raw": "제1관 총칙",
+   "page": 34,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 불가분채권과 불가분채무",
+   "raw": "제2관 불가분채권과 불가분채무",
+   "page": 34,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 연대채무",
+   "raw": "제3관 연대채무",
+   "page": 35,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제4관 보증채무",
+   "raw": "제4관 보증채무",
+   "page": 36,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 채권의 양도",
+   "raw": "제4절 채권의 양도",
+   "page": 38,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 채무의 인수",
+   "raw": "제5절 채무의 인수",
+   "page": 38,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 채권의 소멸",
+   "raw": "제6절 채권의 소멸",
+   "page": 39,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 변제",
+   "raw": "제1관 변제",
+   "page": 39,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 공탁",
+   "raw": "제2관 공탁",
+   "page": 41,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 상계",
+   "raw": "제3관 상계",
+   "page": 42,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제4관 경개",
+   "raw": "제4관 경개",
+   "page": 42,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제5관 면제",
+   "raw": "제5관 면제",
+   "page": 43,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제6관 혼동",
+   "raw": "제6관 혼동",
+   "page": 43,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 지시채권",
+   "raw": "제7절 지시채권",
+   "page": 43,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제8절 무기명채권",
+   "raw": "제8절 무기명채권",
+   "page": 44,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 계약",
+   "raw": "제2장 계약",
+   "page": 44,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총칙",
+   "raw": "제1절 총칙",
+   "page": 44,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 계약의 성립",
+   "raw": "제1관 계약의 성립",
+   "page": 44,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 계약의 효력",
+   "raw": "제2관 계약의 효력",
+   "page": 45,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 계약의 해지, 해제",
+   "raw": "제3관 계약의 해지, 해제",
+   "page": 46,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 증여",
+   "raw": "제2절 증여",
+   "page": 46,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 매매",
+   "raw": "제3절 매매",
+   "page": 47,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 총칙",
+   "raw": "제1관 총칙",
+   "page": 47,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 매매의 효력",
+   "raw": "제2관 매매의 효력",
+   "page": 47,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 환매",
+   "raw": "제3관 환매",
+   "page": 49,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 교환",
+   "raw": "제4절 교환",
+   "page": 50,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 소비대차",
+   "raw": "제5절 소비대차",
+   "page": 50,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 사용대차",
+   "raw": "제6절 사용대차",
+   "page": 51,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 임대차",
+   "raw": "제7절 임대차",
+   "page": 51,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제8절 고용",
+   "raw": "제8절 고용",
+   "page": 54,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제9절 도급",
+   "raw": "제9절 도급",
+   "page": 55,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제9절의2 여행계약",
+   "raw": "제9절의2 여행계약 <신설 2015. 2. 3.>",
+   "page": 56,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제10절 현상광고",
+   "raw": "제10절 현상광고",
+   "page": 57,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제11절 위임",
+   "raw": "제11절 위임",
+   "page": 58,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제12절 임치",
+   "raw": "제12절 임치",
+   "page": 59,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제13절 조합",
+   "raw": "제13절 조합",
+   "page": 59,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제14절 종신정기금",
+   "raw": "제14절 종신정기금",
+   "page": 61,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제15절 화해",
+   "raw": "제15절 화해",
+   "page": 61,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 사무관리",
+   "raw": "제3장 사무관리",
+   "page": 61,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 부당이득",
+   "raw": "제4장 부당이득",
+   "page": 62,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 불법행위",
+   "raw": "제5장 불법행위",
+   "page": 63,
+   "deleted": false
+  },
+  {
+   "kind": "편",
+   "title": "제4편 친족",
+   "raw": "제4편 친족",
+   "page": 64,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 64,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 가족의 범위와 자의 성과 본",
+   "raw": "제2장 가족의 범위와 자의 성과 본 <개정 2005. 3. 31.>",
+   "page": 65,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 혼인",
+   "raw": "제3장 혼인",
+   "page": 66,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 약혼",
+   "raw": "제1절 약혼",
+   "page": 66,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 혼인의 성립",
+   "raw": "제2절 혼인의 성립",
+   "page": 67,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 혼인의 무효와 취소",
+   "raw": "제3절 혼인의 무효와 취소",
+   "page": 68,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 혼인의 효력",
+   "raw": "제4절 혼인의 효력",
+   "page": 69,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 일반적 효력",
+   "raw": "제1관 일반적 효력",
+   "page": 69,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 재산상 효력",
+   "raw": "제2관 재산상 효력",
+   "page": 69,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 이혼",
+   "raw": "제5절 이혼",
+   "page": 70,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 협의상 이혼",
+   "raw": "제1관 협의상 이혼",
+   "page": 70,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 재판상 이혼",
+   "raw": "제2관 재판상 이혼",
+   "page": 71,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 부모와 자",
+   "raw": "제4장 부모와 자",
+   "page": 72,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 친생자",
+   "raw": "제1절 친생자",
+   "page": 72,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 양자(養子)",
+   "raw": "제2절 양자(養子) <개정 2012. 2. 10.>",
+   "page": 74,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 입양의 요건과 효력",
+   "raw": "제1관 입양의 요건과 효력 <개정 2012. 2. 10.>",
+   "page": 74,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 입양의 무효와 취소",
+   "raw": "제2관 입양의 무효와 취소 <개정 2012. 2. 10.>",
+   "page": 76,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 파양(罷養)",
+   "raw": "제3관 파양(罷養) <개정 2012. 2. 10.>",
+   "page": 77,
+   "deleted": false
+  },
+  {
+   "kind": "항",
+   "title": "제1항 협의상 파양",
+   "raw": "제1항 협의상 파양 <개정 2012. 2. 10.>",
+   "page": 77,
+   "deleted": false
+  },
+  {
+   "kind": "항",
+   "title": "제2항 재판상 파양",
+   "raw": "제2항 재판상 파양 <개정 2012. 2. 10.>",
+   "page": 77,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제4관 친양자",
+   "raw": "제4관 친양자 <신설 2005. 3. 31.>",
+   "page": 78,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 친권",
+   "raw": "제3절 친권",
+   "page": 79,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 총칙",
+   "raw": "제1관 총칙",
+   "page": 79,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 친권의 효력",
+   "raw": "제2관 친권의 효력",
+   "page": 81,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 친권의 상실, 일시 정지 및 일부 제한",
+   "raw": "제3관 친권의 상실, 일시 정지 및 일부 제한 <개정 2014. 10. 15.>",
+   "page": 82,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 후견",
+   "raw": "제5장 후견",
+   "page": 83,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 미성년후견과 성년후견",
+   "raw": "제1절 미성년후견과 성년후견 <개정 2011. 3. 7.>",
+   "page": 83,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 후견인",
+   "raw": "제1관 후견인 <신설 2011. 3. 7.>",
+   "page": 83,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 후견감독인",
+   "raw": "제2관 후견감독인 <신설 2011. 3. 7.>",
+   "page": 85,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 후견인의 임무",
+   "raw": "제3관 후견인의 임무 <신설 2011. 3. 7.>",
+   "page": 85,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제4관 후견의 종료",
+   "raw": "제4관 후견의 종료 <신설 2011. 3. 7.>",
+   "page": 88,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 한정후견과 특정후견",
+   "raw": "제2절 한정후견과 특정후견 <신설 2011. 3. 7.>",
+   "page": 88,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 후견계약",
+   "raw": "제3절 후견계약 <신설 2011. 3. 7.>",
+   "page": 90,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 삭제",
+   "raw": "제6장 삭제 <2011. 3. 7.>",
+   "page": 91,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 부양",
+   "raw": "제7장 부양",
+   "page": 91,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 삭제",
+   "raw": "제8장 삭제 <2005. 3. 31.>",
+   "page": 92,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 삭제",
+   "raw": "제1절 삭제 <2005. 3. 31.>",
+   "page": 92,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 삭제",
+   "raw": "제2절 삭제 <2005. 3. 31.>",
+   "page": 92,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 삭제",
+   "raw": "제3절 삭제 <2005. 3. 31.>",
+   "page": 93,
+   "deleted": false
+  },
+  {
+   "kind": "편",
+   "title": "제5편 상속",
+   "raw": "제5편 상속 <개정 1990. 1. 13.>",
+   "page": 93,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제1장 상속",
+   "raw": "제1장 상속 <신설 1990. 1. 13.>",
+   "page": 93,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총칙",
+   "raw": "제1절 총칙 <개정 1990. 1. 13.>",
+   "page": 93,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 상속인",
+   "raw": "제2절 상속인 <개정 1990. 1. 13.>",
+   "page": 93,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 상속의 효력",
+   "raw": "제3절 상속의 효력 <개정 1990. 1. 13.>",
+   "page": 94,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 일반적 효력",
+   "raw": "제1관 일반적 효력",
+   "page": 94,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 상속분",
+   "raw": "제2관 상속분",
+   "page": 95,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 상속재산의 분할",
+   "raw": "제3관 상속재산의 분할",
+   "page": 96,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 상속의 승인 및 포기",
+   "raw": "제4절 상속의 승인 및 포기 <개정 1990. 1. 13.>",
+   "page": 96,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제1관 총칙",
+   "raw": "제1관 총칙",
+   "page": 96,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제2관 단순승인",
+   "raw": "제2관 단순승인",
+   "page": 97,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제3관 한정승인",
+   "raw": "제3관 한정승인",
+   "page": 97,
+   "deleted": false
+  },
+  {
+   "kind": "관",
+   "title": "제4관 포기",
+   "raw": "제4관 포기",
+   "page": 99,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 재산의 분리",
+   "raw": "제5절 재산의 분리",
+   "page": 99,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 상속인의 부존재",
+   "raw": "제6절 상속인의 부존재 <개정 1990. 1. 13.>",
+   "page": 100,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 유언",
+   "raw": "제2장 유언",
+   "page": 100,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총칙",
+   "raw": "제1절 총칙",
+   "page": 100,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 유언의 방식",
+   "raw": "제2절 유언의 방식",
+   "page": 101,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 유언의 효력",
+   "raw": "제3절 유언의 효력",
+   "page": 102,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 유언의 집행",
+   "raw": "제4절 유언의 집행",
+   "page": 103,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 유언의 철회",
+   "raw": "제5절 유언의 철회",
+   "page": 104,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 유류분",
+   "raw": "제3장 유류분 <개정 1990. 1. 13.>",
+   "page": 105,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 1193,
+  "scheduled_versions": 0,
+  "deleted_articles": 77,
+  "supplementary_articles": 4,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/민법/articles.json",
+  "annexes": "regulations/민법/annexes.json",
+  "markdown": "regulations/민법/regulation.md"
+ }
+}

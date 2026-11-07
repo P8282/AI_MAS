@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "CONSTRUCTION_TECH_PROMOTION_RULE",
+ "name": "건설기술 진흥법 시행규칙",
+ "short_name": "건설기술진흥법 시행규칙",
+ "display_id_prefix": "건설기술진흥법-시행규칙",
+ "slug": "건설기술진흥법-시행규칙",
+ "aliases": [
+  "건설기술진흥법 시행규칙",
+  "건설기술진흥법시행규칙",
+  "건설기술 진흥법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "국토교통부령",
+ "number": "제1597호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "기술정책과-경력관리, 교육"
+  }
+ ],
+ "effective_date": "2026-06-11",
+ "revision_date": "2026-06-11",
+ "revision_type": "일부개정",
+ "version": "2026-06-11-1597",
+ "versions": [
+  {
+   "version": "2026-06-11-1597",
+   "effective_date": "2026-06-11",
+   "revision_date": "2026-06-11",
+   "number": "제1597호",
+   "source_file": "CONSTRUCTION_TECH_PROMOTION_RULE.json",
+   "source_path": "원문/법제처API/CONSTRUCTION_TECH_PROMOTION_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-06-11-1597-pdf",
+   "effective_date": "2026-06-11",
+   "revision_date": "2026-06-11",
+   "number": "제1597호",
+   "source_file": "건설기술 진흥법 시행규칙(국토교통부령)(제01597호)(20260611).pdf",
+   "source_path": "원문/규정/건설기술 진흥법 시행규칙(국토교통부령)(제01597호)(20260611).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/건설기술진흥법-시행규칙/history/2026-06-11-1597-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "CONSTRUCTION_TECH_PROMOTION_ENFORCEMENT",
+ "source_file": "CONSTRUCTION_TECH_PROMOTION_RULE.json",
+ "source_path": "원문/법제처API/CONSTRUCTION_TECH_PROMOTION_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 76,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 59,
+  "annexes": 69
+ },
+ "files": {
+  "articles": "regulations/건설기술진흥법-시행규칙/articles.json",
+  "annexes": "regulations/건설기술진흥법-시행규칙/annexes.json",
+  "markdown": "regulations/건설기술진흥법-시행규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=286885",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "286885",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

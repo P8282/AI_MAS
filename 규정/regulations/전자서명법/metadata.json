@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "ELECTRONIC_SIGNATURE_ACT",
+ "name": "전자서명법",
+ "short_name": "전자서명법",
+ "display_id_prefix": "전자서명법",
+ "slug": "전자서명법",
+ "aliases": [
+  "전자서명법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제18479호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "과학기술정보통신부",
+   "department": "정보보호기획과"
+  }
+ ],
+ "effective_date": "2022-10-20",
+ "revision_date": "2021-10-19",
+ "revision_type": "일부개정",
+ "version": "2022-10-20-18479",
+ "versions": [
+  {
+   "version": "2022-10-20-18479",
+   "effective_date": "2022-10-20",
+   "revision_date": "2021-10-19",
+   "number": "제18479호",
+   "source_file": "ELECTRONIC_SIGNATURE_ACT.json",
+   "source_path": "원문/법제처API/ELECTRONIC_SIGNATURE_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2022-10-20-18479-pdf",
+   "effective_date": "2022-10-20",
+   "revision_date": "2021-10-19",
+   "number": "제18479호",
+   "source_file": "전자서명법(법률)(제18479호)(20221020).pdf",
+   "source_path": "원문/규정/전자서명법(법률)(제18479호)(20221020).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/전자서명법/history/2022-10-20-18479-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "ELECTRONIC_SIGNATURE_ACT.json",
+ "source_path": "원문/법제처API/ELECTRONIC_SIGNATURE_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 26,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 10,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/전자서명법/articles.json",
+  "annexes": "regulations/전자서명법/annexes.json",
+  "markdown": "regulations/전자서명법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=236201",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "236201",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

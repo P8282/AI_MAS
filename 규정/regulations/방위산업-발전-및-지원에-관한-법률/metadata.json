@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_L_287981",
+ "name": "방위산업 발전 및 지원에 관한 법률",
+ "short_name": "방위산업 발전 및 지원에 관한 법률",
+ "display_id_prefix": "방위산업-발전-및-지원에-관한-법률",
+ "slug": "방위산업-발전-및-지원에-관한-법률",
+ "aliases": [
+  "방위산업 발전 및 지원에 관한 법률"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21831호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "국방부",
+   "department": "방위산업수출기획과"
+  }
+ ],
+ "effective_date": "2026-10-08",
+ "revision_date": "2026-07-07",
+ "revision_type": "일부개정",
+ "version": "2026-10-08-21831",
+ "versions": [
+  {
+   "version": "2026-10-08-21831",
+   "effective_date": "2026-10-08",
+   "revision_date": "2026-07-07",
+   "number": "제21831호",
+   "source_file": "방위산업 발전 및 지원에 관한 법률.json",
+   "source_path": "원문/법제처API/방위산업 발전 및 지원에 관한 법률.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "방위산업 발전 및 지원에 관한 법률.json",
+ "source_path": "원문/법제처API/방위산업 발전 및 지원에 관한 법률.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=287981",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 32,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 25,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/방위산업-발전-및-지원에-관한-법률/articles.json",
+  "annexes": "regulations/방위산업-발전-및-지원에-관한-법률/annexes.json",
+  "markdown": "regulations/방위산업-발전-및-지원에-관한-법률/regulation.md"
+ }
+}

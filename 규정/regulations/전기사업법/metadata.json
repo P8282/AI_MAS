@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "ELECTRIC_UTILITY_ACT",
+ "name": "전기사업법",
+ "short_name": "전기사업법",
+ "display_id_prefix": "전기사업법",
+ "slug": "전기사업법",
+ "aliases": [
+  "전기사업법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21467호",
+ "group": "산업·표준",
+ "agencies": [
+  {
+   "agency": "기후에너지환경부",
+   "department": "전력산업정책과"
+  }
+ ],
+ "effective_date": "2026-09-18",
+ "revision_date": "2026-03-17",
+ "revision_type": "타법개정",
+ "version": "2026-09-18-21467",
+ "versions": [
+  {
+   "version": "2026-09-18-21467",
+   "effective_date": "2026-09-18",
+   "revision_date": "2026-03-17",
+   "number": "제21467호",
+   "source_file": "전기사업법.json",
+   "source_path": "원문/법제처API/전기사업법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "전기사업법.json",
+ "source_path": "원문/법제처API/전기사업법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=284383",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 142,
+  "scheduled_versions": 0,
+  "deleted_articles": 31,
+  "supplementary_articles": 125,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/전기사업법/articles.json",
+  "annexes": "regulations/전기사업법/annexes.json",
+  "markdown": "regulations/전기사업법/regulation.md"
+ }
+}

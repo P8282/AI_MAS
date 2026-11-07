@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "ARCHITECT_ENFORCEMENT",
+ "name": "건축사법 시행령",
+ "short_name": "건축사법 시행령",
+ "display_id_prefix": "건축사법-시행령",
+ "slug": "건축사법-시행령",
+ "aliases": [
+  "건축사법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제32825호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "건축문화경관과"
+  }
+ ],
+ "effective_date": "2022-08-04",
+ "revision_date": "2022-07-26",
+ "revision_type": "일부개정",
+ "version": "2022-08-04-32825",
+ "versions": [
+  {
+   "version": "2022-08-04-32825",
+   "effective_date": "2022-08-04",
+   "revision_date": "2022-07-26",
+   "number": "제32825호",
+   "source_file": "건축사법 시행령(대통령령)(제32825호)(20220804).pdf",
+   "source_path": "원문/규정/건축사법 시행령/건축사법 시행령(대통령령)(제32825호)(20220804).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "ARCHITECT_ACT",
+ "source_file": "건축사법 시행령(대통령령)(제32825호)(20220804).pdf",
+ "source_path": "원문/규정/건축사법 시행령/건축사법 시행령(대통령령)(제32825호)(20220804).pdf",
+ "pdf_path": "pdf/건축사법 시행령/건축사법 시행령(대통령령)(제32825호)(20220804).pdf",
+ "source_pages": 13,
+ "header_raw": [
+  "건축사법 시행령",
+  "[시행 2022. 8. 4.] [대통령령 제32825호, 2022. 7. 26., 일부개정]",
+  "국토교통부 (건축문화경관과) 044-201-3777, 3776"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 67,
+  "scheduled_versions": 0,
+  "deleted_articles": 17,
+  "supplementary_articles": 4,
+  "annexes": 4
+ },
+ "files": {
+  "articles": "regulations/건축사법-시행령/articles.json",
+  "annexes": "regulations/건축사법-시행령/annexes.json",
+  "markdown": "regulations/건축사법-시행령/regulation.md"
+ }
+}

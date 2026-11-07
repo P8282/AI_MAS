@@ -1,0 +1,92 @@
+{
+ "schema_version": "1.0",
+ "id": "RESOURCE_RECYCLING_ENFORCEMENT",
+ "name": "자원의 절약과 재활용촉진에 관한 법률 시행령",
+ "short_name": "자원재활용법 시행령",
+ "display_id_prefix": "자원재활용법-시행령",
+ "slug": "자원재활용법-시행령",
+ "aliases": [
+  "자원의 절약과 재활용촉진에 관한 법률 시행령",
+  "자원재활용촉진법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36269호",
+ "group": "환경·재활용",
+ "agencies": [
+  {
+   "agency": "기후에너지환경부",
+   "department": "포장재 재질ㆍ구조 기준, 포장폐기물 - 자원재활용과"
+  },
+  {
+   "agency": "기후에너지환경부",
+   "department": "재활용의무이행, 재활용부과금 관련 - 자원재활용과"
+  },
+  {
+   "agency": "기후에너지환경부",
+   "department": "1회용품 관련 - 자원순환정책과"
+  },
+  {
+   "agency": "기후에너지환경부",
+   "department": "폐기물부담금- 자원순환정책과"
+  },
+  {
+   "agency": "기후에너지환경부",
+   "department": "고형연료 관련 - 폐자원에너지과"
+  },
+  {
+   "agency": "기후에너지환경부",
+   "department": "에너지회수시설 - 폐자원에너지과"
+  }
+ ],
+ "effective_date": "2026-05-12",
+ "revision_date": "2026-04-21",
+ "revision_type": "일부개정",
+ "version": "2026-05-12-36269",
+ "versions": [
+  {
+   "version": "2026-05-12-36269",
+   "effective_date": "2026-05-12",
+   "revision_date": "2026-04-21",
+   "number": "제36269호",
+   "source_file": "자원의 절약과 재활용촉진에 관한 법률 시행령(대통령령)(제36269호)(20260512).pdf",
+   "source_path": "원문/규정/자원재활용법 시행령/자원의 절약과 재활용촉진에 관한 법률 시행령(대통령령)(제36269호)(20260512).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "RESOURCE_RECYCLING_ACT",
+ "source_file": "자원의 절약과 재활용촉진에 관한 법률 시행령(대통령령)(제36269호)(20260512).pdf",
+ "source_path": "원문/규정/자원재활용법 시행령/자원의 절약과 재활용촉진에 관한 법률 시행령(대통령령)(제36269호)(20260512).pdf",
+ "pdf_path": "pdf/자원재활용법 시행령/자원의 절약과 재활용촉진에 관한 법률 시행령(대통령령)(제36269호)(20260512).pdf",
+ "source_pages": 22,
+ "header_raw": [
+  "자원의 절약과 재활용촉진에 관한 법률 시행령 ( 약칭: 자원재활용법 시행령 )",
+  "[시행 2026. 5. 12.] [대통령령 제36269호, 2026. 4. 21., 일부개정]",
+  "기후에너지환경부 (포장재 재질ㆍ구조 기준, 포장폐기물 - 자원재활용과) 044-201-7382, 7391",
+  "기후에너지환경부 (재활용의무이행, 재활용부과금 관련 - 자원재활용과) 044-201-7397, 7392",
+  "기후에너지환경부 (1회용품 관련 - 자원순환정책과) 044-201-7359, 7358",
+  "기후에너지환경부 (폐기물부담금- 자원순환정책과) 044-201-7352, 7356",
+  "기후에너지환경부 (고형연료 관련 - 폐자원에너지과) 044-211-7422, 7431",
+  "기후에너지환경부 (에너지회수시설 - 폐자원에너지과) 044-201-7408"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 76,
+  "scheduled_versions": 0,
+  "deleted_articles": 9,
+  "supplementary_articles": 1,
+  "annexes": 12
+ },
+ "files": {
+  "articles": "regulations/자원재활용법-시행령/articles.json",
+  "annexes": "regulations/자원재활용법-시행령/annexes.json",
+  "markdown": "regulations/자원재활용법-시행령/regulation.md"
+ }
+}

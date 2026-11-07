@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_A_2100000285530",
+ "name": "군수품 조달의 조달청 위탁에 관한 공동훈령",
+ "short_name": "군수품 조달의 조달청 위탁에 관한 공동훈령",
+ "display_id_prefix": "군수품-조달의-조달청-위탁에-관한-공동훈령",
+ "slug": "군수품-조달의-조달청-위탁에-관한-공동훈령",
+ "aliases": [
+  "군수품 조달의 조달청 위탁에 관한 공동훈령"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "방위사업청훈령",
+ "number": "제993호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "계약제도발전과"
+  }
+ ],
+ "effective_date": "2026-09-22",
+ "revision_date": "2026-09-22",
+ "revision_type": "일부개정",
+ "version": "2026-09-22-993",
+ "versions": [
+  {
+   "version": "2026-09-22-993",
+   "effective_date": "2026-09-22",
+   "revision_date": "2026-09-22",
+   "number": "제993호",
+   "source_file": "군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+   "source_path": "원문/법제처API/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+ "source_path": "원문/법제처API/군수품 조달의 조달청 위탁에 관한 공동훈령.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000285530",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 33,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 6,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/군수품-조달의-조달청-위탁에-관한-공동훈령/articles.json",
+  "annexes": "regulations/군수품-조달의-조달청-위탁에-관한-공동훈령/annexes.json",
+  "markdown": "regulations/군수품-조달의-조달청-위탁에-관한-공동훈령/regulation.md"
+ }
+}

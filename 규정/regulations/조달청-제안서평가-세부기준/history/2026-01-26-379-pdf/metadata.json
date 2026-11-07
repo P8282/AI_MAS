@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_PROPOSAL_EVALUATION_GUIDE",
+ "name": "조달청 협상에 의한 계약 제안서평가 세부기준",
+ "short_name": "제안서평가 세부기준",
+ "display_id_prefix": "조달청-제안서평가-세부기준",
+ "slug": "조달청-제안서평가-세부기준",
+ "aliases": [
+  "조달청 협상에 의한 계약 제안서평가 세부기준",
+  "제안서평가 세부기준",
+  "제안서 평가",
+  "제안서평가"
+ ],
+ "document_type": "지침",
+ "format": "article",
+ "issuer_form": "조달청지침",
+ "number": "제379호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "기술서비스총괄과"
+  }
+ ],
+ "effective_date": "2026-01-26",
+ "revision_date": "2026-01-26",
+ "revision_type": "일부개정",
+ "version": "2026-01-26-379",
+ "versions": [
+  {
+   "version": "2026-01-26-379",
+   "effective_date": "2026-01-26",
+   "revision_date": "2026-01-26",
+   "number": "제379호",
+   "source_file": "조달청 협상에 의한 계약 제안서평가 세부기준(조달청지침)(제379호)(20260126).pdf",
+   "source_path": "원문/규정/조달청 협상에 의한 계약 제안서평가 세부기준/조달청 협상에 의한 계약 제안서평가 세부기준(조달청지침)(제379호)(20260126).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "NEGOTIATION_CONTRACT_RULE",
+ "source_file": "조달청 협상에 의한 계약 제안서평가 세부기준(조달청지침)(제379호)(20260126).pdf",
+ "source_path": "원문/규정/조달청 협상에 의한 계약 제안서평가 세부기준/조달청 협상에 의한 계약 제안서평가 세부기준(조달청지침)(제379호)(20260126).pdf",
+ "pdf_path": "pdf/조달청 협상에 의한 계약 제안서평가 세부기준/조달청 협상에 의한 계약 제안서평가 세부기준(조달청지침)(제379호)(20260126).pdf",
+ "source_pages": 17,
+ "header_raw": [
+  "조달청 협상에 의한 계약 제안서평가 세부기준",
+  "[시행 2026. 1. 26.] [조달청지침 제379호, 2026. 1. 26., 일부개정]",
+  "조달청(기술서비스총괄과), 070-4056-7133, 6355"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 제안서 평가위원회의 구성 등",
+   "raw": "제2장 제안서 평가위원회의 구성 등",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 제안서 평가위원회의 운영 등",
+   "raw": "제3장 제안서 평가위원회의 운영 등",
+   "page": 5,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 38,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 4,
+  "annexes": 58
+ },
+ "files": {
+  "articles": "regulations/조달청-제안서평가-세부기준/articles.json",
+  "annexes": "regulations/조달청-제안서평가-세부기준/annexes.json",
+  "markdown": "regulations/조달청-제안서평가-세부기준/regulation.md"
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_ORGANIZATION_DECREE",
+ "name": "조달청과 그 소속기관 직제",
+ "short_name": "조달청 직제",
+ "display_id_prefix": "조달청-직제",
+ "slug": "조달청-직제",
+ "aliases": [
+  "조달청과 그 소속기관 직제",
+  "조달청 직제",
+  "직제"
+ ],
+ "document_type": "대통령령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36714호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "경제조직과"
+  },
+  {
+   "agency": "조달청",
+   "department": "혁신행정담당관"
+  }
+ ],
+ "effective_date": "2026-09-29",
+ "revision_date": "2026-09-29",
+ "revision_type": "일부개정",
+ "version": "2026-09-29-36714",
+ "versions": [
+  {
+   "version": "2026-09-29-36714",
+   "effective_date": "2026-09-29",
+   "revision_date": "2026-09-29",
+   "number": "제36714호",
+   "source_file": "조달청과 그 소속기관 직제(대통령령)(제36714호)(20260929).pdf",
+   "source_path": "원문/규정/조달청과 그 소속기관 직제/조달청과 그 소속기관 직제(대통령령)(제36714호)(20260929).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "조달청과 그 소속기관 직제(대통령령)(제36714호)(20260929).pdf",
+ "source_path": "원문/규정/조달청과 그 소속기관 직제/조달청과 그 소속기관 직제(대통령령)(제36714호)(20260929).pdf",
+ "pdf_path": "pdf/조달청과 그 소속기관 직제/조달청과 그 소속기관 직제(대통령령)(제36714호)(20260929).pdf",
+ "source_pages": 8,
+ "header_raw": [
+  "조달청과 그 소속기관 직제",
+  "[시행 2026. 9. 29.] [대통령령 제36714호, 2026. 9. 29., 일부개정]",
+  "행정안전부 (경제조직과) 044-205-2354",
+  "조달청 (혁신행정담당관) 042-724-7169"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 조달청",
+   "raw": "제2장 조달청",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 조달품질원",
+   "raw": "제3장 조달품질원 <개정 2014. 3. 11.>",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장의2 공공조달역량개발원",
+   "raw": "제3장의2 공공조달역량개발원 <개정 2022. 12. 20.>",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 지방조달청",
+   "raw": "제4장 지방조달청",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 공무원의 정원",
+   "raw": "제5장 공무원의 정원",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 평가대상 조직",
+   "raw": "제6장 평가대상 조직 <개정 2025. 12. 31.>",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 한시조직 및 한시정원",
+   "raw": "제7장 한시조직 및 한시정원 <개정 2021. 6. 29.>",
+   "page": 8,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 35,
+  "scheduled_versions": 0,
+  "deleted_articles": 4,
+  "supplementary_articles": 1,
+  "annexes": 6
+ },
+ "files": {
+  "articles": "regulations/조달청-직제/articles.json",
+  "annexes": "regulations/조달청-직제/annexes.json",
+  "markdown": "regulations/조달청-직제/regulation.md"
+ }
+}

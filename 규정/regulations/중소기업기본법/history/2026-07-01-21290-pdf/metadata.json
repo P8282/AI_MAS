@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_BASIC_ACT",
+ "name": "중소기업기본법",
+ "short_name": "중소기업기본법",
+ "display_id_prefix": "중소기업기본법",
+ "slug": "중소기업기본법",
+ "aliases": [
+  "중소기업기본법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21290호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "중소기업제도과"
+  }
+ ],
+ "effective_date": "2026-07-01",
+ "revision_date": "2025-12-30",
+ "revision_type": "일부개정",
+ "version": "2026-07-01-21290",
+ "versions": [
+  {
+   "version": "2026-07-01-21290",
+   "effective_date": "2026-07-01",
+   "revision_date": "2025-12-30",
+   "number": "제21290호",
+   "source_file": "중소기업기본법(법률)(제21290호)(20260701).pdf",
+   "source_path": "원문/규정/중소기업기본법(법률)(제21290호)(20260701).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "중소기업기본법(법률)(제21290호)(20260701).pdf",
+ "source_path": "원문/규정/중소기업기본법(법률)(제21290호)(20260701).pdf",
+ "pdf_path": "pdf/중소기업기본법(법률)(제21290호)(20260701).pdf",
+ "source_pages": 11,
+ "header_raw": [
+  "중소기업기본법",
+  "[시행 2026. 7. 1.] [법률 제21290호, 2025. 12. 30., 일부개정]",
+  "중소벤처기업부 (중소기업제도과) 044-204-7576"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 37,
+  "scheduled_versions": 2,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/중소기업기본법/articles.json",
+  "annexes": "regulations/중소기업기본법/annexes.json",
+  "markdown": "regulations/중소기업기본법/regulation.md"
+ }
+}

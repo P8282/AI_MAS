@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "WOMEN_ENTERPRISE_SUPPORT_ACT",
+ "name": "여성기업지원에 관한 법률",
+ "short_name": "여성기업지원법",
+ "display_id_prefix": "여성기업지원법",
+ "slug": "여성기업지원법",
+ "aliases": [
+  "여성기업지원법",
+  "여성기업지원에 관한 법률",
+  "여성기업법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제19825호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "중소기업제도과"
+  }
+ ],
+ "effective_date": "2024-05-01",
+ "revision_date": "2023-10-31",
+ "revision_type": "타법개정",
+ "version": "2024-05-01-19825",
+ "versions": [
+  {
+   "version": "2024-05-01-19825",
+   "effective_date": "2024-05-01",
+   "revision_date": "2023-10-31",
+   "number": "제19825호",
+   "source_file": "WOMEN_ENTERPRISE_SUPPORT_ACT.json",
+   "source_path": "원문/법제처API/WOMEN_ENTERPRISE_SUPPORT_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2024-05-01-19825-pdf",
+   "effective_date": "2024-05-01",
+   "revision_date": "2023-10-31",
+   "number": "제19825호",
+   "source_file": "여성기업지원에 관한 법률(법률)(제19825호)(20240501).pdf",
+   "source_path": "원문/규정/여성기업지원에 관한 법률(법률)(제19825호)(20240501).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/여성기업지원법/history/2024-05-01-19825-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "WOMEN_ENTERPRISE_SUPPORT_ACT.json",
+ "source_path": "원문/법제처API/WOMEN_ENTERPRISE_SUPPORT_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 29,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 35,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/여성기업지원법/articles.json",
+  "annexes": "regulations/여성기업지원법/annexes.json",
+  "markdown": "regulations/여성기업지원법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=255889",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "255889",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

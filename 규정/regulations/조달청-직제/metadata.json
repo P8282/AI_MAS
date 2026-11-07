@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_ORGANIZATION_DECREE",
+ "name": "조달청과 그 소속기관 직제",
+ "short_name": "조달청 직제",
+ "display_id_prefix": "조달청-직제",
+ "slug": "조달청-직제",
+ "aliases": [
+  "조달청과 그 소속기관 직제",
+  "조달청 직제",
+  "직제"
+ ],
+ "document_type": "대통령령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36714호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "경제조직과"
+  }
+ ],
+ "effective_date": "2026-09-29",
+ "revision_date": "2026-09-29",
+ "revision_type": "일부개정",
+ "version": "2026-09-29-36714",
+ "versions": [
+  {
+   "version": "2026-09-29-36714",
+   "effective_date": "2026-09-29",
+   "revision_date": "2026-09-29",
+   "number": "제36714호",
+   "source_file": "PPS_ORGANIZATION_DECREE.json",
+   "source_path": "원문/법제처API/PPS_ORGANIZATION_DECREE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-09-29-36714-pdf",
+   "effective_date": "2026-09-29",
+   "revision_date": "2026-09-29",
+   "number": "제36714호",
+   "source_file": "조달청과 그 소속기관 직제(대통령령)(제36714호)(20260929).pdf",
+   "source_path": "원문/규정/조달청과 그 소속기관 직제/조달청과 그 소속기관 직제(대통령령)(제36714호)(20260929).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/조달청-직제/history/2026-09-29-36714-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "PPS_ORGANIZATION_DECREE.json",
+ "source_path": "원문/법제처API/PPS_ORGANIZATION_DECREE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 35,
+  "scheduled_versions": 0,
+  "deleted_articles": 4,
+  "supplementary_articles": 90,
+  "annexes": 7
+ },
+ "files": {
+  "articles": "regulations/조달청-직제/articles.json",
+  "annexes": "regulations/조달청-직제/annexes.json",
+  "markdown": "regulations/조달청-직제/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=290279",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "290279",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

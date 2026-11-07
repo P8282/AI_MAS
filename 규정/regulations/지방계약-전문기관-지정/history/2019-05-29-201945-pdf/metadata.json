@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.0",
+ "id": "LOCAL_CONTRACT_SPECIALIST_AGENCY_NOTICE",
+ "name": "지방계약 전문기관 지정",
+ "short_name": "지방계약 전문기관 지정",
+ "display_id_prefix": "지방계약-전문기관-지정",
+ "slug": "지방계약-전문기관-지정",
+ "aliases": [
+  "지방계약 전문기관 지정",
+  "지방계약 전문기관"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "행정안전부고시",
+ "number": "제2019-45호",
+ "group": "지방계약",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "회계계약제도과"
+  },
+  {
+   "agency": "2.",
+   "department": "재검토기한"
+  }
+ ],
+ "effective_date": "2019-05-29",
+ "revision_date": "2019-05-23",
+ "revision_type": "제정",
+ "version": "2019-05-29-201945",
+ "versions": [
+  {
+   "version": "2019-05-29-201945",
+   "effective_date": "2019-05-29",
+   "revision_date": "2019-05-23",
+   "number": "제2019-45호",
+   "source_file": "지방계약 전문기관 지정(행정안전부고시)(제2019-45호)(20190529).pdf",
+   "source_path": "원문/규정/지방계약 전문기관 지정(행정안전부고시)(제2019-45호)(20190529).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "LOCAL_CONTRACT_ENFORCEMENT",
+ "source_file": "지방계약 전문기관 지정(행정안전부고시)(제2019-45호)(20190529).pdf",
+ "source_path": "원문/규정/지방계약 전문기관 지정(행정안전부고시)(제2019-45호)(20190529).pdf",
+ "pdf_path": "pdf/지방계약 전문기관 지정(행정안전부고시)(제2019-45호)(20190529).pdf",
+ "source_pages": 1,
+ "header_raw": [
+  "지방계약 전문기관 지정",
+  "[시행 2019. 5. 29.] [행정안전부고시 제2019-45호, 2019. 5. 23., 제정]",
+  "행정안전부(회계계약제도과), 044-205-3786",
+  "1. 「지방자치단체를 당사자로 하는 계약에 관한 법률」제39조제2항 에 의한 지방계약 전문기관을 아래와 같이 지",
+  "정한다.",
+  "가. 지정기관 : 한국지방재정공제회",
+  "나. 업무내용",
+  "○ 지방계약담당공무원의 교육에 관한 사항",
+  "○ 지방계약제도의 연구·자문에 관한 사항",
+  "○ 지방계약제도 관련 위원회 운영의 지원에 관한 사항",
+  "○ 지방계약의 통계 조사·분석에 관한 사항",
+  "○ 지방계약의 시공과정·시공품질 등 평가에 관한 사항",
+  "○ 지방계약 조달시스템의 구축·운영에 관한 사항",
+  "○ 기타 지방계약 관련 행정안전부장관이 필요로 하는 사항",
+  "2. (재검토기한) 행정안전부장관은 「훈령·예규 등의 발령 및 관리에 관한 규정」에 따라 이 고시에 대하여 2019년",
+  "7월 1일을 기준으로 매 3년이 되는 시점(매 3년째의 6월 30일까지를 말한다)마다 그 타당성을 검토하여 개선",
+  "등의 조치를 하여야 한다."
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 0,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 0,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/지방계약-전문기관-지정/articles.json",
+  "annexes": "regulations/지방계약-전문기관-지정/annexes.json",
+  "markdown": "regulations/지방계약-전문기관-지정/regulation.md"
+ }
+}

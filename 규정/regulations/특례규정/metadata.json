@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "SPECIFIC_PROCUREMENT_SPECIAL_PROVISIONS",
+ "name": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정",
+ "short_name": "특례규정",
+ "display_id_prefix": "특례규정",
+ "slug": "특례규정",
+ "aliases": [
+  "특례규정",
+  "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정",
+  "특정조달계약 특례규정",
+  "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령"
+ ],
+ "document_type": "대통령령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제35947호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2025-12-30",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-35947",
+ "versions": [
+  {
+   "version": "2026-01-02-35947",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-12-30",
+   "number": "제35947호",
+   "source_file": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json",
+   "source_path": "원문/법제처API/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json",
+ "source_path": "원문/법제처API/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=280909",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 48,
+  "scheduled_versions": 0,
+  "deleted_articles": 13,
+  "supplementary_articles": 41,
+  "annexes": 10
+ },
+ "files": {
+  "articles": "regulations/특례규정/articles.json",
+  "annexes": "regulations/특례규정/annexes.json",
+  "markdown": "regulations/특례규정/regulation.md"
+ }
+}

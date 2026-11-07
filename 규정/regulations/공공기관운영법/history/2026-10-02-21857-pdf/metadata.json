@@ -1,0 +1,153 @@
+{
+ "schema_version": "1.0",
+ "id": "PUBLIC_INSTITUTION_ACT",
+ "name": "공공기관의 운영에 관한 법률",
+ "short_name": "공공기관운영법",
+ "display_id_prefix": "공공기관운영법",
+ "slug": "공공기관운영법",
+ "aliases": [
+  "공공기관의 운영에 관한 법률",
+  "공공기관운영법",
+  "공공기관 운영에 관한 법률"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21857호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "공공정책총괄과"
+  }
+ ],
+ "effective_date": "2026-10-02",
+ "revision_date": "2026-08-04",
+ "revision_type": "타법개정",
+ "version": "2026-10-02-21857",
+ "versions": [
+  {
+   "version": "2026-10-02-21857",
+   "effective_date": "2026-10-02",
+   "revision_date": "2026-08-04",
+   "number": "제21857호",
+   "source_file": "공공기관의 운영에 관한 법률(법률)(제21857호)(20261002).pdf",
+   "source_path": "원문/규정/공공기관의 운영에 관한 법률(법률)(제21857호)(20261002).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "공공기관의 운영에 관한 법률(법률)(제21857호)(20261002).pdf",
+ "source_path": "원문/규정/공공기관의 운영에 관한 법률(법률)(제21857호)(20261002).pdf",
+ "pdf_path": "pdf/공공기관의 운영에 관한 법률(법률)(제21857호)(20261002).pdf",
+ "source_pages": 23,
+ "header_raw": [
+  "공공기관의 운영에 관한 법률 ( 약칭: 공공기관운영법 )",
+  "[시행 2026. 10. 2.] [법률 제21857호, 2026. 8. 4., 타법개정]",
+  "재정경제부 (공공정책총괄과) 044-215-5515, 5529"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 공공기관운영위원회",
+   "raw": "제2장 공공기관운영위원회",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 공공기관의 경영공시 등",
+   "raw": "제3장 공공기관의 경영공시 등",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 공기업ㆍ준정부기관의 운영",
+   "raw": "제4장 공기업ㆍ준정부기관의 운영",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 정관",
+   "raw": "제1절 정관",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 이사회",
+   "raw": "제2절 이사회",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 임원",
+   "raw": "제3절 임원",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 예산회계",
+   "raw": "제4절 예산회계",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 경영평가와 감독",
+   "raw": "제5절 경영평가와 감독",
+   "page": 18,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장의2 비위행위자에 대한 조치",
+   "raw": "제4장의2 비위행위자에 대한 조치 <신설 2018. 3. 27.>",
+   "page": 20,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 보칙",
+   "raw": "제5장 보칙",
+   "page": 21,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 벌칙",
+   "raw": "제6장 벌칙 <신설 2009. 3. 25.>",
+   "page": 22,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 74,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/공공기관운영법/articles.json",
+  "annexes": "regulations/공공기관운영법/annexes.json",
+  "markdown": "regulations/공공기관운영법/regulation.md"
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "GOVERNMENT_ENTERPRISE_BUDGET_ACT",
+ "name": "정부기업예산법",
+ "short_name": "정부기업예산법",
+ "display_id_prefix": "정부기업예산법",
+ "slug": "정부기업예산법",
+ "aliases": [
+  "정부기업예산법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21065호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "기획예산처",
+   "department": "예산정책과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2025-10-01",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-21065",
+ "versions": [
+  {
+   "version": "2026-01-02-21065",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-10-01",
+   "number": "제21065호",
+   "source_file": "정부기업예산법.json",
+   "source_path": "원문/법제처API/정부기업예산법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "정부기업예산법.json",
+ "source_path": "원문/법제처API/정부기업예산법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=276143",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 22,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 9,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/정부기업예산법/articles.json",
+  "annexes": "regulations/정부기업예산법/annexes.json",
+  "markdown": "regulations/정부기업예산법/regulation.md"
+ }
+}

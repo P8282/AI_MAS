@@ -1,0 +1,145 @@
+{
+ "schema_version": "1.0",
+ "id": "STATE_CONTRACT_ENFORCEMENT",
+ "name": "국가를 당사자로 하는 계약에 관한 법률 시행령",
+ "short_name": "국가계약법 시행령",
+ "display_id_prefix": "국가계약법-시행령",
+ "slug": "국가계약법-시행령",
+ "aliases": [
+  "국가계약법시행령",
+  "국계령",
+  "국가를 당사자로 하는 계약에 관한 법률 시행령",
+  "국가를 당사자로 하는 법률 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36338호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  },
+  {
+   "agency": "조달청",
+   "department": "규제개혁법무담당관실"
+  }
+ ],
+ "effective_date": "2026-06-03",
+ "revision_date": "2026-05-19",
+ "revision_type": "타법개정",
+ "version": "2026-06-03-36338",
+ "versions": [
+  {
+   "version": "2026-06-03-36338",
+   "effective_date": "2026-06-03",
+   "revision_date": "2026-05-19",
+   "number": "제36338호",
+   "source_file": "국가를 당사자로 하는 계약에 관한 법률 시행령(대통령령)(제36338호)(20260603).pdf",
+   "source_path": "원문/규정/국가를 당사자로 하는 계약에 관한 법률 시행령(대통령령)(제36338호)(20260603).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "STATE_CONTRACT_ACT",
+ "source_file": "국가를 당사자로 하는 계약에 관한 법률 시행령(대통령령)(제36338호)(20260603).pdf",
+ "source_path": "원문/규정/국가를 당사자로 하는 계약에 관한 법률 시행령(대통령령)(제36338호)(20260603).pdf",
+ "pdf_path": "pdf/국가를 당사자로 하는 계약에 관한 법률 시행령(대통령령)(제36338호)(20260603).pdf",
+ "source_pages": 50,
+ "header_raw": [
+  "국가를 당사자로 하는 계약에 관한 법률 시행령 ( 약칭: 국가계약법 시행령 )",
+  "[시행 2026. 6. 3.] [대통령령 제36338호, 2026. 5. 19., 타법개정]",
+  "재정경제부 (계약정책과) 044-215-5213, 5217, 5218",
+  "조달청 (규제개혁법무담당관실) 042-724-7277, 7249"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 추정가격 및 예정가격",
+   "raw": "제2장 추정가격 및 예정가격 <개정 1996. 12. 31.>",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 계약의 방법",
+   "raw": "제3장 계약의 방법",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 입찰 및 낙찰절차",
+   "raw": "제4장 입찰 및 낙찰절차",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 계약의 체결 및 이행",
+   "raw": "제5장 계약의 체결 및 이행",
+   "page": 22,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 대형공사계약",
+   "raw": "제6장 대형공사계약",
+   "page": 36,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 계약정보의 공개 등",
+   "raw": "제7장 계약정보의 공개 등 <개정 2005. 9. 8.>",
+   "page": 42,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 기술제안입찰 등에 의한 계약",
+   "raw": "제8장 기술제안입찰 등에 의한 계약 <신설 2007. 10. 10.>",
+   "page": 43,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제9장 이의신청과 국가계약분쟁조정위원회",
+   "raw": "제9장 이의신청과 국가계약분쟁조정위원회 <신설 2013. 6. 17.>",
+   "page": 46,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제10장 보칙",
+   "raw": "제10장 보칙 <신설 2013. 1. 16., 2013. 6. 17.>",
+   "page": 49,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 153,
+  "scheduled_versions": 0,
+  "deleted_articles": 21,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/국가계약법-시행령/articles.json",
+  "annexes": "regulations/국가계약법-시행령/annexes.json",
+  "markdown": "regulations/국가계약법-시행령/regulation.md"
+ }
+}

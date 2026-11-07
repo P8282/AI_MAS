@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.0",
+ "id": "SUBCONTRACT_ACT",
+ "name": "하도급거래 공정화에 관한 법률",
+ "short_name": "하도급법",
+ "display_id_prefix": "하도급법",
+ "slug": "하도급법",
+ "aliases": [
+  "하도급거래 공정화에 관한 법률",
+  "하도급거래공정화법",
+  "하도급거래법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21857호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "공정거래위원회",
+   "department": "기업거래정책과"
+  }
+ ],
+ "effective_date": "2026-10-02",
+ "revision_date": "2026-08-04",
+ "revision_type": "타법개정",
+ "version": "2026-10-02-21857",
+ "versions": [
+  {
+   "version": "2026-10-02-21857",
+   "effective_date": "2026-10-02",
+   "revision_date": "2026-08-04",
+   "number": "제21857호",
+   "source_file": "SUBCONTRACT_ACT.json",
+   "source_path": "원문/법제처API/SUBCONTRACT_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-10-02-21857-pdf",
+   "effective_date": "2026-10-02",
+   "revision_date": "2026-08-04",
+   "number": "제21857호",
+   "source_file": "하도급거래 공정화에 관한 법률(법률)(제21857호)(20261002).pdf",
+   "source_path": "원문/규정/하도급거래 공정화에 관한 법률(법률)(제21857호)(20261002).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/하도급법/history/2026-10-02-21857-pdf/"
+  },
+  {
+   "version": "2027-09-09-21905",
+   "effective_date": "2027-09-09",
+   "revision_date": "2026-09-08",
+   "number": "제21905호",
+   "source_file": "하도급거래 공정화에 관한 법률(법률)(제21905호)(20270909).pdf",
+   "source_path": "원문/규정/하도급거래 공정화에 관한 법률(법률)(제21905호)(20270909).pdf",
+   "status": "upcoming-not-loaded",
+   "is_latest": "unverified"
+  },
+  {
+   "version": "2027-09-09-21905",
+   "effective_date": "2027-09-09",
+   "revision_date": "2026-09-08",
+   "number": "제21905호",
+   "source_file": "하도급거래 공정화에 관한 법률(법률)(제21905호)(20270909).pdf",
+   "source_path": "원문/규정/하도급거래 공정화에 관한 법률(법률)(제21905호)(20270909).pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/하도급법/history/2027-09-09-21905/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [
+  "시행 예정 판(2027-09-09 시행, 제21905호)은 아직 시행일 전이라 반영하지 않고 이전 시행본(2026-10-02)을 적용함"
+ ],
+ "status": "시행",
+ "upcoming_versions": [
+  {
+   "version": "2027-09-09-21905",
+   "effective_date": "2027-09-09",
+   "revision_date": "2026-09-08",
+   "number": "제21905호",
+   "source_file": "하도급거래 공정화에 관한 법률(법률)(제21905호)(20270909).pdf",
+   "source_path": "원문/규정/하도급거래 공정화에 관한 법률(법률)(제21905호)(20270909).pdf"
+  }
+ ],
+ "parent_regulation_id": null,
+ "source_file": "SUBCONTRACT_ACT.json",
+ "source_path": "원문/법제처API/SUBCONTRACT_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 69,
+  "scheduled_versions": 7,
+  "deleted_articles": 4,
+  "supplementary_articles": 116,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/하도급법/articles.json",
+  "annexes": "regulations/하도급법/annexes.json",
+  "markdown": "regulations/하도급법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=288625",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "288625",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "ARCHITECT_ENFORCEMENT",
+ "name": "건축사법 시행령",
+ "short_name": "건축사법 시행령",
+ "display_id_prefix": "건축사법-시행령",
+ "slug": "건축사법-시행령",
+ "aliases": [
+  "건축사법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제32825호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "건축문화경관과"
+  }
+ ],
+ "effective_date": "2022-08-04",
+ "revision_date": "2022-07-26",
+ "revision_type": "일부개정",
+ "version": "2022-08-04-32825",
+ "versions": [
+  {
+   "version": "2022-08-04-32825",
+   "effective_date": "2022-08-04",
+   "revision_date": "2022-07-26",
+   "number": "제32825호",
+   "source_file": "ARCHITECT_ENFORCEMENT.json",
+   "source_path": "원문/법제처API/ARCHITECT_ENFORCEMENT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2022-08-04-32825-pdf",
+   "effective_date": "2022-08-04",
+   "revision_date": "2022-07-26",
+   "number": "제32825호",
+   "source_file": "건축사법 시행령(대통령령)(제32825호)(20220804).pdf",
+   "source_path": "원문/규정/건축사법 시행령/건축사법 시행령(대통령령)(제32825호)(20220804).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/건축사법-시행령/history/2022-08-04-32825-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "ARCHITECT_ACT",
+ "source_file": "ARCHITECT_ENFORCEMENT.json",
+ "source_path": "원문/법제처API/ARCHITECT_ENFORCEMENT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 68,
+  "scheduled_versions": 0,
+  "deleted_articles": 17,
+  "supplementary_articles": 92,
+  "annexes": 4
+ },
+ "files": {
+  "articles": "regulations/건축사법-시행령/articles.json",
+  "annexes": "regulations/건축사법-시행령/annexes.json",
+  "markdown": "regulations/건축사법-시행령/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=243997",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "243997",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

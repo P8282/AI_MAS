@@ -1,0 +1,67 @@
+{
+ "schema_version": "1.0",
+ "id": "ENGINEERING_INDUSTRY_PROMOTION_ACT",
+ "name": "엔지니어링산업 진흥법",
+ "short_name": "엔지니어링산업법",
+ "display_id_prefix": "엔지니어링산업법",
+ "slug": "엔지니어링산업법",
+ "aliases": [
+  "엔지니어링산업법",
+  "엔지니어링산업 진흥법",
+  "엔지니어링산업진흥법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21158호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "산업통상부",
+   "department": "엔지니어링디자인과"
+  }
+ ],
+ "effective_date": "2026-06-03",
+ "revision_date": "2025-12-02",
+ "revision_type": "일부개정",
+ "version": "2026-06-03-21158",
+ "versions": [
+  {
+   "version": "2026-06-03-21158",
+   "effective_date": "2026-06-03",
+   "revision_date": "2025-12-02",
+   "number": "제21158호",
+   "source_file": "엔지니어링산업 진흥법.json",
+   "source_path": "원문/법제처API/엔지니어링산업 진흥법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "엔지니어링산업 진흥법.json",
+ "source_path": "원문/법제처API/엔지니어링산업 진흥법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=280053",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 50,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 32,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/엔지니어링산업법/articles.json",
+  "annexes": "regulations/엔지니어링산업법/annexes.json",
+  "markdown": "regulations/엔지니어링산업법/regulation.md"
+ }
+}

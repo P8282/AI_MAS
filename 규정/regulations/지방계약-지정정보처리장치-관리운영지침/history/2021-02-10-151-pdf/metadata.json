@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "LOCAL_CONTRACT_INFO_DEVICE_GUIDE",
+ "name": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침",
+ "short_name": "지방계약 지정정보처리장치 관리·운영지침",
+ "display_id_prefix": "지방계약-지정정보처리장치-관리운영지침",
+ "slug": "지방계약-지정정보처리장치-관리운영지침",
+ "aliases": [
+  "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침",
+  "지정정보처리장치 관리운영지침"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "행정안전부예규",
+ "number": "제151호",
+ "group": "지방계약",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "회계계약제도과"
+  }
+ ],
+ "effective_date": "2021-02-10",
+ "revision_date": "2021-02-10",
+ "revision_type": "전부개정",
+ "version": "2021-02-10-151",
+ "versions": [
+  {
+   "version": "2021-02-10-151",
+   "effective_date": "2021-02-10",
+   "revision_date": "2021-02-10",
+   "number": "제151호",
+   "source_file": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침(행정안전부예규)(제151호)(20210210).pdf",
+   "source_path": "원문/규정/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침(행정안전부예규)(제151호)(20210210).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "LOCAL_CONTRACT_ENFORCEMENT",
+ "source_file": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침(행정안전부예규)(제151호)(20210210).pdf",
+ "source_path": "원문/규정/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침(행정안전부예규)(제151호)(20210210).pdf",
+ "pdf_path": "pdf/지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의2에 따른 지정정보처리장치 관리·운영지침(행정안전부예규)(제151호)(20210210).pdf",
+ "source_pages": 3,
+ "header_raw": [
+  "지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제6조의",
+  "2에 따른 지정정보처리장치 관리·운영지침",
+  "[시행 2021. 2. 10.] [행정안전부예규 제151호, 2021. 2. 10., 전부개정]",
+  "행정안전부(회계계약제도과), 044-205-3786"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 12,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/지방계약-지정정보처리장치-관리운영지침/articles.json",
+  "annexes": "regulations/지방계약-지정정보처리장치-관리운영지침/annexes.json",
+  "markdown": "regulations/지방계약-지정정보처리장치-관리운영지침/regulation.md"
+ }
+}

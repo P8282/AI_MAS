@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_A_2100000252852",
+ "name": "방산기술혁신펀드 운영규정",
+ "short_name": "방산기술혁신펀드 운영규정",
+ "display_id_prefix": "방산기술혁신펀드-운영규정",
+ "slug": "방산기술혁신펀드-운영규정",
+ "aliases": [
+  "방산기술혁신펀드 운영규정"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "방위사업청고시",
+ "number": "제2024-9호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "방위산업금융지원TF"
+  }
+ ],
+ "effective_date": "2025-01-01",
+ "revision_date": "2024-12-31",
+ "revision_type": "일부개정",
+ "version": "2025-01-01-20249",
+ "versions": [
+  {
+   "version": "2025-01-01-20249",
+   "effective_date": "2025-01-01",
+   "revision_date": "2024-12-31",
+   "number": "제2024-9호",
+   "source_file": "방산기술혁신펀드 운영규정.json",
+   "source_path": "원문/법제처API/방산기술혁신펀드 운영규정.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "방산기술혁신펀드 운영규정.json",
+ "source_path": "원문/법제처API/방산기술혁신펀드 운영규정.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000252852",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 18,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 3,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/방산기술혁신펀드-운영규정/articles.json",
+  "annexes": "regulations/방산기술혁신펀드-운영규정/annexes.json",
+  "markdown": "regulations/방산기술혁신펀드-운영규정/regulation.md"
+ }
+}

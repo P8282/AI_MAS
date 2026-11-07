@@ -1,0 +1,70 @@
+{
+ "schema_version": "1.0",
+ "id": "GOODS_PURCHASE_GENERAL_CONDITIONS_RULE",
+ "name": "(계약예규) 물품구매(제조)계약일반조건",
+ "short_name": "물품구매(제조)계약일반조건",
+ "display_id_prefix": "물품구매계약일반조건",
+ "slug": "물품구매계약일반조건",
+ "aliases": [
+  "(계약예규) 물품구매(제조)계약일반조건",
+  "물품구매계약 일반조건",
+  "물품계약 일반조건",
+  "물품구매제조계약 일반조건",
+  "물품구매계약일반조건"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "재정경제부계약예규",
+ "number": "제170호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  }
+ ],
+ "effective_date": "2026-08-25",
+ "revision_date": "2026-08-25",
+ "revision_type": "일부개정",
+ "version": "2026-08-25-170",
+ "versions": [
+  {
+   "version": "2026-08-25-170",
+   "effective_date": "2026-08-25",
+   "revision_date": "2026-08-25",
+   "number": "제170호",
+   "source_file": "(계약예규) 물품구매(제조)계약일반조건(재정경제부계약예규)(제170호)(20260825).pdf",
+   "source_path": "원문/규정/(계약예규) 물품구매(제조)계약일반조건(재정경제부계약예규)(제170호)(20260825).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "STATE_CONTRACT_ENFORCEMENT",
+ "source_file": "(계약예규) 물품구매(제조)계약일반조건(재정경제부계약예규)(제170호)(20260825).pdf",
+ "source_path": "원문/규정/(계약예규) 물품구매(제조)계약일반조건(재정경제부계약예규)(제170호)(20260825).pdf",
+ "pdf_path": "pdf/(계약예규) 물품구매(제조)계약일반조건(재정경제부계약예규)(제170호)(20260825).pdf",
+ "source_pages": 13,
+ "header_raw": [
+  "(계약예규) 물품구매(제조)계약일반조건",
+  "[시행 2026. 8. 25.] [재정경제부계약예규 제170호, 2026. 8. 25., 일부개정]",
+  "재정경제부(계약정책과), 044-215-5212, 5217, 5218"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 38,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/물품구매계약일반조건/articles.json",
+  "annexes": "regulations/물품구매계약일반조건/annexes.json",
+  "markdown": "regulations/물품구매계약일반조건/regulation.md"
+ }
+}

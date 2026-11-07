@@ -1,0 +1,161 @@
+{
+ "schema_version": "1.0",
+ "id": "CONSTRUCTION_INDUSTRY_BASIC_ACT",
+ "name": "건설산업기본법",
+ "short_name": "건설산업기본법",
+ "display_id_prefix": "건설산업기본법",
+ "slug": "건설산업기본법",
+ "aliases": [
+  "건설산업기본법",
+  "건설산업기본법",
+  "건산법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21034호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "건설정책과-건설기술인배치, 건설업종, 기타"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "건설정책과-보증, 실적신고"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "공정건설지원과-하도급"
+  },
+  {
+   "agency": "국토교통부",
+   "department": "건설정책과-건설업등록관리, 제재처분"
+  }
+ ],
+ "effective_date": "2025-11-27",
+ "revision_date": "2025-08-26",
+ "revision_type": "일부개정",
+ "version": "2025-11-27-21034",
+ "versions": [
+  {
+   "version": "2025-11-27-21034",
+   "effective_date": "2025-11-27",
+   "revision_date": "2025-08-26",
+   "number": "제21034호",
+   "source_file": "건설산업기본법(법률)(제21034호)(20251127).pdf",
+   "source_path": "원문/규정/건설산업기본법(법률)(제21034호)(20251127).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "건설산업기본법(법률)(제21034호)(20251127).pdf",
+ "source_path": "원문/규정/건설산업기본법(법률)(제21034호)(20251127).pdf",
+ "pdf_path": "pdf/건설산업기본법(법률)(제21034호)(20251127).pdf",
+ "source_pages": 43,
+ "header_raw": [
+  "건설산업기본법",
+  "[시행 2025. 11. 27.] [법률 제21034호, 2025. 8. 26., 일부개정]",
+  "국토교통부 (건설정책과-건설기술인배치, 건설업종, 기타) 044-201-3514, 3515",
+  "국토교통부 (건설정책과-보증, 실적신고) 044-201-3616",
+  "국토교통부 (공정건설지원과-하도급) 044-201-3572",
+  "국토교통부 (건설정책과-건설업등록관리, 제재처분) 044-201-4586"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙 <개정 2011. 5. 24.>",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 건설업 등록",
+   "raw": "제2장 건설업 등록 <개정 2011. 5. 24.>",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 도급계약 및 하도급계약",
+   "raw": "제3장 도급계약 및 하도급계약 <개정 2011. 5. 24.>",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 시공 및 기술관리",
+   "raw": "제4장 시공 및 기술관리",
+   "page": 21,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 경영합리화와 중소건설사업자 지원",
+   "raw": "제5장 경영합리화와 중소건설사업자 지원 <개정 2019. 4. 30.>",
+   "page": 22,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 건설사업자의 단체",
+   "raw": "제6장 건설사업자의 단체 <개정 2019. 4. 30.>",
+   "page": 24,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 건설 관련 공제조합 및 건설보증",
+   "raw": "제7장 건설 관련 공제조합 및 건설보증 <개정 2011. 5. 24.>",
+   "page": 25,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 건설분쟁 조정위원회",
+   "raw": "제8장 건설분쟁 조정위원회 <개정 2011. 5. 24.>",
+   "page": 31,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제9장 시정명령 등",
+   "raw": "제9장 시정명령 등 <개정 2011. 5. 24.>",
+   "page": 33,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제10장 보칙",
+   "raw": "제10장 보칙 <개정 2011. 5. 24.>",
+   "page": 38,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제11장 벌칙",
+   "raw": "제11장 벌칙 <개정 2011. 5. 24.>",
+   "page": 40,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 148,
+  "scheduled_versions": 5,
+  "deleted_articles": 7,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/건설산업기본법/articles.json",
+  "annexes": "regulations/건설산업기본법/annexes.json",
+  "markdown": "regulations/건설산업기본법/regulation.md"
+ }
+}

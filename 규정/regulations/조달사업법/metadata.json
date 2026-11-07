@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "PROCUREMENT_BUSINESS_ACT",
+ "name": "조달사업에 관한 법률",
+ "short_name": "조달사업법",
+ "display_id_prefix": "조달사업법",
+ "slug": "조달사업법",
+ "aliases": [
+  "조달사업법",
+  "조달사업에 관한 법률",
+  "조달법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21420호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "조달정책과"
+  }
+ ],
+ "effective_date": "2026-09-11",
+ "revision_date": "2026-03-10",
+ "revision_type": "일부개정",
+ "version": "2026-09-11-21420",
+ "versions": [
+  {
+   "version": "2026-09-11-21420",
+   "effective_date": "2026-09-11",
+   "revision_date": "2026-03-10",
+   "number": "제21420호",
+   "source_file": "PROCUREMENT_BUSINESS_ACT.json",
+   "source_path": "원문/법제처API/PROCUREMENT_BUSINESS_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-09-11-21420-pdf",
+   "effective_date": "2026-09-11",
+   "revision_date": "2026-03-10",
+   "number": "제21420호",
+   "source_file": "조달사업에 관한 법률(법률)(제21420호)(20260911).pdf",
+   "source_path": "원문/규정/조달사업에 관한 법률(법률)(제21420호)(20260911).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/조달사업법/history/2026-09-11-21420-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "PROCUREMENT_BUSINESS_ACT.json",
+ "source_path": "원문/법제처API/PROCUREMENT_BUSINESS_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 41,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 16,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/조달사업법/articles.json",
+  "annexes": "regulations/조달사업법/annexes.json",
+  "markdown": "regulations/조달사업법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=283847",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "283847",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

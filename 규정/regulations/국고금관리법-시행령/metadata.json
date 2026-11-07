@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "NATIONAL_TREASURY_ENFORCEMENT",
+ "name": "국고금 관리법 시행령",
+ "short_name": "국고금관리법 시행령",
+ "display_id_prefix": "국고금관리법-시행령",
+ "slug": "국고금관리법-시행령",
+ "aliases": [
+  "국고금관리법 시행령",
+  "국고금 관리법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제35947호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "국고총괄과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2025-12-30",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-35947",
+ "versions": [
+  {
+   "version": "2026-01-02-35947",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-12-30",
+   "number": "제35947호",
+   "source_file": "NATIONAL_TREASURY_ENFORCEMENT.json",
+   "source_path": "원문/법제처API/NATIONAL_TREASURY_ENFORCEMENT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-01-02-35947-pdf",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-12-30",
+   "number": "제35947호",
+   "source_file": "국고금 관리법 시행령(대통령령)(제35947호)(20260102).pdf",
+   "source_path": "원문/규정/국고금 관리법 시행령(대통령령)(제35947호)(20260102).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/국고금관리법-시행령/history/2026-01-02-35947-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "NATIONAL_TREASURY_ACT",
+ "source_file": "NATIONAL_TREASURY_ENFORCEMENT.json",
+ "source_path": "원문/법제처API/NATIONAL_TREASURY_ENFORCEMENT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 116,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 53,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/국고금관리법-시행령/articles.json",
+  "annexes": "regulations/국고금관리법-시행령/annexes.json",
+  "markdown": "regulations/국고금관리법-시행령/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=280813",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "280813",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

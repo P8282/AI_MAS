@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_A_2100000274604",
+ "name": "조직·정원관리 및 파트리더 설치 운영규정",
+ "short_name": "조직·정원관리 및 파트리더 설치 운영규정",
+ "display_id_prefix": "조직정원관리-및-파트리더-설치-운영규정",
+ "slug": "조직정원관리-및-파트리더-설치-운영규정",
+ "aliases": [
+  "조직·정원관리 및 파트리더 설치 운영규정"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "방위사업청훈령",
+ "number": "제950호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "조직인사담당관"
+  }
+ ],
+ "effective_date": "2026-02-10",
+ "revision_date": "2026-02-10",
+ "revision_type": "일부개정",
+ "version": "2026-02-10-950",
+ "versions": [
+  {
+   "version": "2026-02-10-950",
+   "effective_date": "2026-02-10",
+   "revision_date": "2026-02-10",
+   "number": "제950호",
+   "source_file": "조직·정원관리 및 파트리더 설치 운영규정.json",
+   "source_path": "원문/법제처API/조직·정원관리 및 파트리더 설치 운영규정.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "조직·정원관리 및 파트리더 설치 운영규정.json",
+ "source_path": "원문/법제처API/조직·정원관리 및 파트리더 설치 운영규정.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000274604",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 19,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 12,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/조직정원관리-및-파트리더-설치-운영규정/articles.json",
+  "annexes": "regulations/조직정원관리-및-파트리더-설치-운영규정/annexes.json",
+  "markdown": "regulations/조직정원관리-및-파트리더-설치-운영규정/regulation.md"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "schema_version": "1.0",
+ "id": "STATE_CONTRACT_ENFORCEMENT",
+ "name": "국가를 당사자로 하는 계약에 관한 법률 시행령",
+ "short_name": "국가계약법 시행령",
+ "display_id_prefix": "국가계약법-시행령",
+ "slug": "국가계약법-시행령",
+ "aliases": [
+  "국가계약법시행령",
+  "국계령",
+  "국가를 당사자로 하는 계약에 관한 법률 시행령",
+  "국가를 당사자로 하는 법률 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36338호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  }
+ ],
+ "effective_date": "2026-06-03",
+ "revision_date": "2026-05-19",
+ "revision_type": "타법개정",
+ "version": "2026-06-03-36338",
+ "versions": [
+  {
+   "version": "2026-06-03-36338",
+   "effective_date": "2026-06-03",
+   "revision_date": "2026-05-19",
+   "number": "제36338호",
+   "source_file": "STATE_CONTRACT_ENFORCEMENT.json",
+   "source_path": "원문/법제처API/STATE_CONTRACT_ENFORCEMENT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-06-03-36338-pdf",
+   "effective_date": "2026-06-03",
+   "revision_date": "2026-05-19",
+   "number": "제36338호",
+   "source_file": "국가를 당사자로 하는 계약에 관한 법률 시행령(대통령령)(제36338호)(20260603).pdf",
+   "source_path": "원문/규정/국가를 당사자로 하는 계약에 관한 법률 시행령(대통령령)(제36338호)(20260603).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/국가계약법-시행령/history/2026-06-03-36338-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "STATE_CONTRACT_ACT",
+ "source_file": "STATE_CONTRACT_ENFORCEMENT.json",
+ "source_path": "원문/법제처API/STATE_CONTRACT_ENFORCEMENT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 153,
+  "scheduled_versions": 0,
+  "deleted_articles": 21,
+  "supplementary_articles": 286,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/국가계약법-시행령/articles.json",
+  "annexes": "regulations/국가계약법-시행령/annexes.json",
+  "markdown": "regulations/국가계약법-시행령/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=285893",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "285893",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

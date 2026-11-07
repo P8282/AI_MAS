@@ -1,0 +1,84 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_QUALITY_TEST_RULE",
+ "name": "조달품질원 시험ㆍ분석 규칙",
+ "short_name": "조달품질원 시험·분석 규칙",
+ "display_id_prefix": "조달품질원-시험분석-규칙",
+ "slug": "조달품질원-시험분석-규칙",
+ "aliases": [
+  "조달품질원 시험ㆍ분석 규칙",
+  "조달품질원 시험·분석 규칙",
+  "조달품질원 시험분석 규칙",
+  "시험ㆍ분석 규칙",
+  "시험분석 규칙"
+ ],
+ "document_type": "부령",
+ "format": "article",
+ "issuer_form": "기획재정부령",
+ "number": "제808호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "조사분석과"
+  }
+ ],
+ "effective_date": "2020-10-05",
+ "revision_date": "2020-10-05",
+ "revision_type": "타법개정",
+ "version": "2020-10-05-808",
+ "versions": [
+  {
+   "version": "2020-10-05-808",
+   "effective_date": "2020-10-05",
+   "revision_date": "2020-10-05",
+   "number": "제808호",
+   "source_file": "PPS_QUALITY_TEST_RULE.json",
+   "source_path": "원문/법제처API/PPS_QUALITY_TEST_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2020-10-05-808-pdf",
+   "effective_date": "2020-10-05",
+   "revision_date": "2020-10-05",
+   "number": "제808호",
+   "source_file": "조달품질원 시험ㆍ분석 규칙(기획재정부령)(제00808호)(20201005).pdf",
+   "source_path": "원문/규정/조달품질원 시험ㆍ분석 규칙/조달품질원 시험ㆍ분석 규칙(기획재정부령)(제00808호)(20201005).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/조달품질원-시험분석-규칙/history/2020-10-05-808-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "PPS_QUALITY_TEST_RULE.json",
+ "source_path": "원문/법제처API/PPS_QUALITY_TEST_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 9,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 19,
+  "annexes": 6
+ },
+ "files": {
+  "articles": "regulations/조달품질원-시험분석-규칙/articles.json",
+  "annexes": "regulations/조달품질원-시험분석-규칙/annexes.json",
+  "markdown": "regulations/조달품질원-시험분석-규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=222267",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "222267",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

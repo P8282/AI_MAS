@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_LOCAL_CONSTRUCTION_MGMT_SPECIAL_CONDITIONS",
+ "name": "지방자치단체용 건설기술(건설사업관리) 용역계약 특수조건",
+ "short_name": "지방자치단체용 건설사업관리 용역 특수조건",
+ "display_id_prefix": "지방자치단체용-건설사업관리-용역계약-특수조건",
+ "slug": "지방자치단체용-건설사업관리-용역계약-특수조건",
+ "aliases": [
+  "지방자치단체용 건설기술(건설사업관리) 용역계약 특수조건",
+  "건설사업관리 용역계약 특수조건"
+ ],
+ "document_type": "지침",
+ "format": "article",
+ "issuer_form": "조달청지침",
+ "number": "제5897호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "건설기술계약과"
+  }
+ ],
+ "effective_date": "2025-07-02",
+ "revision_date": "2025-06-30",
+ "revision_type": "일부개정",
+ "version": "2025-07-02-5897",
+ "versions": [
+  {
+   "version": "2025-07-02-5897",
+   "effective_date": "2025-07-02",
+   "revision_date": "2025-06-30",
+   "number": "제5897호",
+   "source_file": "PPS_LOCAL_CONSTRUCTION_MGMT_SPECIAL_CONDITIONS.json",
+   "source_path": "원문/법제처API/PPS_LOCAL_CONSTRUCTION_MGMT_SPECIAL_CONDITIONS.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2025-07-02-5897-pdf",
+   "effective_date": "2025-07-02",
+   "revision_date": "2025-06-30",
+   "number": "제5897호",
+   "source_file": "지방자치단체용 건설기술(건설사업관리) 용역계약 특수조건(조달청지침)(제5897호)(20250702).pdf",
+   "source_path": "원문/규정/지방자치단체용 건설기술(건설사업관리) 용역계약 특수조건(조달청지침)(제5897호)(20250702).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/지방자치단체용-건설사업관리-용역계약-특수조건/history/2025-07-02-5897-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "PPS_LOCAL_CONSTRUCTION_MGMT_SPECIAL_CONDITIONS.json",
+ "source_path": "원문/법제처API/PPS_LOCAL_CONSTRUCTION_MGMT_SPECIAL_CONDITIONS.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 21,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 5,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/지방자치단체용-건설사업관리-용역계약-특수조건/articles.json",
+  "annexes": "regulations/지방자치단체용-건설사업관리-용역계약-특수조건/annexes.json",
+  "markdown": "regulations/지방자치단체용-건설사업관리-용역계약-특수조건/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000261326",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000261326",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

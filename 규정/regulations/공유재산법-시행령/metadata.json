@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "PUBLIC_PROPERTY_GOODS_ENFORCEMENT",
+ "name": "공유재산 및 물품 관리법 시행령",
+ "short_name": "공유재산법 시행령",
+ "display_id_prefix": "공유재산법-시행령",
+ "slug": "공유재산법-시행령",
+ "aliases": [
+  "공유재산법 시행령",
+  "공유재산 및 물품 관리법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36515호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "공유재산정책과"
+  }
+ ],
+ "effective_date": "2026-07-21",
+ "revision_date": "2026-07-21",
+ "revision_type": "일부개정",
+ "version": "2026-07-21-36515",
+ "versions": [
+  {
+   "version": "2026-07-21-36515",
+   "effective_date": "2026-07-21",
+   "revision_date": "2026-07-21",
+   "number": "제36515호",
+   "source_file": "공유재산 및 물품 관리법 시행령.json",
+   "source_path": "원문/법제처API/공유재산 및 물품 관리법 시행령.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "공유재산 및 물품 관리법 시행령.json",
+ "source_path": "원문/법제처API/공유재산 및 물품 관리법 시행령.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=288163",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 125,
+  "scheduled_versions": 0,
+  "deleted_articles": 10,
+  "supplementary_articles": 177,
+  "annexes": 6
+ },
+ "files": {
+  "articles": "regulations/공유재산법-시행령/articles.json",
+  "annexes": "regulations/공유재산법-시행령/annexes.json",
+  "markdown": "regulations/공유재산법-시행령/regulation.md"
+ }
+}

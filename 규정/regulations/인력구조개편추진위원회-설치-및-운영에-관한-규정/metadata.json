@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_A_2100000206390",
+ "name": "인력구조개편추진위원회 설치 및 운영에 관한 규정",
+ "short_name": "인력구조개편추진위원회 설치 및 운영에 관한 규정",
+ "display_id_prefix": "인력구조개편추진위원회-설치-및-운영에-관한-규정",
+ "slug": "인력구조개편추진위원회-설치-및-운영에-관한-규정",
+ "aliases": [
+  "인력구조개편추진위원회 설치 및 운영에 관한 규정"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "방위사업청훈령",
+ "number": "제703호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "조직인사담당관"
+  }
+ ],
+ "effective_date": "2021-11-23",
+ "revision_date": "2021-11-23",
+ "revision_type": "일부개정",
+ "version": "2021-11-23-703",
+ "versions": [
+  {
+   "version": "2021-11-23-703",
+   "effective_date": "2021-11-23",
+   "revision_date": "2021-11-23",
+   "number": "제703호",
+   "source_file": "인력구조개편추진위원회 설치 및 운영에 관한 규정.json",
+   "source_path": "원문/법제처API/인력구조개편추진위원회 설치 및 운영에 관한 규정.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "인력구조개편추진위원회 설치 및 운영에 관한 규정.json",
+ "source_path": "원문/법제처API/인력구조개편추진위원회 설치 및 운영에 관한 규정.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000206390",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 14,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 3,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/인력구조개편추진위원회-설치-및-운영에-관한-규정/articles.json",
+  "annexes": "regulations/인력구조개편추진위원회-설치-및-운영에-관한-규정/annexes.json",
+  "markdown": "regulations/인력구조개편추진위원회-설치-및-운영에-관한-규정/regulation.md"
+ }
+}

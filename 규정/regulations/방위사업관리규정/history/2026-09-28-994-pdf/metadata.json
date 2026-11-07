@@ -1,0 +1,342 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_MANAGEMENT_DIRECTIVE",
+ "name": "방위사업관리규정",
+ "short_name": "방위사업관리규정",
+ "display_id_prefix": "방위사업관리규정",
+ "slug": "방위사업관리규정",
+ "aliases": [
+  "방위사업관리규정",
+  "방사업관리규정"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "방위사업청훈령",
+ "number": "제994호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "방위사업정책과"
+  }
+ ],
+ "effective_date": "2026-09-28",
+ "revision_date": "2026-09-28",
+ "revision_type": "일부개정",
+ "version": "2026-09-28-994",
+ "versions": [
+  {
+   "version": "2026-09-28-994",
+   "effective_date": "2026-09-28",
+   "revision_date": "2026-09-28",
+   "number": "제994호",
+   "source_file": "방위사업관리규정(방위사업청훈령)(제994호)(20260928).pdf",
+   "source_path": "원문/규정/방위사업관리규정(방위사업청훈령)(제994호)(20260928).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "DEFENSE_ACQ_RULE",
+ "source_file": "방위사업관리규정(방위사업청훈령)(제994호)(20260928).pdf",
+ "source_path": "원문/규정/방위사업관리규정(방위사업청훈령)(제994호)(20260928).pdf",
+ "pdf_path": "pdf/방위사업관리규정(방위사업청훈령)(제994호)(20260928).pdf",
+ "source_pages": 90,
+ "header_raw": [
+  "방위사업관리규정",
+  "[시행 2026. 9. 28.] [방위사업청훈령 제994호, 2026. 9. 28., 일부개정]",
+  "방위사업청(방위사업정책과), 02-2079-6314",
+  "제I장 총  칙"
+ ],
+ "outline": [
+  {
+   "kind": "절",
+   "title": "제1절 일반사항",
+   "raw": "제1절 일반사항",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 방위사업수행의 기본원칙",
+   "raw": "제2절 방위사업수행의 기본원칙",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 소요결정 및 수정",
+   "raw": "제3절 소요결정 및 수정",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 중기계획 및 예산",
+   "raw": "제4절 중기계획 및 예산",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 방위력개선사업 수행",
+   "raw": "제2장 방위력개선사업 수행",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 일반사항",
+   "raw": "제1절 일반사항",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 통합사업관리팀의 구성 및 운영",
+   "raw": "제2절 통합사업관리팀의 구성 및 운영",
+   "page": 15,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 선행연구 및 사업추진기본전략",
+   "raw": "제3절 선행연구 및 사업추진기본전략",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 상호운용성",
+   "raw": "제4절 상호운용성",
+   "page": 20,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 무기체계 소프트웨어 관리",
+   "raw": "제5절 무기체계 소프트웨어 관리",
+   "page": 22,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 분석평가",
+   "raw": "제6절 분석평가",
+   "page": 23,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 전력화 조치 및 사업종결",
+   "raw": "제7절 전력화 조치 및 사업종결",
+   "page": 24,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 연구개발사업",
+   "raw": "제3장 연구개발사업",
+   "page": 25,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 일반사항",
+   "raw": "제1절 일반사항",
+   "page": 25,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 일반 무기체계",
+   "raw": "제2절 일반 무기체계",
+   "page": 35,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 함정 무기체계",
+   "raw": "제3절 함정 무기체계",
+   "page": 45,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 전장관리정보체계",
+   "raw": "제4절 전장관리정보체계",
+   "page": 51,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 기술협력생산",
+   "raw": "제5절 기술협력생산",
+   "page": 55,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 진화적 연구개발",
+   "raw": "제6절 진화적 연구개발",
+   "page": 57,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 기타 연구개발사업",
+   "raw": "제7절 기타 연구개발사업",
+   "page": 58,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제8절 협약으로 추진하는 연구개발사업",
+   "raw": "제8절 협약으로 추진하는 연구개발사업",
+   "page": 59,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 구매사업",
+   "raw": "제4장 구매사업",
+   "page": 66,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 일반사항",
+   "raw": "제1절 일반사항",
+   "page": 66,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 국내구매사업",
+   "raw": "제2절 국내구매사업",
+   "page": 68,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 국외구매사업",
+   "raw": "제3절 국외구매사업",
+   "page": 69,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 임차사업",
+   "raw": "제4절 임차사업",
+   "page": 72,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 신속소요사업",
+   "raw": "제5장 신속소요사업",
+   "page": 73,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 일반사항",
+   "raw": "제1절 일반사항",
+   "page": 73,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 연구개발사업",
+   "raw": "제2절 연구개발사업",
+   "page": 73,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 구매사업",
+   "raw": "제3절 구매사업",
+   "page": 74,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 긴급소요사업",
+   "raw": "제6장 긴급소요사업",
+   "page": 74,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 일반사항",
+   "raw": "제1절 일반사항",
+   "page": 74,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 구매사업",
+   "raw": "제2절 구매사업",
+   "page": 75,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 연구개발사업",
+   "raw": "제3절 연구개발사업",
+   "page": 75,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장  전시방위사업관리",
+   "raw": "제7장  전시방위사업관리",
+   "page": 76,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 보칙",
+   "raw": "제8장 보칙",
+   "page": 82,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 국방과학기술관리",
+   "raw": "제1절 국방과학기술관리",
+   "page": 82,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 방위산업육성",
+   "raw": "제2절 방위산업육성",
+   "page": 88,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 방산기술보호 및 수출입허가 등",
+   "raw": "제3절 방산기술보호 및 수출입허가 등",
+   "page": 89,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 208,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/방위사업관리규정/articles.json",
+  "annexes": "regulations/방위사업관리규정/annexes.json",
+  "markdown": "regulations/방위사업관리규정/regulation.md"
+ }
+}

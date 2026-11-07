@@ -1,0 +1,153 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_PRODUCT_PROCUREMENT_ENFORCEMENT",
+ "name": "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령",
+ "short_name": "판로지원법 시행령",
+ "display_id_prefix": "판로지원법-시행령",
+ "slug": "판로지원법-시행령",
+ "aliases": [
+  "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령",
+  "판로지원법 시행령",
+  "판로지원법시행령",
+  "중소기업 제품에 대한 판로지원법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36728호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "판로정책과 - 우선조달(제2조의2~제2조의3"
+  },
+  {
+   "agency": "중소벤처기업부",
+   "department": "판로정책과 - 공공기관 구매계획 및 실적(제3조~제5조의2"
+  },
+  {
+   "agency": "중소벤처기업부",
+   "department": "판로정책과 - 경쟁제품, 공사용자재 등(제6조~제9조의6, 제11조"
+  },
+  {
+   "agency": "중소벤처기업부",
+   "department": "판로정책과 - 직접생산(제10조"
+  },
+  {
+   "agency": "중소벤처기업부",
+   "department": "판로정책과 - 성능인증·시범구매 등(제12조~제17조"
+  }
+ ],
+ "effective_date": "2026-10-02",
+ "revision_date": "2026-09-29",
+ "revision_type": "타법개정",
+ "version": "2026-10-02-36728",
+ "versions": [
+  {
+   "version": "2026-10-02-36728",
+   "effective_date": "2026-10-02",
+   "revision_date": "2026-09-29",
+   "number": "제36728호",
+   "source_file": "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령(대통령령)(제36728호)(20261002).pdf",
+   "source_path": "원문/규정/판로지원법 시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령(대통령령)(제36728호)(20261002).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "SME_PRODUCT_PROCUREMENT_ACT",
+ "source_file": "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령(대통령령)(제36728호)(20261002).pdf",
+ "source_path": "원문/규정/판로지원법 시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령(대통령령)(제36728호)(20261002).pdf",
+ "pdf_path": "pdf/판로지원법 시행령/중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령(대통령령)(제36728호)(20261002).pdf",
+ "source_pages": 18,
+ "header_raw": [
+  "중소기업제품 구매촉진 및 판로지원에 관한 법률 시행령 ( 약칭: 판로지원법 시행령 )",
+  "[시행 2026. 10. 2.] [대통령령 제36728호, 2026. 9. 29., 타법개정]",
+  "중소벤처기업부 (판로정책과 - 우선조달(제2조의2~제2조의3)) 044-204-7548",
+  "중소벤처기업부 (판로정책과 - 공공기관 구매계획 및 실적(제3조~제5조의2)) 044-204-7547, 7544",
+  "중소벤처기업부 (판로정책과 - 경쟁제품, 공사용자재 등(제6조~제9조의6, 제11조)) 044-204-7497, 7494",
+  "중소벤처기업부 (판로정책과 - 직접생산(제10조)) 044-204-7497, 7493",
+  "중소벤처기업부 (판로정책과 - 성능인증·시범구매 등(제12조~제17조)) 044-204-7547, 7544"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 중소기업제품의 구매촉진 및 중소기업자간 경쟁 제도의 운영",
+   "raw": "제2장 중소기업제품의 구매촉진 및 중소기업자간 경쟁 제도의 운영",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 기술개발제품 우선구매 지원",
+   "raw": "제3장 기술개발제품 우선구매 지원",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장의2 공공조달 상생협력 지원제도 운영",
+   "raw": "제3장의2 공공조달 상생협력 지원제도 운영 <신설 2020. 10. 8.>",
+   "page": 12,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 구매 효율성 및 이행력 확보",
+   "raw": "제4장 구매 효율성 및 이행력 확보",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 중소기업 판로지원 등",
+   "raw": "제5장 중소기업 판로지원 등",
+   "page": 15,
+   "deleted": false
+  },
+  {
+   "kind": "항",
+   "title": "제1항 각 호의 사업에 참여하게 할 수 있다.",
+   "raw": "제1항 각 호의 사업에 참여하게 할 수 있다.<개정 2017. 7. 26.>",
+   "page": 15,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 보칙",
+   "raw": "제6장 보칙",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 벌칙",
+   "raw": "제7장 벌칙 <신설 2016. 1. 12.>",
+   "page": 18,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 49,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 2,
+  "annexes": 3
+ },
+ "files": {
+  "articles": "regulations/판로지원법-시행령/articles.json",
+  "annexes": "regulations/판로지원법-시행령/annexes.json",
+  "markdown": "regulations/판로지원법-시행령/regulation.md"
+ }
+}

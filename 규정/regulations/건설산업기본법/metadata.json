@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "CONSTRUCTION_INDUSTRY_BASIC_ACT",
+ "name": "건설산업기본법",
+ "short_name": "건설산업기본법",
+ "display_id_prefix": "건설산업기본법",
+ "slug": "건설산업기본법",
+ "aliases": [
+  "건설산업기본법",
+  "건설산업기본법",
+  "건산법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21034호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "건설정책과-건설업등록관리, 제재처분"
+  }
+ ],
+ "effective_date": "2025-11-27",
+ "revision_date": "2025-08-26",
+ "revision_type": "일부개정",
+ "version": "2025-11-27-21034",
+ "versions": [
+  {
+   "version": "2025-11-27-21034",
+   "effective_date": "2025-11-27",
+   "revision_date": "2025-08-26",
+   "number": "제21034호",
+   "source_file": "CONSTRUCTION_INDUSTRY_BASIC_ACT.json",
+   "source_path": "원문/법제처API/CONSTRUCTION_INDUSTRY_BASIC_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2025-11-27-21034-pdf",
+   "effective_date": "2025-11-27",
+   "revision_date": "2025-08-26",
+   "number": "제21034호",
+   "source_file": "건설산업기본법(법률)(제21034호)(20251127).pdf",
+   "source_path": "원문/규정/건설산업기본법(법률)(제21034호)(20251127).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/건설산업기본법/history/2025-11-27-21034-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "CONSTRUCTION_INDUSTRY_BASIC_ACT.json",
+ "source_path": "원문/법제처API/CONSTRUCTION_INDUSTRY_BASIC_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 148,
+  "scheduled_versions": 5,
+  "deleted_articles": 7,
+  "supplementary_articles": 174,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/건설산업기본법/articles.json",
+  "annexes": "regulations/건설산업기본법/annexes.json",
+  "markdown": "regulations/건설산업기본법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=273435",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "273435",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

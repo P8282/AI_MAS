@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "SEVERELY_DISABLED_PRODUCTS_RULE",
+ "name": "중증장애인생산품 우선구매 특별법 시행규칙",
+ "short_name": "중증장애인생산품법 시행규칙",
+ "display_id_prefix": "중증장애인생산품법-시행규칙",
+ "slug": "중증장애인생산품법-시행규칙",
+ "aliases": [
+  "중증장애인생산품법 시행규칙",
+  "중증장애인생산품법시행규칙",
+  "중증장애인생산품 우선구매 특별법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "보건복지부령",
+ "number": "제726호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "보건복지부",
+   "department": "장애인자립기반과"
+  }
+ ],
+ "effective_date": "2020-05-27",
+ "revision_date": "2020-05-27",
+ "revision_type": "일부개정",
+ "version": "2020-05-27-726",
+ "versions": [
+  {
+   "version": "2020-05-27-726",
+   "effective_date": "2020-05-27",
+   "revision_date": "2020-05-27",
+   "number": "제726호",
+   "source_file": "중증장애인생산품 우선구매 특별법 시행규칙(보건복지부령)(제00726호)(20200527).pdf",
+   "source_path": "원문/규정/중증장애인생산품 우선구매 특별법 시행규칙(보건복지부령)(제00726호)(20200527).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "SEVERELY_DISABLED_PRODUCTS_ENFORCEMENT",
+ "source_file": "중증장애인생산품 우선구매 특별법 시행규칙(보건복지부령)(제00726호)(20200527).pdf",
+ "source_path": "원문/규정/중증장애인생산품 우선구매 특별법 시행규칙(보건복지부령)(제00726호)(20200527).pdf",
+ "pdf_path": "pdf/중증장애인생산품 우선구매 특별법 시행규칙(보건복지부령)(제00726호)(20200527).pdf",
+ "source_pages": 2,
+ "header_raw": [
+  "중증장애인생산품 우선구매 특별법 시행규칙",
+  "[시행 2020. 5. 27.] [보건복지부령 제726호, 2020. 5. 27., 일부개정]",
+  "보건복지부 (장애인자립기반과) 044-202-3325, 3330"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 9,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/중증장애인생산품법-시행규칙/articles.json",
+  "annexes": "regulations/중증장애인생산품법-시행규칙/annexes.json",
+  "markdown": "regulations/중증장애인생산품법-시행규칙/regulation.md"
+ }
+}

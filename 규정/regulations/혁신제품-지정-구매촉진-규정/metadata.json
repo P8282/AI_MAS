@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "INNOVATION_PRODUCT_DESIGNATION_DIRECTIVE",
+ "name": "혁신제품 지정 및 구매촉진 등에 관한 규정",
+ "short_name": "혁신제품 지정·구매촉진 규정",
+ "display_id_prefix": "혁신제품-지정-구매촉진-규정",
+ "slug": "혁신제품-지정-구매촉진-규정",
+ "aliases": [
+  "혁신제품 지정 및 구매촉진 등에 관한 규정",
+  "혁신제품 지정 규정",
+  "혁신제품 구매촉진"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "재정경제부훈령",
+ "number": "제68호",
+ "group": "혁신제품",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "조달정책과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2026-01-02",
+ "revision_type": "일부개정",
+ "version": "2026-01-02-68",
+ "versions": [
+  {
+   "version": "2026-01-02-68",
+   "effective_date": "2026-01-02",
+   "revision_date": "2026-01-02",
+   "number": "제68호",
+   "source_file": "INNOVATION_PRODUCT_DESIGNATION_DIRECTIVE.json",
+   "source_path": "원문/법제처API/INNOVATION_PRODUCT_DESIGNATION_DIRECTIVE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-01-02-68-pdf",
+   "effective_date": "2026-01-02",
+   "revision_date": "2026-01-02",
+   "number": "제68호",
+   "source_file": "혁신제품 지정 및 구매촉진 등에 관한 규정(재정경제부훈령)(제68호)(20260102).pdf",
+   "source_path": "원문/규정/혁신제품 지정 및 구매촉진 등에 관한 규정/혁신제품 지정 및 구매촉진 등에 관한 규정(재정경제부훈령)(제68호)(20260102).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/혁신제품-지정-구매촉진-규정/history/2026-01-02-68-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "INNOVATION_PRODUCT_DESIGNATION_DIRECTIVE.json",
+ "source_path": "원문/법제처API/INNOVATION_PRODUCT_DESIGNATION_DIRECTIVE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 21,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 4,
+  "annexes": 4
+ },
+ "files": {
+  "articles": "regulations/혁신제품-지정-구매촉진-규정/articles.json",
+  "annexes": "regulations/혁신제품-지정-구매촉진-규정/annexes.json",
+  "markdown": "regulations/혁신제품-지정-구매촉진-규정/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000272642",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000272642",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 4
+}

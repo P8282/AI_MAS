@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_A_2100000217874",
+ "name": "방위산업에 관한 계약사무처리 시행세칙",
+ "short_name": "방위산업에 관한 계약사무처리 시행세칙",
+ "display_id_prefix": "방위산업에-관한-계약사무처리-시행세칙",
+ "slug": "방위산업에-관한-계약사무처리-시행세칙",
+ "aliases": [
+  "방위산업에 관한 계약사무처리 시행세칙"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "방위사업청훈령",
+ "number": "제780호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "계약제도발전과"
+  }
+ ],
+ "effective_date": "2022-12-30",
+ "revision_date": "2022-12-30",
+ "revision_type": "일부개정",
+ "version": "2022-12-30-780",
+ "versions": [
+  {
+   "version": "2022-12-30-780",
+   "effective_date": "2022-12-30",
+   "revision_date": "2022-12-30",
+   "number": "제780호",
+   "source_file": "방위산업에 관한 계약사무처리 시행세칙.json",
+   "source_path": "원문/법제처API/방위산업에 관한 계약사무처리 시행세칙.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "방위산업에 관한 계약사무처리 시행세칙.json",
+ "source_path": "원문/법제처API/방위산업에 관한 계약사무처리 시행세칙.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000217874",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 10,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 7,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/방위산업에-관한-계약사무처리-시행세칙/articles.json",
+  "annexes": "regulations/방위산업에-관한-계약사무처리-시행세칙/annexes.json",
+  "markdown": "regulations/방위산업에-관한-계약사무처리-시행세칙/regulation.md"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "MID_SIZED_ENTERPRISE_ACT",
+ "name": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법",
+ "short_name": "중견기업법",
+ "display_id_prefix": "중견기업법",
+ "slug": "중견기업법",
+ "aliases": [
+  "중견기업법",
+  "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21065호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "산업통상부",
+   "department": "중견기업정책과"
+  }
+ ],
+ "effective_date": "2025-10-01",
+ "revision_date": "2025-10-01",
+ "revision_type": "타법개정",
+ "version": "2025-10-01-21065",
+ "versions": [
+  {
+   "version": "2025-10-01-21065",
+   "effective_date": "2025-10-01",
+   "revision_date": "2025-10-01",
+   "number": "제21065호",
+   "source_file": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+   "source_path": "원문/법제처API/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+ "source_path": "원문/법제처API/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=276603",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 42,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 21,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/중견기업법/articles.json",
+  "annexes": "regulations/중견기업법/annexes.json",
+  "markdown": "regulations/중견기업법/regulation.md"
+ }
+}

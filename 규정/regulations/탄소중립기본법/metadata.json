@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "CARBON_NEUTRALITY_ACT",
+ "name": "기후위기 대응을 위한 탄소중립·녹색성장 기본법",
+ "short_name": "탄소중립기본법",
+ "display_id_prefix": "탄소중립기본법",
+ "slug": "탄소중립기본법",
+ "aliases": [
+  "탄소중립기본법",
+  "기후위기 대응을 위한 탄소중립·녹색성장 기본법",
+  "탄소중립녹색성장기본법",
+  "탄소중립법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21527호",
+ "group": "환경·재활용",
+ "agencies": [
+  {
+   "agency": "기후에너지환경부",
+   "department": "기후에너지재정과(기후대응기금)"
+  }
+ ],
+ "effective_date": "2026-04-07",
+ "revision_date": "2026-04-07",
+ "revision_type": "일부개정",
+ "version": "2026-04-07-21527",
+ "versions": [
+  {
+   "version": "2026-04-07-21527",
+   "effective_date": "2026-04-07",
+   "revision_date": "2026-04-07",
+   "number": "제21527호",
+   "source_file": "기후위기 대응을 위한 탄소중립·녹색성장 기본법.json",
+   "source_path": "원문/법제처API/기후위기 대응을 위한 탄소중립·녹색성장 기본법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "기후위기 대응을 위한 탄소중립·녹색성장 기본법.json",
+ "source_path": "원문/법제처API/기후위기 대응을 위한 탄소중립·녹색성장 기본법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=285267",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 89,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 33,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/탄소중립기본법/articles.json",
+  "annexes": "regulations/탄소중립기본법/annexes.json",
+  "markdown": "regulations/탄소중립기본법/regulation.md"
+ }
+}

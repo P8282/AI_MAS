@@ -1,0 +1,274 @@
+{
+ "schema_version": "1.0",
+ "id": "BID_CONTRACT_EXECUTION_RULE",
+ "name": "(계약예규)정부 입찰ㆍ계약 집행기준",
+ "short_name": "정부 입찰·계약 집행기준",
+ "display_id_prefix": "정부입찰계약집행기준",
+ "slug": "정부입찰계약집행기준",
+ "aliases": [
+  "정부 입찰ㆍ계약 집행기준",
+  "정부 입찰·계약 집행기준",
+  "입찰계약집행기준",
+  "집행기준",
+  "계약예규 집행기준",
+  "정부 입찰 계약집행기준",
+  "정부입찰계약집행기준"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "재정경제부계약예규",
+ "number": "제172호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  }
+ ],
+ "effective_date": "2026-08-25",
+ "revision_date": "2026-08-25",
+ "revision_type": "일부개정",
+ "version": "2026-08-25-172",
+ "versions": [
+  {
+   "version": "2026-08-25-172",
+   "effective_date": "2026-08-25",
+   "revision_date": "2026-08-25",
+   "number": "제172호",
+   "source_file": "(계약예규)정부 입찰ㆍ계약 집행기준(재정경제부계약예규)(제172호)(20260825).pdf",
+   "source_path": "원문/규정/(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준(재정경제부계약예규)(제172호)(20260825).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "STATE_CONTRACT_ENFORCEMENT",
+ "source_file": "(계약예규)정부 입찰ㆍ계약 집행기준(재정경제부계약예규)(제172호)(20260825).pdf",
+ "source_path": "원문/규정/(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준(재정경제부계약예규)(제172호)(20260825).pdf",
+ "pdf_path": "pdf/(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준(재정경제부계약예규)(제172호)(20260825).pdf",
+ "source_pages": 49,
+ "header_raw": [
+  "(계약예규)정부 입찰ㆍ계약 집행기준",
+  "[시행 2026. 8. 25.] [재정경제부계약예규 제172호, 2026. 8. 25., 일부개정]",
+  "재정경제부(계약정책과), 044-215-5212, 5217, 5218",
+  "제10조의13<삭제 2020. 9. 24.>",
+  "제10조의14<삭제 2020. 9. 24.>",
+  "제10조의15<삭제 2020. 9. 24.>",
+  "제10조의16<삭제 2020. 9. 24.>",
+  "제10조의17<삭제 2020. 9. 24.>"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 제한경쟁입찰의 운용",
+   "raw": "제2장 제한경쟁입찰의 운용",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장  공사의 지명경쟁입찰시  지명업체 선정기준",
+   "raw": "제3장  공사의 지명경쟁입찰시  지명업체 선정기준",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 긴급에 따른 수의계약 및 소액수의계약 등의 집행",
+   "raw": "제4장 긴급에 따른 수의계약 및 소액수의계약 등의 집행",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 일괄입찰 및 기술제안입찰로 발주된 공사의 수의계약 집행",
+   "raw": "제5장 일괄입찰 및 기술제안입찰로 발주된 공사의 수의계약 집행",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 우수연구개발 혁신제품에 대한 수의계약 절차",
+   "raw": "제6장 우수연구개발 혁신제품에 대한 수의계약 절차 <삭제 2020.9.24.>",
+   "page": 17,
+   "deleted": true
+  },
+  {
+   "kind": "장",
+   "title": "제7장 지명경쟁계약, 수의계약, 개산계약 및 사후원가검토조건부 계약 집행시 서류구비",
+   "raw": "제7장 지명경쟁계약, 수의계약, 개산계약 및 사후원가검토조건부 계약 집행시 서류구비",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 동일구조물공사 및 단일공사의 집행",
+   "raw": "제8장 동일구조물공사 및 단일공사의 집행",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제9장  내역입찰의 집행",
+   "raw": "제9장  내역입찰의 집행",
+   "page": 18,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제10장  일괄입찰보증제도의 운용",
+   "raw": "제10장  일괄입찰보증제도의 운용",
+   "page": 20,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제11장 계약보증금의 감면",
+   "raw": "제11장 계약보증금의 감면",
+   "page": 20,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제12장 선금의 지급 등",
+   "raw": "제12장 선금의 지급 등",
+   "page": 21,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제13장 공사의 이행보증제도 운용",
+   "raw": "제13장 공사의 이행보증제도 운용",
+   "page": 25,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제14장 공사의 손해보험가입 업무집행",
+   "raw": "제14장 공사의 손해보험가입 업무집행",
+   "page": 28,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제15장 물가변동 조정율 산출",
+   "raw": "제15장 물가변동 조정율 산출",
+   "page": 30,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제16장 실비의 산정",
+   "raw": "제16장 실비의 산정",
+   "page": 36,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제16장의2 시행규칙 제23조의3 각호의 용역계약의 집행",
+   "raw": "제16장의2 시행규칙 제23조의3 각호의 용역계약의 집행",
+   "page": 37,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제16장의3 디지털서비스 계약의 집행",
+   "raw": "제16장의3 디지털서비스 계약의 집행",
+   "page": 39,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제17장 계약정보의 공개 등",
+   "raw": "제17장 계약정보의 공개 등",
+   "page": 39,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 시행령 제93조에 의한 계약실적보고",
+   "raw": "제1절 시행령 제93조에 의한 계약실적보고",
+   "page": 41,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 특례규정 제25조에 의한 계약실적보고",
+   "raw": "제2절 특례규정 제25조에 의한 계약실적보고",
+   "page": 41,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 보 칙",
+   "raw": "제3절 보 칙",
+   "page": 42,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제18장 대형공사 및 기술제안입찰의 설계비 등 보상",
+   "raw": "제18장 대형공사 및 기술제안입찰의 설계비 등 보상",
+   "page": 42,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제19장 국민건강보험료 및 국민연금보험료 사후정산 등",
+   "raw": "제19장 국민건강보험료 및 국민연금보험료 사후정산 등",
+   "page": 46,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제20장 입찰 관련 서류의 진위 여부 검증",
+   "raw": "제20장 입찰 관련 서류의 진위 여부 검증",
+   "page": 47,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제21장 청렴ㆍ공정계약의 집행",
+   "raw": "제21장 청렴ㆍ공정계약의 집행",
+   "page": 48,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제22장 분쟁해결방법의 합의",
+   "raw": "제22장 분쟁해결방법의 합의",
+   "page": 49,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제23장 보 칙",
+   "raw": "제23장 보 칙",
+   "page": 49,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 144,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 9
+ },
+ "files": {
+  "articles": "regulations/정부입찰계약집행기준/articles.json",
+  "annexes": "regulations/정부입찰계약집행기준/annexes.json",
+  "markdown": "regulations/정부입찰계약집행기준/regulation.md"
+ }
+}

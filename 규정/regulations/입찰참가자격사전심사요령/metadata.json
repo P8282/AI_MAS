@@ -1,0 +1,84 @@
+{
+ "schema_version": "1.0",
+ "id": "BIDDER_PREQUALIFICATION_RULE",
+ "name": "(계약예규) 입찰참가자격사전심사요령",
+ "short_name": "입찰참가자격사전심사요령",
+ "display_id_prefix": "입찰참가자격사전심사요령",
+ "slug": "입찰참가자격사전심사요령",
+ "aliases": [
+  "(계약예규) 입찰참가자격사전심사요령",
+  "입찰참가자격 사전심사요령",
+  "입찰참가자격사전심사 요령(PQ)",
+  "입찰참가자격사전심사 요령",
+  "PQ심사요령"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "재정경제부계약예규",
+ "number": "제36호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2026-01-02",
+ "revision_type": "일부개정",
+ "version": "2026-01-02-36",
+ "versions": [
+  {
+   "version": "2026-01-02-36",
+   "effective_date": "2026-01-02",
+   "revision_date": "2026-01-02",
+   "number": "제36호",
+   "source_file": "BIDDER_PREQUALIFICATION_RULE.json",
+   "source_path": "원문/법제처API/BIDDER_PREQUALIFICATION_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-01-02-36-pdf",
+   "effective_date": "2026-01-02",
+   "revision_date": "2026-01-02",
+   "number": "제36호",
+   "source_file": "(계약예규) 입찰참가자격사전심사요령(재정경제부계약예규)(제36호)(20260102).pdf",
+   "source_path": "원문/규정/입찰참가자격사전심사요령/(계약예규) 입찰참가자격사전심사요령(재정경제부계약예규)(제36호)(20260102).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/입찰참가자격사전심사요령/history/2026-01-02-36-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "STATE_CONTRACT_ENFORCEMENT",
+ "source_file": "BIDDER_PREQUALIFICATION_RULE.json",
+ "source_path": "원문/법제처API/BIDDER_PREQUALIFICATION_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 17,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 35,
+  "annexes": 2
+ },
+ "files": {
+  "articles": "regulations/입찰참가자격사전심사요령/articles.json",
+  "annexes": "regulations/입찰참가자격사전심사요령/annexes.json",
+  "markdown": "regulations/입찰참가자격사전심사요령/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000275554",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000275554",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 2
+}

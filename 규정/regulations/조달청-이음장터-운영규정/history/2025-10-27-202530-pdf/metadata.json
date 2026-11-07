@@ -1,0 +1,110 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_EUMJANGTEO_OPERATION_NOTICE",
+ "name": "조달청 이음장터 운영규정",
+ "short_name": "이음장터 운영규정",
+ "display_id_prefix": "조달청-이음장터-운영규정",
+ "slug": "조달청-이음장터-운영규정",
+ "aliases": [
+  "조달청 이음장터 운영규정",
+  "이음장터 운영"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "조달청고시",
+ "number": "제2025-30호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "서비스계약과"
+  }
+ ],
+ "effective_date": "2025-10-27",
+ "revision_date": "2025-10-16",
+ "revision_type": "일부개정",
+ "version": "2025-10-27-202530",
+ "versions": [
+  {
+   "version": "2025-10-27-202530",
+   "effective_date": "2025-10-27",
+   "revision_date": "2025-10-16",
+   "number": "제2025-30호",
+   "source_file": "조달청 이음장터 운영규정(조달청고시)(제2025-30호)(20251027).pdf",
+   "source_path": "원문/규정/조달청 이음장터 운영규정/조달청 이음장터 운영규정(조달청고시)(제2025-30호)(20251027).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "조달청 이음장터 운영규정(조달청고시)(제2025-30호)(20251027).pdf",
+ "source_path": "원문/규정/조달청 이음장터 운영규정/조달청 이음장터 운영규정(조달청고시)(제2025-30호)(20251027).pdf",
+ "pdf_path": "pdf/조달청 이음장터 운영규정/조달청 이음장터 운영규정(조달청고시)(제2025-30호)(20251027).pdf",
+ "source_pages": 8,
+ "header_raw": [
+  "조달청 이음장터 운영규정",
+  "[시행 2025. 10. 27.] [조달청고시 제2025-30호, 2025. 10. 16., 일부개정]",
+  "조달청(서비스계약과), 070-4056-7292"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 상품 판매 등록",
+   "raw": "제2장 상품 판매 등록",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 상품 구매 등록",
+   "raw": "제3장 상품 구매 등록",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 상품 거래",
+   "raw": "제4장 상품 거래",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 상품 관리 및 사후관리 등",
+   "raw": "제5장 상품 관리 및 사후관리 등",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 보칙",
+   "raw": "제6장 보칙",
+   "page": 8,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 34,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 1
+ },
+ "files": {
+  "articles": "regulations/조달청-이음장터-운영규정/articles.json",
+  "annexes": "regulations/조달청-이음장터-운영규정/annexes.json",
+  "markdown": "regulations/조달청-이음장터-운영규정/regulation.md"
+ }
+}

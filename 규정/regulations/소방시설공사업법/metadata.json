@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "FIRE_FACILITY_WORK_ACT",
+ "name": "소방시설공사업법",
+ "short_name": "소방시설공사업법",
+ "display_id_prefix": "소방시설공사업법",
+ "slug": "소방시설공사업법",
+ "aliases": [
+  "소방시설공사업법",
+  "소방공사업법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제20157호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "소방청",
+   "department": "소방산업진흥정책과"
+  }
+ ],
+ "effective_date": "2025-01-31",
+ "revision_date": "2024-01-30",
+ "revision_type": "일부개정",
+ "version": "2025-01-31-20157",
+ "versions": [
+  {
+   "version": "2025-01-31-20157",
+   "effective_date": "2025-01-31",
+   "revision_date": "2024-01-30",
+   "number": "제20157호",
+   "source_file": "FIRE_FACILITY_WORK_ACT.json",
+   "source_path": "원문/법제처API/FIRE_FACILITY_WORK_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2025-01-31-20157-pdf",
+   "effective_date": "2025-01-31",
+   "revision_date": "2024-01-30",
+   "number": "제20157호",
+   "source_file": "소방시설공사업법(법률)(제20157호)(20250131).pdf",
+   "source_path": "원문/규정/소방시설공사업법(법률)(제20157호)(20250131).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/소방시설공사업법/history/2025-01-31-20157-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "FIRE_FACILITY_WORK_ACT.json",
+ "source_path": "원문/법제처API/FIRE_FACILITY_WORK_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 59,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 80,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/소방시설공사업법/articles.json",
+  "annexes": "regulations/소방시설공사업법/annexes.json",
+  "markdown": "regulations/소방시설공사업법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=259473",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "259473",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

@@ -1,0 +1,6 @@
+{
+  "_comment": "개정 점검(규정/tools/check_updates.py) 설정. api_query: 규정 이름 전체로 법제처를 검색하면 0건인 아주 긴 이름의 규정에 쓸 검색어(이름 비교는 그대로 정확히 일치해야 함).",
+  "api_query": {
+    "LOCAL_CONTRACT_VULNERABLE_EMPLOYMENT_NOTICE": "취약계층"
+  }
+}

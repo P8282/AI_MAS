@@ -1,0 +1,123 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_PETITION_DIRECTIVE",
+ "name": "(방위사업청) 민원 처리 규정",
+ "short_name": "방위사업청 민원 처리 규정",
+ "display_id_prefix": "방위사업청-민원-처리-규정",
+ "slug": "방위사업청-민원-처리-규정",
+ "aliases": [
+  "(방위사업청) 민원 처리 규정"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "방위사업청훈령",
+ "number": "제990호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "고객지원팀"
+  }
+ ],
+ "effective_date": "2026-09-07",
+ "revision_date": "2026-09-07",
+ "revision_type": "일부개정",
+ "version": "2026-09-07-990",
+ "versions": [
+  {
+   "version": "2026-09-07-990",
+   "effective_date": "2026-09-07",
+   "revision_date": "2026-09-07",
+   "number": "제990호",
+   "source_file": "(방위사업청) 민원 처리 규정(방위사업청훈령)(제990호)(20260907).pdf",
+   "source_path": "원문/규정/(방위사업청) 민원 처리 규정/(방위사업청) 민원 처리 규정(방위사업청훈령)(제990호)(20260907).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "(방위사업청) 민원 처리 규정(방위사업청훈령)(제990호)(20260907).pdf",
+ "source_path": "원문/규정/(방위사업청) 민원 처리 규정/(방위사업청) 민원 처리 규정(방위사업청훈령)(제990호)(20260907).pdf",
+ "pdf_path": "pdf/(방위사업청) 민원 처리 규정/(방위사업청) 민원 처리 규정(방위사업청훈령)(제990호)(20260907).pdf",
+ "source_pages": 8,
+ "header_raw": [
+  "(방위사업청) 민원 처리 규정",
+  "[시행 2026. 9. 7.] [방위사업청훈령 제990호, 2026. 9. 7., 일부개정]",
+  "방위사업청(고객지원팀), 02-2079-6152"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총  칙",
+   "raw": "제1장 총  칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 민원의 처리",
+   "raw": "제2장 민원의 처리",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 일반민원의 처리",
+   "raw": "제1절 일반민원의 처리",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 고충민원의 처리",
+   "raw": "제2절 고충민원의 처리",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 민원처리실태점검, 민원만족도조사, 방위사업고객지원상",
+   "raw": "제3장 민원처리실태점검, 민원만족도조사, 방위사업고객지원상",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 고객의 소리함 운영",
+   "raw": "제4장 고객의 소리함 운영",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 민원조정위원회 및 민원심사관 운영",
+   "raw": "제5장 민원조정위원회 및 민원심사관 운영",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 기타",
+   "raw": "제6장 기타",
+   "page": 8,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 31,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 12
+ },
+ "files": {
+  "articles": "regulations/방위사업청-민원-처리-규정/articles.json",
+  "annexes": "regulations/방위사업청-민원-처리-규정/annexes.json",
+  "markdown": "regulations/방위사업청-민원-처리-규정/regulation.md"
+ }
+}

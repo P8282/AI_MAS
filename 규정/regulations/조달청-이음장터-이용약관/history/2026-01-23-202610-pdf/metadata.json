@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_EUMJANGTEO_TERMS_NOTICE",
+ "name": "조달청 이음장터 이용약관",
+ "short_name": "이음장터 이용약관",
+ "display_id_prefix": "조달청-이음장터-이용약관",
+ "slug": "조달청-이음장터-이용약관",
+ "aliases": [
+  "조달청 이음장터 이용약관",
+  "이음장터 약관"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "조달청고시",
+ "number": "제2026-10호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "서비스계약과"
+  }
+ ],
+ "effective_date": "2026-01-23",
+ "revision_date": "2026-01-23",
+ "revision_type": "일부개정",
+ "version": "2026-01-23-202610",
+ "versions": [
+  {
+   "version": "2026-01-23-202610",
+   "effective_date": "2026-01-23",
+   "revision_date": "2026-01-23",
+   "number": "제2026-10호",
+   "source_file": "조달청 이음장터 이용약관(조달청고시)(제2026-10호)(20260123).pdf",
+   "source_path": "원문/규정/조달청 이음장터 이용약관(조달청고시)(제2026-10호)(20260123).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "조달청 이음장터 이용약관(조달청고시)(제2026-10호)(20260123).pdf",
+ "source_path": "원문/규정/조달청 이음장터 이용약관(조달청고시)(제2026-10호)(20260123).pdf",
+ "pdf_path": "pdf/조달청 이음장터 이용약관(조달청고시)(제2026-10호)(20260123).pdf",
+ "source_pages": 7,
+ "header_raw": [
+  "조달청 이음장터 이용약관",
+  "[시행 2026. 1. 23.] [조달청고시 제2026-10호, 2026. 1. 23., 일부개정]",
+  "조달청(서비스계약과), 070-4056-7292"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 이용기관 및 일반이용자",
+   "raw": "제2장 이용기관 및 일반이용자",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 이용업체",
+   "raw": "제3장 이용업체",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 기타",
+   "raw": "제4장 기타",
+   "page": 5,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 24,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/조달청-이음장터-이용약관/articles.json",
+  "annexes": "regulations/조달청-이음장터-이용약관/annexes.json",
+  "markdown": "regulations/조달청-이음장터-이용약관/regulation.md"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "ICT_CONVERGENCE_ACT",
+ "name": "정보통신 진흥 및 융합 활성화 등에 관한 특별법",
+ "short_name": "정보통신융합법",
+ "display_id_prefix": "정보통신융합법",
+ "slug": "정보통신융합법",
+ "aliases": [
+  "정보통신융합법",
+  "정보통신 진흥 및 융합 활성화 등에 관한 특별법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21554호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "과학기술정보통신부",
+   "department": "정보통신정책총괄과"
+  }
+ ],
+ "effective_date": "2026-04-21",
+ "revision_date": "2026-04-21",
+ "revision_type": "일부개정",
+ "version": "2026-04-21-21554",
+ "versions": [
+  {
+   "version": "2026-04-21-21554",
+   "effective_date": "2026-04-21",
+   "revision_date": "2026-04-21",
+   "number": "제21554호",
+   "source_file": "정보통신 진흥 및 융합 활성화 등에 관한 특별법.json",
+   "source_path": "원문/법제처API/정보통신 진흥 및 융합 활성화 등에 관한 특별법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "정보통신 진흥 및 융합 활성화 등에 관한 특별법.json",
+ "source_path": "원문/법제처API/정보통신 진흥 및 융합 활성화 등에 관한 특별법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=285533",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 59,
+  "scheduled_versions": 0,
+  "deleted_articles": 7,
+  "supplementary_articles": 39,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/정보통신융합법/articles.json",
+  "annexes": "regulations/정보통신융합법/annexes.json",
+  "markdown": "regulations/정보통신융합법/regulation.md"
+ }
+}

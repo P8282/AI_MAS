@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "ELECTRONIC_SIGNATURE_ACT",
+ "name": "전자서명법",
+ "short_name": "전자서명법",
+ "display_id_prefix": "전자서명법",
+ "slug": "전자서명법",
+ "aliases": [
+  "전자서명법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제18479호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "과학기술정보통신부",
+   "department": "정보보호기획과"
+  }
+ ],
+ "effective_date": "2022-10-20",
+ "revision_date": "2021-10-19",
+ "revision_type": "일부개정",
+ "version": "2022-10-20-18479",
+ "versions": [
+  {
+   "version": "2022-10-20-18479",
+   "effective_date": "2022-10-20",
+   "revision_date": "2021-10-19",
+   "number": "제18479호",
+   "source_file": "전자서명법(법률)(제18479호)(20221020).pdf",
+   "source_path": "원문/규정/전자서명법(법률)(제18479호)(20221020).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "전자서명법(법률)(제18479호)(20221020).pdf",
+ "source_path": "원문/규정/전자서명법(법률)(제18479호)(20221020).pdf",
+ "pdf_path": "pdf/전자서명법(법률)(제18479호)(20221020).pdf",
+ "source_pages": 6,
+ "header_raw": [
+  "전자서명법",
+  "[시행 2022. 10. 20.] [법률 제18479호, 2021. 10. 19., 일부개정]",
+  "과학기술정보통신부 (정보보호기획과) 044-202-6445, 6447"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 26,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/전자서명법/articles.json",
+  "annexes": "regulations/전자서명법/annexes.json",
+  "markdown": "regulations/전자서명법/regulation.md"
+ }
+}

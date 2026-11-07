@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_A_2100000272342",
+ "name": "국외조달(무기체계) 계약일반조건",
+ "short_name": "국외조달(무기체계) 계약일반조건",
+ "display_id_prefix": "국외조달무기체계-계약일반조건",
+ "slug": "국외조달무기체계-계약일반조건",
+ "aliases": [
+  "국외조달(무기체계) 계약일반조건"
+ ],
+ "document_type": "예규",
+ "format": "article",
+ "issuer_form": "방위사업청예규",
+ "number": "제1029호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "계약제도발전과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2026-01-02",
+ "revision_type": "일부개정",
+ "version": "2026-01-02-1029",
+ "versions": [
+  {
+   "version": "2026-01-02-1029",
+   "effective_date": "2026-01-02",
+   "revision_date": "2026-01-02",
+   "number": "제1029호",
+   "source_file": "국외조달(무기체계) 계약일반조건.json",
+   "source_path": "원문/법제처API/국외조달(무기체계) 계약일반조건.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "국외조달(무기체계) 계약일반조건.json",
+ "source_path": "원문/법제처API/국외조달(무기체계) 계약일반조건.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000272342",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 0,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 0,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/국외조달무기체계-계약일반조건/articles.json",
+  "annexes": "regulations/국외조달무기체계-계약일반조건/annexes.json",
+  "markdown": "regulations/국외조달무기체계-계약일반조건/regulation.md"
+ }
+}

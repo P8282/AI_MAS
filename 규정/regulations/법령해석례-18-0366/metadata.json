@@ -1,0 +1,107 @@
+{
+ "schema_version": "1.0",
+ "id": "INTERPRETATION_18_0366",
+ "name": "법령해석례 18-0366 (협상에 의한 계약 시 제안서평가위원회 심의 대상의 범위)",
+ "short_name": "해석례 18-0366",
+ "display_id_prefix": "법제처 해석례 18-0366",
+ "slug": "법령해석례-18-0366",
+ "aliases": [
+  "해석례 18-0366",
+  "법제처 18-0366",
+  "18-0366",
+  "법제처 해석례 18-0366",
+  "법령해석례 18-0366",
+  "제안서평가위원회 심의 대상의 범위"
+ ],
+ "document_type": "법령해석례",
+ "format": "opinion",
+ "issuer_form": "법령해석례",
+ "number": "제18-0366호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "법제처",
+   "department": ""
+  }
+ ],
+ "effective_date": "2019-01-28",
+ "revision_date": "2019-01-28",
+ "revision_type": "",
+ "version": "2019-01-28-180366",
+ "versions": [
+  {
+   "version": "2019-01-28-180366",
+   "effective_date": "2019-01-28",
+   "revision_date": "2019-01-28",
+   "number": "제18-0366호",
+   "source_file": "협상에 의한 계약 시 제안서평가위원회 심의 대상의 범위(법령해석례)(제18-0366호)(20190128).pdf",
+   "source_path": "원문/규정/협상에 의한 계약 시 제안서평가위원회 심의 대상의 범위(법령해석례)(제18-0366호)(20190128).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "협상에 의한 계약 시 제안서평가위원회 심의 대상의 범위(법령해석례)(제18-0366호)(20190128).pdf",
+ "source_path": "원문/규정/협상에 의한 계약 시 제안서평가위원회 심의 대상의 범위(법령해석례)(제18-0366호)(20190128).pdf",
+ "pdf_path": "pdf/협상에 의한 계약 시 제안서평가위원회 심의 대상의 범위(법령해석례)(제18-0366호)(20190128).pdf",
+ "source_pages": 4,
+ "header_raw": [
+  "민원인 - 협상에 의한 계약 시 제안서평가위원회 심의 대상의",
+  "범위",
+  "[18-0366, 2019. 1. 28., 민원인]"
+ ],
+ "outline": [
+  {
+   "kind": "부분",
+   "title": "질의요지",
+   "raw": "질의요지",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "부분",
+   "title": "회답",
+   "raw": "회답",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "부분",
+   "title": "이유",
+   "raw": "이유",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "부분",
+   "title": "관계 법령",
+   "raw": "관계 법령",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "부분",
+   "title": "법제처 법령해석의 효력 등에 대한 안내",
+   "raw": "법제처 법령해석의 효력 등에 대한 안내",
+   "page": 3,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 5,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 0,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/법령해석례-18-0366/articles.json",
+  "annexes": "regulations/법령해석례-18-0366/annexes.json",
+  "markdown": "regulations/법령해석례-18-0366/regulation.md"
+ }
+}

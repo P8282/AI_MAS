@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_COMPETITIVE_DIALOGUE_GUIDE",
+ "name": "조달청 경쟁적 대화에 의한 계약체결 세부기준",
+ "short_name": "조달청 경쟁적 대화 세부기준",
+ "display_id_prefix": "조달청-경쟁적대화-계약체결-세부기준",
+ "slug": "조달청-경쟁적대화-계약체결-세부기준",
+ "aliases": [
+  "조달청 경쟁적 대화에 의한 계약체결 세부기준",
+  "경쟁적 대화 세부기준"
+ ],
+ "document_type": "지침",
+ "format": "article",
+ "issuer_form": "조달청지침",
+ "number": "제403호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "혁신공공구매과"
+  }
+ ],
+ "effective_date": "2020-04-01",
+ "revision_date": "2020-02-24",
+ "revision_type": "제정",
+ "version": "2020-04-01-403",
+ "versions": [
+  {
+   "version": "2020-04-01-403",
+   "effective_date": "2020-04-01",
+   "revision_date": "2020-02-24",
+   "number": "제403호",
+   "source_file": "PPS_COMPETITIVE_DIALOGUE_GUIDE.json",
+   "source_path": "원문/법제처API/PPS_COMPETITIVE_DIALOGUE_GUIDE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2020-04-01-403-pdf",
+   "effective_date": "2020-04-01",
+   "revision_date": "2020-02-24",
+   "number": "제403호",
+   "source_file": "조달청 경쟁적 대화에 의한 계약체결 세부기준(조달청지침)(제403호)(20200401).pdf",
+   "source_path": "원문/규정/조달청 경쟁적 대화에 의한 계약체결 세부기준/조달청 경쟁적 대화에 의한 계약체결 세부기준(조달청지침)(제403호)(20200401).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/조달청-경쟁적대화-계약체결-세부기준/history/2020-04-01-403-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "COMPETITIVE_DIALOGUE_RULE",
+ "source_file": "PPS_COMPETITIVE_DIALOGUE_GUIDE.json",
+ "source_path": "원문/법제처API/PPS_COMPETITIVE_DIALOGUE_GUIDE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 59,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/조달청-경쟁적대화-계약체결-세부기준/articles.json",
+  "annexes": "regulations/조달청-경쟁적대화-계약체결-세부기준/annexes.json",
+  "markdown": "regulations/조달청-경쟁적대화-계약체결-세부기준/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000186960",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000186960",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

@@ -1,0 +1,73 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_TECH_INNOVATION_ACT_CURRENT",
+ "name": "중소기업 기술혁신 촉진법 (현행 2026-07-01 시행본)",
+ "short_name": "중소기업기술혁신법 (현행본)",
+ "display_id_prefix": "중소기업기술혁신법-현행",
+ "slug": "중소기업기술혁신법-현행",
+ "aliases": [
+  "중소기업기술혁신법 (현행본)",
+  "중소기업 기술혁신 촉진법 (현행 2026-07-01 시행본)",
+  "중소기업 기술혁신 촉진법 현행본",
+  "중소기업기술혁신법 현행",
+  "중소기업기술혁신법",
+  "중소기업 기술혁신 촉진법",
+  "중소기업기술혁신촉진법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21289호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "기술혁신정책과"
+  }
+ ],
+ "effective_date": "2026-07-01",
+ "revision_date": "2025-12-30",
+ "revision_type": "일부개정",
+ "version": "2026-07-01-21289",
+ "versions": [
+  {
+   "version": "2026-07-01-21289",
+   "effective_date": "2026-07-01",
+   "revision_date": "2025-12-30",
+   "number": "제21289호",
+   "source_file": "중소기업 기술혁신 촉진법(현행본).json",
+   "source_path": "원문/법제처API/중소기업 기술혁신 촉진법(현행본).json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [
+  "이 항목은 법제처에서 받은 현행 본문(2026-07-01 시행, 제21289호)입니다. 2027-03-30 시행 예정본은 ‘중소기업 기술혁신 촉진법’ 항목에 있습니다."
+ ],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "중소기업 기술혁신 촉진법(현행본).json",
+ "source_path": "원문/법제처API/중소기업 기술혁신 촉진법(현행본).json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/법령/중소기업 기술혁신 촉진법 (현행 2026-07-01 시행본)",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 49,
+  "scheduled_versions": 0,
+  "deleted_articles": 3,
+  "supplementary_articles": 70,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/중소기업기술혁신법-현행/articles.json",
+  "annexes": "regulations/중소기업기술혁신법-현행/annexes.json",
+  "markdown": "regulations/중소기업기술혁신법-현행/regulation.md"
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_INNOVATION_PRODUCT_SUPPORT_CENTER_NOTICE",
+ "name": "혁신제품 지원센터 지정·운영에 관한 고시",
+ "short_name": "혁신제품 지원센터 고시",
+ "display_id_prefix": "혁신제품-지원센터-지정-운영-고시",
+ "slug": "혁신제품-지원센터-지정-운영-고시",
+ "aliases": [
+  "혁신제품 지원센터 지정·운영에 관한 고시",
+  "혁신제품 지원센터"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "조달청고시",
+ "number": "제2024-14호",
+ "group": "혁신제품",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "혁신조달정책과"
+  }
+ ],
+ "effective_date": "2024-07-04",
+ "revision_date": "2024-07-04",
+ "revision_type": "제정",
+ "version": "2024-07-04-202414",
+ "versions": [
+  {
+   "version": "2024-07-04-202414",
+   "effective_date": "2024-07-04",
+   "revision_date": "2024-07-04",
+   "number": "제2024-14호",
+   "source_file": "혁신제품 지원센터 지정·운영에 관한 고시(조달청고시)(제2024-14호)(20240704).pdf",
+   "source_path": "원문/규정/혁신제품 지원센터 지정·운영에 관한 고시(조달청고시)(제2024-14호)(20240704).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "INNOVATION_PRODUCT_DESIGNATION_DIRECTIVE",
+ "source_file": "혁신제품 지원센터 지정·운영에 관한 고시(조달청고시)(제2024-14호)(20240704).pdf",
+ "source_path": "원문/규정/혁신제품 지원센터 지정·운영에 관한 고시(조달청고시)(제2024-14호)(20240704).pdf",
+ "pdf_path": "pdf/혁신제품 지원센터 지정·운영에 관한 고시(조달청고시)(제2024-14호)(20240704).pdf",
+ "source_pages": 3,
+ "header_raw": [
+  "혁신제품 지원센터 지정·운영에 관한 고시",
+  "[시행 2024. 7. 4.] [조달청고시 제2024-14호, 2024. 7. 4., 제정]",
+  "조달청(혁신조달정책과), 042-724-7203"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 12,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/혁신제품-지원센터-지정-운영-고시/articles.json",
+  "annexes": "regulations/혁신제품-지원센터-지정-운영-고시/annexes.json",
+  "markdown": "regulations/혁신제품-지원센터-지정-운영-고시/regulation.md"
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_A_2100000214044",
+ "name": "군용총포·도검·화약류 허가·감독에 관한 지침",
+ "short_name": "군용총포·도검·화약류 허가·감독에 관한 지침",
+ "display_id_prefix": "군용총포도검화약류-허가감독에-관한-지침",
+ "slug": "군용총포도검화약류-허가감독에-관한-지침",
+ "aliases": [
+  "군용총포·도검·화약류 허가·감독에 관한 지침"
+ ],
+ "document_type": "훈령",
+ "format": "article",
+ "issuer_form": "방위사업청훈령",
+ "number": "제746호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "방산정책과"
+  }
+ ],
+ "effective_date": "2022-08-22",
+ "revision_date": "2022-08-22",
+ "revision_type": "일부개정",
+ "version": "2022-08-22-746",
+ "versions": [
+  {
+   "version": "2022-08-22-746",
+   "effective_date": "2022-08-22",
+   "revision_date": "2022-08-22",
+   "number": "제746호",
+   "source_file": "군용총포·도검·화약류 허가·감독에 관한 지침.json",
+   "source_path": "원문/법제처API/군용총포·도검·화약류 허가·감독에 관한 지침.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "군용총포·도검·화약류 허가·감독에 관한 지침.json",
+ "source_path": "원문/법제처API/군용총포·도검·화약류 허가·감독에 관한 지침.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000214044",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 11,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 4,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/군용총포도검화약류-허가감독에-관한-지침/articles.json",
+  "annexes": "regulations/군용총포도검화약류-허가감독에-관한-지침/annexes.json",
+  "markdown": "regulations/군용총포도검화약류-허가감독에-관한-지침/regulation.md"
+ }
+}

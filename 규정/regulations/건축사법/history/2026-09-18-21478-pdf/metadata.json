@@ -1,0 +1,144 @@
+{
+ "schema_version": "1.0",
+ "id": "ARCHITECT_ACT",
+ "name": "건축사법",
+ "short_name": "건축사법",
+ "display_id_prefix": "건축사법",
+ "slug": "건축사법",
+ "aliases": [
+  "건축사법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21478호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "건축문화경관과"
+  }
+ ],
+ "effective_date": "2026-09-18",
+ "revision_date": "2026-03-17",
+ "revision_type": "일부개정",
+ "version": "2026-09-18-21478",
+ "versions": [
+  {
+   "version": "2026-09-18-21478",
+   "effective_date": "2026-09-18",
+   "revision_date": "2026-03-17",
+   "number": "제21478호",
+   "source_file": "건축사법(법률)(제21478호)(20260918).pdf",
+   "source_path": "원문/규정/건축사법(법률)(제21478호)(20260918).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "건축사법(법률)(제21478호)(20260918).pdf",
+ "source_path": "원문/규정/건축사법(법률)(제21478호)(20260918).pdf",
+ "pdf_path": "pdf/건축사법(법률)(제21478호)(20260918).pdf",
+ "source_pages": 15,
+ "header_raw": [
+  "건축사법",
+  "[시행 2026. 9. 18.] [법률 제21478호, 2026. 3. 17., 일부개정]",
+  "국토교통부 (건축문화경관과) 044-201-3777, 3776"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙 <개정 2011. 5. 30.>",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 자격",
+   "raw": "제2장 자격 <개정 2011. 5. 30.>",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 건축사 자격시험 등",
+   "raw": "제3장 건축사 자격시험 등 <개정 2011. 5. 30.>",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장의2 자격등록 등",
+   "raw": "제3장의2 자격등록 등 <신설 2011. 5. 30.>",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 업무",
+   "raw": "제4장 업무 <개정 2011. 5. 30.>",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 건축사사무소 등",
+   "raw": "제5장 건축사사무소 등 <개정 2011. 5. 30.>",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장의2 징계",
+   "raw": "제5장의2 징계 <신설 2011. 5. 30.>",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 대한건축사협회",
+   "raw": "제6장 대한건축사협회 <개정 2022. 2. 3.>",
+   "page": 10,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장의2 건축사공제조합",
+   "raw": "제6장의2 건축사공제조합 <신설 2015. 8. 11.>",
+   "page": 11,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장의3 보칙",
+   "raw": "제6장의3 보칙 <개정 2015. 8. 11.>",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 벌칙",
+   "raw": "제7장 벌칙 <개정 2011. 5. 30.>",
+   "page": 14,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 71,
+  "scheduled_versions": 1,
+  "deleted_articles": 14,
+  "supplementary_articles": 3,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/건축사법/articles.json",
+  "annexes": "regulations/건축사법/annexes.json",
+  "markdown": "regulations/건축사법/regulation.md"
+ }
+}

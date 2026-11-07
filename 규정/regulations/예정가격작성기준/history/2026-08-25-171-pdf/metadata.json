@@ -1,0 +1,161 @@
+{
+ "schema_version": "1.0",
+ "id": "ESTIMATED_PRICE_PREPARATION_RULE",
+ "name": "(계약예규) 예정가격작성기준",
+ "short_name": "예정가격작성기준",
+ "display_id_prefix": "예정가격작성기준",
+ "slug": "예정가격작성기준",
+ "aliases": [
+  "(계약예규) 예정가격작성기준",
+  "예정가격 작성기준",
+  "예가작성기준",
+  "계약예규 예정가격 작성기준"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "재정경제부계약예규",
+ "number": "제171호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  }
+ ],
+ "effective_date": "2026-08-25",
+ "revision_date": "2026-08-25",
+ "revision_type": "일부개정",
+ "version": "2026-08-25-171",
+ "versions": [
+  {
+   "version": "2026-08-25-171",
+   "effective_date": "2026-08-25",
+   "revision_date": "2026-08-25",
+   "number": "제171호",
+   "source_file": "(계약예규) 예정가격작성기준(재정경제부계약예규)(제171호)(20260825).pdf",
+   "source_path": "원문/규정/(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준(재정경제부계약예규)(제171호)(20260825).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "STATE_CONTRACT_ENFORCEMENT",
+ "source_file": "(계약예규) 예정가격작성기준(재정경제부계약예규)(제171호)(20260825).pdf",
+ "source_path": "원문/규정/(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준(재정경제부계약예규)(제171호)(20260825).pdf",
+ "pdf_path": "pdf/(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준(재정경제부계약예규)(제171호)(20260825).pdf",
+ "source_pages": 17,
+ "header_raw": [
+  "(계약예규) 예정가격작성기준",
+  "[시행 2026. 8. 25.] [재정경제부계약예규 제171호, 2026. 8. 25., 일부개정]",
+  "재정경제부(계약정책과), 044-215-5212, 5217, 5218"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 원가계산에 의한 예정가격 작성",
+   "raw": "제2장 원가계산에 의한 예정가격 작성",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 총칙",
+   "raw": "제1절 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 제조원가계산",
+   "raw": "제2절 제조원가계산",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 공사원가계산",
+   "raw": "제3절 공사원가계산",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 학술연구용역 원가계산",
+   "raw": "제4절 학술연구용역 원가계산",
+   "page": 9,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제5절 기타용역의 원가계산",
+   "raw": "제5절 기타용역의 원가계산",
+   "page": 11,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제6절 원가계산용역기관",
+   "raw": "제6절 원가계산용역기관",
+   "page": 11,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제7절 보칙",
+   "raw": "제7절 보칙",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 표준시장단가에 의한 예정가격작성",
+   "raw": "제3장 표준시장단가에 의한 예정가격작성",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 복수예비가격에 의한 예정가격의 결정",
+   "raw": "제4장 복수예비가격에 의한 예정가격의 결정",
+   "page": 15,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 전문가격조사기관의 등록 및 조사업무",
+   "raw": "제5장 전문가격조사기관의 등록 및 조사업무",
+   "page": 16,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 보칙",
+   "raw": "제6장 보칙",
+   "page": 17,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 57,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 14
+ },
+ "files": {
+  "articles": "regulations/예정가격작성기준/articles.json",
+  "annexes": "regulations/예정가격작성기준/annexes.json",
+  "markdown": "regulations/예정가격작성기준/regulation.md"
+ }
+}

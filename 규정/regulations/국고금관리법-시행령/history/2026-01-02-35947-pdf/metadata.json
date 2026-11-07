@@ -1,0 +1,236 @@
+{
+ "schema_version": "1.0",
+ "id": "NATIONAL_TREASURY_ENFORCEMENT",
+ "name": "국고금 관리법 시행령",
+ "short_name": "국고금관리법 시행령",
+ "display_id_prefix": "국고금관리법-시행령",
+ "slug": "국고금관리법-시행령",
+ "aliases": [
+  "국고금관리법 시행령",
+  "국고금 관리법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제35947호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "국고총괄과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2025-12-30",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-35947",
+ "versions": [
+  {
+   "version": "2026-01-02-35947",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-12-30",
+   "number": "제35947호",
+   "source_file": "국고금 관리법 시행령(대통령령)(제35947호)(20260102).pdf",
+   "source_path": "원문/규정/국고금 관리법 시행령(대통령령)(제35947호)(20260102).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "NATIONAL_TREASURY_ACT",
+ "source_file": "국고금 관리법 시행령(대통령령)(제35947호)(20260102).pdf",
+ "source_path": "원문/규정/국고금 관리법 시행령(대통령령)(제35947호)(20260102).pdf",
+ "pdf_path": "pdf/국고금 관리법 시행령(대통령령)(제35947호)(20260102).pdf",
+ "source_pages": 24,
+ "header_raw": [
+  "국고금 관리법 시행령",
+  "[시행 2026. 1. 2.] [대통령령 제35947호, 2025. 12. 30., 타법개정]",
+  "재정경제부 (국고총괄과) 044-215-5112"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 출납정리기한",
+   "raw": "제2장 출납정리기한",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 수입",
+   "raw": "제3장 수입",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 징수",
+   "raw": "제1절 징수",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 수납",
+   "raw": "제2절 수납",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 과오납금의 반환 등",
+   "raw": "제3절 과오납금의 반환 등",
+   "page": 5,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 선사용자금의 운용",
+   "raw": "제4장 선사용자금의 운용",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 지출",
+   "raw": "제5장 지출",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 지출원인행위",
+   "raw": "제1절 지출원인행위",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 지출의 방법",
+   "raw": "제2절 지출의 방법",
+   "page": 7,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 지출의 특례",
+   "raw": "제3절 지출의 특례",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 지출금의 반납",
+   "raw": "제4절 지출금의 반납",
+   "page": 11,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 자금관리",
+   "raw": "제6장 자금관리",
+   "page": 12,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 자금계획",
+   "raw": "제1절 자금계획",
+   "page": 12,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절의2 통합계정의 운용",
+   "raw": "제1절의2 통합계정의 운용 <신설 2005. 6. 30.>",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 자금의 조달",
+   "raw": "제2절 자금의 조달",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제3절 재정증권의 발행",
+   "raw": "제3절 재정증권의 발행",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제4절 국고금의 운용",
+   "raw": "제4절 국고금의 운용 <개정 2005. 6. 30.>",
+   "page": 16,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 한국은행등의 국고금취급",
+   "raw": "제7장 한국은행등의 국고금취급",
+   "page": 18,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 출납공무원",
+   "raw": "제8장 출납공무원",
+   "page": 19,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제9장 장부ㆍ보고서의 작성 및 제출 등",
+   "raw": "제9장 장부ㆍ보고서의 작성 및 제출 등",
+   "page": 19,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제1절 장부의 작성",
+   "raw": "제1절 장부의 작성",
+   "page": 19,
+   "deleted": false
+  },
+  {
+   "kind": "절",
+   "title": "제2절 보고서의 제출 등",
+   "raw": "제2절 보고서의 제출 등",
+   "page": 20,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제10장 보칙",
+   "raw": "제10장 보칙",
+   "page": 22,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 116,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/국고금관리법-시행령/articles.json",
+  "annexes": "regulations/국고금관리법-시행령/annexes.json",
+  "markdown": "regulations/국고금관리법-시행령/regulation.md"
+ }
+}

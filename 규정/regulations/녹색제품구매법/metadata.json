@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "GREEN_PRODUCT_PURCHASE_ACT",
+ "name": "녹색제품 구매촉진에 관한 법률",
+ "short_name": "녹색제품구매법",
+ "display_id_prefix": "녹색제품구매법",
+ "slug": "녹색제품구매법",
+ "aliases": [
+  "녹색제품구매법",
+  "녹색제품 구매촉진에 관한 법률",
+  "녹색제품구매촉진법",
+  "녹색구매법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21065호",
+ "group": "환경·재활용",
+ "agencies": [
+  {
+   "agency": "기후에너지환경부",
+   "department": "기후에너지환경교육팀"
+  }
+ ],
+ "effective_date": "2025-10-01",
+ "revision_date": "2025-10-01",
+ "revision_type": "타법개정",
+ "version": "2025-10-01-21065",
+ "versions": [
+  {
+   "version": "2025-10-01-21065",
+   "effective_date": "2025-10-01",
+   "revision_date": "2025-10-01",
+   "number": "제21065호",
+   "source_file": "녹색제품 구매촉진에 관한 법률.json",
+   "source_path": "원문/법제처API/녹색제품 구매촉진에 관한 법률.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "녹색제품 구매촉진에 관한 법률.json",
+ "source_path": "원문/법제처API/녹색제품 구매촉진에 관한 법률.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=276711",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 31,
+  "scheduled_versions": 0,
+  "deleted_articles": 3,
+  "supplementary_articles": 40,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/녹색제품구매법/articles.json",
+  "annexes": "regulations/녹색제품구매법/annexes.json",
+  "markdown": "regulations/녹색제품구매법/regulation.md"
+ }
+}

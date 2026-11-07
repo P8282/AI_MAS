@@ -1,0 +1,21 @@
+{
+ "schema_version": "1.0",
+ "checked_at": "2026-10-11",
+ "source": "법제처 국가법령정보 공동활용 API(시행일자 비교)",
+ "total": 184,
+ "counts": {
+  "same": 181,
+  "not_found": 1,
+  "db_newer": 1,
+  "skipped": 1
+ },
+ "updates": [],
+ "interpretations": {
+  "조달청": {
+   "db_count": 941,
+   "api_count": 941,
+   "new_count": 0,
+   "new": []
+  }
+ }
+}

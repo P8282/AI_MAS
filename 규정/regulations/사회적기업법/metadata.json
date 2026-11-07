@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "SOCIAL_ENTERPRISE_ACT",
+ "name": "사회적기업 육성법",
+ "short_name": "사회적기업법",
+ "display_id_prefix": "사회적기업법",
+ "slug": "사회적기업법",
+ "aliases": [
+  "사회적기업법",
+  "사회적기업 육성법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21785호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "고용노동부",
+   "department": "사회적기업과"
+  }
+ ],
+ "effective_date": "2026-06-09",
+ "revision_date": "2026-06-09",
+ "revision_type": "일부개정",
+ "version": "2026-06-09-21785",
+ "versions": [
+  {
+   "version": "2026-06-09-21785",
+   "effective_date": "2026-06-09",
+   "revision_date": "2026-06-09",
+   "number": "제21785호",
+   "source_file": "사회적기업 육성법.json",
+   "source_path": "원문/법제처API/사회적기업 육성법.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "사회적기업 육성법.json",
+ "source_path": "원문/법제처API/사회적기업 육성법.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=286815",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 29,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 14,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/사회적기업법/articles.json",
+  "annexes": "regulations/사회적기업법/annexes.json",
+  "markdown": "regulations/사회적기업법/regulation.md"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "SUBCONTRACT_MGMT_INFO_NOTICE",
+ "name": "하도급법상 요구가 금지되는 경영상 정보의 종류 고시",
+ "short_name": "하도급법 경영상 정보 요구금지 고시",
+ "display_id_prefix": "하도급법-경영상정보-요구금지-고시",
+ "slug": "하도급법-경영상정보-요구금지-고시",
+ "aliases": [
+  "하도급법상 요구가 금지되는 경영상 정보의 종류 고시",
+  "경영상 정보 요구 금지"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "공정거래위원회고시",
+ "number": "제2018-12호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "공정거래위원회",
+   "department": "기업거래정책과"
+  }
+ ],
+ "effective_date": "2018-07-17",
+ "revision_date": "2018-07-16",
+ "revision_type": "제정",
+ "version": "2018-07-17-201812",
+ "versions": [
+  {
+   "version": "2018-07-17-201812",
+   "effective_date": "2018-07-17",
+   "revision_date": "2018-07-16",
+   "number": "제2018-12호",
+   "source_file": "SUBCONTRACT_MGMT_INFO_NOTICE.json",
+   "source_path": "원문/법제처API/SUBCONTRACT_MGMT_INFO_NOTICE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2018-07-17-201812-pdf",
+   "effective_date": "2018-07-17",
+   "revision_date": "2018-07-16",
+   "number": "제2018-12호",
+   "source_file": "하도급법상 요구가 금지되는 경영상 정보의 종류 고시(공정거래위원회고시)(제2018-12….pdf",
+   "source_path": "원문/규정/하도급법상 요구가 금지되는 경영상 정보의 종류 고시(공정거래위원회고시)(제2018-12….pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/하도급법-경영상정보-요구금지-고시/history/2018-07-17-201812-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "SUBCONTRACT_ENFORCEMENT",
+ "source_file": "SUBCONTRACT_MGMT_INFO_NOTICE.json",
+ "source_path": "원문/법제처API/SUBCONTRACT_MGMT_INFO_NOTICE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 1,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/하도급법-경영상정보-요구금지-고시/articles.json",
+  "annexes": "regulations/하도급법-경영상정보-요구금지-고시/annexes.json",
+  "markdown": "regulations/하도급법-경영상정보-요구금지-고시/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000139049",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000139049",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

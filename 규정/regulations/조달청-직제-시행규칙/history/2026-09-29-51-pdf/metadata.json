@@ -1,0 +1,126 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_ORGANIZATION_RULE",
+ "name": "조달청과 그 소속기관 직제 시행규칙",
+ "short_name": "조달청 직제 시행규칙",
+ "display_id_prefix": "조달청-직제-시행규칙",
+ "slug": "조달청-직제-시행규칙",
+ "aliases": [
+  "조달청과 그 소속기관 직제 시행규칙",
+  "조달청 직제 시행규칙",
+  "직제 시행규칙",
+  "직제시행규칙"
+ ],
+ "document_type": "부령",
+ "format": "article",
+ "issuer_form": "재정경제부령",
+ "number": "제51호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "혁신행정담당관"
+  }
+ ],
+ "effective_date": "2026-09-29",
+ "revision_date": "2026-09-29",
+ "revision_type": "일부개정",
+ "version": "2026-09-29-51",
+ "versions": [
+  {
+   "version": "2026-09-29-51",
+   "effective_date": "2026-09-29",
+   "revision_date": "2026-09-29",
+   "number": "제51호",
+   "source_file": "조달청과 그 소속기관 직제 시행규칙(재정경제부령)(제00051호)(20260929).pdf",
+   "source_path": "원문/규정/조달청과 그 소속기관 직제 시행규칙/조달청과 그 소속기관 직제 시행규칙(재정경제부령)(제00051호)(20260929).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "PPS_ORGANIZATION_DECREE",
+ "source_file": "조달청과 그 소속기관 직제 시행규칙(재정경제부령)(제00051호)(20260929).pdf",
+ "source_path": "원문/규정/조달청과 그 소속기관 직제 시행규칙/조달청과 그 소속기관 직제 시행규칙(재정경제부령)(제00051호)(20260929).pdf",
+ "pdf_path": "pdf/조달청과 그 소속기관 직제 시행규칙/조달청과 그 소속기관 직제 시행규칙(재정경제부령)(제00051호)(20260929).pdf",
+ "source_pages": 19,
+ "header_raw": [
+  "조달청과 그 소속기관 직제 시행규칙",
+  "[시행 2026. 9. 29.] [재정경제부령 제51호, 2026. 9. 29., 일부개정]",
+  "조달청 (혁신행정담당관) 042-724-7169"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 조달청",
+   "raw": "제2장 조달청",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 조달품질원",
+   "raw": "제3장 조달품질원 <개정 2014. 4. 1.>",
+   "page": 12,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 공공조달역량개발원",
+   "raw": "제4장 공공조달역량개발원 <개정 2022. 12. 20.>",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 지방조달청",
+   "raw": "제5장 지방조달청 <신설 2014. 4. 1.>",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 공무원의 정원",
+   "raw": "제6장 공무원의 정원 <개정 2014. 4. 1.>",
+   "page": 17,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 평가대상 조직",
+   "raw": "제7장 평가대상 조직 <개정 2025. 9. 30.>",
+   "page": 18,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제8장 한시조직 및 한시정원",
+   "raw": "제8장 한시조직 및 한시정원 <개정 2021. 6. 29.>",
+   "page": 18,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 27,
+  "scheduled_versions": 0,
+  "deleted_articles": 6,
+  "supplementary_articles": 1,
+  "annexes": 10
+ },
+ "files": {
+  "articles": "regulations/조달청-직제-시행규칙/articles.json",
+  "annexes": "regulations/조달청-직제-시행규칙/annexes.json",
+  "markdown": "regulations/조달청-직제-시행규칙/regulation.md"
+ }
+}

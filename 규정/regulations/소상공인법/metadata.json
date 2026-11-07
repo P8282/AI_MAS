@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "SMALL_BUSINESS_SUPPORT_ACT",
+ "name": "소상공인 보호 및 지원에 관한 법률",
+ "short_name": "소상공인법",
+ "display_id_prefix": "소상공인법",
+ "slug": "소상공인법",
+ "aliases": [
+  "소상공인법",
+  "소상공인 보호 및 지원에 관한 법률"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21288호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "소상공인정책과"
+  }
+ ],
+ "effective_date": "2026-07-01",
+ "revision_date": "2025-12-30",
+ "revision_type": "일부개정",
+ "version": "2026-07-01-21288",
+ "versions": [
+  {
+   "version": "2026-07-01-21288",
+   "effective_date": "2026-07-01",
+   "revision_date": "2025-12-30",
+   "number": "제21288호",
+   "source_file": "소상공인 보호 및 지원에 관한 법률.json",
+   "source_path": "원문/법제처API/소상공인 보호 및 지원에 관한 법률.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "소상공인 보호 및 지원에 관한 법률.json",
+ "source_path": "원문/법제처API/소상공인 보호 및 지원에 관한 법률.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=281985",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 58,
+  "scheduled_versions": 0,
+  "deleted_articles": 4,
+  "supplementary_articles": 50,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/소상공인법/articles.json",
+  "annexes": "regulations/소상공인법/annexes.json",
+  "markdown": "regulations/소상공인법/regulation.md"
+ }
+}

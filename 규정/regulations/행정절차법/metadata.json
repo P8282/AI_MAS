@@ -1,0 +1,60 @@
+{
+ "id": "ADMINISTRATIVE_PROCEDURE_ACT",
+ "name": "행정절차법",
+ "short_name": "행정절차법",
+ "display_id_prefix": "행정절차법",
+ "slug": "행정절차법",
+ "aliases": [
+  "행정절차법"
+ ],
+ "document_type": "법률",
+ "issuer_form": "법률",
+ "number": "제18748호",
+ "group": "행정법",
+ "agencies": [],
+ "effective_date": "2023-03-24",
+ "revision_date": "2022-01-11",
+ "revision_type": "",
+ "version": "2023-03-24-18748",
+ "latest_status": "공식 API 현행 및 Sites 활성 원문 확인 (2026-10-16)",
+ "needs_review": false,
+ "review_reasons": [],
+ "parent_regulation_id": null,
+ "source_file": "live-documents.json",
+ "source_path": "규정검색rev/신규9개_20261016/unpacked/sites-source/live-documents.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "format": "article",
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=239291",
+ "api_mst": "239291",
+ "api_received": "2026-10-16T08:30:35.031Z",
+ "status": "시행",
+ "upcoming_versions": [],
+ "counts": {
+  "articles": 70,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 15,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/행정절차법/articles.json",
+  "annexes": "regulations/행정절차법/annexes.json",
+  "markdown": "regulations/행정절차법/regulation.md"
+ },
+ "versions": [
+  {
+   "version": "2023-03-24-18748",
+   "effective_date": "2023-03-24",
+   "revision_date": "2022-01-11",
+   "number": "제18748호",
+   "source_file": "live-documents.json",
+   "source_path": "규정검색rev/신규9개_20261016/unpacked/sites-source/live-documents.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  }
+ ]
+}

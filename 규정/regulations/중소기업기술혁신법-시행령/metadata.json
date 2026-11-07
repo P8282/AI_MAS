@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_TECH_INNOVATION_ENFORCEMENT",
+ "name": "중소기업 기술혁신 촉진법 시행령",
+ "short_name": "중소기업기술혁신법 시행령",
+ "display_id_prefix": "중소기업기술혁신법-시행령",
+ "slug": "중소기업기술혁신법-시행령",
+ "aliases": [
+  "중소기업기술혁신법 시행령",
+  "중소기업기술혁신법시행령",
+  "중소기업 기술혁신 촉진법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36699호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "기술혁신정책과"
+  }
+ ],
+ "effective_date": "2026-09-22",
+ "revision_date": "2026-09-22",
+ "revision_type": "일부개정",
+ "version": "2026-09-22-36699",
+ "versions": [
+  {
+   "version": "2026-09-22-36699",
+   "effective_date": "2026-09-22",
+   "revision_date": "2026-09-22",
+   "number": "제36699호",
+   "source_file": "SME_TECH_INNOVATION_ENFORCEMENT.json",
+   "source_path": "원문/법제처API/SME_TECH_INNOVATION_ENFORCEMENT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-09-22-36699-pdf",
+   "effective_date": "2026-09-22",
+   "revision_date": "2026-09-22",
+   "number": "제36699호",
+   "source_file": "중소기업 기술혁신 촉진법 시행령(대통령령)(제36699호)(20260922).pdf",
+   "source_path": "원문/규정/중소기업 기술혁신 촉진법 시행령(대통령령)(제36699호)(20260922).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/중소기업기술혁신법-시행령/history/2026-09-22-36699-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "SME_TECH_INNOVATION_ACT",
+ "source_file": "SME_TECH_INNOVATION_ENFORCEMENT.json",
+ "source_path": "원문/법제처API/SME_TECH_INNOVATION_ENFORCEMENT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 51,
+  "scheduled_versions": 0,
+  "deleted_articles": 10,
+  "supplementary_articles": 72,
+  "annexes": 4
+ },
+ "files": {
+  "articles": "regulations/중소기업기술혁신법-시행령/articles.json",
+  "annexes": "regulations/중소기업기술혁신법-시행령/annexes.json",
+  "markdown": "regulations/중소기업기술혁신법-시행령/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=289953",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "289953",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

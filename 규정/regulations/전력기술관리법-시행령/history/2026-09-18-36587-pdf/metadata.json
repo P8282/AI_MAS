@@ -1,0 +1,102 @@
+{
+ "schema_version": "1.0",
+ "id": "POWER_TECH_MGMT_ENFORCEMENT",
+ "name": "전력기술관리법 시행령",
+ "short_name": "전력기술관리법 시행령",
+ "display_id_prefix": "전력기술관리법-시행령",
+ "slug": "전력기술관리법-시행령",
+ "aliases": [
+  "전력기술관리법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36587호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "기후에너지환경부",
+   "department": "전력산업정책과"
+  }
+ ],
+ "effective_date": "2026-09-18",
+ "revision_date": "2026-08-18",
+ "revision_type": "타법개정",
+ "version": "2026-09-18-36587",
+ "versions": [
+  {
+   "version": "2026-09-18-36587",
+   "effective_date": "2026-09-18",
+   "revision_date": "2026-08-18",
+   "number": "제36587호",
+   "source_file": "전력기술관리법 시행령(대통령령)(제36587호)(20260918).pdf",
+   "source_path": "원문/규정/전력기술관리법 시행령/전력기술관리법 시행령(대통령령)(제36587호)(20260918).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "POWER_TECH_MGMT_ACT",
+ "source_file": "전력기술관리법 시행령(대통령령)(제36587호)(20260918).pdf",
+ "source_path": "원문/규정/전력기술관리법 시행령/전력기술관리법 시행령(대통령령)(제36587호)(20260918).pdf",
+ "pdf_path": "pdf/전력기술관리법 시행령/전력기술관리법 시행령(대통령령)(제36587호)(20260918).pdf",
+ "source_pages": 11,
+ "header_raw": [
+  "전력기술관리법 시행령",
+  "[시행 2026. 9. 18.] [대통령령 제36587호, 2026. 8. 18., 타법개정]",
+  "기후에너지환경부 (전력산업정책과) 044-203-3896"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙 <개정 2009. 6. 16.>",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 전력기술의 진흥",
+   "raw": "제2장 전력기술의 진흥",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 전력시설물의 설계 및 감리",
+   "raw": "제3장 전력시설물의 설계 및 감리",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 보칙",
+   "raw": "제4장 보칙 <개정 2009. 6. 16.>",
+   "page": 10,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 벌칙",
+   "raw": "제5장 벌칙 <개정 2009. 6. 16.>",
+   "page": 10,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 46,
+  "scheduled_versions": 0,
+  "deleted_articles": 14,
+  "supplementary_articles": 2,
+  "annexes": 6
+ },
+ "files": {
+  "articles": "regulations/전력기술관리법-시행령/articles.json",
+  "annexes": "regulations/전력기술관리법-시행령/annexes.json",
+  "markdown": "regulations/전력기술관리법-시행령/regulation.md"
+ }
+}

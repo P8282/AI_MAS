@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_BASIC_ENFORCEMENT",
+ "name": "중소기업기본법 시행령",
+ "short_name": "중소기업기본법 시행령",
+ "display_id_prefix": "중소기업기본법-시행령",
+ "slug": "중소기업기본법-시행령",
+ "aliases": [
+  "중소기업기본법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제35947호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "중소기업제도과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2025-12-30",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-35947",
+ "versions": [
+  {
+   "version": "2026-01-02-35947",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-12-30",
+   "number": "제35947호",
+   "source_file": "중소기업기본법 시행령(대통령령)(제35947호)(20260102).pdf",
+   "source_path": "원문/규정/중소기업기본법 시행령/중소기업기본법 시행령(대통령령)(제35947호)(20260102).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "SME_BASIC_ACT",
+ "source_file": "중소기업기본법 시행령(대통령령)(제35947호)(20260102).pdf",
+ "source_path": "원문/규정/중소기업기본법 시행령/중소기업기본법 시행령(대통령령)(제35947호)(20260102).pdf",
+ "pdf_path": "pdf/중소기업기본법 시행령/중소기업기본법 시행령(대통령령)(제35947호)(20260102).pdf",
+ "source_pages": 11,
+ "header_raw": [
+  "중소기업기본법 시행령",
+  "[시행 2026. 1. 2.] [대통령령 제35947호, 2025. 12. 30., 타법개정]",
+  "중소벤처기업부 (중소기업제도과) 044-204-7576"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 38,
+  "scheduled_versions": 0,
+  "deleted_articles": 3,
+  "supplementary_articles": 2,
+  "annexes": 4
+ },
+ "files": {
+  "articles": "regulations/중소기업기본법-시행령/articles.json",
+  "annexes": "regulations/중소기업기본법-시행령/annexes.json",
+  "markdown": "regulations/중소기업기본법-시행령/regulation.md"
+ }
+}

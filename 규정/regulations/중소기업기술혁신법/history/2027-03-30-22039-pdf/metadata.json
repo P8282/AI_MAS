@@ -1,0 +1,121 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_TECH_INNOVATION_ACT",
+ "name": "중소기업 기술혁신 촉진법",
+ "short_name": "중소기업기술혁신법",
+ "display_id_prefix": "중소기업기술혁신법",
+ "slug": "중소기업기술혁신법",
+ "aliases": [
+  "중소기업기술혁신법",
+  "중소기업 기술혁신 촉진법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제22039호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "기술혁신정책과"
+  }
+ ],
+ "effective_date": "2027-03-30",
+ "revision_date": "2026-09-29",
+ "revision_type": "일부개정",
+ "version": "2027-03-30-22039",
+ "versions": [
+  {
+   "version": "2027-03-30-22039",
+   "effective_date": "2027-03-30",
+   "revision_date": "2026-09-29",
+   "number": "제22039호",
+   "source_file": "중소기업 기술혁신 촉진법(법률)(제22039호)(20270330).pdf",
+   "source_path": "원문/규정/중소기업 기술혁신 촉진법(법률)(제22039호)(20270330).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "검토 필요",
+ "needs_review": true,
+ "review_reasons": [
+  "시행 예정(시행일 2027-03-30 > 기준일 2026-10-10)"
+ ],
+ "status": "예정",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "중소기업 기술혁신 촉진법(법률)(제22039호)(20270330).pdf",
+ "source_path": "원문/규정/중소기업 기술혁신 촉진법(법률)(제22039호)(20270330).pdf",
+ "pdf_path": "pdf/중소기업 기술혁신 촉진법(법률)(제22039호)(20270330).pdf",
+ "source_pages": 16,
+ "header_raw": [
+  "※ 본 법령은 공포 후 시행전 개정된 사항을 모두 포함한 법령이며, 개별 시행일별로 공포된 내용은",
+  "국가법령정보센터의 '연혁' 또는 조문 앞의 '연' 아이콘을 통해 확인할 수 있습니다.",
+  "중소기업 기술혁신 촉진법 ( 약칭: 중소기업기술혁신법 )",
+  "[시행 2027. 3. 30.] [법률 제22039호, 2026. 9. 29., 일부개정]",
+  "중소벤처기업부 (기술혁신정책과) 044-204-7772"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙 <개정 2011. 4. 14.>",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 중소기업 기술혁신 촉진계획의 수립 및 추진",
+   "raw": "제2장 중소기업 기술혁신 촉진계획의 수립 및 추진 <개정 2011. 4. 14.>",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 중소기업 기술혁신 촉진을 위한 지원사업",
+   "raw": "제3장 중소기업 기술혁신 촉진을 위한 지원사업 <개정 2011. 4. 14.>",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 중소기업 기술혁신 촉진 기반확충 및 우대조치",
+   "raw": "제4장 중소기업 기술혁신 촉진 기반확충 및 우대조치 <개정 2011. 4. 14.>",
+   "page": 11,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 중소기업 기술거래 및 사업화의 활성화 지원 등",
+   "raw": "제5장 중소기업 기술거래 및 사업화의 활성화 지원 등 <신설 2021. 4. 20., 2026. 5. 26.>",
+   "page": 13,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 보칙",
+   "raw": "제6장 보칙 <개정 2011. 4. 14., 2021. 4. 20.>",
+   "page": 14,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 벌칙",
+   "raw": "제7장 벌칙 <신설 2024. 1. 9.>",
+   "page": 16,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 53,
+  "scheduled_versions": 0,
+  "deleted_articles": 3,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/중소기업기술혁신법/articles.json",
+  "annexes": "regulations/중소기업기술혁신법/annexes.json",
+  "markdown": "regulations/중소기업기술혁신법/regulation.md"
+ }
+}

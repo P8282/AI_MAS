@@ -1,0 +1,66 @@
+{
+ "schema_version": "1.0",
+ "id": "LOCAL_INVESTED_INSTITUTION_ACT",
+ "name": "지방자치단체 출자·출연 기관의 운영에 관한 법률",
+ "short_name": "지방출자출연법",
+ "display_id_prefix": "지방출자출연법",
+ "slug": "지방출자출연법",
+ "aliases": [
+  "지방출자출연법",
+  "지방자치단체 출자·출연 기관의 운영에 관한 법률"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21857호",
+ "group": "재정·전자정부",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "지방공기업정책과"
+  }
+ ],
+ "effective_date": "2026-10-02",
+ "revision_date": "2026-08-04",
+ "revision_type": "타법개정",
+ "version": "2026-10-02-21857",
+ "versions": [
+  {
+   "version": "2026-10-02-21857",
+   "effective_date": "2026-10-02",
+   "revision_date": "2026-08-04",
+   "number": "제21857호",
+   "source_file": "지방자치단체 출자·출연 기관의 운영에 관한 법률.json",
+   "source_path": "원문/법제처API/지방자치단체 출자·출연 기관의 운영에 관한 법률.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "지방자치단체 출자·출연 기관의 운영에 관한 법률.json",
+ "source_path": "원문/법제처API/지방자치단체 출자·출연 기관의 운영에 관한 법률.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=288619",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 45,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 33,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/지방출자출연법/articles.json",
+  "annexes": "regulations/지방출자출연법/annexes.json",
+  "markdown": "regulations/지방출자출연법/regulation.md"
+ }
+}

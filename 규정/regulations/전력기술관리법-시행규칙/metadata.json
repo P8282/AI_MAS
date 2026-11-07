@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "POWER_TECH_MGMT_RULE",
+ "name": "전력기술관리법 시행규칙",
+ "short_name": "전력기술관리법 시행규칙",
+ "display_id_prefix": "전력기술관리법-시행규칙",
+ "slug": "전력기술관리법-시행규칙",
+ "aliases": [
+  "전력기술관리법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "기후에너지환경부령",
+ "number": "제1호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "기후에너지환경부",
+   "department": "전력산업정책과"
+  }
+ ],
+ "effective_date": "2025-10-01",
+ "revision_date": "2025-10-01",
+ "revision_type": "타법개정",
+ "version": "2025-10-01-1",
+ "versions": [
+  {
+   "version": "2025-10-01-1",
+   "effective_date": "2025-10-01",
+   "revision_date": "2025-10-01",
+   "number": "제1호",
+   "source_file": "POWER_TECH_MGMT_RULE.json",
+   "source_path": "원문/법제처API/POWER_TECH_MGMT_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2025-10-01-1-pdf",
+   "effective_date": "2025-10-01",
+   "revision_date": "2025-10-01",
+   "number": "제1호",
+   "source_file": "전력기술관리법 시행규칙(기후에너지환경부령)(제00001호)(20251001).pdf",
+   "source_path": "원문/규정/전력기술관리법 시행규칙/전력기술관리법 시행규칙(기후에너지환경부령)(제00001호)(20251001).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/전력기술관리법-시행규칙/history/2025-10-01-1-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "POWER_TECH_MGMT_ENFORCEMENT",
+ "source_file": "POWER_TECH_MGMT_RULE.json",
+ "source_path": "원문/법제처API/POWER_TECH_MGMT_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 44,
+  "scheduled_versions": 0,
+  "deleted_articles": 12,
+  "supplementary_articles": 31,
+  "annexes": 58
+ },
+ "files": {
+  "articles": "regulations/전력기술관리법-시행규칙/articles.json",
+  "annexes": "regulations/전력기술관리법-시행규칙/annexes.json",
+  "markdown": "regulations/전력기술관리법-시행규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=278995",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "278995",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

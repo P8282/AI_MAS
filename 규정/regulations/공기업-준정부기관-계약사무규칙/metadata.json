@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "PUBLIC_ENTERPRISE_CONTRACT_RULE",
+ "name": "공기업ㆍ준정부기관 계약사무규칙",
+ "short_name": "공기업·준정부기관 계약사무규칙",
+ "display_id_prefix": "공기업-준정부기관-계약사무규칙",
+ "slug": "공기업-준정부기관-계약사무규칙",
+ "aliases": [
+  "공기업ㆍ준정부기관 계약사무규칙",
+  "계약사무규칙",
+  "공기업 준정부기관 계약사무규칙"
+ ],
+ "document_type": "부령",
+ "format": "article",
+ "issuer_form": "재정경제부령",
+ "number": "제00054호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  }
+ ],
+ "effective_date": "2026-10-14",
+ "revision_date": "2026-10-14",
+ "revision_type": "일부개정",
+ "version": "2026-10-14-00054",
+ "versions": [
+  {
+   "version": "2026-10-14-00054",
+   "effective_date": "2026-10-14",
+   "revision_date": "2026-10-14",
+   "number": "제00054호",
+   "source_file": "PUBLIC_ENTERPRISE_CONTRACT_RULE.json",
+   "source_path": "원문/법제처API/PUBLIC_ENTERPRISE_CONTRACT_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-04-20-28-pdf",
+   "effective_date": "2026-04-20",
+   "revision_date": "2026-04-20",
+   "number": "제28호",
+   "source_file": "공기업ㆍ준정부기관 계약사무규칙(재정경제부령)(제00028호)(20260420).pdf",
+   "source_path": "원문/규정/공기업ㆍ준정부기관 계약사무규칙/공기업ㆍ준정부기관 계약사무규칙(재정경제부령)(제00028호)(20260420).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/공기업-준정부기관-계약사무규칙/history/2026-04-20-28-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "PUBLIC_ENTERPRISE_CONTRACT_RULE.json",
+ "source_path": "원문/법제처API/PUBLIC_ENTERPRISE_CONTRACT_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 25,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 48,
+  "annexes": 4
+ },
+ "files": {
+  "articles": "regulations/공기업-준정부기관-계약사무규칙/articles.json",
+  "annexes": "regulations/공기업-준정부기관-계약사무규칙/annexes.json",
+  "markdown": "regulations/공기업-준정부기관-계약사무규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=291201",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "291201",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

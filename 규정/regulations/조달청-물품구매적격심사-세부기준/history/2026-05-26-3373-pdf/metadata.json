@@ -1,0 +1,69 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_GOODS_QUALIFICATION_GUIDE",
+ "name": "조달청 물품구매적격심사 세부기준",
+ "short_name": "물품구매적격심사 세부기준",
+ "display_id_prefix": "조달청-물품적격심사-세부기준",
+ "slug": "조달청-물품구매적격심사-세부기준",
+ "aliases": [
+  "조달청 물품구매적격심사 세부기준",
+  "물품구매적격심사",
+  "물품적격심사 세부기준",
+  "물품 적격심사"
+ ],
+ "document_type": "지침",
+ "format": "article",
+ "issuer_form": "조달청지침",
+ "number": "제3373호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "구매총괄과"
+  }
+ ],
+ "effective_date": "2026-05-26",
+ "revision_date": "2026-05-21",
+ "revision_type": "일부개정",
+ "version": "2026-05-26-3373",
+ "versions": [
+  {
+   "version": "2026-05-26-3373",
+   "effective_date": "2026-05-26",
+   "revision_date": "2026-05-21",
+   "number": "제3373호",
+   "source_file": "조달청 물품구매적격심사 세부기준(조달청지침)(제3373호)(20260526).pdf",
+   "source_path": "원문/규정/조달청 물품구매적격심사 세부기준/조달청 물품구매적격심사 세부기준(조달청지침)(제3373호)(20260526).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "QUALIFICATION_REVIEW_RULE",
+ "source_file": "조달청 물품구매적격심사 세부기준(조달청지침)(제3373호)(20260526).pdf",
+ "source_path": "원문/규정/조달청 물품구매적격심사 세부기준/조달청 물품구매적격심사 세부기준(조달청지침)(제3373호)(20260526).pdf",
+ "pdf_path": "pdf/조달청 물품구매적격심사 세부기준/조달청 물품구매적격심사 세부기준(조달청지침)(제3373호)(20260526).pdf",
+ "source_pages": 6,
+ "header_raw": [
+  "조달청 물품구매적격심사 세부기준",
+  "[시행 2026. 5. 26.] [조달청지침 제3373호, 2026. 5. 21., 일부개정]",
+  "조달청(구매총괄과), 070-4056-7302, 7259"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 14,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 11
+ },
+ "files": {
+  "articles": "regulations/조달청-물품구매적격심사-세부기준/articles.json",
+  "annexes": "regulations/조달청-물품구매적격심사-세부기준/annexes.json",
+  "markdown": "regulations/조달청-물품구매적격심사-세부기준/regulation.md"
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "COMPETITIVE_DIALOGUE_RULE",
+ "name": "(계약예규) 경쟁적대화에 의한 계약체결기준",
+ "short_name": "경쟁적대화 계약체결기준",
+ "display_id_prefix": "경쟁적대화-계약체결기준",
+ "slug": "경쟁적대화-계약체결기준",
+ "aliases": [
+  "(계약예규) 경쟁적대화에 의한 계약체결기준",
+  "경쟁적 대화에 의한 계약 체결기준",
+  "경쟁적대화"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "재정경제부계약예규",
+ "number": "제28호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2026-01-02",
+ "revision_type": "일부개정",
+ "version": "2026-01-02-28",
+ "versions": [
+  {
+   "version": "2026-01-02-28",
+   "effective_date": "2026-01-02",
+   "revision_date": "2026-01-02",
+   "number": "제28호",
+   "source_file": "(계약예규) 경쟁적대화에 의한 계약체결기준(재정경제부계약예규)(제28호)(20260102).pdf",
+   "source_path": "원문/규정/경쟁적대화에 의한 계약체결기준/(계약예규) 경쟁적대화에 의한 계약체결기준(재정경제부계약예규)(제28호)(20260102).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "STATE_CONTRACT_ENFORCEMENT",
+ "source_file": "(계약예규) 경쟁적대화에 의한 계약체결기준(재정경제부계약예규)(제28호)(20260102).pdf",
+ "source_path": "원문/규정/경쟁적대화에 의한 계약체결기준/(계약예규) 경쟁적대화에 의한 계약체결기준(재정경제부계약예규)(제28호)(20260102).pdf",
+ "pdf_path": "pdf/경쟁적대화에 의한 계약체결기준/(계약예규) 경쟁적대화에 의한 계약체결기준(재정경제부계약예규)(제28호)(20260102).pdf",
+ "source_pages": 4,
+ "header_raw": [
+  "(계약예규) 경쟁적대화에 의한 계약체결기준",
+  "[시행 2026. 1. 2.] [재정경제부계약예규 제28호, 2026. 1. 2., 일부개정]",
+  "재정경제부(계약정책과), 044-215-5217, 5218, 5212"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 18,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 2,
+  "annexes": 1
+ },
+ "files": {
+  "articles": "regulations/경쟁적대화-계약체결기준/articles.json",
+  "annexes": "regulations/경쟁적대화-계약체결기준/annexes.json",
+  "markdown": "regulations/경쟁적대화-계약체결기준/regulation.md"
+ }
+}

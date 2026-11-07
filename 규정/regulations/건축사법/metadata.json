@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "ARCHITECT_ACT",
+ "name": "건축사법",
+ "short_name": "건축사법",
+ "display_id_prefix": "건축사법",
+ "slug": "건축사법",
+ "aliases": [
+  "건축사법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21478호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "건축문화경관과"
+  }
+ ],
+ "effective_date": "2026-09-18",
+ "revision_date": "2026-03-17",
+ "revision_type": "일부개정",
+ "version": "2026-09-18-21478",
+ "versions": [
+  {
+   "version": "2026-09-18-21478",
+   "effective_date": "2026-09-18",
+   "revision_date": "2026-03-17",
+   "number": "제21478호",
+   "source_file": "ARCHITECT_ACT.json",
+   "source_path": "원문/법제처API/ARCHITECT_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-09-18-21478-pdf",
+   "effective_date": "2026-09-18",
+   "revision_date": "2026-03-17",
+   "number": "제21478호",
+   "source_file": "건축사법(법률)(제21478호)(20260918).pdf",
+   "source_path": "원문/규정/건축사법(법률)(제21478호)(20260918).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/건축사법/history/2026-09-18-21478-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "ARCHITECT_ACT.json",
+ "source_path": "원문/법제처API/ARCHITECT_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 72,
+  "scheduled_versions": 1,
+  "deleted_articles": 14,
+  "supplementary_articles": 88,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/건축사법/articles.json",
+  "annexes": "regulations/건축사법/annexes.json",
+  "markdown": "regulations/건축사법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=284461",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "284461",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

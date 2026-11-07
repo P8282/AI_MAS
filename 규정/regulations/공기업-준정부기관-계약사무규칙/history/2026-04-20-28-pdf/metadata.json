@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "PUBLIC_ENTERPRISE_CONTRACT_RULE",
+ "name": "공기업ㆍ준정부기관 계약사무규칙",
+ "short_name": "공기업·준정부기관 계약사무규칙",
+ "display_id_prefix": "공기업-준정부기관-계약사무규칙",
+ "slug": "공기업-준정부기관-계약사무규칙",
+ "aliases": [
+  "공기업ㆍ준정부기관 계약사무규칙",
+  "계약사무규칙",
+  "공기업 준정부기관 계약사무규칙"
+ ],
+ "document_type": "부령",
+ "format": "article",
+ "issuer_form": "재정경제부령",
+ "number": "제28호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  }
+ ],
+ "effective_date": "2026-04-20",
+ "revision_date": "2026-04-20",
+ "revision_type": "일부개정",
+ "version": "2026-04-20-28",
+ "versions": [
+  {
+   "version": "2026-04-20-28",
+   "effective_date": "2026-04-20",
+   "revision_date": "2026-04-20",
+   "number": "제28호",
+   "source_file": "공기업ㆍ준정부기관 계약사무규칙(재정경제부령)(제00028호)(20260420).pdf",
+   "source_path": "원문/규정/공기업ㆍ준정부기관 계약사무규칙/공기업ㆍ준정부기관 계약사무규칙(재정경제부령)(제00028호)(20260420).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "공기업ㆍ준정부기관 계약사무규칙(재정경제부령)(제00028호)(20260420).pdf",
+ "source_path": "원문/규정/공기업ㆍ준정부기관 계약사무규칙/공기업ㆍ준정부기관 계약사무규칙(재정경제부령)(제00028호)(20260420).pdf",
+ "pdf_path": "pdf/공기업ㆍ준정부기관 계약사무규칙/공기업ㆍ준정부기관 계약사무규칙(재정경제부령)(제00028호)(20260420).pdf",
+ "source_pages": 9,
+ "header_raw": [
+  "공기업ㆍ준정부기관 계약사무규칙",
+  "[시행 2026. 4. 20.] [재정경제부령 제28호, 2026. 4. 20., 일부개정]",
+  "재정경제부 (계약정책과) 044-215-5214, 5217, 5218"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 25,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 3,
+  "annexes": 4
+ },
+ "files": {
+  "articles": "regulations/공기업-준정부기관-계약사무규칙/articles.json",
+  "annexes": "regulations/공기업-준정부기관-계약사무규칙/annexes.json",
+  "markdown": "regulations/공기업-준정부기관-계약사무규칙/regulation.md"
+ }
+}

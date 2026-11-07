@@ -1,0 +1,69 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_SME_COMPETITIVE_GOODS_PERFORMANCE_REVIEW_GUIDE",
+ "name": "(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준",
+ "short_name": "방위사업청 경쟁제품 이행능력심사 세부기준",
+ "display_id_prefix": "방위사업청-경쟁제품-계약이행능력심사-세부기준",
+ "slug": "방위사업청-경쟁제품-계약이행능력심사-세부기준",
+ "aliases": [
+  "(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준",
+  "방위사업청 계약이행능력심사",
+  "방사청 경쟁제품 이행능력심사"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "방위사업청예규",
+ "number": "제1081호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "계약제도발전과"
+  }
+ ],
+ "effective_date": "2026-09-21",
+ "revision_date": "2026-09-21",
+ "revision_type": "일부개정",
+ "version": "2026-09-21-1081",
+ "versions": [
+  {
+   "version": "2026-09-21-1081",
+   "effective_date": "2026-09-21",
+   "revision_date": "2026-09-21",
+   "number": "제1081호",
+   "source_file": "(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준(방위사업청예규)(제1081호)(20260921).pdf",
+   "source_path": "원문/규정/(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준/(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준(방위사업청예규)(제1081호)(20260921).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "DAPA_MUNITIONS_PROCUREMENT_DIRECTIVE",
+ "source_file": "(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준(방위사업청예규)(제1081호)(20260921).pdf",
+ "source_path": "원문/규정/(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준/(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준(방위사업청예규)(제1081호)(20260921).pdf",
+ "pdf_path": "pdf/(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준/(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준(방위사업청예규)(제1081호)(20260921).pdf",
+ "source_pages": 5,
+ "header_raw": [
+  "(방위사업청) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계",
+  "약이행능력심사 세부기준",
+  "[시행 2026. 9. 21.] [방위사업청예규 제1081호, 2026. 9. 21., 일부개정]",
+  "방위사업청(계약제도발전과), 02-2079-6914"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 16,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 3,
+  "annexes": 9
+ },
+ "files": {
+  "articles": "regulations/방위사업청-경쟁제품-계약이행능력심사-세부기준/articles.json",
+  "annexes": "regulations/방위사업청-경쟁제품-계약이행능력심사-세부기준/annexes.json",
+  "markdown": "regulations/방위사업청-경쟁제품-계약이행능력심사-세부기준/regulation.md"
+ }
+}

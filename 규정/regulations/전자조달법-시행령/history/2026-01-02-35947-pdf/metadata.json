@@ -1,0 +1,73 @@
+{
+ "schema_version": "1.0",
+ "id": "EPROCUREMENT_ENFORCEMENT",
+ "name": "전자조달의 이용 및 촉진에 관한 법률 시행령",
+ "short_name": "전자조달법 시행령",
+ "display_id_prefix": "전자조달법-시행령",
+ "slug": "전자조달법-시행령",
+ "aliases": [
+  "전자조달의 이용 및 촉진에 관한 법률 시행령",
+  "전자조달법 시행령",
+  "전자조달법시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제35947호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "조달정책과"
+  },
+  {
+   "agency": "조달청",
+   "department": "디지털조달총괄과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2025-12-30",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-35947",
+ "versions": [
+  {
+   "version": "2026-01-02-35947",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-12-30",
+   "number": "제35947호",
+   "source_file": "전자조달의 이용 및 촉진에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+   "source_path": "원문/규정/전자조달의 이용 및 촉진에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "EPROCUREMENT_ACT",
+ "source_file": "전자조달의 이용 및 촉진에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+ "source_path": "원문/규정/전자조달의 이용 및 촉진에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+ "pdf_path": "pdf/전자조달의 이용 및 촉진에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+ "source_pages": 6,
+ "header_raw": [
+  "전자조달의 이용 및 촉진에 관한 법률 시행령 ( 약칭: 전자조달법 시행령 )",
+  "[시행 2026. 1. 2.] [대통령령 제35947호, 2025. 12. 30., 타법개정]",
+  "재정경제부 (조달정책과) 044-215-5236",
+  "조달청 (디지털조달총괄과) 042-724-7052"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 19,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/전자조달법-시행령/articles.json",
+  "annexes": "regulations/전자조달법-시행령/annexes.json",
+  "markdown": "regulations/전자조달법-시행령/regulation.md"
+ }
+}

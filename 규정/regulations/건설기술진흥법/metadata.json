@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "CONSTRUCTION_TECH_PROMOTION_ACT",
+ "name": "건설기술 진흥법",
+ "short_name": "건설기술진흥법",
+ "display_id_prefix": "건설기술진흥법",
+ "slug": "건설기술진흥법",
+ "aliases": [
+  "건설기술진흥법",
+  "건설기술 진흥법",
+  "건진법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제21065호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "기술정책과-경력관리, 교육"
+  }
+ ],
+ "effective_date": "2025-10-01",
+ "revision_date": "2025-10-01",
+ "revision_type": "타법개정",
+ "version": "2025-10-01-21065",
+ "versions": [
+  {
+   "version": "2025-10-01-21065",
+   "effective_date": "2025-10-01",
+   "revision_date": "2025-10-01",
+   "number": "제21065호",
+   "source_file": "CONSTRUCTION_TECH_PROMOTION_ACT.json",
+   "source_path": "원문/법제처API/CONSTRUCTION_TECH_PROMOTION_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2025-10-01-21065-pdf",
+   "effective_date": "2025-10-01",
+   "revision_date": "2025-10-01",
+   "number": "제21065호",
+   "source_file": "건설기술 진흥법(법률)(제21065호)(20251001).pdf",
+   "source_path": "원문/규정/건설기술 진흥법(법률)(제21065호)(20251001).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/건설기술진흥법/history/2025-10-01-21065-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "CONSTRUCTION_TECH_PROMOTION_ACT.json",
+ "source_path": "원문/법제처API/CONSTRUCTION_TECH_PROMOTION_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 114,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 88,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/건설기술진흥법/articles.json",
+  "annexes": "regulations/건설기술진흥법/annexes.json",
+  "markdown": "regulations/건설기술진흥법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=276921",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "276921",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

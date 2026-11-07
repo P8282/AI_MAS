@@ -1,0 +1,83 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_COMPETITIVE_GOODS_PERFORMANCE_REVIEW_GUIDE",
+ "name": "(중소벤처기업부) 중소기업자간 경쟁제품 중 물품의 구매에 관한",
+ "short_name": "중기부 경쟁제품 이행능력심사 세부기준",
+ "display_id_prefix": "중기부-경쟁제품-이행능력심사-세부기준",
+ "slug": "중기부-경쟁제품-계약이행능력심사-세부기준",
+ "aliases": [
+  "중소기업자간 경쟁제품 계약이행능력심사 세부기준",
+  "경쟁제품 계약이행능력심사",
+  "경쟁제품 이행능력심사",
+  "중기부 이행능력심사 세부기준"
+ ],
+ "document_type": "고시",
+ "format": "article",
+ "issuer_form": "중소벤처기업부고시",
+ "number": "제2026-80호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "판로정책과"
+  }
+ ],
+ "effective_date": "2026-10-01",
+ "revision_date": "2026-10-01",
+ "revision_type": "일부개정",
+ "version": "2026-10-01-202680",
+ "versions": [
+  {
+   "version": "2026-10-01-202680",
+   "effective_date": "2026-10-01",
+   "revision_date": "2026-10-01",
+   "number": "제2026-80호",
+   "source_file": "SME_COMPETITIVE_GOODS_PERFORMANCE_REVIEW_GUIDE.json",
+   "source_path": "원문/법제처API/SME_COMPETITIVE_GOODS_PERFORMANCE_REVIEW_GUIDE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-10-01-202680-pdf",
+   "effective_date": "2026-10-01",
+   "revision_date": "2026-10-01",
+   "number": "제2026-80호",
+   "source_file": "(중소벤처기업부) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능….pdf",
+   "source_path": "원문/규정/(중소벤처기업부) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능력심사 세부기준/(중소벤처기업부) 중소기업자간 경쟁제품 중 물품의 구매에 관한 계약이행능….pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/중기부-경쟁제품-계약이행능력심사-세부기준/history/2026-10-01-202680-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "SME_PROMOTION_ACT",
+ "source_file": "SME_COMPETITIVE_GOODS_PERFORMANCE_REVIEW_GUIDE.json",
+ "source_path": "원문/법제처API/SME_COMPETITIVE_GOODS_PERFORMANCE_REVIEW_GUIDE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 14,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 25,
+  "annexes": 10
+ },
+ "files": {
+  "articles": "regulations/중기부-경쟁제품-계약이행능력심사-세부기준/articles.json",
+  "annexes": "regulations/중기부-경쟁제품-계약이행능력심사-세부기준/annexes.json",
+  "markdown": "regulations/중기부-경쟁제품-계약이행능력심사-세부기준/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000285700",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000285700",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 10
+}

@@ -1,0 +1,117 @@
+{
+ "schema_version": "1.0",
+ "id": "PPS_INNOVATION_PRODUCT_THIRD_PARTY_SPECIAL_CONDITIONS",
+ "name": "혁신제품 제3자단가계약 추가특수조건",
+ "short_name": "혁신제품 제3자단가계약 추가특수조건",
+ "display_id_prefix": "혁신제품-제3자단가계약-추가특수조건",
+ "slug": "혁신제품-제3자단가계약-추가특수조건",
+ "aliases": [
+  "혁신제품 제3자단가계약 추가특수조건",
+  "제3자단가계약 추가특수조건"
+ ],
+ "document_type": "공고",
+ "format": "article",
+ "issuer_form": "조달청공고",
+ "number": "제2026-386호",
+ "group": "혁신제품",
+ "agencies": [
+  {
+   "agency": "조달청",
+   "department": "혁신공공구매과"
+  }
+ ],
+ "effective_date": "2026-08-01",
+ "revision_date": "2026-08-01",
+ "revision_type": "일부개정",
+ "version": "2026-08-01-2026386",
+ "versions": [
+  {
+   "version": "2026-08-01-2026386",
+   "effective_date": "2026-08-01",
+   "revision_date": "2026-08-01",
+   "number": "제2026-386호",
+   "source_file": "혁신제품 제3자단가계약 추가특수조건(조달청공고)(제2026-386호)(20260801).pdf",
+   "source_path": "원문/규정/혁신제품 제3자단가계약 추가특수조건/혁신제품 제3자단가계약 추가특수조건(조달청공고)(제2026-386호)(20260801).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "PPS_INNOVATION_PRODUCT_PURCHASE_NOTICE",
+ "source_file": "혁신제품 제3자단가계약 추가특수조건(조달청공고)(제2026-386호)(20260801).pdf",
+ "source_path": "원문/규정/혁신제품 제3자단가계약 추가특수조건/혁신제품 제3자단가계약 추가특수조건(조달청공고)(제2026-386호)(20260801).pdf",
+ "pdf_path": "pdf/혁신제품 제3자단가계약 추가특수조건/혁신제품 제3자단가계약 추가특수조건(조달청공고)(제2026-386호)(20260801).pdf",
+ "source_pages": 10,
+ "header_raw": [
+  "혁신제품 제3자단가계약 추가특수조건",
+  "[시행 2026. 8. 1.] [조달청공고 제2026-386호, 2026. 8. 1., 일부개정]",
+  "조달청(혁신공공구매과), 042-724-7121"
+ ],
+ "outline": [
+  {
+   "kind": "장",
+   "title": "제1장 총칙",
+   "raw": "제1장 총칙",
+   "page": 1,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제2장 계약 체결",
+   "raw": "제2장 계약 체결",
+   "page": 2,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제3장 계약 변경",
+   "raw": "제3장 계약 변경",
+   "page": 3,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제4장 계약상대자의 의무",
+   "raw": "제4장 계약상대자의 의무",
+   "page": 4,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제5장 사후관리",
+   "raw": "제5장 사후관리",
+   "page": 6,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제6장 납품",
+   "raw": "제6장 납품",
+   "page": 8,
+   "deleted": false
+  },
+  {
+   "kind": "장",
+   "title": "제7장 기타",
+   "raw": "제7장 기타",
+   "page": 10,
+   "deleted": false
+  }
+ ],
+ "counts": {
+  "articles": 36,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 1,
+  "annexes": 3
+ },
+ "files": {
+  "articles": "regulations/혁신제품-제3자단가계약-추가특수조건/articles.json",
+  "annexes": "regulations/혁신제품-제3자단가계약-추가특수조건/annexes.json",
+  "markdown": "regulations/혁신제품-제3자단가계약-추가특수조건/regulation.md"
+ }
+}

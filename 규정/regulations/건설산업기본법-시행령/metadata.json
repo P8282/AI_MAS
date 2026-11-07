@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "CONSTRUCTION_INDUSTRY_BASIC_ENFORCEMENT",
+ "name": "건설산업기본법 시행령",
+ "short_name": "건설산업기본법 시행령",
+ "display_id_prefix": "건설산업기본법-시행령",
+ "slug": "건설산업기본법-시행령",
+ "aliases": [
+  "건설산업기본법 시행령",
+  "건설산업기본법시행령",
+  "건설산업기본법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36437호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "건설정책과-건설업등록관리, 제재처분"
+  }
+ ],
+ "effective_date": "2026-06-23",
+ "revision_date": "2026-06-23",
+ "revision_type": "일부개정",
+ "version": "2026-06-23-36437",
+ "versions": [
+  {
+   "version": "2026-06-23-36437",
+   "effective_date": "2026-06-23",
+   "revision_date": "2026-06-23",
+   "number": "제36437호",
+   "source_file": "CONSTRUCTION_INDUSTRY_BASIC_ENFORCEMENT.json",
+   "source_path": "원문/법제처API/CONSTRUCTION_INDUSTRY_BASIC_ENFORCEMENT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-06-23-36437-pdf",
+   "effective_date": "2026-06-23",
+   "revision_date": "2026-06-23",
+   "number": "제36437호",
+   "source_file": "건설산업기본법 시행령(대통령령)(제36437호)(20260623).pdf",
+   "source_path": "원문/규정/건설산업기본법 시행령(대통령령)(제36437호)(20260623).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/건설산업기본법-시행령/history/2026-06-23-36437-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "CONSTRUCTION_INDUSTRY_BASIC_ACT",
+ "source_file": "CONSTRUCTION_INDUSTRY_BASIC_ENFORCEMENT.json",
+ "source_path": "원문/법제처API/CONSTRUCTION_INDUSTRY_BASIC_ENFORCEMENT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 137,
+  "scheduled_versions": 1,
+  "deleted_articles": 17,
+  "supplementary_articles": 239,
+  "annexes": 9
+ },
+ "files": {
+  "articles": "regulations/건설산업기본법-시행령/articles.json",
+  "annexes": "regulations/건설산업기본법-시행령/annexes.json",
+  "markdown": "regulations/건설산업기본법-시행령/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=287349",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "287349",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

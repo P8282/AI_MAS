@@ -1,0 +1,65 @@
+{
+ "schema_version": "1.0",
+ "id": "DAPA_A_2100000214251",
+ "name": "회계업무 처리지침",
+ "short_name": "회계업무 처리지침",
+ "display_id_prefix": "회계업무-처리지침",
+ "slug": "회계업무-처리지침",
+ "aliases": [
+  "회계업무 처리지침"
+ ],
+ "document_type": "예규",
+ "format": "article",
+ "issuer_form": "방위사업청예규",
+ "number": "제802호",
+ "group": "방위사업",
+ "agencies": [
+  {
+   "agency": "방위사업청",
+   "department": "재정담당관"
+  }
+ ],
+ "effective_date": "2022-08-26",
+ "revision_date": "2022-08-26",
+ "revision_type": "일부개정",
+ "version": "2022-08-26-802",
+ "versions": [
+  {
+   "version": "2022-08-26-802",
+   "effective_date": "2022-08-26",
+   "revision_date": "2022-08-26",
+   "number": "제802호",
+   "source_file": "회계업무 처리지침.json",
+   "source_path": "원문/법제처API/회계업무 처리지침.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "회계업무 처리지침.json",
+ "source_path": "원문/법제처API/회계업무 처리지침.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000214251",
+ "api_received": "2026-10-11",
+ "counts": {
+  "articles": 34,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 5,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/회계업무-처리지침/articles.json",
+  "annexes": "regulations/회계업무-처리지침/annexes.json",
+  "markdown": "regulations/회계업무-처리지침/regulation.md"
+ }
+}

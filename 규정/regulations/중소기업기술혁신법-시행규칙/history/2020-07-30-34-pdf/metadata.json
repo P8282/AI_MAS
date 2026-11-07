@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "SME_TECH_INNOVATION_RULE",
+ "name": "중소기업 기술혁신 촉진법 시행규칙",
+ "short_name": "중소기업기술혁신법 시행규칙",
+ "display_id_prefix": "중소기업기술혁신법-시행규칙",
+ "slug": "중소기업기술혁신법-시행규칙",
+ "aliases": [
+  "중소기업기술혁신법 시행규칙",
+  "중소기업기술혁신법시행규칙",
+  "중소기업 기술혁신 촉진법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "중소벤처기업부령",
+ "number": "제34호",
+ "group": "중소기업",
+ "agencies": [
+  {
+   "agency": "중소벤처기업부",
+   "department": "기술혁신정책과"
+  }
+ ],
+ "effective_date": "2020-07-30",
+ "revision_date": "2020-07-30",
+ "revision_type": "일부개정",
+ "version": "2020-07-30-34",
+ "versions": [
+  {
+   "version": "2020-07-30-34",
+   "effective_date": "2020-07-30",
+   "revision_date": "2020-07-30",
+   "number": "제34호",
+   "source_file": "중소기업 기술혁신 촉진법 시행규칙(중소벤처기업부령)(제00034호)(20200730).pdf",
+   "source_path": "원문/규정/중소기업 기술혁신 촉진법 시행규칙(중소벤처기업부령)(제00034호)(20200730).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "SME_TECH_INNOVATION_ENFORCEMENT",
+ "source_file": "중소기업 기술혁신 촉진법 시행규칙(중소벤처기업부령)(제00034호)(20200730).pdf",
+ "source_path": "원문/규정/중소기업 기술혁신 촉진법 시행규칙(중소벤처기업부령)(제00034호)(20200730).pdf",
+ "pdf_path": "pdf/중소기업 기술혁신 촉진법 시행규칙(중소벤처기업부령)(제00034호)(20200730).pdf",
+ "source_pages": 3,
+ "header_raw": [
+  "중소기업 기술혁신 촉진법 시행규칙 ( 약칭: 중소기업기술혁신법 시행규칙 )",
+  "[시행 2020. 7. 30.] [중소벤처기업부령 제34호, 2020. 7. 30., 일부개정]",
+  "중소벤처기업부 (기술혁신정책과) 044-204-7772"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 11,
+  "scheduled_versions": 0,
+  "deleted_articles": 1,
+  "supplementary_articles": 1,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/중소기업기술혁신법-시행규칙/articles.json",
+  "annexes": "regulations/중소기업기술혁신법-시행규칙/annexes.json",
+  "markdown": "regulations/중소기업기술혁신법-시행규칙/regulation.md"
+ }
+}

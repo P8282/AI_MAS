@@ -1,0 +1,80 @@
+{
+ "schema_version": "1.0",
+ "id": "INDUSTRIAL_STANDARDIZATION_RULE",
+ "name": "산업표준화법 시행규칙",
+ "short_name": "산업표준화법 시행규칙",
+ "display_id_prefix": "산업표준화법-시행규칙",
+ "slug": "산업표준화법-시행규칙",
+ "aliases": [
+  "산업표준화법 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "산업통상부령",
+ "number": "제1호",
+ "group": "산업·표준",
+ "agencies": [
+  {
+   "agency": "산업통상부",
+   "department": "국가기술표준원 산업표준혁신과"
+  }
+ ],
+ "effective_date": "2025-10-01",
+ "revision_date": "2025-10-01",
+ "revision_type": "타법개정",
+ "version": "2025-10-01-1",
+ "versions": [
+  {
+   "version": "2025-10-01-1",
+   "effective_date": "2025-10-01",
+   "revision_date": "2025-10-01",
+   "number": "제1호",
+   "source_file": "INDUSTRIAL_STANDARDIZATION_RULE.json",
+   "source_path": "원문/법제처API/INDUSTRIAL_STANDARDIZATION_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2025-10-01-1-pdf",
+   "effective_date": "2025-10-01",
+   "revision_date": "2025-10-01",
+   "number": "제1호",
+   "source_file": "산업표준화법 시행규칙(산업통상부령)(제00001호)(20251001).pdf",
+   "source_path": "원문/규정/산업표준화법 시행규칙/산업표준화법 시행규칙(산업통상부령)(제00001호)(20251001).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/산업표준화법-시행규칙/history/2025-10-01-1-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "INDUSTRIAL_STANDARDIZATION_ENFORCEMENT",
+ "source_file": "INDUSTRIAL_STANDARDIZATION_RULE.json",
+ "source_path": "원문/법제처API/INDUSTRIAL_STANDARDIZATION_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 31,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 41,
+  "annexes": 36
+ },
+ "files": {
+  "articles": "regulations/산업표준화법-시행규칙/articles.json",
+  "annexes": "regulations/산업표준화법-시행규칙/annexes.json",
+  "markdown": "regulations/산업표준화법-시행규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=278737",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "278737",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

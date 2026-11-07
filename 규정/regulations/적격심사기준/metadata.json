@@ -1,0 +1,82 @@
+{
+ "schema_version": "1.0",
+ "id": "QUALIFICATION_REVIEW_RULE",
+ "name": "(계약예규) 적격심사기준",
+ "short_name": "적격심사기준",
+ "display_id_prefix": "적격심사기준",
+ "slug": "적격심사기준",
+ "aliases": [
+  "계약예규 적격심사기준",
+  "적격심사기준",
+  "적격심사"
+ ],
+ "document_type": "계약예규",
+ "format": "article",
+ "issuer_form": "재정경제부계약예규",
+ "number": "제37호",
+ "group": "국가계약",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "계약정책과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2026-01-02",
+ "revision_type": "일부개정",
+ "version": "2026-01-02-37",
+ "versions": [
+  {
+   "version": "2026-01-02-37",
+   "effective_date": "2026-01-02",
+   "revision_date": "2026-01-02",
+   "number": "제37호",
+   "source_file": "QUALIFICATION_REVIEW_RULE.json",
+   "source_path": "원문/법제처API/QUALIFICATION_REVIEW_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-01-02-37-pdf",
+   "effective_date": "2026-01-02",
+   "revision_date": "2026-01-02",
+   "number": "제37호",
+   "source_file": "(계약예규) 적격심사기준(재정경제부계약예규)(제37호)(20260102).pdf",
+   "source_path": "원문/규정/(계약예규) 적격심사기준/(계약예규) 적격심사기준(재정경제부계약예규)(제37호)(20260102).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/적격심사기준/history/2026-01-02-37-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "STATE_CONTRACT_ENFORCEMENT",
+ "source_file": "QUALIFICATION_REVIEW_RULE.json",
+ "source_path": "원문/법제처API/QUALIFICATION_REVIEW_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 13,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 21,
+  "annexes": 1
+ },
+ "files": {
+  "articles": "regulations/적격심사기준/articles.json",
+  "annexes": "regulations/적격심사기준/annexes.json",
+  "markdown": "regulations/적격심사기준/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/admRulInfoP.do?admRulSeq=2100000274732",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "2100000274732",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 1
+}

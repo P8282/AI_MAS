@@ -1,0 +1,67 @@
+{
+ "schema_version": "1.0",
+ "id": "ARCHITECTURE_SERVICE_ENFORCEMENT",
+ "name": "건축서비스산업 진흥법 시행령",
+ "short_name": "건축서비스법 시행령",
+ "display_id_prefix": "건축서비스법-시행령",
+ "slug": "건축서비스법-시행령",
+ "aliases": [
+  "건축서비스법 시행령",
+  "건축서비스산업 진흥법 시행령",
+  "건축서비스산업진흥법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제36745호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "국토교통부",
+   "department": "건축문화경관과"
+  }
+ ],
+ "effective_date": "2026-10-06",
+ "revision_date": "2026-10-06",
+ "revision_type": "일부개정",
+ "version": "2026-10-06-36745",
+ "versions": [
+  {
+   "version": "2026-10-06-36745",
+   "effective_date": "2026-10-06",
+   "revision_date": "2026-10-06",
+   "number": "제36745호",
+   "source_file": "건축서비스산업 진흥법 시행령.json",
+   "source_path": "원문/법제처API/건축서비스산업 진흥법 시행령.json",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(법제처 API 에서 받은 현행 법령, 받은 날 기준)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "건축서비스산업 진흥법 시행령.json",
+ "source_path": "원문/법제처API/건축서비스산업 진흥법 시행령.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "source": "api",
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=290831",
+ "api_received": "2026-10-10",
+ "counts": {
+  "articles": 30,
+  "scheduled_versions": 0,
+  "deleted_articles": 0,
+  "supplementary_articles": 24,
+  "annexes": 1
+ },
+ "files": {
+  "articles": "regulations/건축서비스법-시행령/articles.json",
+  "annexes": "regulations/건축서비스법-시행령/annexes.json",
+  "markdown": "regulations/건축서비스법-시행령/regulation.md"
+ }
+}

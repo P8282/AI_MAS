@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "LOCAL_CONTRACT_RULE",
+ "name": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙",
+ "short_name": "지방계약법 시행규칙",
+ "display_id_prefix": "지방계약법-시행규칙",
+ "slug": "지방계약법-시행규칙",
+ "aliases": [
+  "지방계약법시행규칙",
+  "지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙"
+ ],
+ "document_type": "시행규칙",
+ "format": "article",
+ "issuer_form": "행정안전부령",
+ "number": "제625호",
+ "group": "지방계약",
+ "agencies": [
+  {
+   "agency": "행정안전부",
+   "department": "회계제도과"
+  }
+ ],
+ "effective_date": "2026-07-01",
+ "revision_date": "2026-06-19",
+ "revision_type": "일부개정",
+ "version": "2026-07-01-625",
+ "versions": [
+  {
+   "version": "2026-07-01-625",
+   "effective_date": "2026-07-01",
+   "revision_date": "2026-06-19",
+   "number": "제625호",
+   "source_file": "LOCAL_CONTRACT_RULE.json",
+   "source_path": "원문/법제처API/LOCAL_CONTRACT_RULE.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-07-01-625-pdf",
+   "effective_date": "2026-07-01",
+   "revision_date": "2026-06-19",
+   "number": "제625호",
+   "source_file": "지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙(행정안전부령)(제0….pdf",
+   "source_path": "원문/규정/지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙(행정안전부령)(제0….pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/지방계약법-시행규칙/history/2026-07-01-625-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "LOCAL_CONTRACT_ENFORCEMENT",
+ "source_file": "LOCAL_CONTRACT_RULE.json",
+ "source_path": "원문/법제처API/LOCAL_CONTRACT_RULE.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 95,
+  "scheduled_versions": 1,
+  "deleted_articles": 4,
+  "supplementary_articles": 73,
+  "annexes": 19
+ },
+ "files": {
+  "articles": "regulations/지방계약법-시행규칙/articles.json",
+  "annexes": "regulations/지방계약법-시행규칙/annexes.json",
+  "markdown": "regulations/지방계약법-시행규칙/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=287365",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "287365",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}

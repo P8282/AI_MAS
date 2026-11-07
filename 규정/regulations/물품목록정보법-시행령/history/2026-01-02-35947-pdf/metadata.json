@@ -1,0 +1,68 @@
+{
+ "schema_version": "1.0",
+ "id": "GOODS_LIST_INFO_ENFORCEMENT",
+ "name": "물품목록정보의 관리 및 이용에 관한 법률 시행령",
+ "short_name": "물품목록정보법 시행령",
+ "display_id_prefix": "물품목록정보법-시행령",
+ "slug": "물품목록정보법-시행령",
+ "aliases": [
+  "물품목록정보법 시행령",
+  "물품목록정보의 관리 및 이용에 관한 법률 시행령",
+  "물품목록법 시행령"
+ ],
+ "document_type": "시행령",
+ "format": "article",
+ "issuer_form": "대통령령",
+ "number": "제35947호",
+ "group": "조달사업·조달청",
+ "agencies": [
+  {
+   "agency": "재정경제부",
+   "department": "국유재산협력과"
+  }
+ ],
+ "effective_date": "2026-01-02",
+ "revision_date": "2025-12-30",
+ "revision_type": "타법개정",
+ "version": "2026-01-02-35947",
+ "versions": [
+  {
+   "version": "2026-01-02-35947",
+   "effective_date": "2026-01-02",
+   "revision_date": "2025-12-30",
+   "number": "제35947호",
+   "source_file": "물품목록정보의 관리 및 이용에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+   "source_path": "원문/규정/물품목록정보의 관리 및 이용에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+   "status": "loaded",
+   "is_latest": "unverified"
+  }
+ ],
+ "latest_status": "최신본(사람이 확인함)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": "GOODS_LIST_INFO_ACT",
+ "source_file": "물품목록정보의 관리 및 이용에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+ "source_path": "원문/규정/물품목록정보의 관리 및 이용에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+ "pdf_path": "pdf/물품목록정보의 관리 및 이용에 관한 법률 시행령(대통령령)(제35947호)(20260102).pdf",
+ "source_pages": 3,
+ "header_raw": [
+  "물품목록정보의 관리 및 이용에 관한 법률 시행령 ( 약칭: 물품목록법 시행령 )",
+  "[시행 2026. 1. 2.] [대통령령 제35947호, 2025. 12. 30., 타법개정]",
+  "재정경제부 (국유재산협력과) 044-215-5163"
+ ],
+ "outline": [],
+ "counts": {
+  "articles": 18,
+  "scheduled_versions": 0,
+  "deleted_articles": 5,
+  "supplementary_articles": 2,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/물품목록정보법-시행령/articles.json",
+  "annexes": "regulations/물품목록정보법-시행령/annexes.json",
+  "markdown": "regulations/물품목록정보법-시행령/regulation.md"
+ }
+}

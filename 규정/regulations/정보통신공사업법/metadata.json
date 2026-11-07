@@ -1,0 +1,81 @@
+{
+ "schema_version": "1.0",
+ "id": "INFO_COMM_WORK_ACT",
+ "name": "정보통신공사업법",
+ "short_name": "정보통신공사업법",
+ "display_id_prefix": "정보통신공사업법",
+ "slug": "정보통신공사업법",
+ "aliases": [
+  "정보통신공사업법",
+  "정통공사업법"
+ ],
+ "document_type": "법률",
+ "format": "article",
+ "issuer_form": "법률",
+ "number": "제20730호",
+ "group": "건설·하도급",
+ "agencies": [
+  {
+   "agency": "과학기술정보통신부",
+   "department": "네트워크정책과"
+  }
+ ],
+ "effective_date": "2026-02-01",
+ "revision_date": "2025-01-31",
+ "revision_type": "일부개정",
+ "version": "2026-02-01-20730",
+ "versions": [
+  {
+   "version": "2026-02-01-20730",
+   "effective_date": "2026-02-01",
+   "revision_date": "2025-01-31",
+   "number": "제20730호",
+   "source_file": "INFO_COMM_WORK_ACT.json",
+   "source_path": "원문/법제처API/INFO_COMM_WORK_ACT.json",
+   "status": "loaded",
+   "is_latest": "api_verified"
+  },
+  {
+   "version": "2026-02-01-20730-pdf",
+   "effective_date": "2026-02-01",
+   "revision_date": "2025-01-31",
+   "number": "제20730호",
+   "source_file": "정보통신공사업법(법률)(제20730호)(20260201).pdf",
+   "source_path": "원문/규정/정보통신공사업법(법률)(제20730호)(20260201).pdf",
+   "source": "pdf",
+   "status": "archived",
+   "is_latest": false,
+   "path": "regulations/정보통신공사업법/history/2026-02-01-20730-pdf/"
+  }
+ ],
+ "latest_status": "공식 API 원문으로 전환 (2026-10-14)",
+ "needs_review": false,
+ "review_reasons": [],
+ "status": "시행",
+ "upcoming_versions": [],
+ "parent_regulation_id": null,
+ "source_file": "INFO_COMM_WORK_ACT.json",
+ "source_path": "원문/법제처API/INFO_COMM_WORK_ACT.json",
+ "pdf_path": "",
+ "source_pages": 0,
+ "header_raw": [],
+ "outline": [],
+ "counts": {
+  "articles": 99,
+  "scheduled_versions": 5,
+  "deleted_articles": 17,
+  "supplementary_articles": 75,
+  "annexes": 0
+ },
+ "files": {
+  "articles": "regulations/정보통신공사업법/articles.json",
+  "annexes": "regulations/정보통신공사업법/annexes.json",
+  "markdown": "regulations/정보통신공사업법/regulation.md"
+ },
+ "source_url": "https://www.law.go.kr/lsInfoP.do?lsiSeq=268833",
+ "source": "api",
+ "api_received": "2026-10-14",
+ "api_mst": "268833",
+ "pdf_replaced": true,
+ "preserved_pdf_attachments": 0
+}
